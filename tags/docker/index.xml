@@ -1,0 +1,78 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Docker - Tag - My Notes</title><link>https://blog.emecas.net/tags/docker/</link><description>Docker - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 09:07:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/docker/" rel="self" type="application/rss+xml"/><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+A build automation tool for Docker applications.<br>
+<a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
+<p>A build automation tool for Docker applications.<br>
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.</p>
+<p>Use Cases</p>
+<p>examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.<br>
+examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)<br>
+examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.<br>
+examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
+examples/init-named-volume - create or update the files in a named docker volume.<br>
+examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>excalidraw</title><link>https://blog.emecas.net/posts/2020-10-24-excalidraw/</link><pubDate>Sat, 24 Oct 2020 17:59:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-24-excalidraw/</guid><description><![CDATA[<p>excalidraw<br>
+<a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
+Virtual whiteboard for sketching hand-drawn like diagrams.<br>
+Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
+repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>]]></description></item><item><title>Microdnf</title><link>https://blog.emecas.net/posts/2020-08-06-microdnf/</link><pubDate>Thu, 06 Aug 2020 13:26:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-06-microdnf/</guid><description><![CDATA[<p>Microdnf<br>
+<a href="https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-atomic-base-image" target="_blank" rel="noopener noreffer ">https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-atomic-base-image</a><br>
+Introducing the Red Hat Enterprise Linux Atomic Base Image</p>
+<p>With YUM (Before)</p>
+<p>FROM registry.access.redhat.com/rhel7<br>
+RUN yum-config-manager --enable rhel-7-server-rpms<br>
+RUN yum install -y --setopt=tsflags=nodocs java-1.8.0-openjdk-headless ;\\
+yum clean all</p>
+<p>With Microdnf, the Atomic Base Image this becomes:</p>
+<p>FROM registry.access.redhat.com/rhel7-atomic<br>
+RUN microdnf --enablerepo=rhel-7-server-rpms \\
+install java-1.8.0-openjdk-headless --nodocs ;\\
+microdnf clean all</p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
+is a free and open source software for healthcare data management.</p>
+<p>The organization web page:<br>
+<a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
+<p>contribution section:<br>
+<a href="https://www.open-hospital.org/en/contribute-actively/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/contribute-actively/</a></p>
+<p>The git repo:<br>
+<a href="https://github.com/informatici/openhospital" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital</a><br>
+This repository is used to build its portable releases.</p>
+<p>Other repos:<br>
+<a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
+<a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
+<a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
+<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
+<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a><br>
+Build and run Docker containers leveraging NVIDIA GPUs<br>
+The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
+<a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
+Python wrapper for the GitLab API</p>
+<p>python-gitlab is a Python package providing access to the GitLab server API.<br>
+It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
+<p>Docker:</p>
+<p>How to build</p>
+<p>docker build -t python-gitlab:TAG .</p>
+<p>How to use</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
+<p>or run it directly from the upstream image:</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>A Docker Cheat Sheet</title><link>https://blog.emecas.net/posts/2020-01-29-a-docker-cheat-sheet/</link><pubDate>Wed, 29 Jan 2020 12:32:32 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-29-a-docker-cheat-sheet/</guid><description><![CDATA[<p>A Docker Cheat Sheet<br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes" target="_blank" rel="noopener noreffer ">https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes</a><br>
+How To Remove Docker Images, Containers, and Volumes</p>]]></description></item><item><title>docker issue fix</title><link>https://blog.emecas.net/posts/2020-01-28-docker-issue-fix/</link><pubDate>Tue, 28 Jan 2020 19:10:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-28-docker-issue-fix/</guid><description><![CDATA[<p>docker sudo issue fix<br>
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.39/containers/json: dial unix /var/run/docker.sock: connect: permission denied<br>
+Solution: <a href="https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/" target="_blank" rel="noopener noreffer ">https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/</a><br>
+&gt; sudo usermod -a -G docker $USER</p>]]></description></item><item><title>Testcontainers</title><link>https://blog.emecas.net/posts/2019-03-26-testcontainers/</link><pubDate>Tue, 26 Mar 2019 20:43:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-26-testcontainers/</guid><description><![CDATA[<p>Testcontainers<br>
+Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.<br>
+<a href="https://www.testcontainers.org/" target="_blank" rel="noopener noreffer ">https://www.testcontainers.org/</a><br>
+Testcontainers make the following kinds of tests easier:</p>
+<p>Data access layer integration tests: use a containerized instance of a MySQL, PostgreSQL or Oracle database to test your data access layer code for complete compatibility, but without requiring complex setup on developers&rsquo; machines and safe in the knowledge that your tests will always start with a known DB state. Any other database type that can be containerized can also be used.<br>
+Application integration tests: for running your application in a short-lived test mode with dependencies, such as databases, message queues or web servers.<br>
+UI/Acceptance tests: use containerized web browsers, compatible with Selenium, for conducting automated UI tests. Each test can get a fresh instance of the browser, with no browser state, plugin variations or automated browser upgrades to worry about. And you get a video recording of each test session, or just each session where tests failed.</p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
+<a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
+<p>Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -<br>
+and without deep mastery of Docker best-practices.<br>
+It is available as plugins for Maven and Gradle and as a Java library.</p>
+<p>Maven: See documentation for jib-maven-plugin.<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-maven-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-maven-plugin</a><br>
+Gradle: See documentation for jib-gradle-plugin.<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin</a><br>
+Jib Core: A general-purpose container-building library for Java.<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>]]></description></item></channel></rss>

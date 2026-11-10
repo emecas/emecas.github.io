@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jsr-377 - Tag - My Notes</title><link>https://blog.emecas.net/tags/jsr-377/</link><description>Jsr-377 - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 May 2020 17:57:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jsr-377/" rel="self" type="application/rss+xml"/><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
+<a href="https://jcp.org/en/jsr/detail?id=377" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=377</a><br>
+<a href="http://jsr377.github.io/site/" target="_blank" rel="noopener noreffer ">http://jsr377.github.io/site/</a></p>
+<p>The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features</p>
+<p>dependency injection via JSR330.<br>
+common application structure.<br>
+application life-cycle.<br>
+localized resources.<br>
+resource injection.<br>
+localized configuration.<br>
+decouple state from UI (binding).<br>
+persistence session state (preferences).<br>
+action management.<br>
+component life-cycle.<br>
+light-weight event bus.<br>
+honor threading concerns (specific to UI toolkit).<br>
+application extensibility via plugins (implies modularity).</p>]]></description></item></channel></rss>

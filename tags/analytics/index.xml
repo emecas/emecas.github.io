@@ -1,0 +1,51 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Analytics - Tag - My Notes</title><link>https://blog.emecas.net/tags/analytics/</link><description>Analytics - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 17 Jun 2019 15:49:45 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/analytics/" rel="self" type="application/rss+xml"/><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
+<a href="https://dask.org/" target="_blank" rel="noopener noreffer ">https://dask.org/</a></p>
+<p>Dask is a flexible library for parallel computing in Python.</p>
+<p><a href="https://docs.dask.org/en/latest/" target="_blank" rel="noopener noreffer ">https://docs.dask.org/en/latest/</a><br>
+Dask is composed of two parts:</p>
+<p>Dynamic task scheduling optimized for computation. This is similar to Airflow, Luigi, Celery, or Make, but optimized for interactive computational workloads.<br>
+“Big Data” collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.</p>]]></description></item><item><title>Apache Druid</title><link>https://blog.emecas.net/posts/2018-09-21-apache-druid/</link><pubDate>Fri, 21 Sep 2018 13:01:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-21-apache-druid/</guid><description><![CDATA[<p>Apache Druid (incubating)<br>
+<a href="http://druid.io/" target="_blank" rel="noopener noreffer ">http://druid.io/</a><br>
+Apache Druid (incubating) is a high performance analytics data store for event-driven data.<br>
+GIT: <a href="https://github.com/apache/incubator-druid" target="_blank" rel="noopener noreffer ">https://github.com/apache/incubator-druid</a></p>
+<p>Overview</p>
+<p>Druid is primarily used to store, query, and analyze large event streams. Examples of event streams include user generated data such as clickstreams, application generated data such as performance metrics, and machine generated data such as network flows and server metrics. Druid is optimized for sub-second queries to slice-and-dice, drill down, search, filter, and aggregate this data. Druid is commonly used to power interactive applications where performance, concurrency, and uptime are important.</p>]]></description></item><item><title>Qualtrics</title><link>https://blog.emecas.net/posts/2017-01-27-qualtrics/</link><pubDate>Fri, 27 Jan 2017 09:32:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-27-qualtrics/</guid><description><![CDATA[<p>Qualtrics<br>
+<a href="https://www.qualtrics.com" target="_blank" rel="noopener noreffer ">https://www.qualtrics.com</a><br>
+Software to manage the entire customer experience - from surveys, to insights, to action</p>
+<p>Areas:</p>
+<p>customer EXPERIENCE</p>
+<p>Customer Experience<br>
+Management program<br>
+Omni-Channel Feedback<br>
+Customer Analytics<br>
+&amp; Reporting<br>
+CUSTOMER FOLLOW-UP<br>
+&amp; CASE MANAGEMENT<br>
+VoC Consulting<br>
+&amp; Integrations</p>
+<p>market RESEARCH</p>
+<p>Customer Satisfaction<br>
+Strategic Planning<br>
+&amp; Segmentation Research<br>
+Product Development<br>
+MARKETING<br>
+&amp; BRAND RESEARCH</p>
+<p>employee INSIGHTS</p>
+<p>employee engagement<br>
+employee pulse surveys<br>
+training surveys<br>
+360o employee feedback<br>
+exit interviews<br>
+Onboarding Surveys</p>]]></description></item><item><title>Clicky - Comparative Web Analytics Market Options</title><link>https://blog.emecas.net/posts/2014-03-04-clicky-comparative-web-analytics-market-options/</link><pubDate>Tue, 04 Mar 2014 21:11:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-04-clicky-comparative-web-analytics-market-options/</guid><description><![CDATA[<p>Comparative Web Analytics Market Options<br>
+Clicky -VS- The Other Guys<br>
+<a href="http://clicky.com/compare/" target="_blank" rel="noopener noreffer ">http://clicky.com/compare/</a></p>]]></description></item><item><title>Infobright</title><link>https://blog.emecas.net/posts/2013-05-21-infobright/</link><pubDate>Tue, 21 May 2013 12:55:47 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-21-infobright/</guid><description><![CDATA[<p>Infobright Community Edition (ICE)<br>
+The Open-Source Database for Ad hoc Analytics<br>
+<a href="http://www.infobright.org/" target="_blank" rel="noopener noreffer ">http://www.infobright.org/</a><br>
+Forums<br>
+<a href="http://www.infobright.org/Forums" target="_blank" rel="noopener noreffer ">http://www.infobright.org/Forums</a></p>
+<p>A Interesting Entry:<br>
+Hadoop &amp; Distributed Load Processor (DLP)<br>
+<a href="http://www.infobright.org/Forums/viewthread/3298/" target="_blank" rel="noopener noreffer ">http://www.infobright.org/Forums/viewthread/3298/</a></p>]]></description></item><item><title>Vertica Database</title><link>https://blog.emecas.net/posts/2013-05-07-vertica-database/</link><pubDate>Tue, 07 May 2013 14:38:22 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-07-vertica-database/</guid><description><![CDATA[<p>Vertica Database<br>
+<a href="http://www.vertica.com/" target="_blank" rel="noopener noreffer ">http://www.vertica.com/</a><br>
+Vertica Systems is an analytic database management software company.Vertica was founded in 2005 by database researcher Michael Stonebraker, and Andrew Palmer. Former CEOs include Ralph Breslauer and Christopher P. Lynch.</p>
+<p>Vertica was acquired by Hewlett Packard on March 22, 2011. The acquisition expands the Enterprise software division of HP – HP Software’s information optimization, business intelligence and analytics portfolio for enterprise companies and the public sector.</p>]]></description></item></channel></rss>

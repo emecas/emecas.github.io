@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Repeat - Tag - My Notes</title><link>https://blog.emecas.net/tags/repeat/</link><description>Repeat - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 09:07:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/repeat/" rel="self" type="application/rss+xml"/><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+A build automation tool for Docker applications.<br>
+<a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
+<p>A build automation tool for Docker applications.<br>
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.</p>
+<p>Use Cases</p>
+<p>examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.<br>
+examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)<br>
+examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.<br>
+examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
+examples/init-named-volume - create or update the files in a named docker volume.<br>
+examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item></channel></rss>

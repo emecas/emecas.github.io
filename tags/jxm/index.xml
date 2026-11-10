@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JXM - Tag - My Notes</title><link>https://blog.emecas.net/tags/jxm/</link><description>JXM - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 May 2020 23:08:47 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jxm/" rel="self" type="application/rss+xml"/><item><title>MBeans</title><link>https://blog.emecas.net/posts/2020-05-21-mbeans/</link><pubDate>Thu, 21 May 2020 23:08:47 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-21-mbeans/</guid><description><![CDATA[<p>MBeans - Introduction<br>
+<a href="https://docs.oracle.com/javase/tutorial/jmx/mbeans/index.html" target="_blank" rel="noopener noreffer ">https://docs.oracle.com/javase/tutorial/jmx/mbeans/index.html</a><br>
+This lesson introduces the fundamental concept of the JMX API, namely managed beans, or MBeans.</p>
+<p>An MBean is a managed Java object, similar to a JavaBeans component, that follows the design patterns set forth in the JMX specification. An MBean can represent a device, an application, or any resource that needs to be managed. MBeans expose a management interface that consists of the following:</p>
+<p>A set of readable or writable attributes, or both.<br>
+A set of invokable operations.<br>
+A self-description.</p>]]></description></item></channel></rss>

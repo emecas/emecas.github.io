@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Release - Tag - My Notes</title><link>https://blog.emecas.net/tags/release/</link><description>Release - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Jan 2017 17:38:53 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/release/" rel="self" type="application/rss+xml"/><item><title>JDK 9 (schedule and features)</title><link>https://blog.emecas.net/posts/2017-01-06-jdk-9-schedule-and-features/</link><pubDate>Fri, 06 Jan 2017 17:38:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-06-jdk-9-schedule-and-features/</guid><description><![CDATA[<p>JDK 9 (schedule and features)</p>
+<p><a href="http://openjdk.java.net/projects/jdk9/" target="_blank" rel="noopener noreffer ">http://openjdk.java.net/projects/jdk9/</a><br>
+The goal of this Project is to produce an open-source reference implementation of the Java SE 9 Platform, to be defined by a forthcoming JSR in the Java Community Process.</p>
+<p>The schedule and features of this release are proposed and tracked via the JEP Process, as amended by the JEP 2.0 proposal.<br>
+Schedule</p>
+<p>2016/05/26 		Feature Complete<br>
+2016/12/22 		Feature Extension Complete<br>
+2017/01/05 		Rampdown Start<br>
+2017/02/09 		All Tests Run<br>
+2017/02/16 		Zero Bug Bounce<br>
+2017/03/16 		Rampdown Phase 2<br>
+2017/07/06 		Final Release Candidate<br>
+2017/07/27 		General Availability</p>]]></description></item></channel></rss>

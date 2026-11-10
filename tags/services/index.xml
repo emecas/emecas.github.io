@@ -1,0 +1,50 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Services - Tag - My Notes</title><link>https://blog.emecas.net/tags/services/</link><description>Services - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Mar 2020 19:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/services/" rel="self" type="application/rss+xml"/><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
+Tilt Up and Get Stuff Done<br>
+Tilt manages local development instances for teams that deploy to Kubernetes.</p>
+<p>Transition easily from any setup<br>
+Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>Learn REST: A RESTful Tutorial</title><link>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</link><pubDate>Wed, 06 Mar 2019 15:58:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</guid><description><![CDATA[<p>Learn REST: A RESTful Tutorial<br>
+<a href="https://www.restapitutorial.com/" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/</a></p>
+<p>RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available<br>
+to enable quick reference and self education for the development crafts-person.<br>
+We&rsquo;ll discuss both the art and science of creating REST Web services.</p>
+<p><a href="https://www.restapitutorial.com/lessons/httpmethods.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/lessons/httpmethods.html</a><br>
+<a href="https://www.restapitutorial.com/httpstatuscodes.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/httpstatuscodes.html</a><br>
+<a href="https://github.com/tfredrich/RestApiTutorial.com" target="_blank" rel="noopener noreffer ">https://github.com/tfredrich/RestApiTutorial.com</a></p>]]></description></item><item><title>agrest</title><link>https://blog.emecas.net/posts/2019-01-30-agrest/</link><pubDate>Wed, 30 Jan 2019 21:25:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-30-agrest/</guid><description><![CDATA[<p>agrest<br>
+<a href="https://agrest.io/" target="_blank" rel="noopener noreffer ">https://agrest.io/</a><br>
+An open-source protocol and framework for REST data services<br>
+Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.<br>
+Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a></p>]]></description></item><item><title>RESTIFYDB</title><link>https://blog.emecas.net/posts/2017-04-12-restifydb/</link><pubDate>Wed, 12 Apr 2017 11:19:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-12-restifydb/</guid><description><![CDATA[<p>RESTIFYDB<br>
+<a href="http://restifydb.com" target="_blank" rel="noopener noreffer ">http://restifydb.com</a><br>
+Expose your databases as REST web services in minutes</p>
+<p>Ever wondered how complicated it would be to expose data to your customers as ready to be consumed REST web services? To allow them to connect to your data sources without knowing anything about how these data sources are organizes or without caring about different SQL dialects? What if they could discover on the fly all they need to know about your data sources? All this becomes easy with restifydb. The fact that is has been entirely written in PHP means that the software and hardware requirements are minimal. Here are some features which make restifydb unique</p>]]></description></item><item><title>Qualtrics</title><link>https://blog.emecas.net/posts/2017-01-27-qualtrics/</link><pubDate>Fri, 27 Jan 2017 09:32:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-27-qualtrics/</guid><description><![CDATA[<p>Qualtrics<br>
+<a href="https://www.qualtrics.com" target="_blank" rel="noopener noreffer ">https://www.qualtrics.com</a><br>
+Software to manage the entire customer experience - from surveys, to insights, to action</p>
+<p>Areas:</p>
+<p>customer EXPERIENCE</p>
+<p>Customer Experience<br>
+Management program<br>
+Omni-Channel Feedback<br>
+Customer Analytics<br>
+&amp; Reporting<br>
+CUSTOMER FOLLOW-UP<br>
+&amp; CASE MANAGEMENT<br>
+VoC Consulting<br>
+&amp; Integrations</p>
+<p>market RESEARCH</p>
+<p>Customer Satisfaction<br>
+Strategic Planning<br>
+&amp; Segmentation Research<br>
+Product Development<br>
+MARKETING<br>
+&amp; BRAND RESEARCH</p>
+<p>employee INSIGHTS</p>
+<p>employee engagement<br>
+employee pulse surveys<br>
+training surveys<br>
+360o employee feedback<br>
+exit interviews<br>
+Onboarding Surveys</p>]]></description></item><item><title>Jersey and Cayenne</title><link>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</link><pubDate>Wed, 06 Nov 2013 21:53:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</guid><description><![CDATA[<p>Old Thread about Jersey and Cayenne<br>
+Help with Jersey Rest Services and Cayenne<br>
+<a href="http://comments.gmane.org/gmane.comp.java.cayenne.user/13326" target="_blank" rel="noopener noreffer ">http://comments.gmane.org/gmane.comp.java.cayenne.user/13326</a></p>]]></description></item></channel></rss>

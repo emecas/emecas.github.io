@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kotlin - Tag - My Notes</title><link>https://blog.emecas.net/tags/kotlin/</link><description>Kotlin - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2020 18:26:45 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kotlin/" rel="self" type="application/rss+xml"/><item><title>Spark_java 2020</title><link>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</link><pubDate>Thu, 18 Jun 2020 18:26:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</guid><description><![CDATA[<p>spark 2020<br>
+Spark - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort</p>
+<p><a href="http://sparkjava.com/tutorials/" target="_blank" rel="noopener noreffer ">http://sparkjava.com/tutorials/</a></p>
+<p>Java</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-core&lt;/artifactId&gt;<br>
+&lt;version&gt;2.8.0&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Kotlin</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-kotlin&lt;/artifactId&gt;<br>
+&lt;version&gt;1.0.0-alpha&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Gradle : compile &ldquo;com.sparkjava:spark-core:2.8.0&rdquo; // add to build.gradle (for Java users)<br>
+Gradle : compile &ldquo;com.sparkjava:spark-kotlin:1.0.0-alpha&rdquo; // add to build.gradle (for Kotlin users)<br>
+Ivy : &lt;dependency org=&ldquo;com.sparkjava&rdquo; name=&ldquo;spark-core&rdquo; rev=&ldquo;2.8.0&rdquo; conf=&ldquo;build&rdquo; /&gt; // ivy.xml<br>
+SBT : libraryDependencies += &ldquo;com.sparkjava&rdquo; % &ldquo;spark-core&rdquo; % &ldquo;2.8.0&rdquo; // build.sbt</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+<a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
+A simple web framework for Java and Kotlin<br>
+<a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
+<p>Simple<br>
+Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.</p>
+<p>Lightweight<br>
+Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item><item><title>KODEIN DI</title><link>https://blog.emecas.net/posts/2019-04-27-kodein-di/</link><pubDate>Sat, 27 Apr 2019 18:43:49 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-27-kodein-di/</guid><description><![CDATA[<p>KODEIN DI: KOtlin DEpendency INjection: 6.2.0<br>
+<a href="https://kodein.org/Kodein-DI/" target="_blank" rel="noopener noreffer ">https://kodein.org/Kodein-DI/</a><br>
+Kodein (for KOtlin DEpendency INjection) is a DI framework.<br>
+It allows you to bind your business unit interfaces with their implementation and thus having each business unit being independent.<br>
+<a href="https://github.com/Kodein-Framework/Kodein-DI" target="_blank" rel="noopener noreffer ">https://github.com/Kodein-Framework/Kodein-DI</a></p>]]></description></item><item><title>Koin</title><link>https://blog.emecas.net/posts/2019-04-27-koin/</link><pubDate>Sat, 27 Apr 2019 18:36:53 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-27-koin/</guid><description><![CDATA[<p>Koin<br>
+<a href="https://insert-koin.io/" target="_blank" rel="noopener noreffer ">https://insert-koin.io/</a><br>
+A pragmatic lightweight dependency injection framework for Kotlin developers.<br>
+Written in pure Kotlin using functional resolution only: no proxy, no code generation, no reflection<br>
+<a href="https://github.com/InsertKoinIO/koin" target="_blank" rel="noopener noreffer ">https://github.com/InsertKoinIO/koin</a></p>]]></description></item><item><title>Kotlin Playground &amp; Kotlin Koans</title><link>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</link><pubDate>Thu, 29 Nov 2018 13:58:08 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</guid><description><![CDATA[<p>Kotlin Playground is an online sandbox to explore Kotlin<br>
+programming language,browse code samples directly in the browser<br>
+<a href="https://play.kotlinlang.org" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org</a><br>
+Kotlin Koans<br>
+<a href="https://play.kotlinlang.org/koans/overview" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org/koans/overview</a><br>
+Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio. Saying nothing of simply cloning the project on GitHub.</p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2018-11-07-note/</link><pubDate>Wed, 07 Nov 2018 17:18:11 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-11-07-note/</guid><description><![CDATA[<p>Multiplatform Project: iOS and Android<br>
+<a href="https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html" target="_blank" rel="noopener noreffer ">https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html</a></p>]]></description></item></channel></rss>

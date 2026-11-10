@@ -1,0 +1,48 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming - Tag - My Notes</title><link>https://blog.emecas.net/tags/programming/</link><description>Programming - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Aug 2022 21:08:52 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/programming/" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
+Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
+<p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
+<p>Flavors:</p>
+<p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
+- p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
+- Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
+- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>Objections Are Goals</title><link>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</link><pubDate>Tue, 29 Jan 2019 19:54:54 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</guid><description><![CDATA[<p>Objections Are Goals<br>
+<a href="https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069</a><br>
+By: Kent BeckF<br>
+Oct 9, 2018</p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
+By: Kent Beck<br>
+Sep 28, 2018</p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
+<a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
+Here&rsquo;s how you can truly master Kata.</p>
+<p>We Learn Best by Doing:<br>
+In this blog, I will show you how to get started coding the Eclipse Collections Pet Kata.<br>
+If you want to become proficient in Eclipse Collections, you should practice the Kata on your own.<br>
+In order to truly master the Kata, try teaching the Kata to others, teaching results in deeper learning.<br>
+Git repo: <a href="https://github.com/eclipse/eclipse-collections-kata" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/eclipse-collections-kata</a></p>]]></description></item><item><title>Efficient Programming with Components</title><link>https://blog.emecas.net/posts/2019-01-28-efficient-programming-with-components/</link><pubDate>Mon, 28 Jan 2019 11:07:40 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-efficient-programming-with-components/</guid><description><![CDATA[<p>Efficient Programming with Components (39 videos)<br>
+<a href="https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD" target="_blank" rel="noopener noreffer ">https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD</a><br>
+By Alexander Stepanov<br>
+A9 Videos<br>
+Published on Apr 22, 2013</p>]]></description></item><item><title>Java 9 Variable Handles</title><link>https://blog.emecas.net/posts/2018-12-18-java-9-variable-handles/</link><pubDate>Tue, 18 Dec 2018 14:02:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-18-java-9-variable-handles/</guid><description><![CDATA[<p>Java 9 Variable Handles Demystified<br>
+<a href="https://www.baeldung.com/java-variable-handles" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/java-variable-handles</a><br>
+Java 9 brought a number of new useful features for developers.</p>
+<p>One of those is the java.lang.invoke.VarHandle API – representing variable handles – which we’re going to explore in this article.</p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
+<a href="http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database" target="_blank" rel="noopener noreffer ">http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database</a><br>
+This guide will help you understand the concept of in memory database. We will look at simple JPA example to understand the best practices in using in memory databases.<br>
+You will learn</p>
+<p>What is an in memory database?<br>
+Why do you use an in memory database?<br>
+What are the best practices in using an in memory database?<br>
+How to connect a Spring Boot project to H2?</p>]]></description></item><item><title>Geeks for Geeks</title><link>https://blog.emecas.net/posts/2018-12-17-geeks-for-geeks/</link><pubDate>Mon, 17 Dec 2018 13:59:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-17-geeks-for-geeks/</guid><description><![CDATA[<p>Geeks for Geeks<br>
+A Computer Science Portar for Geeks<br>
+<a href="https://www.geeksforgeeks.org/" target="_blank" rel="noopener noreffer ">https://www.geeksforgeeks.org/</a><br>
+Welcome to the world of Geeks!!</p>
+<p>How many times were you frustrated while looking out for a good collection of programming/algorithm/interview questions? What did you expect and what did you get? This portal has been created to provide well written, well thought and well explained solutions for selected questions.</p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
+<a href="https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/" target="_blank" rel="noopener noreffer ">https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/</a><br>
+The Gradle wrapper is a self-contained Gradle runner and distribution that&rsquo;s typically built into your Gradle project. It&rsquo;s bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.</p>
+<p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item><item><title>Kotlin Playground &amp; Kotlin Koans</title><link>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</link><pubDate>Thu, 29 Nov 2018 13:58:08 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</guid><description><![CDATA[<p>Kotlin Playground is an online sandbox to explore Kotlin<br>
+programming language,browse code samples directly in the browser<br>
+<a href="https://play.kotlinlang.org" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org</a><br>
+Kotlin Koans<br>
+<a href="https://play.kotlinlang.org/koans/overview" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org/koans/overview</a><br>
+Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio. Saying nothing of simply cloning the project on GitHub.</p>]]></description></item></channel></rss>

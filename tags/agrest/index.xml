@@ -1,0 +1,5 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Agrest - Tag - My Notes</title><link>https://blog.emecas.net/tags/agrest/</link><description>Agrest - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Jan 2019 21:25:55 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/agrest/" rel="self" type="application/rss+xml"/><item><title>agrest</title><link>https://blog.emecas.net/posts/2019-01-30-agrest/</link><pubDate>Wed, 30 Jan 2019 21:25:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-30-agrest/</guid><description><![CDATA[<p>agrest<br>
+<a href="https://agrest.io/" target="_blank" rel="noopener noreffer ">https://agrest.io/</a><br>
+An open-source protocol and framework for REST data services<br>
+Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.<br>
+Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a></p>]]></description></item></channel></rss>

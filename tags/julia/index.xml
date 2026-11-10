@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Julia - Tag - My Notes</title><link>https://blog.emecas.net/tags/julia/</link><description>Julia - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Nov 2025 12:55:25 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/julia/" rel="self" type="application/rss+xml"/><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
+<p>An open-source scientific and technical publishing system</p>
+<p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
+Create dynamic content with Python, R, Julia, and Observable.<br>
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
+Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item></channel></rss>

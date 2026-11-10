@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ci - Tag - My Notes</title><link>https://blog.emecas.net/tags/ci/</link><description>Ci - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 12 Feb 2020 19:59:00 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ci/" rel="self" type="application/rss+xml"/><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
+Python wrapper for the GitLab API</p>
+<p>python-gitlab is a Python package providing access to the GitLab server API.<br>
+It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
+<p>Docker:</p>
+<p>How to build</p>
+<p>docker build -t python-gitlab:TAG .</p>
+<p>How to use</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
+<p>or run it directly from the upstream image:</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item></channel></rss>

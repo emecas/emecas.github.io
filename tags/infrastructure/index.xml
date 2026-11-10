@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Infrastructure - Tag - My Notes</title><link>https://blog.emecas.net/tags/infrastructure/</link><description>Infrastructure - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2020 19:06:57 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/infrastructure/" rel="self" type="application/rss+xml"/><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
+<a href="https://cdkworkshop.com/" target="_blank" rel="noopener noreffer ">https://cdkworkshop.com/</a><br>
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun<br>
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
+<p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>Layered Architecture</title><link>https://blog.emecas.net/posts/2017-02-16-layered-architecture/</link><pubDate>Thu, 16 Feb 2017 13:46:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-16-layered-architecture/</guid><description><![CDATA[<p>Layered Architecture Is Good<br>
+<a href="https://dzone.com/articles/layered-architecture-is-good" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/layered-architecture-is-good</a><br>
+By   Grzegorz Ziemoński<br>
+Layered Architecture is about organizing code for separation of concerns and nothing else. See what it implies for a project like Spring Pet Clinic.<br>
+The presentation layer<br>
+The application layer<br>
+The domain layer<br>
+The infrastructure layer (also known as the persistence layer)</p>]]></description></item></channel></rss>

@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Enterprise - Tag - My Notes</title><link>https://blog.emecas.net/tags/enterprise/</link><description>Enterprise - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Aug 2022 08:14:33 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/enterprise/" rel="self" type="application/rss+xml"/><item><title>Spring Batch</title><link>https://blog.emecas.net/posts/2022-08-17-spring-batch/</link><pubDate>Wed, 17 Aug 2022 08:14:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-08-17-spring-batch/</guid><description><![CDATA[<p>Spring Batch<br>
+Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
+<p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
+<p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
+Features</p>]]></description></item><item><title>Microdnf</title><link>https://blog.emecas.net/posts/2020-08-06-microdnf/</link><pubDate>Thu, 06 Aug 2020 13:26:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-06-microdnf/</guid><description><![CDATA[<p>Microdnf<br>
+<a href="https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-atomic-base-image" target="_blank" rel="noopener noreffer ">https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-atomic-base-image</a><br>
+Introducing the Red Hat Enterprise Linux Atomic Base Image</p>
+<p>With YUM (Before)</p>
+<p>FROM registry.access.redhat.com/rhel7<br>
+RUN yum-config-manager --enable rhel-7-server-rpms<br>
+RUN yum install -y --setopt=tsflags=nodocs java-1.8.0-openjdk-headless ;\\
+yum clean all</p>
+<p>With Microdnf, the Atomic Base Image this becomes:</p>
+<p>FROM registry.access.redhat.com/rhel7-atomic<br>
+RUN microdnf --enablerepo=rhel-7-server-rpms \\
+install java-1.8.0-openjdk-headless --nodocs ;\\
+microdnf clean all</p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
+Evolution of Enterprise Java -  Optimised for microservice architectures<br>
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
+examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
+<p>Mature<br>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>Spring Framework Guru</title><link>https://blog.emecas.net/posts/2017-11-01-spring-framework-guru/</link><pubDate>Wed, 01 Nov 2017 10:11:35 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-11-01-spring-framework-guru/</guid><description><![CDATA[<p>Spring Framework Guru<br>
+<a href="https://springframework.guru/" target="_blank" rel="noopener noreffer ">https://springframework.guru/</a></p>
+<p><a href="https://springframework.guru/about/" target="_blank" rel="noopener noreffer ">https://springframework.guru/about/</a></p>
+<p>Hi. I’m John.</p>
+<p>I’ve been in the IT industry for over 20 years. Today, I specialize mainly in Java, the most successful and widely known programming language in use today. I also specialize in the Spring Framework, which is the most popular open source application framework for building enterprise class applications on the Java platform.</p>]]></description></item><item><title>Community Projects JBOSS</title><link>https://blog.emecas.net/posts/2013-05-18-community-projects-jboss/</link><pubDate>Sat, 18 May 2013 17:22:28 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-18-community-projects-jboss/</guid><description><![CDATA[<p>Community Projects JBOSS<br>
+JBoss redefined the application server back in 2002 when it broke apart the monolithic designs of the past with its modular architecture. Since then we&rsquo;ve continued to find new ways to challenge convention and redefine Enterprise Java through community-driven projects.<br>
+<a href="http://www.jboss.org/projects" target="_blank" rel="noopener noreffer ">http://www.jboss.org/projects</a></p>]]></description></item></channel></rss>

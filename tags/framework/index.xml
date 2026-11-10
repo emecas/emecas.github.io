@@ -1,0 +1,73 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Framework - Tag - My Notes</title><link>https://blog.emecas.net/tags/framework/</link><description>Framework - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Aug 2022 08:14:33 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/framework/" rel="self" type="application/rss+xml"/><item><title>Spring Batch</title><link>https://blog.emecas.net/posts/2022-08-17-spring-batch/</link><pubDate>Wed, 17 Aug 2022 08:14:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-08-17-spring-batch/</guid><description><![CDATA[<p>Spring Batch<br>
+Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
+<p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
+<p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
+Features</p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
+<a href="https://elgg.org/" target="_blank" rel="noopener noreffer ">https://elgg.org/</a><br>
+Introducing a powerful open source social networking engine<br>
+Providing you with the core components needed to build a socially aware web application</p>
+<p>Elgg is an award-winning open source social networking engine that provides a robust framework on which to build all kinds of social environments,<br>
+from a campus wide social network for your university, school or college or an internal collaborative platform for your organization through to a<br>
+brand-building communications tool for your company and its clients.</p>]]></description></item><item><title>Fastify</title><link>https://blog.emecas.net/posts/2020-09-16-fastify/</link><pubDate>Wed, 16 Sep 2020 18:56:30 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-16-fastify/</guid><description><![CDATA[<p>Fastify<br>
+<a href="https://www.fastify.io/" target="_blank" rel="noopener noreffer ">https://www.fastify.io/</a><br>
+Fast and low overhead web framework, for Node.js</p>
+<p>Why</p>
+<p>An efficient server implies a lower cost of the infrastructure, a better responsiveness under load and happy users. How can you efficiently handle the resources of your server, knowing that you are serving the highest number of requests possible, without sacrificing security validations and handy development?</p>
+<p>Enter Fastify. Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.</p>]]></description></item><item><title>Jasmine</title><link>https://blog.emecas.net/posts/2020-06-26-jasmine/</link><pubDate>Fri, 26 Jun 2020 18:56:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-26-jasmine/</guid><description><![CDATA[<p>Jasmine<br>
+Behavior-Driven JavaScript<br>
+<a href="https://jasmine.github.io/index.html" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/index.html</a><br>
+Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.<br>
+<a href="https://jasmine.github.io/tutorials/your_first_suite" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/tutorials/your_first_suite</a><br>
+Github: <a href="https://github.com/jasmine/jasmine.github.io" target="_blank" rel="noopener noreffer ">https://github.com/jasmine/jasmine.github.io</a></p>
+<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>]]></description></item><item><title>Spark_java 2020</title><link>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</link><pubDate>Thu, 18 Jun 2020 18:26:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</guid><description><![CDATA[<p>spark 2020<br>
+Spark - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort</p>
+<p><a href="http://sparkjava.com/tutorials/" target="_blank" rel="noopener noreffer ">http://sparkjava.com/tutorials/</a></p>
+<p>Java</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-core&lt;/artifactId&gt;<br>
+&lt;version&gt;2.8.0&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Kotlin</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-kotlin&lt;/artifactId&gt;<br>
+&lt;version&gt;1.0.0-alpha&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Gradle : compile &ldquo;com.sparkjava:spark-core:2.8.0&rdquo; // add to build.gradle (for Java users)<br>
+Gradle : compile &ldquo;com.sparkjava:spark-kotlin:1.0.0-alpha&rdquo; // add to build.gradle (for Kotlin users)<br>
+Ivy : &lt;dependency org=&ldquo;com.sparkjava&rdquo; name=&ldquo;spark-core&rdquo; rev=&ldquo;2.8.0&rdquo; conf=&ldquo;build&rdquo; /&gt; // ivy.xml<br>
+SBT : libraryDependencies += &ldquo;com.sparkjava&rdquo; % &ldquo;spark-core&rdquo; % &ldquo;2.8.0&rdquo; // build.sbt</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+<a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
+A simple web framework for Java and Kotlin<br>
+<a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
+<p>Simple<br>
+Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.</p>
+<p>Lightweight<br>
+Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item><item><title>The Serverless Framework</title><link>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</link><pubDate>Tue, 14 Apr 2020 19:13:42 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</guid><description><![CDATA[<p>The Serverless Framework<br>
+<a href="https://serverless.com/" target="_blank" rel="noopener noreffer ">https://serverless.com/</a><br>
+The Serverless Framework gives you everything you need to develop, deploy, monitor and secure serverless applications on any cloud.</p>]]></description></item><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
+<a href="https://cdkworkshop.com/" target="_blank" rel="noopener noreffer ">https://cdkworkshop.com/</a><br>
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun<br>
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
+<p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>Qiskit</title><link>https://blog.emecas.net/posts/2020-03-23-qiskit/</link><pubDate>Mon, 23 Mar 2020 21:30:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-23-qiskit/</guid><description><![CDATA[<p>Qiskit<br>
+<a href="https://qiskit.org/" target="_blank" rel="noopener noreffer ">https://qiskit.org/</a><br>
+<a href="https://github.com/Qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit</a><br>
+An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.</p>
+<p><a href="https://github.com/Qiskit/qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit/qiskit</a><br>
+Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.<br>
+Qiskit is made up elements that each work together to enable quantum computing. This is a simple meta-package to install the elements of Qiskit altogether.</p>
+<p>The four elements of Qiskit are the essential parts that give Qiskit its power<br>
+Qiskit Terra <a href="https://qiskit.org/terra" target="_blank" rel="noopener noreffer ">https://qiskit.org/terra</a><br>
+Qiskit Aer   <a href="https://qiskit.org/aer" target="_blank" rel="noopener noreffer ">https://qiskit.org/aer</a><br>
+Qiskit Ignis <a href="https://qiskit.org/ignis" target="_blank" rel="noopener noreffer ">https://qiskit.org/ignis</a><br>
+Qiskit Aqua  <a href="https://qiskit.org/aqua" target="_blank" rel="noopener noreffer ">https://qiskit.org/aqua</a></p>]]></description></item><item><title>FastAPI</title><link>https://blog.emecas.net/posts/2020-03-18-fastapi/</link><pubDate>Wed, 18 Mar 2020 09:56:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-18-fastapi/</guid><description><![CDATA[<p>FastAPI<br>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
+FastAPI framework, high performance, easy to learn, fast to code, ready for production</p>
+<p>The key features are:</p>
+<p>Fast: Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.</p>
+<p>Fast to code: Increase the speed to develop features by about 200% to 300% *.</p>
+<p>Fewer bugs: Reduce about 40% of human (developer) induced errors. *</p>
+<p>Intuitive: Great editor support. Completion everywhere. Less time debugging.</p>]]></description></item></channel></rss>

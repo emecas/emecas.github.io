@@ -1,0 +1,63 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Logs - Tag - My Notes</title><link>https://blog.emecas.net/tags/logs/</link><description>Logs - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Mar 2026 14:24:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/logs/" rel="self" type="application/rss+xml"/><item><title>OpenTelemetri</title><link>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</link><pubDate>Tue, 03 Mar 2026 14:24:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</guid><description><![CDATA[<p>OpenTelemetry<br>
+<a href="https://opentelemetry.io/" target="_blank" rel="noopener noreffer ">https://opentelemetry.io/</a><br>
+The open standard for telemetry</p>
+<p>OpenTelemetry (OTel) is a leading open-source framework designed to help developers monitor and understand the performance of complex, cloud-native applications. It was created by merging two major projects, **OpenTracing** and **OpenCensus**, under the Cloud Native Computing Foundation (CNCF).</p>
+<p>Here is a breakdown of why it’s a big deal in the software world:</p>
+<p>### Core Benefits</p>
+<p>* **Vendor Neutrality:** You can instrument your code once and send your data to any backend (like Prometheus, Jaeger, or commercial tools). This prevents &ldquo;vendor lock-in,&rdquo; allowing you to switch providers without rewriting your application code.<br>
+* **Unified Signals:** It brings together **Traces** (the journey of a request), **Metrics** (performance data over time), and **Logs** (timestamped events) into a single, correlated view.<br>
+* **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Kibana Filters</title><link>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</link><pubDate>Tue, 04 Feb 2020 23:27:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</guid><description><![CDATA[<p>Kibana Filters</p>
+<p>tomcat</p>
+<p>message:	Written [{&ldquo;sp&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:57013,&ldquo;message&rdquo;:&ldquo;java.lang.NullPointerException ZRESIDENCE.TRANSACT.fci_complete_with_get_budget{p_term_code=202020, p_pidm=12345678}&rdquo;},&ldquo;stz&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:-1,&ldquo;message&rdquo;:&ldquo;NOT_CALLED&rdquo;}}] as &ldquo;application/json&rdquo; using [org.springframework.http.converter.StringHttpMessageConverter@bdc8014]</p>
+<p>log.file.path: 	/opt/tomcat/embedded/contex-path/logs/service.log</p>
+<p>host.name: 	node#.tomcat.freedom.edu</p>
+<p>container: contex-path</p>
+<p>application: contex-path</p>
+<p>log_type: 	tomcat</p>
+<p>web log</p>
+<p>request.path = [/contex-path/end-point]</p>
+<p>request.status = HTTP STATUS CODE (200 201 404 401)</p>
+<p>request.worker.name  =	sb_[jcpport]</p>
+<p>source = 	/var/log/httpd/access_log</p>
+<p>topic =	apache</p>
+<p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
+<p>request.method = POST</p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
+<p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
+<p>The Twelve Factors<br>
+I. Codebase<br>
+One codebase tracked in revision control, many deploys<br>
+II. Dependencies<br>
+Explicitly declare and isolate dependencies<br>
+III. Config<br>
+Store config in the environment<br>
+IV. Backing services<br>
+Treat backing services as attached resources<br>
+V. Build, release, run<br>
+Strictly separate build and run stages<br>
+VI. Processes<br>
+Execute the app as one or more stateless processes<br>
+VII. Port binding<br>
+Export services via port binding<br>
+VIII. Concurrency<br>
+Scale out via the process model<br>
+IX. Disposability<br>
+Maximize robustness with fast startup and graceful shutdown<br>
+X. Dev/prod parity<br>
+Keep development, staging, and production as similar as possible<br>
+XI. Logs<br>
+Treat logs as event streams<br>
+XII. Admin processes<br>
+Run admin/management tasks as one-off processes</p>]]></description></item><item><title>WALLWATCHER - IntelliJ IDEA Code lines</title><link>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</link><pubDate>Tue, 18 Feb 2014 20:43:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</guid><description><![CDATA[<p>WALLWATCHER<br>
+Collect, View, and Analyze Router Logs<br>
+<a href="http://www.wallwatcher1.com" target="_blank" rel="noopener noreffer ">http://www.wallwatcher1.com</a><br>
+Version 3.3.37 (Final)	 January 1, 2011</p>
+<p>Ref: SO <a href="http://stackoverflow.com/review/first-posts/4082993" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/review/first-posts/4082993</a></p>
+<p>How to count lines of Java code using IntelliJ IDEA?<br>
+ref: SO <a href="http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea</a></p>
+<p>Command line -&gt;&gt;  find . -type f -name &lsquo;*.java&rsquo; | xargs cat | wc -l<br>
+Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
+An app that extracts info from your android device and let you export it</p>
+<p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
+* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ssl - Tag - My Notes</title><link>https://blog.emecas.net/tags/ssl/</link><description>Ssl - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Mar 2020 23:32:49 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ssl/" rel="self" type="application/rss+xml"/><item><title>xpra multi-platform screen and application forwarding system</title><link>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</link><pubDate>Sun, 15 Mar 2020 23:32:49 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</guid><description><![CDATA[<p>xpra<br>
+<a href="https://xpra.org/" target="_blank" rel="noopener noreffer ">https://xpra.org/</a><br>
+multi-platform screen and application forwarding system &ldquo;screen for X11&rdquo;<br>
+Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.</p>
+<p>It gives you remote access to individual applications or full desktops.<br>
+On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.<br>
+It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item><item><title>HTTPS in a Spring Boot</title><link>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</link><pubDate>Thu, 23 Jan 2020 19:21:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</guid><description><![CDATA[<p>How to enable HTTPS in a Spring Boot Java application<br>
+<a href="https://www.thomasvitale.com/https-spring-boot-ssl-certificate/" target="_blank" rel="noopener noreffer ">https://www.thomasvitale.com/https-spring-boot-ssl-certificate/</a><br>
+Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate and configuring SSL in Spring Boot.<br>
+Whether you&rsquo;re going to generate a self-signed certificate or you have already got one by a CA,<br>
+I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
+Part IX. ‘How-to’ guides<br>
+<a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
+73. Embedded servlet containers</p>
+<p>73.1. Add a Servlet, Filter or Listener to an application</p>
+<p>73.1.1. Add a Servlet, Filter or Listener using a Spring bean</p>
+<p>Disable registration of a Servlet or Filter</p>
+<p>73.1.2. Add Servlets, Filters, and Listeners using classpath scanning</p>
+<p>73.2. Change the HTTP port<br>
+73.3. Use a random unassigned HTTP port<br>
+73.4. Discover the HTTP port at runtime<br>
+73.5. Configure SSL<br>
+73.6. Configure Access Logging<br>
+73.7. Use behind a front-end proxy server</p>]]></description></item></channel></rss>

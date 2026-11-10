@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spark - Tag - My Notes</title><link>https://blog.emecas.net/tags/spark/</link><description>Spark - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Jun 2020 18:26:45 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spark/" rel="self" type="application/rss+xml"/><item><title>Spark_java 2020</title><link>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</link><pubDate>Thu, 18 Jun 2020 18:26:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</guid><description><![CDATA[<p>spark 2020<br>
+Spark - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort</p>
+<p><a href="http://sparkjava.com/tutorials/" target="_blank" rel="noopener noreffer ">http://sparkjava.com/tutorials/</a></p>
+<p>Java</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-core&lt;/artifactId&gt;<br>
+&lt;version&gt;2.8.0&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Kotlin</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-kotlin&lt;/artifactId&gt;<br>
+&lt;version&gt;1.0.0-alpha&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Gradle : compile &ldquo;com.sparkjava:spark-core:2.8.0&rdquo; // add to build.gradle (for Java users)<br>
+Gradle : compile &ldquo;com.sparkjava:spark-kotlin:1.0.0-alpha&rdquo; // add to build.gradle (for Kotlin users)<br>
+Ivy : &lt;dependency org=&ldquo;com.sparkjava&rdquo; name=&ldquo;spark-core&rdquo; rev=&ldquo;2.8.0&rdquo; conf=&ldquo;build&rdquo; /&gt; // ivy.xml<br>
+SBT : libraryDependencies += &ldquo;com.sparkjava&rdquo; % &ldquo;spark-core&rdquo; % &ldquo;2.8.0&rdquo; // build.sbt</p>]]></description></item><item><title>Apache Beam</title><link>https://blog.emecas.net/posts/2017-02-07-apache-beam/</link><pubDate>Tue, 07 Feb 2017 08:25:37 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-07-apache-beam/</guid><description><![CDATA[<p>Apache Beam<br>
+<a href="https://beam.apache.org/" target="_blank" rel="noopener noreffer ">https://beam.apache.org/</a><br>
+Apache Beam provides an advanced unified programming model, allowing you to implement batch and streaming data processing jobs that can run on any execution engine</p>
+<p>Apache Beam is:<br>
+•UNIFIED - Use a single programming model for both batch and streaming use cases.<br>
+•PORTABLE - Execute pipelines on multiple execution environments, including Apache Apex, Apache Flink, Apache Spark, and Google Cloud Dataflow.<br>
+•EXTENSIBLE - Write and share new SDKs, IO connectors, and transformation libraries.</p>]]></description></item><item><title>Apache Spark: Config Cheatsheets</title><link>https://blog.emecas.net/posts/2016-12-14-apache-spark-config-cheatsheets/</link><pubDate>Wed, 14 Dec 2016 10:32:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-14-apache-spark-config-cheatsheets/</guid><description><![CDATA[<p>Apache Spark: Config Cheatsheets (parts 1 &amp; 2)<br>
+<a href="http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/" target="_blank" rel="noopener noreffer ">http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/</a><br>
+<a href="http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/" target="_blank" rel="noopener noreffer ">http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/</a></p>]]></description></item><item><title>CloudSort Benchmark - Spark new world record</title><link>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</link><pubDate>Mon, 12 Dec 2016 08:32:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</guid><description><![CDATA[<p>CloudSort Benchmark<br>
+<a href="http://sortbenchmark.org/" target="_blank" rel="noopener noreffer ">http://sortbenchmark.org/</a></p>
+<p>Sort Benchmark Home Page</p>
+<p>New: The 2016 records are listed below in green. Thank you to all of the many 2016 entrants!<br>
+Background</p>
+<p>Until 2007, the sort benchmarks were primary defined, sponsored and administered by Jim Gray. Following Jim&rsquo;s disappearance at sea in January 2007, the sort benchmarks have been continued by a committee of past colleagues and sort benchmark winners. The Sort Benchmark committee members include:</p>]]></description></item></channel></rss>

@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Junit5 - Tag - My Notes</title><link>https://blog.emecas.net/tags/junit5/</link><description>Junit5 - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Jun 2021 17:37:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/junit5/" rel="self" type="application/rss+xml"/><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
+<a href="https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26" target="_blank" rel="noopener noreffer ">https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26</a></p>
+<p>import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;<br>
+import org.junit.jupiter.api.Order;</p>
+<p>@TestMethodOrder(OrderAnnotation.class)<br>
+public class TestSuite1<br>
+{<br>
+@Test<br>
+@Order(1)<br>
+public void test1() throws InterruptedException<br>
+{<br>
+&hellip;<br>
+@Test<br>
+@Order(2)<br>
+public void test2() throws InterruptedException<br>
+{<br>
+&hellip;<br>
+&hellip;</p>]]></description></item></channel></rss>

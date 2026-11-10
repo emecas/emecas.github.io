@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jekyll - Tag - My Notes</title><link>https://blog.emecas.net/tags/jekyll/</link><description>Jekyll - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Mar 2017 17:20:46 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jekyll/" rel="self" type="application/rss+xml"/><item><title>Running Git-Jekyll website locally with Docker</title><link>https://blog.emecas.net/posts/2017-03-09-running-git-jekyll-website-locally-with-docker/</link><pubDate>Thu, 09 Mar 2017 17:20:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-09-running-git-jekyll-website-locally-with-docker/</guid><description><![CDATA[<p>Running Git-Jekyll website locally with Docker</p>
+<p>Clone the repo and run the following docker container: docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve<br>
+Browser the site by visiting <a href="http://localhost:4000" target="_blank" rel="noopener noreffer ">http://localhost:4000</a></p>
+<p>Repo:</p>
+<p>$ git clone <a href="https://github.com/play-with-docker/play-with-docker.github.io.git" target="_blank" rel="noopener noreffer ">https://github.com/play-with-docker/play-with-docker.github.io.git</a><br>
+Cloning into &lsquo;play-with-docker.github.io&rsquo;&hellip;<br>
+remote: Counting objects: 586, done.<br>
+remote: Compressing objects: 100% (59/59), done.<br>
+remote: Total 586 (delta 26), reused 0 (delta 0), pack-reused 526<br>
+Receiving objects: 100% (586/586), 18.52 MiB | 1.12 MiB/s, done.<br>
+Resolving deltas: 100% (277/277), done.</p>]]></description></item></channel></rss>

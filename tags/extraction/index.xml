@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Extraction - Tag - My Notes</title><link>https://blog.emecas.net/tags/extraction/</link><description>Extraction - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 30 Jan 2017 14:12:57 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/extraction/" rel="self" type="application/rss+xml"/><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
+<p>- ExifTool by Phil Harvey<br>
+Read, Write and Edit Meta Information!<br>
+<a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank" rel="noopener noreffer ">http://owl.phy.queensu.ca/~phil/exiftool/</a><br>
+wiki: <a href="https://en.wikipedia.org/wiki/ExifTool" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/ExifTool</a></p>
+<p>-Metadata Extraction Tool<br>
+Introduction<br>
+The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.<br>
+<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>]]></description></item></channel></rss>

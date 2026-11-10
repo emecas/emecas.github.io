@@ -1,0 +1,86 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tool - Tag - My Notes</title><link>https://blog.emecas.net/tags/tool/</link><description>Tool - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 17:14:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tool/" rel="self" type="application/rss+xml"/><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
+<a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">https://mise.jdx.dev/</a><br>
+Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
+<p>Everything in its place, before you code.<br>
+In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.<br>
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+A build automation tool for Docker applications.<br>
+<a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
+<p>A build automation tool for Docker applications.<br>
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.</p>
+<p>Use Cases</p>
+<p>examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.<br>
+examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)<br>
+examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.<br>
+examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
+examples/init-named-volume - create or update the files in a named docker volume.<br>
+examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+Generate easy-to-read web pages for your Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
+repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
+demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+CLI tool for working with Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
+repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+Generate beautiful API documentation from OpenAPI</p>
+<p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
+<p>By default Redoc offers a three-panel, responsive layout:</p>
+<p>The left panel contains a search bar and navigation menu.<br>
+The central panel contains the documentation.<br>
+The right panel contains request and response examples.</p>
+<p>Redoc Live demo<br>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>Whisper</title><link>https://blog.emecas.net/posts/2023-10-18-whisper/</link><pubDate>Wed, 18 Oct 2023 12:52:42 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-10-18-whisper/</guid><description><![CDATA[<p>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision<br>
+<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper</a></p>
+<p>[Blog] : <a href="https://openai.com/blog/whisper" target="_blank" rel="noopener noreffer ">https://openai.com/blog/whisper</a></p>
+<p>[Paper] : <a href="https://arxiv.org/abs/2212.04356" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/2212.04356</a></p>
+<p>[Model card] : <a href="https://github.com/openai/whisper/blob/main/model-card.md" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper/blob/main/model-card.md</a></p>
+<p>[Colab example] : <a href="https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb" target="_blank" rel="noopener noreffer ">https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb</a></p>
+<p>Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.</p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<p>NAME:<br>
+jvms - JDK Version Manager (JVMS) for Windows</p>
+<p>USAGE:<br>
+jvms.exe [global options] command [command options] [arguments&hellip;]</p>
+<p>VERSION:<br>
+v2.1.5</p>
+<p>COMMANDS:<br>
+init        Initialize config file<br>
+list, ls    List current JDK installations.<br>
+install, i  Install available remote jdk<br>
+switch, s   Switch to use the specified version.<br>
+remove, rm  Remove a specific version.<br>
+rls         Show a list of versions available for download.<br>
+proxy       Set a proxy to use for downloads.<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>OpenRefine</title><link>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</link><pubDate>Sun, 31 Jul 2022 16:11:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</guid><description><![CDATA[<p>OpenRefine<br>
+<a href="https://openrefine.org/" target="_blank" rel="noopener noreffer ">https://openrefine.org/</a></p>
+<p><a href="https://github.com/OpenRefine/OpenRefine" target="_blank" rel="noopener noreffer ">https://github.com/OpenRefine/OpenRefine</a></p>
+<p>OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.</p>
+<p>OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)</p>]]></description></item></channel></rss>

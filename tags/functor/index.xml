@@ -1,0 +1,47 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Functor - Tag - My Notes</title><link>https://blog.emecas.net/tags/functor/</link><description>Functor - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 07 Nov 2017 17:11:55 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/functor/" rel="self" type="application/rss+xml"/><item><title>Functional Programming Jargon</title><link>https://blog.emecas.net/posts/2017-11-07-functional-programming-jargon/</link><pubDate>Tue, 07 Nov 2017 17:11:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-11-07-functional-programming-jargon/</guid><description><![CDATA[<p>Functional Programming Jargon<br>
+Functional programming (FP) provides many advantages, and its popularity has been increasing as a result. However, each programming paradigm comes with its own unique jargon and FP is no exception. By providing a glossary, we hope to make learning FP easier.<br>
+Jargon from the functional programming world in simple terms! <a href="http://git.io/fp-jargons" target="_blank" rel="noopener noreffer ">http://git.io/fp-jargons</a><br>
+<a href="https://github.com/hemanth/functional-programming-jargon" target="_blank" rel="noopener noreffer ">https://github.com/hemanth/functional-programming-jargon</a></p>
+<p>Table of Contents<br>
+Arity<br>
+Higher-Order Functions (HOF)<br>
+Partial Application<br>
+Currying<br>
+Closure<br>
+Auto Currying<br>
+Function Composition<br>
+Continuation<br>
+Purity<br>
+Side effects<br>
+Idempotent<br>
+Point-Free Style<br>
+Predicate<br>
+Contracts<br>
+Category<br>
+Value<br>
+Constant<br>
+Functor<br>
+Pointed Functor<br>
+Lift<br>
+Referential Transparency<br>
+Equational Reasoning<br>
+Lambda<br>
+Lambda Calculus<br>
+Lazy evaluation<br>
+Monoid<br>
+Monad<br>
+Comonad<br>
+Applicative Functor<br>
+Morphism<br>
+Endomorphism<br>
+Isomorphism<br>
+Setoid<br>
+Semigroup<br>
+Foldable<br>
+Lens<br>
+Type Signatures<br>
+Algebraic data type<br>
+Sum type<br>
+Product type<br>
+Option<br>
+Functional Programming Libraries in JavaScript</p>]]></description></item></channel></rss>

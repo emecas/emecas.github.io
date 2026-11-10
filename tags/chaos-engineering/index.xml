@@ -1,0 +1,5 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Chaos-Engineering - Tag - My Notes</title><link>https://blog.emecas.net/tags/chaos-engineering/</link><description>Chaos-Engineering - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 04 Jan 2017 13:33:59 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/chaos-engineering/" rel="self" type="application/rss+xml"/><item><title>PRINCIPLES OF CHAOS ENGINEERING</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>PRINCIPLES OF CHAOS ENGINEERING<br>
+principlesofchaos.org<br>
+Chaos Engineering is the discipline of experimenting on a distributed system<br>
+in order to build confidence in the system’s capability<br>
+to withstand turbulent conditions in production</p>]]></description></item></channel></rss>

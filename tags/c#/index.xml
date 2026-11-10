@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>C# - Tag - My Notes</title><link>https://blog.emecas.net/tags/c%23/</link><description>C# - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 23 Feb 2019 12:28:29 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/c%23/" rel="self" type="application/rss+xml"/><item><title>Creating Mock Objects for C# Unit Tests, using Moq</title><link>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</link><pubDate>Sat, 23 Feb 2019 12:28:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</guid><description><![CDATA[<p>Creating Mock Objects for C# Unit Tests, using Moq<br>
+<a href="https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/" target="_blank" rel="noopener noreffer ">https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/</a><br>
+In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.<br>
+Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
+If you aren’t familiar with dependency injection, please read this article first</p>]]></description></item><item><title>xunit</title><link>https://blog.emecas.net/posts/2019-02-19-xunit/</link><pubDate>Tue, 19 Feb 2019 10:19:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-19-xunit/</guid><description><![CDATA[<p>xUnit.net<br>
+<a href="https://xunit.github.io/" target="_blank" rel="noopener noreffer ">https://xunit.github.io/</a><br>
+xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license).</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
+<p>Version	.NET Framework	Visual Studio	Important Features<br>
+C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>
+Basic features<br>
+C# 2.0	.NET Framework 2.0	Visual Studio 2005<br>
+Generics<br>
+Partial types<br>
+Anonymous methods<br>
+Iterators<br>
+Nullable types<br>
+Private setters (properties)<br>
+Method group conversions (delegates)<br>
+Covariance and Contra-variance<br>
+Static classes<br>
+C# 3.0	.NET Framework 3.0\3.5	Visual Studio 2008<br>
+Implicitly typed local variables<br>
+Object and collection initializers<br>
+Auto-Implemented properties<br>
+Anonymous types<br>
+Extension methods<br>
+Query expressions<br>
+Lambda expressions<br>
+Expression trees<br>
+Partial Methods<br>
+C# 4.0	.NET Framework 4.0	Visual Studio 2010<br>
+Dynamic binding (late binding)<br>
+Named and optional arguments<br>
+Generic co- and contravariance<br>
+Embedded interop types<br>
+C# 5.0	.NET Framework 4.5	Visual Studio 2012/2013<br>
+Async features<br>
+Caller information<br>
+C# 6.0	.NET Framework 4.6	Visual Studio 2013/2015<br>
+Expression Bodied Methods<br>
+Auto-property initializer<br>
+nameof Expression<br>
+Primary constructor<br>
+Await in catch block<br>
+Exception Filter<br>
+String Interpolation</p>]]></description></item><item><title>OptiKey : Full computer control and speech with your eyes</title><link>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</link><pubDate>Fri, 23 Jun 2017 08:58:32 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</guid><description><![CDATA[<p>OptiKey<br>
+<a href="https://github.com/OptiKey/OptiKey/wiki" target="_blank" rel="noopener noreffer ">https://github.com/OptiKey/OptiKey/wiki</a><br>
+Full computer control and speech with your eyes <a href="http://www.optikey.org" target="_blank" rel="noopener noreffer ">http://www.optikey.org</a></p>
+<p>OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).</p>
+<p>OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.</p>]]></description></item><item><title>itextSharp</title><link>https://blog.emecas.net/posts/2013-04-11-itextsharp/</link><pubDate>Thu, 11 Apr 2013 09:55:54 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-04-11-itextsharp/</guid><description><![CDATA[<p>itextSharp<br>
+<a href="http://sourceforge.net/projects/itextsharp/" target="_blank" rel="noopener noreffer ">http://sourceforge.net/projects/itextsharp/</a><br>
+iTextSharp is a C# port of iText, and open source Java library for PDF generation and manipulation. It can be used to create PDF documents from scratch, to convert XML to PDF (using the extra XFA Worker DLL), to fill out interactive PDF forms, to stamp new content on existing PDF documents, to split and merge existing PDF documents, and much more.</p>
+<p>Several iText engineers are actively supporting the project on the iText mailing-list itext-questions@lists.sourceforge.net and on StackOverflow: <a href="http://stackoverflow.com/questions/tagged/itextsharp" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/tagged/itextsharp</a></p>]]></description></item></channel></rss>

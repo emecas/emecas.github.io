@@ -1,0 +1,44 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JPA - Tag - My Notes</title><link>https://blog.emecas.net/tags/jpa/</link><description>JPA - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 May 2020 12:18:19 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jpa/" rel="self" type="application/rss+xml"/><item><title>Meecrowave</title><link>https://blog.emecas.net/posts/2020-05-25-meecrowave/</link><pubDate>Mon, 25 May 2020 12:18:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-25-meecrowave/</guid><description><![CDATA[<p>Meecrowave<br>
+<a href="http://openwebbeans.apache.org/meecrowave/index.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/index.html</a><br>
+A light JAX-RS+CDI+JSON server!</p>
+<p>Community / Downloads<br>
+<a href="http://openwebbeans.apache.org/meecrowave/community.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/community.html</a><br>
+<a href="http://openwebbeans.apache.org/meecrowave/download.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/download.html</a></p>
+<p>Maven Central<br>
+<a href="https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22" target="_blank" rel="noopener noreffer ">https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22</a></p>
+<p>last release: org.apache.meecrowave	meecrowave-core	1.2.9	30-Sep-2019	pom  jar  javadoc.jar  runner.jar  sources.jar</p>
+<p>Tutorial:<br>
+<a href="https://www.baeldung.com/apache-meecrowave" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/apache-meecrowave</a></p>
+<p>Components:<br>
+<a href="http://openwebbeans.apache.org/meecrowave/components.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/components.html</a></p>
+<p>Meecrowave Core</p>
+<p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
+<p>Meecrowave JPA</p>
+<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
+<a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
+This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
+using both built-in and custom metrics with Helidon MP.</p>]]></description></item><item><title>Using JPA in Helidon MP</title><link>https://blog.emecas.net/posts/2020-01-16-using-jpa-in-helidon-mp/</link><pubDate>Thu, 16 Jan 2020 21:35:48 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-16-using-jpa-in-helidon-mp/</guid><description><![CDATA[<p>Using JPA in Helidon MP<br>
+<a href="https://helidon.io/docs/latest/index.html#/guides/24_jpa" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/24_jpa</a><br>
+This guide shows how to configure and use the Java Persistence API (JPA) from within a Helidon MP application.<br>
+Ref: <a href="https://github.com/oracle/helidon/issues/205" target="_blank" rel="noopener noreffer ">https://github.com/oracle/helidon/issues/205</a></p>]]></description></item><item><title>Microprofile and JPA</title><link>https://blog.emecas.net/posts/2019-04-25-microprofile-and-jpa/</link><pubDate>Thu, 25 Apr 2019 17:34:10 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-25-microprofile-and-jpa/</guid><description><![CDATA[<p>Microprofile and JPA Links</p>
+<p><a href="https://stackoverflow.com/questions/52117613/microprofile-config-custom-configsource-using-jpa" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/52117613/microprofile-config-custom-configsource-using-jpa</a><br>
+<a href="https://thorntail.io/downloads/" target="_blank" rel="noopener noreffer ">https://thorntail.io/downloads/</a><br>
+<a href="https://readlearncode.com/java-ee/eclipse-microprofile-5-things-you-need-to-know/" target="_blank" rel="noopener noreffer ">https://readlearncode.com/java-ee/eclipse-microprofile-5-things-you-need-to-know/</a><br>
+<a href="https://github.com/eclipse/microprofile-sandbox" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/microprofile-sandbox</a><br>
+<a href="https://developer.ibm.com/tutorials/write-a-simple-microprofile-application-2/" target="_blank" rel="noopener noreffer ">https://developer.ibm.com/tutorials/write-a-simple-microprofile-application-2/</a><br>
+<a href="https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application-2-adding-persistence/" target="_blank" rel="noopener noreffer ">https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application-2-adding-persistence/</a><br>
+<a href="https://thoughts-on-java.org/java-ee-micro-profile-optimizing-java-ee-microservices/" target="_blank" rel="noopener noreffer ">https://thoughts-on-java.org/java-ee-micro-profile-optimizing-java-ee-microservices/</a><br>
+<a href="https://github.com/payara/Payara/issues/1283" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara/issues/1283</a><br>
+<a href="https://github.com/oracle/helidon/issues/205" target="_blank" rel="noopener noreffer ">https://github.com/oracle/helidon/issues/205</a></p>]]></description></item><item><title>Tutorial Spring Security JWT Authentication</title><link>https://blog.emecas.net/posts/2019-04-24-tutorial-spring-security-jwt-authentication/</link><pubDate>Wed, 24 Apr 2019 17:33:41 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-24-tutorial-spring-security-jwt-authentication/</guid><description><![CDATA[<p>Spring Security JWT Authentication + PostgreSQL – RestAPIs SpringBoot + Spring MVC + Spring JPA<br>
+<a href="https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa" target="_blank" rel="noopener noreffer ">https://grokonez.com/spring-framework/spring-boot/spring-security-jwt-authentication-postgresql-restapis-springboot-spring-mvc-spring-jpa</a></p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
+<a href="http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database" target="_blank" rel="noopener noreffer ">http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database</a><br>
+This guide will help you understand the concept of in memory database. We will look at simple JPA example to understand the best practices in using in memory databases.<br>
+You will learn</p>
+<p>What is an in memory database?<br>
+Why do you use an in memory database?<br>
+What are the best practices in using an in memory database?<br>
+How to connect a Spring Boot project to H2?</p>]]></description></item><item><title>JPA Performance Benchmark (JPAB)</title><link>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</link><pubDate>Wed, 08 Feb 2017 11:51:26 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</guid><description><![CDATA[<p>JPA Performance Benchmark (JPAB)<br>
+<a href="http://www.jpab.org/" target="_blank" rel="noopener noreffer ">http://www.jpab.org/</a><br>
+About this Benchmark</p>
+<p>This is a comprehensive benchmark that compares the performance of different combinations of JPA providers and Database Management Systems (DBMS). It covers many JPA ORM providers (Hibernate, EclipseLink, OpenJPA and DataNucleus) and DBMS (MySQL, PostgreSQL, Derby, HSQLDB, H2, HSQLite) that are available in Java.</p>
+<p>The benchmark is published by ObjectDB Software Ltd., but it should be useful also for anyone that is interested only in RDBMS and ORM (and not in object databases). Please read the FAQ for more details.</p>]]></description></item></channel></rss>

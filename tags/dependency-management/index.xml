@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Dependency-Management - Tag - My Notes</title><link>https://blog.emecas.net/tags/dependency-management/</link><description>Dependency-Management - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Sep 2024 14:41:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/dependency-management/" rel="self" type="application/rss+xml"/><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
+<a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">https://python-poetry.org/</a><br>
+Python packaging and dependency management made easy<br>
+REPO: <a href="https://github.com/python-poetry/poetry" target="_blank" rel="noopener noreffer ">https://github.com/python-poetry/poetry</a></p>
+<p>- Deterministic builds Develop<br>
+Poetry comes with all the tools you might need to manage your projects in a deterministic way.</p>
+<p>- Package with ease Build<br>
+Easily build and package your projects with a single command.</p>
+<p>- Share your work Publish<br>
+Make your work known by publishing it to PyPI.</p>
+<p>- Check the state of your dependencies Track<br>
+Having an insight of your project&rsquo;s dependencies is just one command away.</p>]]></description></item><item><title>Gradle</title><link>https://blog.emecas.net/posts/2014-04-11-gradle/</link><pubDate>Fri, 11 Apr 2014 13:40:38 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-11-gradle/</guid><description><![CDATA[<p>Gradle<br>
+<a href="http://www.gradle.org/" target="_blank" rel="noopener noreffer ">http://www.gradle.org/</a></p>
+<p>Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.</p>
+<p>Gradle combines the power and flexibility of Ant with the dependency management and conventions of Maven into a more effective way to build. Powered by a Groovy DSL and packed with innovation, Gradle provides a declarative way to describe all kinds of builds through sensible defaults. Gradle is quickly becoming the build system of choice for many open source projects, leading edge enterprises and legacy automation challenges.</p>]]></description></item></channel></rss>

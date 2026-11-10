@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Introduction - Tag - My Notes</title><link>https://blog.emecas.net/tags/introduction/</link><description>Introduction - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 09:52:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/introduction/" rel="self" type="application/rss+xml"/><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
+<p>Joel Parker Henderson<br>
+<a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
+<a href="http://www.joelparkerhenderson.com/" target="_blank" rel="noopener noreffer ">http://www.joelparkerhenderson.com/</a></p>
+<p>About</p>
+<p>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</p>
+<p>Contents:</p>
+<p>What is an architecture decision record?<br>
+How to start using ADRs<br>
+How to start using ADRs with tools<br>
+How to start using ADRs with git<br>
+File name conventions for ADRs<br>
+Suggestions for writing good ADRs<br>
+ADR example templates<br>
+Teamwork advice for ADRs<br>
+For more information</p>]]></description></item><item><title>MBeans</title><link>https://blog.emecas.net/posts/2020-05-21-mbeans/</link><pubDate>Thu, 21 May 2020 23:08:47 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-21-mbeans/</guid><description><![CDATA[<p>MBeans - Introduction<br>
+<a href="https://docs.oracle.com/javase/tutorial/jmx/mbeans/index.html" target="_blank" rel="noopener noreffer ">https://docs.oracle.com/javase/tutorial/jmx/mbeans/index.html</a><br>
+This lesson introduces the fundamental concept of the JMX API, namely managed beans, or MBeans.</p>
+<p>An MBean is a managed Java object, similar to a JavaBeans component, that follows the design patterns set forth in the JMX specification. An MBean can represent a device, an application, or any resource that needs to be managed. MBeans expose a management interface that consists of the following:</p>
+<p>A set of readable or writable attributes, or both.<br>
+A set of invokable operations.<br>
+A self-description.</p>]]></description></item></channel></rss>

@@ -1,0 +1,107 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cli - Tag - My Notes</title><link>https://blog.emecas.net/tags/cli/</link><description>Cli - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 17:14:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cli/" rel="self" type="application/rss+xml"/><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
+<a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">https://mise.jdx.dev/</a><br>
+Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
+<p>Everything in its place, before you code.<br>
+In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.<br>
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
+<a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">https://python-poetry.org/</a><br>
+Python packaging and dependency management made easy<br>
+REPO: <a href="https://github.com/python-poetry/poetry" target="_blank" rel="noopener noreffer ">https://github.com/python-poetry/poetry</a></p>
+<p>- Deterministic builds Develop<br>
+Poetry comes with all the tools you might need to manage your projects in a deterministic way.</p>
+<p>- Package with ease Build<br>
+Easily build and package your projects with a single command.</p>
+<p>- Share your work Publish<br>
+Make your work known by publishing it to PyPI.</p>
+<p>- Check the state of your dependencies Track<br>
+Having an insight of your project&rsquo;s dependencies is just one command away.</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+CLI tool for working with Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
+repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<p>NAME:<br>
+jvms - JDK Version Manager (JVMS) for Windows</p>
+<p>USAGE:<br>
+jvms.exe [global options] command [command options] [arguments&hellip;]</p>
+<p>VERSION:<br>
+v2.1.5</p>
+<p>COMMANDS:<br>
+init        Initialize config file<br>
+list, ls    List current JDK installations.<br>
+install, i  Install available remote jdk<br>
+switch, s   Switch to use the specified version.<br>
+remove, rm  Remove a specific version.<br>
+rls         Show a list of versions available for download.<br>
+proxy       Set a proxy to use for downloads.<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
+<a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
+The Software Development Kit Manager</p>
+<p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
+<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
+WildFly Full<br>
+<a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
+WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
+<p>Doc: <a href="https://docs.wildfly.org/19/" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/</a><br>
+<a href="https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface</a></p>
+<p>Configuration sample:</p>
+<p>&lt;plugins&gt;</p>
+<p>&lt;plugin&gt;<br>
+&lt;groupId&gt;org.wildfly.plugins&lt;/groupId&gt;<br>
+&lt;artifactId&gt;wildfly-maven-plugin&lt;/artifactId&gt;<br>
+&lt;version&gt;2.0.2.Final&lt;/version&gt;<br>
+&lt;configuration&gt;<br>
+&lt;version&gt;19.0.0.Final&lt;/version&gt;<br>
+&lt;server-config&gt;standalone-microprofile.xml&lt;/server-config&gt;<br>
+&lt;systemProperties&gt;<br>
+&lt;jboss.tx.node.id&gt;1&lt;/jboss.tx.node.id&gt;<br>
+&lt;/systemProperties&gt;<br>
+&lt;!-- So that you can log into localhost:9990 --&gt;<br>
+&lt;add-user&gt;<br>
+&lt;users&gt;<br>
+&lt;user&gt;<br>
+&lt;username&gt;admin&lt;/username&gt;<br>
+&lt;password&gt;password&lt;/password&gt;<br>
+&lt;groups&gt;<br>
+&lt;group&gt;admin&lt;/group&gt;<br>
+&lt;/groups&gt;<br>
+&lt;/user&gt;<br>
+&lt;/users&gt;<br>
+&lt;/add-user&gt;<br>
+&lt;/configuration&gt;<br>
+&lt;/plugin&gt;<br>
+&lt;/plugins&gt;</p>]]></description></item><item><title>Apache Weex</title><link>https://blog.emecas.net/posts/2020-03-15-apache-weex/</link><pubDate>Sun, 15 Mar 2020 01:29:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-15-apache-weex/</guid><description><![CDATA[<p>Apache Weex<br>
+Weex is a framework for building performant mobile apps with modern web technology.<br>
+<a href="https://weex.apache.org/" target="_blank" rel="noopener noreffer ">https://weex.apache.org/</a></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
+Python wrapper for the GitLab API</p>
+<p>python-gitlab is a Python package providing access to the GitLab server API.<br>
+It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
+<p>Docker:</p>
+<p>How to build</p>
+<p>docker build -t python-gitlab:TAG .</p>
+<p>How to use</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
+<p>or run it directly from the upstream image:</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
+<a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
+Tasks, boards &amp; notes for the command-line habitat</p>]]></description></item></channel></rss>

@@ -1,0 +1,73 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Windows - Tag - My Notes</title><link>https://blog.emecas.net/tags/windows/</link><description>Windows - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/windows/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<p>NAME:<br>
+jvms - JDK Version Manager (JVMS) for Windows</p>
+<p>USAGE:<br>
+jvms.exe [global options] command [command options] [arguments&hellip;]</p>
+<p>VERSION:<br>
+v2.1.5</p>
+<p>COMMANDS:<br>
+init        Initialize config file<br>
+list, ls    List current JDK installations.<br>
+install, i  Install available remote jdk<br>
+switch, s   Switch to use the specified version.<br>
+remove, rm  Remove a specific version.<br>
+rls         Show a list of versions available for download.<br>
+proxy       Set a proxy to use for downloads.<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
+<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a><br>
+calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
+It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
+It is cross platform, running on Linux, Windows and macOS.</p>
+<p>For more information, see the calibre About page<br>
+<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item><item><title>xpra multi-platform screen and application forwarding system</title><link>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</link><pubDate>Sun, 15 Mar 2020 23:32:49 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</guid><description><![CDATA[<p>xpra<br>
+<a href="https://xpra.org/" target="_blank" rel="noopener noreffer ">https://xpra.org/</a><br>
+multi-platform screen and application forwarding system &ldquo;screen for X11&rdquo;<br>
+Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.</p>
+<p>It gives you remote access to individual applications or full desktops.<br>
+On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.<br>
+It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item><item><title>Monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror/</link><pubDate>Sat, 07 Mar 2020 20:09:37 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror/</guid><description><![CDATA[<p>Monitoror<br>
+<a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
+Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
+<a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
+<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
+is a free and open source software for healthcare data management.</p>
+<p>The organization web page:<br>
+<a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
+<p>contribution section:<br>
+<a href="https://www.open-hospital.org/en/contribute-actively/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/contribute-actively/</a></p>
+<p>The git repo:<br>
+<a href="https://github.com/informatici/openhospital" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital</a><br>
+This repository is used to build its portable releases.</p>
+<p>Other repos:<br>
+<a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
+<a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
+<a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
+<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
+<a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
+A command-line installer for Windows<br>
+<a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
+<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>]]></description></item><item><title>Handle</title><link>https://blog.emecas.net/posts/2019-05-15-handle/</link><pubDate>Wed, 15 May 2019 14:51:54 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-15-handle/</guid><description><![CDATA[<p>Handle<br>
+<a href="https://docs.microsoft.com/en-us/sysinternals/downloads/handle" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/sysinternals/downloads/handle</a><br>
+Ever wondered which program has a particular file or directory open? Now you can find out. Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.</p>]]></description></item><item><title>OptiKey : Full computer control and speech with your eyes</title><link>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</link><pubDate>Fri, 23 Jun 2017 08:58:32 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</guid><description><![CDATA[<p>OptiKey<br>
+<a href="https://github.com/OptiKey/OptiKey/wiki" target="_blank" rel="noopener noreffer ">https://github.com/OptiKey/OptiKey/wiki</a><br>
+Full computer control and speech with your eyes <a href="http://www.optikey.org" target="_blank" rel="noopener noreffer ">http://www.optikey.org</a></p>
+<p>OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).</p>
+<p>OptiKey was written to challenge the outrageously expensive, unreliable and difficult to use AAC (alternative and augmentative communication) products on the market. It is, therefore, fully open-source and free. Forever.</p>]]></description></item><item><title>Introduction to HTML Applications (HTAs)</title><link>https://blog.emecas.net/posts/2017-05-22-introduction-to-html-applications-htas/</link><pubDate>Mon, 22 May 2017 14:32:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-22-introduction-to-html-applications-htas/</guid><description><![CDATA[<p>Introduction to HTML Applications (HTAs)<br>
+<a href="https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx" target="_blank" rel="noopener noreffer ">https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx</a><br>
+The power to build HTML Applications (HTAs) brings Windows Internet Explorer to the fore as a viable Windows development platform. HTAs are full-fledged applications. These applications are trusted and display only the menus, icons, toolbars, and title information that the web developer creates. In short, HTAs pack all the power of Internet Explorer—its object model, performance, rendering power and protocol support—without enforcing the strict security model and user interface of the browser.<br>
+Content: Updated: May 2011<br>
+Why Use HTAs<br>
+Creating an HTA<br>
+HTA-Specific Functionality<br>
+The Power of Trust: HTAs and Security<br>
+Compatibility<br>
+HTA Deployment<br>
+Conclusion<br>
+Related Topics</p>]]></description></item></channel></rss>

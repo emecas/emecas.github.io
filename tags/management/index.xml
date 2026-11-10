@@ -1,0 +1,71 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Management - Tag - My Notes</title><link>https://blog.emecas.net/tags/management/</link><description>Management - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 May 2020 22:26:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/management/" rel="self" type="application/rss+xml"/><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
+WildFly Full<br>
+<a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
+WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
+<p>Doc: <a href="https://docs.wildfly.org/19/" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/</a><br>
+<a href="https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface</a></p>
+<p>Configuration sample:</p>
+<p>&lt;plugins&gt;</p>
+<p>&lt;plugin&gt;<br>
+&lt;groupId&gt;org.wildfly.plugins&lt;/groupId&gt;<br>
+&lt;artifactId&gt;wildfly-maven-plugin&lt;/artifactId&gt;<br>
+&lt;version&gt;2.0.2.Final&lt;/version&gt;<br>
+&lt;configuration&gt;<br>
+&lt;version&gt;19.0.0.Final&lt;/version&gt;<br>
+&lt;server-config&gt;standalone-microprofile.xml&lt;/server-config&gt;<br>
+&lt;systemProperties&gt;<br>
+&lt;jboss.tx.node.id&gt;1&lt;/jboss.tx.node.id&gt;<br>
+&lt;/systemProperties&gt;<br>
+&lt;!-- So that you can log into localhost:9990 --&gt;<br>
+&lt;add-user&gt;<br>
+&lt;users&gt;<br>
+&lt;user&gt;<br>
+&lt;username&gt;admin&lt;/username&gt;<br>
+&lt;password&gt;password&lt;/password&gt;<br>
+&lt;groups&gt;<br>
+&lt;group&gt;admin&lt;/group&gt;<br>
+&lt;/groups&gt;<br>
+&lt;/user&gt;<br>
+&lt;/users&gt;<br>
+&lt;/add-user&gt;<br>
+&lt;/configuration&gt;<br>
+&lt;/plugin&gt;<br>
+&lt;/plugins&gt;</p>]]></description></item><item><title>Remoter Library</title><link>https://blog.emecas.net/posts/2020-03-19-remoter-library/</link><pubDate>Thu, 19 Mar 2020 12:00:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-19-remoter-library/</guid><description><![CDATA[<p>The Remoter Library<br>
+<a href="https://www.remoter.com/" target="_blank" rel="noopener noreffer ">https://www.remoter.com/</a><br>
+Learn about recruiting, leadership, management and scaling remote teams from seasoned remoters.</p>
+<p>Explore by type<br>
+Articles<br>
+Podcasts<br>
+Interviews<br>
+Events<br>
+Templates</p>
+<p>Explore by topic<br>
+HR &amp; Legal<br>
+Culture<br>
+Guest<br>
+Work-Life Integration<br>
+Productivity<br>
+Business &amp; Finance<br>
+Diverse Workspace</p>
+<p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>]]></description></item><item><title>WildFly - a flexible, lightweight, managed application runtime that helps you build amazing applications</title><link>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</link><pubDate>Fri, 22 Dec 2017 11:39:02 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</guid><description><![CDATA[<p>WildFly<br>
+<a href="http://wildfly.org/" target="_blank" rel="noopener noreffer ">http://wildfly.org/</a><br>
+WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.<br>
+repo: <a href="https://github.com/wildfly/wildfly" target="_blank" rel="noopener noreffer ">https://github.com/wildfly/wildfly</a></p>]]></description></item><item><title>Project Falcon - Gephi</title><link>https://blog.emecas.net/posts/2013-06-28-project-falcon-gephi/</link><pubDate>Fri, 28 Jun 2013 10:19:15 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-06-28-project-falcon-gephi/</guid><description><![CDATA[<p>Project Falcon<br>
+Tackling Hadoop Data Lifecycle Management via Community Driven Open Source<br>
+<a href="http://hortonworks.com/blog/project-falcon-tackling-hadoop-data-lifecycle-management-via-community-driven-open-source/" target="_blank" rel="noopener noreffer ">http://hortonworks.com/blog/project-falcon-tackling-hadoop-data-lifecycle-management-via-community-driven-open-source/</a></p>
+<p>Falcon Proposal<br>
+Abstract: Falcon is a data processing and management solution for Hadoop designed for data motion, coordination of data pipelines, lifecycle management, and data discovery. Falcon enables end consumers to quickly onboard their data and its associated processing and management tasks on Hadoop clusters.<br>
+<a href="http://wiki.apache.org/incubator/FalconProposal" target="_blank" rel="noopener noreffer ">http://wiki.apache.org/incubator/FalconProposal</a></p>
+<p>Gephi<br>
+<a href="https://gephi.org/" target="_blank" rel="noopener noreffer ">https://gephi.org/</a><br>
+The Open Graph Viz Platform<br>
+Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.</p>]]></description></item><item><title>Mas links</title><link>https://blog.emecas.net/posts/2013-03-11-mas-links/</link><pubDate>Mon, 11 Mar 2013 12:03:51 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-11-mas-links/</guid><description><![CDATA[<p><a href="http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x</a></p>
+<p>Short, Self Contained, Correct Example<br>
+<a href="http://sscce.org/" target="_blank" rel="noopener noreffer ">http://sscce.org/</a></p>
+<p>Foreman<br>
+The Foreman is a complete lifecycle management tool for physical and virtual servers.<br>
+<a href="http://theforeman.org/" target="_blank" rel="noopener noreffer ">http://theforeman.org/</a><br>
+GitHub repo: <a href="https://github.com/theforeman" target="_blank" rel="noopener noreffer ">https://github.com/theforeman</a><br>
+Includes repot of website, and API in Ruby</p>
+<p>Curso Android (ESP)<br>
+<a href="http://www.androidcurso.com" target="_blank" rel="noopener noreffer ">http://www.androidcurso.com</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Console - Tag - My Notes</title><link>https://blog.emecas.net/tags/console/</link><description>Console - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 May 2020 22:26:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/console/" rel="self" type="application/rss+xml"/><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
+WildFly Full<br>
+<a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
+WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
+<p>Doc: <a href="https://docs.wildfly.org/19/" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/</a><br>
+<a href="https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface</a></p>
+<p>Configuration sample:</p>
+<p>&lt;plugins&gt;</p>
+<p>&lt;plugin&gt;<br>
+&lt;groupId&gt;org.wildfly.plugins&lt;/groupId&gt;<br>
+&lt;artifactId&gt;wildfly-maven-plugin&lt;/artifactId&gt;<br>
+&lt;version&gt;2.0.2.Final&lt;/version&gt;<br>
+&lt;configuration&gt;<br>
+&lt;version&gt;19.0.0.Final&lt;/version&gt;<br>
+&lt;server-config&gt;standalone-microprofile.xml&lt;/server-config&gt;<br>
+&lt;systemProperties&gt;<br>
+&lt;jboss.tx.node.id&gt;1&lt;/jboss.tx.node.id&gt;<br>
+&lt;/systemProperties&gt;<br>
+&lt;!-- So that you can log into localhost:9990 --&gt;<br>
+&lt;add-user&gt;<br>
+&lt;users&gt;<br>
+&lt;user&gt;<br>
+&lt;username&gt;admin&lt;/username&gt;<br>
+&lt;password&gt;password&lt;/password&gt;<br>
+&lt;groups&gt;<br>
+&lt;group&gt;admin&lt;/group&gt;<br>
+&lt;/groups&gt;<br>
+&lt;/user&gt;<br>
+&lt;/users&gt;<br>
+&lt;/add-user&gt;<br>
+&lt;/configuration&gt;<br>
+&lt;/plugin&gt;<br>
+&lt;/plugins&gt;</p>]]></description></item></channel></rss>

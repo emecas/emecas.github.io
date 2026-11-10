@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>In-Depth - Tag - My Notes</title><link>https://blog.emecas.net/tags/in-depth/</link><description>In-Depth - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 09:52:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/in-depth/" rel="self" type="application/rss+xml"/><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
+<p>Joel Parker Henderson<br>
+<a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
+<a href="http://www.joelparkerhenderson.com/" target="_blank" rel="noopener noreffer ">http://www.joelparkerhenderson.com/</a></p>
+<p>About</p>
+<p>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</p>
+<p>Contents:</p>
+<p>What is an architecture decision record?<br>
+How to start using ADRs<br>
+How to start using ADRs with tools<br>
+How to start using ADRs with git<br>
+File name conventions for ADRs<br>
+Suggestions for writing good ADRs<br>
+ADR example templates<br>
+Teamwork advice for ADRs<br>
+For more information</p>]]></description></item></channel></rss>

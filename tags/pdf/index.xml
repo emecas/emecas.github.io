@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Pdf - Tag - My Notes</title><link>https://blog.emecas.net/tags/pdf/</link><description>Pdf - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 29 May 2020 15:03:13 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/pdf/" rel="self" type="application/rss+xml"/><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
+<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a><br>
+calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
+It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
+It is cross platform, running on Linux, Windows and macOS.</p>
+<p>For more information, see the calibre About page<br>
+<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item><item><title>Project Gutenberg</title><link>https://blog.emecas.net/posts/2019-02-12-project-gutenberg/</link><pubDate>Tue, 12 Feb 2019 14:44:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-12-project-gutenberg/</guid><description><![CDATA[<p>Free eBooks - Project Gutenberg<br>
+<a href="http://www.gutenberg.org/wiki/Main_Page" target="_blank" rel="noopener noreffer ">http://www.gutenberg.org/wiki/Main_Page</a><br>
+Project Gutenberg offers over 58,000 free eBooks. Choose among free epub and Kindle eBooks, download them or read them online. You will find the world&rsquo;s great literature here, with focus on older works for which U.S. copyright has expired. Thousands of volunteers digitized and diligently proofread the eBooks, for enjoyment and education.<br>
+To encourage the creation and distribution of eBooks.</p>]]></description></item><item><title>OpenShift Cheat Sheet</title><link>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</link><pubDate>Mon, 11 Feb 2019 11:59:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</guid><description><![CDATA[<p>OpenShift Cheat Sheet<br>
+<a href="http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf" target="_blank" rel="noopener noreffer ">http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf</a><br>
+Content<br>
+1. What is OpenShift?. . . . . . . . . . . . . . . . . . . 1<br>
+2. Cheat sheet guide. . . . . . . . . . . . . . . . . . . . 1<br>
+3. Command overview. . . . . . . . . . . . . . . . . . 2<br>
+4. Simple build and deploy overview. . . . . 4<br>
+5. Simple routing overview. . . . . . . . . . . . . 4<br>
+6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5<br>
+7. Additional operations. . . . . . . . . . . . . . . 10<br>
+8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item><item><title>Neural Ordinary Differential Equations</title><link>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</link><pubDate>Fri, 21 Dec 2018 10:48:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</guid><description><![CDATA[<p>Neural Ordinary Differential Equations<br>
+Paper <a href="https://arxiv.org/abs/1806.07366" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1806.07366</a><br>
+Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud<br>
+(Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))<br>
+Post: <a href="https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/" target="_blank" rel="noopener noreffer ">https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/</a><br>
+reddit comments: <a href="https://reddit.com/comments/a65v5r" target="_blank" rel="noopener noreffer ">https://reddit.com/comments/a65v5r</a></p>
+<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
+And we&rsquo;ve written a follow-up paper applying this to generative density modeling:<br>
+Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>]]></description></item><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
+<p>- ExifTool by Phil Harvey<br>
+Read, Write and Edit Meta Information!<br>
+<a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank" rel="noopener noreffer ">http://owl.phy.queensu.ca/~phil/exiftool/</a><br>
+wiki: <a href="https://en.wikipedia.org/wiki/ExifTool" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/ExifTool</a></p>
+<p>-Metadata Extraction Tool<br>
+Introduction<br>
+The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.<br>
+<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>]]></description></item><item><title>itextSharp</title><link>https://blog.emecas.net/posts/2013-04-11-itextsharp/</link><pubDate>Thu, 11 Apr 2013 09:55:54 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-04-11-itextsharp/</guid><description><![CDATA[<p>itextSharp<br>
+<a href="http://sourceforge.net/projects/itextsharp/" target="_blank" rel="noopener noreffer ">http://sourceforge.net/projects/itextsharp/</a><br>
+iTextSharp is a C# port of iText, and open source Java library for PDF generation and manipulation. It can be used to create PDF documents from scratch, to convert XML to PDF (using the extra XFA Worker DLL), to fill out interactive PDF forms, to stamp new content on existing PDF documents, to split and merge existing PDF documents, and much more.</p>
+<p>Several iText engineers are actively supporting the project on the iText mailing-list itext-questions@lists.sourceforge.net and on StackOverflow: <a href="http://stackoverflow.com/questions/tagged/itextsharp" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/tagged/itextsharp</a></p>]]></description></item></channel></rss>

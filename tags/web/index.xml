@@ -1,0 +1,70 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Web - Tag - My Notes</title><link>https://blog.emecas.net/tags/web/</link><description>Web - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/web/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+Generate easy-to-read web pages for your Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
+repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
+demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+Playwright enables reliable end-to-end testing for modern web apps.<br>
+<a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
+<p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
+<p>Support for all browsers</p>
+<p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
+Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
+Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
+<a href="https://elgg.org/" target="_blank" rel="noopener noreffer ">https://elgg.org/</a><br>
+Introducing a powerful open source social networking engine<br>
+Providing you with the core components needed to build a socially aware web application</p>
+<p>Elgg is an award-winning open source social networking engine that provides a robust framework on which to build all kinds of social environments,<br>
+from a campus wide social network for your university, school or college or an internal collaborative platform for your organization through to a<br>
+brand-building communications tool for your company and its clients.</p>]]></description></item><item><title>Fastify</title><link>https://blog.emecas.net/posts/2020-09-16-fastify/</link><pubDate>Wed, 16 Sep 2020 18:56:30 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-16-fastify/</guid><description><![CDATA[<p>Fastify<br>
+<a href="https://www.fastify.io/" target="_blank" rel="noopener noreffer ">https://www.fastify.io/</a><br>
+Fast and low overhead web framework, for Node.js</p>
+<p>Why</p>
+<p>An efficient server implies a lower cost of the infrastructure, a better responsiveness under load and happy users. How can you efficiently handle the resources of your server, knowing that you are serving the highest number of requests possible, without sacrificing security validations and handy development?</p>
+<p>Enter Fastify. Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.</p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
+<a href="https://gatling.io/" target="_blank" rel="noopener noreffer ">https://gatling.io/</a><br>
+Async Scala-Akka-Netty based Load Test Tool<br>
+Gatling is a powerful open-source load testing solution.<br>
+Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
+Gatling includes a web recorder and colorful reports.<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
+<a href="https://plnkr.co" target="_blank" rel="noopener noreffer ">https://plnkr.co</a><br>
+Plunker is where you get stuff done<br>
+Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.</p>]]></description></item><item><title>Spark_java 2020</title><link>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</link><pubDate>Thu, 18 Jun 2020 18:26:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</guid><description><![CDATA[<p>spark 2020<br>
+Spark - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort</p>
+<p><a href="http://sparkjava.com/tutorials/" target="_blank" rel="noopener noreffer ">http://sparkjava.com/tutorials/</a></p>
+<p>Java</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-core&lt;/artifactId&gt;<br>
+&lt;version&gt;2.8.0&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Kotlin</p>
+<p>&lt;dependency&gt;<br>
+&lt;groupId&gt;com.sparkjava&lt;/groupId&gt;<br>
+&lt;artifactId&gt;spark-kotlin&lt;/artifactId&gt;<br>
+&lt;version&gt;1.0.0-alpha&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>Gradle : compile &ldquo;com.sparkjava:spark-core:2.8.0&rdquo; // add to build.gradle (for Java users)<br>
+Gradle : compile &ldquo;com.sparkjava:spark-kotlin:1.0.0-alpha&rdquo; // add to build.gradle (for Kotlin users)<br>
+Ivy : &lt;dependency org=&ldquo;com.sparkjava&rdquo; name=&ldquo;spark-core&rdquo; rev=&ldquo;2.8.0&rdquo; conf=&ldquo;build&rdquo; /&gt; // ivy.xml<br>
+SBT : libraryDependencies += &ldquo;com.sparkjava&rdquo; % &ldquo;spark-core&rdquo; % &ldquo;2.8.0&rdquo; // build.sbt</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+<a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
+A simple web framework for Java and Kotlin<br>
+<a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
+<p>Simple<br>
+Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.</p>
+<p>Lightweight<br>
+Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item><item><title>Kast</title><link>https://blog.emecas.net/posts/2020-05-13-kast/</link><pubDate>Wed, 13 May 2020 16:41:36 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-13-kast/</guid><description><![CDATA[<p>Kast<br>
+<a href="https://kast.gg" target="_blank" rel="noopener noreffer ">https://kast.gg</a><br>
+Kast is Watch Parties Made Easy<br>
+Share movies, TV shows, games, and whatever you want with 100+ people.</p>
+<p>Mission</p>
+<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>]]></description></item></channel></rss>

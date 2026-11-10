@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spring-Cloud - Tag - My Notes</title><link>https://blog.emecas.net/tags/spring-cloud/</link><description>Spring-Cloud - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 11 Aug 2019 14:29:00 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spring-cloud/" rel="self" type="application/rss+xml"/><item><title>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</title><link>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</link><pubDate>Sun, 11 Aug 2019 14:29:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</guid><description><![CDATA[<p>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</p>
+<p>Consul vs. Eureka<br>
+<a href="https://www.consul.io/intro/vs/eureka.html" target="_blank" rel="noopener noreffer ">https://www.consul.io/intro/vs/eureka.html</a></p>
+<p>Comparison of Spring Cloud with Eureka vs. Consul.io<br>
+<a href="http://www.nvisia.com/insights/comparison-of-spring-cloud-with-eureka-vs.-consul" target="_blank" rel="noopener noreffer ">http://www.nvisia.com/insights/comparison-of-spring-cloud-with-eureka-vs.-consul</a></p>
+<p>Consul vs Eureka vs Zookeeper<br>
+<a href="https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper" target="_blank" rel="noopener noreffer ">https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper</a></p>
+<p>Compare Eureka vs HashiCorp Consul<br>
+<a href="https://www.g2.com/compare/netflix-eureka-vs-hashicorp-consul" target="_blank" rel="noopener noreffer ">https://www.g2.com/compare/netflix-eureka-vs-hashicorp-consul</a></p>
+<p>Compare Eureka and consul-api&rsquo;s popularity and activity<br>
+<a href="https://java.libhunt.com/compare-eureka-vs-consul-api" target="_blank" rel="noopener noreffer ">https://java.libhunt.com/compare-eureka-vs-consul-api</a></p>
+<p>StevenACoffman/Eureka vs Consul.md<br>
+<a href="https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583" target="_blank" rel="noopener noreffer ">https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583</a></p>
+<p>What is the role of Zookeeper vs Eureka for microservices?<br>
+<a href="https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices</a></p>
+<p>Spring Cloud: use consul instead of eureka for service discovery with zuul<br>
+<a href="https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul</a></p>]]></description></item></channel></rss>

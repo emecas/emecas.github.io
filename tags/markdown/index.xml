@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Markdown - Tag - My Notes</title><link>https://blog.emecas.net/tags/markdown/</link><description>Markdown - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Apr 2026 19:19:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/markdown/" rel="self" type="application/rss+xml"/><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
+<a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
+<p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
+<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
+<p>An open-source scientific and technical publishing system</p>
+<p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
+Create dynamic content with Python, R, Julia, and Observable.<br>
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
+Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
+<a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
+Get everyone on the same page with Markdown<br>
+Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
+<p>Effective team collaboration<br>
+Flexible permissioning</p>
+<p>Transcend beyond space and time<br>
+Blazing fast real-time collaboration breaks the space between members. Change notification keeps everyone posted.<br>
+Sharing is caring<br>
+Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.<br>
+Keep your secret (while sharing it)<br>
+Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item></channel></rss>

@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tizen - Tag - My Notes</title><link>https://blog.emecas.net/tags/tizen/</link><description>Tizen - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 13 Jul 2013 13:09:30 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tizen/" rel="self" type="application/rss+xml"/><item><title>varios</title><link>https://blog.emecas.net/posts/2013-07-13-varios/</link><pubDate>Sat, 13 Jul 2013 13:09:30 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-07-13-varios/</guid><description><![CDATA[<p>Meetup API</p>
+<p>Java client:<br>
+code.google.com/p/meetup-java-client/<br>
+Python Client<br>
+<a href="https://github.com/meetup/python-api-client" target="_blank" rel="noopener noreffer ">https://github.com/meetup/python-api-client</a></p>
+<p>Tizen</p>
+<p>Intel App Porter Tool<br>
+IOS to HTML5</p>
+<p>Event Injector Concept (IDE Option)</p>
+<p>Ludei : demo html5 phone 5000 drops (multitasking)<br>
+<a href="http://www.ludei.com/" target="_blank" rel="noopener noreffer ">http://www.ludei.com/</a><br>
+<a href="http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/" target="_blank" rel="noopener noreffer ">http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/</a></p>
+<p>Stories:<br>
+<a href="http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html" target="_blank" rel="noopener noreffer ">http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html</a><br>
+<a href="http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android" target="_blank" rel="noopener noreffer ">http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android</a><br>
+--&gt; <a href="http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf" target="_blank" rel="noopener noreffer ">http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf</a></p>
+<p>To solve memory problem on mac to star emulator!!!:<br>
+sudo sysctl -w kern.sysv.shmall=393216 &amp;&amp; sudo sysctl -w kern.sysv.shmmax=1610612736</p>
+<p>To check Linux compatibility:</p>
+<p>Generar el Certificado</p>
+<p>Admins-MacBook-Pro-2:certificate-generator ecastaneda$ pwd<br>
+/Users/ecastaneda/tizen-sdk/tools/certificate-generator<br>
+Admins-MacBook-Pro-2:certificate-generator ecastaneda$ ./certificate-generator.sh<br>
+(tizen)</p>]]></description></item></channel></rss>

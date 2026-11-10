@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ruby - Tag - My Notes</title><link>https://blog.emecas.net/tags/ruby/</link><description>Ruby - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2020 20:51:02 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ruby/" rel="self" type="application/rss+xml"/><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
+<a href="https://github.com/DiUS/java-faker" target="_blank" rel="noopener noreffer ">https://github.com/DiUS/java-faker</a><br>
+Brings the popular ruby faker gem to Java<br>
+JavaFaker is a library that can be used to generate a wide array of real-looking data from addresses to popular culture references.</p>
+<p>maven:<br>
+&lt;dependency&gt;<br>
+&lt;groupId&gt;com.github.javafaker&lt;/groupId&gt;<br>
+&lt;artifactId&gt;javafaker&lt;/artifactId&gt;<br>
+&lt;version&gt;1.0.2&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>gradle:<br>
+dependencies {<br>
+implementation &lsquo;com.github.javafaker:javafaker:1.0.2&rsquo;<br>
+}</p>
+<p>Java code<br>
+Faker faker = new Faker();</p>
+<p>String name = faker.name().fullName(); // Miss Samanta Schmidt<br>
+String firstName = faker.name().firstName(); // Emory<br>
+String lastName = faker.name().lastName(); // Barton</p>]]></description></item><item><title>Asciidoctor - a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.</title><link>https://blog.emecas.net/posts/2017-12-22-asciidoctor-a-fast-text-processor-and-publishing-toolchain-f/</link><pubDate>Fri, 22 Dec 2017 11:36:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-22-asciidoctor-a-fast-text-processor-and-publishing-toolchain-f/</guid><description><![CDATA[<p>Asciidoctor<br>
+<a href="http://asciidoctor.org/" target="_blank" rel="noopener noreffer ">http://asciidoctor.org/</a><br>
+Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Asciidoctor is written in Ruby, packaged as a RubyGem and published to RubyGems.org. The gem is also included in several Linux distributions, including Fedora, Debian and Ubuntu. Asciidoctor is open source, hosted on GitHub and released under the MIT license.</p>]]></description></item><item><title>Mas links</title><link>https://blog.emecas.net/posts/2013-03-11-mas-links/</link><pubDate>Mon, 11 Mar 2013 12:03:51 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-11-mas-links/</guid><description><![CDATA[<p><a href="http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/2526085/how-do-i-upgrade-php-in-mac-os-x</a></p>
+<p>Short, Self Contained, Correct Example<br>
+<a href="http://sscce.org/" target="_blank" rel="noopener noreffer ">http://sscce.org/</a></p>
+<p>Foreman<br>
+The Foreman is a complete lifecycle management tool for physical and virtual servers.<br>
+<a href="http://theforeman.org/" target="_blank" rel="noopener noreffer ">http://theforeman.org/</a><br>
+GitHub repo: <a href="https://github.com/theforeman" target="_blank" rel="noopener noreffer ">https://github.com/theforeman</a><br>
+Includes repot of website, and API in Ruby</p>
+<p>Curso Android (ESP)<br>
+<a href="http://www.androidcurso.com" target="_blank" rel="noopener noreffer ">http://www.androidcurso.com</a></p>]]></description></item></channel></rss>

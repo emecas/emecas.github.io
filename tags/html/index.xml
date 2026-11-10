@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>HTML - Tag - My Notes</title><link>https://blog.emecas.net/tags/html/</link><description>HTML - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 May 2024 12:13:58 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/html/" rel="self" type="application/rss+xml"/><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+Generate easy-to-read web pages for your Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
+repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
+demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>lxml</title><link>https://blog.emecas.net/posts/2019-08-08-lxml/</link><pubDate>Thu, 08 Aug 2019 16:06:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-08-lxml/</guid><description><![CDATA[<p>lxml<br>
+<a href="https://lxml.de/" target="_blank" rel="noopener noreffer ">https://lxml.de/</a><br>
+XML and HTML with Python<br>
+lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>]]></description></item><item><title>jsoup: Java HTML Parser</title><link>https://blog.emecas.net/posts/2018-01-03-jsoup-java-html-parser/</link><pubDate>Wed, 03 Jan 2018 09:30:50 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-01-03-jsoup-java-html-parser/</guid><description><![CDATA[<p>jsoup: Java HTML Parser<br>
+<a href="https://jsoup.org/" target="_blank" rel="noopener noreffer ">https://jsoup.org/</a><br>
+jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.<br>
+Repo: <a href="https://github.com/jhy/jsoup" target="_blank" rel="noopener noreffer ">https://github.com/jhy/jsoup</a></p>]]></description></item><item><title>JGiven Behavior-Driven Development in Plain Java</title><link>https://blog.emecas.net/posts/2017-12-14-jgiven-behavior-driven-development-in-plain-java/</link><pubDate>Thu, 14 Dec 2017 14:51:44 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-14-jgiven-behavior-driven-development-in-plain-java/</guid><description><![CDATA[<p>JGiven Behavior-Driven Development in Plain Java<br>
+<a href="http://jgiven.org/" target="_blank" rel="noopener noreffer ">http://jgiven.org/</a><br>
+JGiven is a developer-friendly and pragmatic BDD tool for Java. Developers write scenarios in plain Java using a fluent, domain-specific API, JGiven generates reports that are readable by domain experts.<br>
+<a href="https://github.com/TNG/JGiven" target="_blank" rel="noopener noreffer ">https://github.com/TNG/JGiven</a></p>]]></description></item><item><title>Introduction to HTML Applications (HTAs)</title><link>https://blog.emecas.net/posts/2017-05-22-introduction-to-html-applications-htas/</link><pubDate>Mon, 22 May 2017 14:32:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-22-introduction-to-html-applications-htas/</guid><description><![CDATA[<p>Introduction to HTML Applications (HTAs)<br>
+<a href="https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx" target="_blank" rel="noopener noreffer ">https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx</a><br>
+The power to build HTML Applications (HTAs) brings Windows Internet Explorer to the fore as a viable Windows development platform. HTAs are full-fledged applications. These applications are trusted and display only the menus, icons, toolbars, and title information that the web developer creates. In short, HTAs pack all the power of Internet Explorer—its object model, performance, rendering power and protocol support—without enforcing the strict security model and user interface of the browser.<br>
+Content: Updated: May 2011<br>
+Why Use HTAs<br>
+Creating an HTA<br>
+HTA-Specific Functionality<br>
+The Power of Trust: HTAs and Security<br>
+Compatibility<br>
+HTA Deployment<br>
+Conclusion<br>
+Related Topics</p>]]></description></item></channel></rss>

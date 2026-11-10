@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Meecrowave - Tag - My Notes</title><link>https://blog.emecas.net/tags/meecrowave/</link><description>Meecrowave - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 May 2020 12:18:19 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/meecrowave/" rel="self" type="application/rss+xml"/><item><title>Meecrowave</title><link>https://blog.emecas.net/posts/2020-05-25-meecrowave/</link><pubDate>Mon, 25 May 2020 12:18:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-25-meecrowave/</guid><description><![CDATA[<p>Meecrowave<br>
+<a href="http://openwebbeans.apache.org/meecrowave/index.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/index.html</a><br>
+A light JAX-RS+CDI+JSON server!</p>
+<p>Community / Downloads<br>
+<a href="http://openwebbeans.apache.org/meecrowave/community.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/community.html</a><br>
+<a href="http://openwebbeans.apache.org/meecrowave/download.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/download.html</a></p>
+<p>Maven Central<br>
+<a href="https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22" target="_blank" rel="noopener noreffer ">https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22</a></p>
+<p>last release: org.apache.meecrowave	meecrowave-core	1.2.9	30-Sep-2019	pom  jar  javadoc.jar  runner.jar  sources.jar</p>
+<p>Tutorial:<br>
+<a href="https://www.baeldung.com/apache-meecrowave" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/apache-meecrowave</a></p>
+<p>Components:<br>
+<a href="http://openwebbeans.apache.org/meecrowave/components.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/components.html</a></p>
+<p>Meecrowave Core</p>
+<p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
+<p>Meecrowave JPA</p>
+<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item></channel></rss>

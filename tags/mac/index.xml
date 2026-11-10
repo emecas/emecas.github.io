@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mac - Tag - My Notes</title><link>https://blog.emecas.net/tags/mac/</link><description>Mac - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mac/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>thebackroomtech for IP Address From a MAC</title><link>https://blog.emecas.net/posts/2016-04-25-thebackroomtech-for-ip-address-from-a-mac/</link><pubDate>Mon, 25 Apr 2016 04:22:54 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-25-thebackroomtech-for-ip-address-from-a-mac/</guid><description><![CDATA[<p>thebackroomtech<br>
+<a href="http://thebackroomtech.com" target="_blank" rel="noopener noreffer ">http://thebackroomtech.com</a><br>
+serving up the info back room techs everywhere find interesting</p>
+<p>Ref: Determine IP Address From a MAC Address<br>
+<a href="http://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/" target="_blank" rel="noopener noreffer ">http://thebackroomtech.com/2010/08/22/determine-ip-address-from-a-mac-address/</a></p>]]></description></item><item><title>Lynx on Mac</title><link>https://blog.emecas.net/posts/2014-03-01-lynx-on-mac/</link><pubDate>Sat, 01 Mar 2014 22:40:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-01-lynx-on-mac/</guid><description><![CDATA[<p>Lynx on Mac<br>
+Installing Lynx 2.8.7 on Mac OS X 10.6 Snow Leopard<br>
+<a href="https://wincent.com/wiki/Installing_Lynx_2.8.7_on_Mac_OS_X_10.6_Snow_Leopard" target="_blank" rel="noopener noreffer ">https://wincent.com/wiki/Installing_Lynx_2.8.7_on_Mac_OS_X_10.6_Snow_Leopard</a><br>
+Last Stable Release: <a href="http://lynx.isc.org/lynx2.8.8/index.html" target="_blank" rel="noopener noreffer ">http://lynx.isc.org/lynx2.8.8/index.html</a></p>
+<p>REF: SO extensio<br>
+<a href="http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu" target="_blank" rel="noopener noreffer ">http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu</a></p>]]></description></item><item><title>Sprite Kit</title><link>https://blog.emecas.net/posts/2014-02-13-sprite-kit/</link><pubDate>Thu, 13 Feb 2014 15:11:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-13-sprite-kit/</guid><description><![CDATA[<p>Sprite Kit<br>
+<a href="http://www.sprite-kit.com/" target="_blank" rel="noopener noreffer ">http://www.sprite-kit.com/</a><br>
+Sprite Kit is a powerful iOS/Mac graphics framework for 2D games (side-scrolling shooters, puzzle games, and platformers) introduced by Apple targetting games on iOS 7, OS X Mavericks and potentially Applet TV:</p>
+<p>A flexible API lets developers control sprite attributes such as position, size, rotation, gravity, and mass without requiring advanced knowledge of the underlying OpenGL code</p>
+<p>Built-in support for physics to depict the force of gravity and inertia</p>]]></description></item><item><title>MySql: Thread stack overrun</title><link>https://blog.emecas.net/posts/2013-12-06-mysql-thread-stack-overrun/</link><pubDate>Fri, 06 Dec 2013 00:43:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-06-mysql-thread-stack-overrun/</guid><description><![CDATA[<p>MySql: Thread stack overrun on XAMPP for Mac OS X<br>
+<a href="http://www.apachefriends.org/f/viewtopic.php?p=144638" target="_blank" rel="noopener noreffer ">http://www.apachefriends.org/f/viewtopic.php?p=144638</a><br>
+Solution: (changing the &ldquo;my.cnf&rdquo;)</p>
+<p>Related:<br>
+Why does this MySQL trigger cause a stack overflow?<br>
+<a href="http://stackoverflow.com/questions/5021945/why-does-this-mysql-trigger-cause-a-stack-overflow" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/5021945/why-does-this-mysql-trigger-cause-a-stack-overflow</a></p>]]></description></item><item><title>varios</title><link>https://blog.emecas.net/posts/2013-07-13-varios/</link><pubDate>Sat, 13 Jul 2013 13:09:30 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-07-13-varios/</guid><description><![CDATA[<p>Meetup API</p>
+<p>Java client:<br>
+code.google.com/p/meetup-java-client/<br>
+Python Client<br>
+<a href="https://github.com/meetup/python-api-client" target="_blank" rel="noopener noreffer ">https://github.com/meetup/python-api-client</a></p>
+<p>Tizen</p>
+<p>Intel App Porter Tool<br>
+IOS to HTML5</p>
+<p>Event Injector Concept (IDE Option)</p>
+<p>Ludei : demo html5 phone 5000 drops (multitasking)<br>
+<a href="http://www.ludei.com/" target="_blank" rel="noopener noreffer ">http://www.ludei.com/</a><br>
+<a href="http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/" target="_blank" rel="noopener noreffer ">http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/</a></p>
+<p>Stories:<br>
+<a href="http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html" target="_blank" rel="noopener noreffer ">http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html</a><br>
+<a href="http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android" target="_blank" rel="noopener noreffer ">http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android</a><br>
+--&gt; <a href="http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf" target="_blank" rel="noopener noreffer ">http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf</a></p>
+<p>To solve memory problem on mac to star emulator!!!:<br>
+sudo sysctl -w kern.sysv.shmall=393216 &amp;&amp; sudo sysctl -w kern.sysv.shmmax=1610612736</p>
+<p>To check Linux compatibility:</p>
+<p>Generar el Certificado</p>
+<p>Admins-MacBook-Pro-2:certificate-generator ecastaneda$ pwd<br>
+/Users/ecastaneda/tizen-sdk/tools/certificate-generator<br>
+Admins-MacBook-Pro-2:certificate-generator ecastaneda$ ./certificate-generator.sh<br>
+(tizen)</p>]]></description></item><item><title>MongoDB as Service on MAC</title><link>https://blog.emecas.net/posts/2013-03-17-mongodb-as-service-on-mac/</link><pubDate>Sun, 17 Mar 2013 01:16:48 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-17-mongodb-as-service-on-mac/</guid><description><![CDATA[<p>MongoDB<br>
+MongoDB Installation on Mac OS X as Service<br>
+<a href="http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/" target="_blank" rel="noopener noreffer ">http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/</a></p>]]></description></item><item><title>Chocolat</title><link>https://blog.emecas.net/posts/2013-03-13-chocolat/</link><pubDate>Wed, 13 Mar 2013 18:51:47 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-13-chocolat/</guid><description><![CDATA[<p>Chocolat<br>
+<a href="http://www.chocolatapp.com/" target="_blank" rel="noopener noreffer ">http://www.chocolatapp.com/</a><br>
+A tasty new text editor for Mac.<br>
+Chocolat is a new text editor for Mac OS X, that combines native Cocoa with powerful text editing tools.</p>]]></description></item><item><title>New Links</title><link>https://blog.emecas.net/posts/2013-03-10-new-links/</link><pubDate>Sun, 10 Mar 2013 14:06:54 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-10-new-links/</guid><description><![CDATA[<p>Installing PHP on MAC OS X 1.8<br>
+<a href="http://php-osx.liip.ch/" target="_blank" rel="noopener noreffer ">http://php-osx.liip.ch/</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Install - Tag - My Notes</title><link>https://blog.emecas.net/tags/install/</link><description>Install - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/install/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<p>NAME:<br>
+jvms - JDK Version Manager (JVMS) for Windows</p>
+<p>USAGE:<br>
+jvms.exe [global options] command [command options] [arguments&hellip;]</p>
+<p>VERSION:<br>
+v2.1.5</p>
+<p>COMMANDS:<br>
+init        Initialize config file<br>
+list, ls    List current JDK installations.<br>
+install, i  Install available remote jdk<br>
+switch, s   Switch to use the specified version.<br>
+remove, rm  Remove a specific version.<br>
+rls         Show a list of versions available for download.<br>
+proxy       Set a proxy to use for downloads.<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>Flathub</title><link>https://blog.emecas.net/posts/2023-06-03-flathub/</link><pubDate>Sat, 03 Jun 2023 15:14:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-06-03-flathub/</guid><description><![CDATA[<p>Flathub<br>
+<a href="https://flathub.org/" target="_blank" rel="noopener noreffer ">https://flathub.org/</a><br>
+Apps for Linux, right here</p>
+<p>Welcome to Flathub, the home of hundreds of apps which can be easily installed on any Linux distribution. Browse the apps online, from your app center or the command line.</p>
+<p>About Flathub</p>
+<p>Flathub is the place to get and distribute apps for all of desktop Linux. It is powered by Flatpak, allowing Flathub apps to run on almost any Linux distribution.<br>
+Use Flathub to gain access to a growing collection of Flatpaks by following the setup instructions.</p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
+<a href="https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap" target="_blank" rel="noopener noreffer ">https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap</a><br>
+ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>]]></description></item></channel></rss>

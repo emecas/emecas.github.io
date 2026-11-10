@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Uberjar - Tag - My Notes</title><link>https://blog.emecas.net/tags/uberjar/</link><description>Uberjar - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 10 May 2020 21:19:55 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/uberjar/" rel="self" type="application/rss+xml"/><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
+Evolution of Enterprise Java -  Optimised for microservice architectures<br>
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
+examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
+<p>Mature<br>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item></channel></rss>

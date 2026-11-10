@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Sigmajs - Tag - My Notes</title><link>https://blog.emecas.net/tags/sigmajs/</link><description>Sigmajs - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 01 Apr 2014 14:01:53 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/sigmajs/" rel="self" type="application/rss+xml"/><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
+<a href="http://sigmajs.org" target="_blank" rel="noopener noreffer ">http://sigmajs.org</a><br>
+Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.</p>
+<p>REF:<br>
+<a href="http://thewhyaxis.info/hairball/" target="_blank" rel="noopener noreffer ">http://thewhyaxis.info/hairball/</a><br>
+Sigma.js Cleans up Hairball Network Visualizations<br>
+Network visualization is a topic as complex as many of the hairballs it produces but Sigma.JS is designed to break through the clutter and graph networks that are more readable and user-friendly.<br>
+REF:<br>
+<a href="http://stackoverflow.com/a/14879782/833336" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/a/14879782/833336</a></p>]]></description></item></channel></rss>

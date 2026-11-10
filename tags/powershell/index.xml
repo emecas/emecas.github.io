@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Powershell - Tag - My Notes</title><link>https://blog.emecas.net/tags/powershell/</link><description>Powershell - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/powershell/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<p>NAME:<br>
+jvms - JDK Version Manager (JVMS) for Windows</p>
+<p>USAGE:<br>
+jvms.exe [global options] command [command options] [arguments&hellip;]</p>
+<p>VERSION:<br>
+v2.1.5</p>
+<p>COMMANDS:<br>
+init        Initialize config file<br>
+list, ls    List current JDK installations.<br>
+install, i  Install available remote jdk<br>
+switch, s   Switch to use the specified version.<br>
+remove, rm  Remove a specific version.<br>
+rls         Show a list of versions available for download.<br>
+proxy       Set a proxy to use for downloads.<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
+<p>Windows PowerShell is Microsoft&rsquo;s task automation framework, consisting of a command-line shell and<br>
+associated scripting language built on .NET Framework.<br>
+PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both<br>
+local and remote Windows systems.</p>
+<p><a href="http://www.dimensionit.tv/powershell-quick-reference/" target="_blank" rel="noopener noreffer ">http://www.dimensionit.tv/powershell-quick-reference/</a></p>]]></description></item></channel></rss>

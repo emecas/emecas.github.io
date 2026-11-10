@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jersey - Tag - My Notes</title><link>https://blog.emecas.net/tags/jersey/</link><description>Jersey - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2020 17:45:58 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jersey/" rel="self" type="application/rss+xml"/><item><title>Eclipse Krazo</title><link>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</link><pubDate>Tue, 25 Feb 2020 17:45:58 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</guid><description><![CDATA[<p>Eclipse Krazo<br>
+<a href="https://projects.eclipse.org/proposals/eclipse-krazo" target="_blank" rel="noopener noreffer ">https://projects.eclipse.org/proposals/eclipse-krazo</a><br>
+<a href="https://github.com/eclipse-ee4j/krazo" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/krazo</a><br>
+<a href="https://projects.eclipse.org/projects/ee4j.krazo" target="_blank" rel="noopener noreffer ">https://projects.eclipse.org/projects/ee4j.krazo</a><br>
+Eclipse Krazo is an implementation of action-based MVC specified by MVC 1.0 (JSR-371).<br>
+It builds on top of JAX-RS and currently contains support for RESTEasy,<br>
+Jersey and CXF with a well-defined SPI for other implementations.<br>
+<a href="https://github.com/eclipse-ee4j/krazo/wiki" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/krazo/wiki</a><br>
+Related links:<br>
+<a href="https://www.mvc-spec.org/" target="_blank" rel="noopener noreffer ">https://www.mvc-spec.org/</a><br>
+<a href="https://jcp.org/en/jsr/detail?id=371" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=371</a></p>]]></description></item><item><title>More about marshalling to XML/JSON</title><link>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</link><pubDate>Thu, 21 Nov 2013 13:59:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</guid><description><![CDATA[<p>Related S.O.answers:<br>
+Is it possible using Jersey/JAX-RS annotations to skip a class member when marshalling to XML/JSON?<br>
+<a href="http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh</a></p>
+<p>Jersey on Jetty on Android throws ContainerException: The ResourceConfig instance does not contain any root resource classes<br>
+<a href="http://stackoverflow.com/questions/11210734/jersey-on-jetty-on-android-throws-containerexception-the-resourceconfig-instanc" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/11210734/jersey-on-jetty-on-android-throws-containerexception-the-resourceconfig-instanc</a></p>
+<p>javax.xml.bind.JAXBException: Class *** nor any of its super class is known to this context<br>
+<a href="http://stackoverflow.com/questions/14057932/javax-xml-bind-jaxbexception-class-nor-any-of-its-super-class-is-known-to-t" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/14057932/javax-xml-bind-jaxbexception-class-nor-any-of-its-super-class-is-known-to-t</a></p>
+<p>Ref related: Java XML and JSON Binding<br>
+<a href="http://blog.bdoughan.com/" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/</a><br>
+Blog entry:<br>
+<a href="http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html</a></p>]]></description></item><item><title>Jersey and Cayenne</title><link>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</link><pubDate>Wed, 06 Nov 2013 21:53:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</guid><description><![CDATA[<p>Old Thread about Jersey and Cayenne<br>
+Help with Jersey Rest Services and Cayenne<br>
+<a href="http://comments.gmane.org/gmane.comp.java.cayenne.user/13326" target="_blank" rel="noopener noreffer ">http://comments.gmane.org/gmane.comp.java.cayenne.user/13326</a></p>]]></description></item></channel></rss>

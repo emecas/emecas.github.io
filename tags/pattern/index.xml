@@ -1,0 +1,62 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Pattern - Tag - My Notes</title><link>https://blog.emecas.net/tags/pattern/</link><description>Pattern - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Feb 2019 12:55:12 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/pattern/" rel="self" type="application/rss+xml"/><item><title>.gitignore nice pattern</title><link>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</link><pubDate>Fri, 01 Feb 2019 12:55:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</guid><description><![CDATA[<p>.gitignore nice pattern</p>
+<p>[TIL] : there is not other place where you can see a practical example<br>
+Ref: <a href="https://stackoverflow.com/a/8527645/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/8527645/833336</a></p>
+<p>Line Examples:</p>
+<p>#<br>
+[Tt]est[Rr]esult*/</p>
+<p># Build results<br>
+[Dd]ebug/<br>
+[Dd]ebugPublic/<br>
+[Rr]elease/<br>
+[Rr]eleases/<br>
+x64/<br>
+x86/<br>
+bld/<br>
+[Bb]in/<br>
+[Oo]bj/<br>
+[Ll]og/</p>
+<p>More refs:<br>
+<a href="https://git-scm.com/docs/gitignore" target="_blank" rel="noopener noreffer ">https://git-scm.com/docs/gitignore</a><br>
+<a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
+[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>]]></description></item><item><title>Investigating the CQRS pattern using GraphQL and SPQR</title><link>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</link><pubDate>Wed, 30 Jan 2019 17:33:02 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</guid><description><![CDATA[<p>Investigating the CQRS pattern using GraphQL and SPQR<br>
+<a href="https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582" target="_blank" rel="noopener noreffer ">https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582</a><br>
+Ken Anderson<br>
+Aug 26, 2018</p>]]></description></item><item><title>Hexagonal Architecture</title><link>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</link><pubDate>Tue, 21 Feb 2017 13:38:10 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</guid><description><![CDATA[<p>Active Directory Federation Services<br>
+<a href="https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services" target="_blank" rel="noopener noreffer ">https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services</a><br>
+Applies To: Windows Server 2016, Windows Server 2012 R2, Windows Server 2012<br>
+This document contains a list of all of the documentation areas for AD FS for Windows Server 2016, 2012 R2, and 2012. This includes the following:<br>
+•AD FS Overview<br>
+•AD FS Design<br>
+•AD FS Deployment<br>
+•AD FS Development<br>
+•AD FS Operations<br>
+•AD FS Technical Reference</p>
+<p>Hexagonal architecture<br>
+Aditional Ref: <a href="http://alistair.cockburn.us/Hexagonal&#43;architecture" target="_blank" rel="noopener noreffer ">http://alistair.cockburn.us/Hexagonal+architecture</a><br>
+By Alistair Cockburn.<br>
+The Pattern: Ports and Adapters (‘’Object Structural’’)<br>
+Alternative name: ‘’Ports &amp; Adapters’’<br>
+Alternative name: ‘’Hexagonal Architecture’’<br>
+Intent<br>
+Motivation<br>
+Nature of the Solution<br>
+Structure<br>
+Sample Code<br>
+Stage 1: FIT  App  constant-as-mock-database<br>
+Stage 2: UI  App  constant-as-mock-database<br>
+Stage 3: (FIT or UI)  App  mock database<br>
+Application Notes<br>
+The Left-Right Asymmetry<br>
+Use Cases And The Application Boundary<br>
+How Many Ports?<br>
+Known Uses<br>
+Distributed, Large-Team Development<br>
+Related Patterns<br>
+Adapter<br>
+Model-View-Controller<br>
+Mock Objects and Loopback<br>
+Pedestals<br>
+Checks<br>
+References and Related Reading</p>]]></description></item><item><title>BoundedContext</title><link>https://blog.emecas.net/posts/2017-02-02-boundedcontext/</link><pubDate>Thu, 02 Feb 2017 08:02:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-02-boundedcontext/</guid><description><![CDATA[<p>BoundedContext<br>
+<a href="https://www.martinfowler.com/bliki/BoundedContext.html" target="_blank" rel="noopener noreffer ">https://www.martinfowler.com/bliki/BoundedContext.html</a><br>
+Bounded Context is a central pattern in Domain-Driven Design. It is the focus of DDD&rsquo;s strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.</p>]]></description></item></channel></rss>

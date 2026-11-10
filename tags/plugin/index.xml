@@ -1,0 +1,92 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Plugin - Tag - My Notes</title><link>https://blog.emecas.net/tags/plugin/</link><description>Plugin - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Feb 2025 23:49:33 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/plugin/" rel="self" type="application/rss+xml"/><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
+Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+<a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
+<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<p>Feature List</p>
+<p>- Language: provides .NET, Python, Go, Java client for API register<br>
+- Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>
+- Security: Sign, OAuth 2.0, JSON Web Tokens, WAF plugin<br>
+- API governance: Request, response, parameter mapping, Hystrix, RateLimiter plugin<br>
+- Observability: Tracing, metrics, logging plugin<br>
+- Extensions: Plugin hot-swapping, dynamic loading<br>
+- Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
+<p>POM:</p>
+<p>&lt;plugin&gt;<br>
+&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>
+&lt;artifactId&gt;maven-javadoc-plugin&lt;/artifactId&gt;<br>
+&lt;version&gt;3.2.0&lt;/version&gt;<br>
+&lt;executions&gt;<br>
+&lt;execution&gt;<br>
+&lt;id&gt;attach-javadocs&lt;/id&gt;<br>
+&lt;goals&gt;<br>
+&lt;goal&gt;jar&lt;/goal&gt;<br>
+&lt;/goals&gt;<br>
+&lt;configuration&gt;<br>
+&lt;doclet&gt;nl.talsmasoftware.umldoclet.UMLDoclet&lt;/doclet&gt;<br>
+&lt;docletArtifact&gt;<br>
+&lt;groupId&gt;nl.talsmasoftware&lt;/groupId&gt;<br>
+&lt;artifactId&gt;umldoclet&lt;/artifactId&gt;<br>
+&lt;version&gt;2.0.9&lt;/version&gt;<br>
+&lt;/docletArtifact&gt;<br>
+&lt;/configuration&gt;<br>
+&lt;/execution&gt;<br>
+&lt;/executions&gt;<br>
+&lt;/plugin&gt;</p>
+<p>Other Ref: <a href="https://plantuml.com/doclet" target="_blank" rel="noopener noreffer ">https://plantuml.com/doclet</a></p>
+<p>UMLDoclet<br>
+<a href="https://github.com/talsma-ict/umldoclet" target="_blank" rel="noopener noreffer ">https://github.com/talsma-ict/umldoclet</a></p>
+<p>An open source doclet is now available on github..</p>
+<p>It&rsquo;s also available in Maven central for easy inclusion in any java projects.</p>
+<p>Usage:</p>
+<p>Declare the nl.talsmasoftware.umldoclet.UMLDoclet class to be used by javadoc (will by default also delegate to Standard doclet, so all-in-one).<br>
+All customizable options will become documented on the github page before the 1.0.0 release.</p>]]></description></item><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
+WildFly Full<br>
+<a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
+WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
+<p>Doc: <a href="https://docs.wildfly.org/19/" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/</a><br>
+<a href="https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface</a></p>
+<p>Configuration sample:</p>
+<p>&lt;plugins&gt;</p>
+<p>&lt;plugin&gt;<br>
+&lt;groupId&gt;org.wildfly.plugins&lt;/groupId&gt;<br>
+&lt;artifactId&gt;wildfly-maven-plugin&lt;/artifactId&gt;<br>
+&lt;version&gt;2.0.2.Final&lt;/version&gt;<br>
+&lt;configuration&gt;<br>
+&lt;version&gt;19.0.0.Final&lt;/version&gt;<br>
+&lt;server-config&gt;standalone-microprofile.xml&lt;/server-config&gt;<br>
+&lt;systemProperties&gt;<br>
+&lt;jboss.tx.node.id&gt;1&lt;/jboss.tx.node.id&gt;<br>
+&lt;/systemProperties&gt;<br>
+&lt;!-- So that you can log into localhost:9990 --&gt;<br>
+&lt;add-user&gt;<br>
+&lt;users&gt;<br>
+&lt;user&gt;<br>
+&lt;username&gt;admin&lt;/username&gt;<br>
+&lt;password&gt;password&lt;/password&gt;<br>
+&lt;groups&gt;<br>
+&lt;group&gt;admin&lt;/group&gt;<br>
+&lt;/groups&gt;<br>
+&lt;/user&gt;<br>
+&lt;/users&gt;<br>
+&lt;/add-user&gt;<br>
+&lt;/configuration&gt;<br>
+&lt;/plugin&gt;<br>
+&lt;/plugins&gt;</p>]]></description></item><item><title>JDepend Plugin</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</link><pubDate>Tue, 05 Mar 2019 11:15:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</guid><description><![CDATA[<p>The JDepend Plugin<br>
+<a href="https://docs.gradle.org/current/userguide/jdepend_plugin.html" target="_blank" rel="noopener noreffer ">https://docs.gradle.org/current/userguide/jdepend_plugin.html</a><br>
+The JDepend plugin performs quality checks on your project’s source files using JDepend and generates reports from these check</p>]]></description></item><item><title>NotePad++ Compare Plugin is back</title><link>https://blog.emecas.net/posts/2017-01-23-notepad-compare-plugin-is-back/</link><pubDate>Mon, 23 Jan 2017 13:22:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-23-notepad-compare-plugin-is-back/</guid><description><![CDATA[<p>NotePad++ Compare Plugin<br>
+Compare plugin is back!<br>
+<a href="https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back" target="_blank" rel="noopener noreffer ">https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back</a><br>
+<a href="https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0</a><br>
+<a href="https://github.com/pnedev/compare-plugin" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/compare-plugin</a></p>]]></description></item><item><title>JAS-mine is a Java platform that aims at providing a unique simulation tool for discrete-event simulations &amp; Eclipse Plugin</title><link>https://blog.emecas.net/posts/2016-12-05-jas-mine-is-a-java-platform-that-aims-at-providing-a-unique/</link><pubDate>Mon, 05 Dec 2016 09:56:28 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-05-jas-mine-is-a-java-platform-that-aims-at-providing-a-unique/</guid><description><![CDATA[<p>JAS-mine<br>
+<a href="http://www.jas-mine.net" target="_blank" rel="noopener noreffer ">http://www.jas-mine.net</a>.</p>
+<p>JAS-mine is a Java platform that aims at providing a unique simulation tool for discrete-event simulations, including agent-based and microsimulation models. With the aim to develop large-scale, data-driven models, the main architectural choice of JAS-mine is to use whenever possible standard, open-source tools already available in the software development community.</p>
+<p>Plugin for Eclipse: <a href="http://marketplace.eclipse.org/content/jas-mine-plugin-eclipse-ide" target="_blank" rel="noopener noreffer ">http://marketplace.eclipse.org/content/jas-mine-plugin-eclipse-ide</a></p>]]></description></item><item><title>WALLWATCHER - IntelliJ IDEA Code lines</title><link>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</link><pubDate>Tue, 18 Feb 2014 20:43:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</guid><description><![CDATA[<p>WALLWATCHER<br>
+Collect, View, and Analyze Router Logs<br>
+<a href="http://www.wallwatcher1.com" target="_blank" rel="noopener noreffer ">http://www.wallwatcher1.com</a><br>
+Version 3.3.37 (Final)	 January 1, 2011</p>
+<p>Ref: SO <a href="http://stackoverflow.com/review/first-posts/4082993" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/review/first-posts/4082993</a></p>
+<p>How to count lines of Java code using IntelliJ IDEA?<br>
+ref: SO <a href="http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea</a></p>
+<p>Command line -&gt;&gt;  find . -type f -name &lsquo;*.java&rsquo; | xargs cat | wc -l<br>
+Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>]]></description></item></channel></rss>

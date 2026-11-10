@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spring-Cloud-Config - Tag - My Notes</title><link>https://blog.emecas.net/tags/spring-cloud-config/</link><description>Spring-Cloud-Config - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Mar 2019 14:22:51 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spring-cloud-config/" rel="self" type="application/rss+xml"/><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
+<a href="https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/" target="_blank" rel="noopener noreffer ">https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/</a><br>
+By<br>
+Zoltan Altfatter</p>
+<p>In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized<br>
+configuration management in a microservice environment. I have prepared a simple example project<br>
+which you can find on my github account. It contains a config-service leveraging Spring Cloud<br>
+Config Server and three little services using Spring Cloud Config Client.</p>]]></description></item></channel></rss>

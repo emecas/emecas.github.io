@@ -1,0 +1,62 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>App - Tag - My Notes</title><link>https://blog.emecas.net/tags/app/</link><description>App - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 May 2020 17:57:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/app/" rel="self" type="application/rss+xml"/><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
+<a href="https://jcp.org/en/jsr/detail?id=377" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=377</a><br>
+<a href="http://jsr377.github.io/site/" target="_blank" rel="noopener noreffer ">http://jsr377.github.io/site/</a></p>
+<p>The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features</p>
+<p>dependency injection via JSR330.<br>
+common application structure.<br>
+application life-cycle.<br>
+localized resources.<br>
+resource injection.<br>
+localized configuration.<br>
+decouple state from UI (binding).<br>
+persistence session state (preferences).<br>
+action management.<br>
+component life-cycle.<br>
+light-weight event bus.<br>
+honor threading concerns (specific to UI toolkit).<br>
+application extensibility via plugins (implies modularity).</p>]]></description></item><item><title>Kast</title><link>https://blog.emecas.net/posts/2020-05-13-kast/</link><pubDate>Wed, 13 May 2020 16:41:36 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-13-kast/</guid><description><![CDATA[<p>Kast<br>
+<a href="https://kast.gg" target="_blank" rel="noopener noreffer ">https://kast.gg</a><br>
+Kast is Watch Parties Made Easy<br>
+Share movies, TV shows, games, and whatever you want with 100+ people.</p>
+<p>Mission</p>
+<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>]]></description></item><item><title>Jonathan Stark Podcasts</title><link>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</link><pubDate>Fri, 24 Apr 2020 15:25:31 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</guid><description><![CDATA[<p>Jonathan Stark Podcasts<br>
+<a href="https://www.jonathanstark.com" target="_blank" rel="noopener noreffer ">https://www.jonathanstark.com</a><br>
+Freelancers’ Show: <a href="https://devchat.tv/freelancers/" target="_blank" rel="noopener noreffer ">https://devchat.tv/freelancers/</a><br>
+Terrifying Robot Dog podcast : <a href="https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog" target="_blank" rel="noopener noreffer ">https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog</a><br>
+Ditching Hourly podcast: <a href="https://podcast.ditchinghourly.com/" target="_blank" rel="noopener noreffer ">https://podcast.ditchinghourly.com/</a></p>
+<p>Ref: SE-Radio Episode 300: Jonathan Stark on Mobile App Development<br>
+<a href="https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/</a></p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
+<p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
+<p>The Twelve Factors<br>
+I. Codebase<br>
+One codebase tracked in revision control, many deploys<br>
+II. Dependencies<br>
+Explicitly declare and isolate dependencies<br>
+III. Config<br>
+Store config in the environment<br>
+IV. Backing services<br>
+Treat backing services as attached resources<br>
+V. Build, release, run<br>
+Strictly separate build and run stages<br>
+VI. Processes<br>
+Execute the app as one or more stateless processes<br>
+VII. Port binding<br>
+Export services via port binding<br>
+VIII. Concurrency<br>
+Scale out via the process model<br>
+IX. Disposability<br>
+Maximize robustness with fast startup and graceful shutdown<br>
+X. Dev/prod parity<br>
+Keep development, staging, and production as similar as possible<br>
+XI. Logs<br>
+Treat logs as event streams<br>
+XII. Admin processes<br>
+Run admin/management tasks as one-off processes</p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
+An app that extracts info from your android device and let you export it</p>
+<p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
+* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>]]></description></item><item><title>Ad Networks Detector App for Android</title><link>https://blog.emecas.net/posts/2013-11-23-ad-networks-detector-app-for-android/</link><pubDate>Sat, 23 Nov 2013 20:33:47 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-23-ad-networks-detector-app-for-android/</guid><description><![CDATA[<p>Ad Networks Detector for Android<br>
+Free Android App Exposes All the Ad Networks On Your Device<br>
+<a href="http://securitywatch.pcmag.com/mobile-security/294907-free-android-app-exposes-all-the-ad-networks-on-your-device" target="_blank" rel="noopener noreffer ">http://securitywatch.pcmag.com/mobile-security/294907-free-android-app-exposes-all-the-ad-networks-on-your-device</a><br>
+PLAY link:<a href="https://play.google.com/store/apps/details?id=com.lookout.addetector" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.lookout.addetector</a></p>]]></description></item></channel></rss>

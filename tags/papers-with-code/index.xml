@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Papers-With-Code - Tag - My Notes</title><link>https://blog.emecas.net/tags/papers-with-code/</link><description>Papers-With-Code - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Mar 2020 11:52:54 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/papers-with-code/" rel="self" type="application/rss+xml"/><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
+@paperswithcode<br>
+<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
+Our mission</p>
+<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
+<p>We believe this is best done together with the community and powered by automation.</p>
+<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>]]></description></item></channel></rss>

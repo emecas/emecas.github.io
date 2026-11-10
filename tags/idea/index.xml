@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Idea - Tag - My Notes</title><link>https://blog.emecas.net/tags/idea/</link><description>Idea - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Feb 2014 20:43:52 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/idea/" rel="self" type="application/rss+xml"/><item><title>WALLWATCHER - IntelliJ IDEA Code lines</title><link>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</link><pubDate>Tue, 18 Feb 2014 20:43:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</guid><description><![CDATA[<p>WALLWATCHER<br>
+Collect, View, and Analyze Router Logs<br>
+<a href="http://www.wallwatcher1.com" target="_blank" rel="noopener noreffer ">http://www.wallwatcher1.com</a><br>
+Version 3.3.37 (Final)	 January 1, 2011</p>
+<p>Ref: SO <a href="http://stackoverflow.com/review/first-posts/4082993" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/review/first-posts/4082993</a></p>
+<p>How to count lines of Java code using IntelliJ IDEA?<br>
+ref: SO <a href="http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea</a></p>
+<p>Command line -&gt;&gt;  find . -type f -name &lsquo;*.java&rsquo; | xargs cat | wc -l<br>
+Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jep - Tag - My Notes</title><link>https://blog.emecas.net/tags/jep/</link><description>Jep - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 21 Sep 2022 18:54:15 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jep/" rel="self" type="application/rss+xml"/><item><title>Inside Java</title><link>https://blog.emecas.net/posts/2022-09-21-inside-java/</link><pubDate>Wed, 21 Sep 2022 18:54:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-09-21-inside-java/</guid><description><![CDATA[<p>Inside Java<br>
+<a href="https://inside.java/" target="_blank" rel="noopener noreffer ">https://inside.java/</a><br>
+News and views from members of the Java team at Oracle<br>
+Shows: Podcast |  Newscast |  JEP Café |  Sip Of Java<br>
+dev.java |  About |  Jobs</p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
+Owner: Robert Field<br>
+Created 2014/05/16 23:13<br>
+Updated 2017/06/09 04:21<br>
+Type Feature<br>
+Status Closed / Delivered<br>
+Component tools / jshell<br>
+Scope JDK<br>
+Discussion<br>
+kulla dash dev at openjdk dot java dot net<br>
+Effort L<br>
+Duration L<br>
+Priority 2<br>
+Reviewed by Alex Buckley, Brian Goetz<br>
+Endorsed by Brian Goetz<br>
+Release 9<br>
+Issue 8043364<br>
+Summary</p>
+<p>Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>]]></description></item><item><title>JDK 9 (schedule and features)</title><link>https://blog.emecas.net/posts/2017-01-06-jdk-9-schedule-and-features/</link><pubDate>Fri, 06 Jan 2017 17:38:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-06-jdk-9-schedule-and-features/</guid><description><![CDATA[<p>JDK 9 (schedule and features)</p>
+<p><a href="http://openjdk.java.net/projects/jdk9/" target="_blank" rel="noopener noreffer ">http://openjdk.java.net/projects/jdk9/</a><br>
+The goal of this Project is to produce an open-source reference implementation of the Java SE 9 Platform, to be defined by a forthcoming JSR in the Java Community Process.</p>
+<p>The schedule and features of this release are proposed and tracked via the JEP Process, as amended by the JEP 2.0 proposal.<br>
+Schedule</p>
+<p>2016/05/26 		Feature Complete<br>
+2016/12/22 		Feature Extension Complete<br>
+2017/01/05 		Rampdown Start<br>
+2017/02/09 		All Tests Run<br>
+2017/02/16 		Zero Bug Bounce<br>
+2017/03/16 		Rampdown Phase 2<br>
+2017/07/06 		Final Release Candidate<br>
+2017/07/27 		General Availability</p>]]></description></item></channel></rss>

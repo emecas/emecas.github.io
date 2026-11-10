@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Benchmark - Tag - My Notes</title><link>https://blog.emecas.net/tags/benchmark/</link><description>Benchmark - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Oct 2024 13:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/benchmark/" rel="self" type="application/rss+xml"/><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>JPA Performance Benchmark (JPAB)</title><link>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</link><pubDate>Wed, 08 Feb 2017 11:51:26 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</guid><description><![CDATA[<p>JPA Performance Benchmark (JPAB)<br>
+<a href="http://www.jpab.org/" target="_blank" rel="noopener noreffer ">http://www.jpab.org/</a><br>
+About this Benchmark</p>
+<p>This is a comprehensive benchmark that compares the performance of different combinations of JPA providers and Database Management Systems (DBMS). It covers many JPA ORM providers (Hibernate, EclipseLink, OpenJPA and DataNucleus) and DBMS (MySQL, PostgreSQL, Derby, HSQLDB, H2, HSQLite) that are available in Java.</p>
+<p>The benchmark is published by ObjectDB Software Ltd., but it should be useful also for anyone that is interested only in RDBMS and ORM (and not in object databases). Please read the FAQ for more details.</p>]]></description></item><item><title>CloudSort Benchmark - Spark new world record</title><link>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</link><pubDate>Mon, 12 Dec 2016 08:32:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</guid><description><![CDATA[<p>CloudSort Benchmark<br>
+<a href="http://sortbenchmark.org/" target="_blank" rel="noopener noreffer ">http://sortbenchmark.org/</a></p>
+<p>Sort Benchmark Home Page</p>
+<p>New: The 2016 records are listed below in green. Thank you to all of the many 2016 entrants!<br>
+Background</p>
+<p>Until 2007, the sort benchmarks were primary defined, sponsored and administered by Jim Gray. Following Jim&rsquo;s disappearance at sea in January 2007, the sort benchmarks have been continued by a committee of past colleagues and sort benchmark winners. The Sort Benchmark committee members include:</p>]]></description></item></channel></rss>

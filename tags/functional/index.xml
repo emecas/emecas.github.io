@@ -1,0 +1,48 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Functional - Tag - My Notes</title><link>https://blog.emecas.net/tags/functional/</link><description>Functional - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Nov 2018 13:58:08 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/functional/" rel="self" type="application/rss+xml"/><item><title>Kotlin Playground &amp; Kotlin Koans</title><link>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</link><pubDate>Thu, 29 Nov 2018 13:58:08 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</guid><description><![CDATA[<p>Kotlin Playground is an online sandbox to explore Kotlin<br>
+programming language,browse code samples directly in the browser<br>
+<a href="https://play.kotlinlang.org" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org</a><br>
+Kotlin Koans<br>
+<a href="https://play.kotlinlang.org/koans/overview" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org/koans/overview</a><br>
+Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio. Saying nothing of simply cloning the project on GitHub.</p>]]></description></item><item><title>OCaml</title><link>https://blog.emecas.net/posts/2018-10-04-ocaml/</link><pubDate>Thu, 04 Oct 2018 17:14:42 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-10-04-ocaml/</guid><description><![CDATA[<p>OCaml<br>
+<a href="https://ocaml.org/" target="_blank" rel="noopener noreffer ">https://ocaml.org/</a><br>
+OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles<br>
+<a href="https://en.wikipedia.org/wiki/OCaml" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/OCaml</a></p>]]></description></item><item><title>Rust</title><link>https://blog.emecas.net/posts/2018-10-03-rust/</link><pubDate>Wed, 03 Oct 2018 20:46:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-10-03-rust/</guid><description><![CDATA[<p>Rust (programming language)<br>
+<a href="https://www.rust-lang.org/en-US/" target="_blank" rel="noopener noreffer ">https://www.rust-lang.org/en-US/</a><br>
+Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.<br>
+<a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Rust_(programming_language)</a><br>
+<a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreffer ">https://github.com/rust-lang/rust</a></p>]]></description></item><item><title>Haskell</title><link>https://blog.emecas.net/posts/2018-10-02-haskell/</link><pubDate>Tue, 02 Oct 2018 13:12:30 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-10-02-haskell/</guid><description><![CDATA[<p>Haskell<br>
+An advanced, purely functional programming language<br>
+<a href="https://www.haskell.org/" target="_blank" rel="noopener noreffer ">https://www.haskell.org/</a><br>
+<a href="https://en.wikipedia.org/wiki/Haskell_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Haskell_(programming_language)</a></p>]]></description></item><item><title>An easier path to functional programming in Java</title><link>https://blog.emecas.net/posts/2017-02-27-an-easier-path-to-functional-programming-in-java/</link><pubDate>Mon, 27 Feb 2017 16:47:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-27-an-easier-path-to-functional-programming-in-java/</guid><description><![CDATA[<p>An easier path to functional programming in Java<br>
+<a href="http://www.ibm.com/developerworks/library/j-java8idioms1/index.html" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-java8idioms1/index.html</a><br>
+By Venkat Subramaniam<br>
+Published on February 15, 2017/Updated: February 24, 2017<br>
+Contents</p>
+<p>Introduction<br>
+The imperative style<br>
+The declarative style<br>
+The functional style<br>
+A functional programming example<br>
+Conclusion<br>
+Downloadable resources<br>
+Related topics<br>
+Comments</p>
+<p>PDF: <a href="http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf</a></p>
+<p>Related topics</p>
+<p>Java 8 language changes<br>
+<a href="https://www.ibm.com/developerworks/library/j-java8lambdas/" target="_blank" rel="noopener noreffer ">https://www.ibm.com/developerworks/library/j-java8lambdas/</a><br>
+Java 8 concurrency basics<br>
+<a href="http://www.ibm.com/developerworks/library/j-jvmc2/index.html" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-jvmc2/index.html</a><br>
+Functional thinking, Part 1: Learn to think like a functional programmer<br>
+<a href="http://www.ibm.com/developerworks/library/j-ft1/" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-ft1/</a><br>
+Functional Programming in Java: The Pragmatic Bookshelf, 2014<br>
+<a href="https://pragprog.com/book/vsjava8/functional-programming-in-java" target="_blank" rel="noopener noreffer ">https://pragprog.com/book/vsjava8/functional-programming-in-java</a></p>]]></description></item><item><title>Java Lambdas - Course</title><link>https://blog.emecas.net/posts/2017-01-31-java-lambdas-course/</link><pubDate>Tue, 31 Jan 2017 16:41:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-31-java-lambdas-course/</guid><description><![CDATA[<p>Java Lambdas - Course<br>
+Fast introduction in Java functional programming with lambdas<br>
+<a href="http://fruzenshtein-school.usefedora.com/p/java-lambdas" target="_blank" rel="noopener noreffer ">http://fruzenshtein-school.usefedora.com/p/java-lambdas</a></p>]]></description></item><item><title>NixOS &amp; CIA</title><link>https://blog.emecas.net/posts/2014-03-26-nixos-cia/</link><pubDate>Wed, 26 Mar 2014 15:55:17 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-26-nixos-cia/</guid><description><![CDATA[<p>The Nix project<br>
+<a href="http://nixos.org" target="_blank" rel="noopener noreffer ">http://nixos.org</a><br>
+Welcome to the homepage of the Nix project, which consists of a number of related open source subprojects:</p>
+<p>Nix is a purely functional package manager. This means that it can ensure that an upgrade to one package cannot break others, that you can always roll back to previous version, that multiple versions of a package can coexist on the same system, and much more.</p>
+<p>Nixpkgs is a large collection of packages that can be installed with the Nix package manager.</p>]]></description></item><item><title>Cucumber</title><link>https://blog.emecas.net/posts/2013-03-12-cucumber/</link><pubDate>Tue, 12 Mar 2013 18:44:27 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-12-cucumber/</guid><description><![CDATA[<p>Cucumber<br>
+<a href="http://cukes.info/" target="_blank" rel="noopener noreffer ">http://cukes.info/</a><br>
+Cucumber is a tool that executes plain-text functional descriptions as automated tests. The language that Cucumber understands is called Gherkin. Here is an example:<br>
+<a href="https://github.com/cucumber/cucumber/wiki" target="_blank" rel="noopener noreffer ">https://github.com/cucumber/cucumber/wiki</a></p>]]></description></item></channel></rss>

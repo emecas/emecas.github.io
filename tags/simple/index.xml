@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Simple - Tag - My Notes</title><link>https://blog.emecas.net/tags/simple/</link><description>Simple - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Apr 2026 19:19:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/simple/" rel="self" type="application/rss+xml"/><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
+<a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
+<p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
+<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+<a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
+A simple web framework for Java and Kotlin<br>
+<a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
+<p>Simple<br>
+Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.</p>
+<p>Lightweight<br>
+Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
+Lightweight. Fast. Crafted for Microservices.<br>
+<a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
+Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
+<p>Simple and fast<br>
+Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.<br>
+border_clear</p>]]></description></item></channel></rss>

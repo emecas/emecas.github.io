@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Benchmarks - Tag - My Notes</title><link>https://blog.emecas.net/tags/benchmarks/</link><description>Benchmarks - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Jul 2015 12:49:09 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/benchmarks/" rel="self" type="application/rss+xml"/><item><title>SonarQube - “Sonar”</title><link>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</link><pubDate>Wed, 08 Jul 2015 12:49:09 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</guid><description><![CDATA[<p>Web Framework Benchmarks<br>
+Introduction<br>
+This is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The test implementations are largely community-contributed and all source is available at the GitHub repository.<br>
+<a href="http://www.techempower.com/benchmarks/#section=intro&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=intro&hw=peak&test=plaintext</a><br>
+<a href="http://www.techempower.com/benchmarks/#section=data-r10&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=data-r10&hw=peak&test=plaintext</a></p>
+<p>SonarQube™ software (previously known as “Sonar”) is an open source project.<br>
+Download and install your own copy. Version: 5.1.1 (Jun 5, 2015) distributed under license LGPL v3.<br>
+All in one<br>
+SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:<br>
+Comments, Coding Rules, Architecture &amp; Design, Duplications, Unit Tests, Potential Bug, Complexity<br>
+<a href="http://www.sonarqube.org/" target="_blank" rel="noopener noreffer ">http://www.sonarqube.org/</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Definer - Tag - My Notes</title><link>https://blog.emecas.net/tags/definer/</link><description>Definer - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Dec 2013 13:10:21 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/definer/" rel="self" type="application/rss+xml"/><item><title>The user specified as a definer ('root'@'%') does not exist</title><link>https://blog.emecas.net/posts/2013-12-06-the-user-specified-as-a-definer-root-does-not-exist/</link><pubDate>Fri, 06 Dec 2013 13:10:21 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-06-the-user-specified-as-a-definer-root-does-not-exist/</guid><description><![CDATA[<p>MySQL : &ldquo;The user specified as a definer (&lsquo;root&rsquo;@&rsquo;%&rsquo;) does not exist&rdquo;<br>
+<a href="http://www.lynnnayko.com/2010/07/mysql-user-specified-as-definer-root.html" target="_blank" rel="noopener noreffer ">http://www.lynnnayko.com/2010/07/mysql-user-specified-as-definer-root.html</a><br>
+Solution:<br>
+If you&rsquo;ve found following error while using mysql database<br>
+The user specified as a definer (&lsquo;root&rsquo;@&rsquo;%&rsquo;) does not exist<br>
+Then you can solve it by using following :<br>
+grant all on *.* to &lsquo;root&rsquo;@&rsquo;%&rsquo; identified by &lsquo;password&rsquo; with grant option</p>]]></description></item></channel></rss>

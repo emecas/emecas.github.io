@@ -1,0 +1,59 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Security - Tag - My Notes</title><link>https://blog.emecas.net/tags/security/</link><description>Security - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Feb 2024 10:15:29 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/security/" rel="self" type="application/rss+xml"/><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
+<a href="https://www.jetbrains.com/qodana/" target="_blank" rel="noopener noreffer ">https://www.jetbrains.com/qodana/</a><br>
+Code quality done right</p>
+<p>Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.</p>
+<p>* 2,500+ code checks<br>
+Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
+<p>* Third-party license audit<br>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
+<a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
+<a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
+<a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
+<p><a href="https://github.com/architect/architect" target="_blank" rel="noopener noreffer ">https://github.com/architect/architect</a></p>
+<p>Deno is a brand new experimental JavaScript runtime and deno.town is a web based REPL with linting and code completion to help you explore and learn the API.<br>
+Why Deno?</p>
+<p>It is very fast<br>
+Built in least privilege security<br>
+Standard esmodules<br>
+TypeScript, JSX and TSX dialects supported</p>
+<p>How</p>
+<p>AWS Lambda (and friends) by way of OpenJS Architect<br>
+Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item><item><title>Swagger 2</title><link>https://blog.emecas.net/posts/2020-06-25-swagger-2/</link><pubDate>Thu, 25 Jun 2020 15:38:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-25-swagger-2/</guid><description><![CDATA[<p>Setting Up Swagger 2 with a Spring REST API<br>
+<a href="https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api</a><br>
+Nowadays, front-end and back-end components often separate a web application. Usually, we expose APIs as a back-end component for the front-end component or third-party app integrations.</p>
+<p>In such a scenario, it is essential to have proper specifications for the back-end APIs. At the same time, the API documentation should be informative, readable, and easy to follow.</p>]]></description></item><item><title>Fixing JWT Security Flaws</title><link>https://blog.emecas.net/posts/2019-10-22-fixing-jwt-security-flaws/</link><pubDate>Tue, 22 Oct 2019 17:32:29 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-10-22-fixing-jwt-security-flaws/</guid><description><![CDATA[<p>How I Fixed JWT Security Flaws in 3 Steps<br>
+<a href="https://dev.to/dashbird/how-i-fixed-jwt-security-flaws-in-3-steps-264k" target="_blank" rel="noopener noreffer ">https://dev.to/dashbird/how-i-fixed-jwt-security-flaws-in-3-steps-264k</a></p>]]></description></item><item><title>Threat Modeling</title><link>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</link><pubDate>Wed, 27 Mar 2019 20:49:48 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</guid><description><![CDATA[<p>Threat Modeling</p>
+<p><a href="https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling" target="_blank" rel="noopener noreffer ">https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling</a></p>
+<p>Threat modeling is a core element of the Microsoft Security Development Lifecycle (SDL). It’s an engineering technique you can use to help you identify threats, attacks, vulnerabilities, and countermeasures that could affect your application. You can use threat modeling to shape your application&rsquo;s design, meet your company&rsquo;s security objectives, and reduce risk.</p>
+<p>There are five major threat modeling steps:<br>
+Defining security requirements.<br>
+Creating an application diagram.<br>
+Identifying threats.<br>
+Mitigating threats.<br>
+Validating that threats have been mitigated.<br>
+Threat modeling should be part of your routine development lifecycle, enabling you to progressively refine your threat model and further reduce risk.</p>]]></description></item><item><title>OWASP (The Open Web Application Security Project)</title><link>https://blog.emecas.net/posts/2017-11-06-owasp-the-open-web-application-security-project/</link><pubDate>Mon, 06 Nov 2017 12:18:15 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-11-06-owasp-the-open-web-application-security-project/</guid><description><![CDATA[<p>OWASP (The Open Web Application Security Project)<br>
+<a href="https://www.owasp.org" target="_blank" rel="noopener noreffer ">https://www.owasp.org</a><br>
+the free and open software security community<br>
+wiki: <a href="https://update-wiki.owasp.org/index.php/Main_Page" target="_blank" rel="noopener noreffer ">https://update-wiki.owasp.org/index.php/Main_Page</a></p>
+<p>The OWASP Foundation<br>
+The OWASP Foundation came online on December 1st 2001 it was established as a not-for-profit charitable organization in the United States on April 21, 2004 to ensure the ongoing availability and support for our work at OWASP. OWASP is an international organization and the OWASP Foundation supports OWASP efforts around the world. OWASP is an open community dedicated to enabling organizations to conceive, develop, acquire, operate, and maintain applications that can be trusted. All of the OWASP tools, documents, forums, and chapters are free and open to anyone interested in improving application security. We advocate approaching application security as a people, process, and technology problem because the most effective approaches to application security include improvements in all of these areas. We can be found at <a href="http://www.owasp.org" target="_blank" rel="noopener noreffer ">http://www.owasp.org</a>.</p>]]></description></item><item><title>Imixs Workflow</title><link>https://blog.emecas.net/posts/2017-10-31-imixs-workflow/</link><pubDate>Tue, 31 Oct 2017 09:49:47 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-10-31-imixs-workflow/</guid><description><![CDATA[<p>SE-Radio<br>
+Software Engineering Radio for Professional Software Developers<br>
+<a href="http://www.se-radio.net/" target="_blank" rel="noopener noreffer ">http://www.se-radio.net/</a></p>
+<p>About:<br>
+<a href="http://www.se-radio.net/about-software-engineering-radio/" target="_blank" rel="noopener noreffer ">http://www.se-radio.net/about-software-engineering-radio/</a></p>
+<p>Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Three to four times per month, we publish a new episode talking to experts from the software engineering world about the full range of topics that matter to professional developers.<br>
+All SE Radio episodes feature original content; we don’t record conferences or talks given in other venues.<br>
+SE Radio is managed by the volunteers and staff of IEEE Software, a leading technical magazine for software professionals published by the IEEE Computer Society. All content is licensed under the Creative Commons 2.5 license.<br>
+SE Radio was founded in January 2006 by Markus Voelter.  It joined forces with IEEE Software in February 2012.</p>]]></description></item><item><title>Blog: Holistic Security and Technology</title><link>https://blog.emecas.net/posts/2017-07-17-blog-holistic-security-and-technology/</link><pubDate>Mon, 17 Jul 2017 16:22:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-17-blog-holistic-security-and-technology/</guid><description><![CDATA[<p>Blog: Holistic Security and Technology<br>
+<a href="https://holisticsecurity.io" target="_blank" rel="noopener noreffer ">https://holisticsecurity.io</a><br>
+Open Source, Security, BigData, DevOps in SDLC and Cloud<br>
+by Roger CARHUATOCTO (chilcano)<br>
+With The Systems Thinking approach, We see any problem in a complete and holistic manner, in fact, it is possible to apply Systems Thinking Methodology to ITSec problems allowing to incorporate new variables (usability, trust, quality, risk, etc.) to the problem that before was not considered in the solution.</p>]]></description></item><item><title>Keysweepe by Samy Kamkar</title><link>https://blog.emecas.net/posts/2017-01-03-keysweepe-by-samy-kamkar/</link><pubDate>Tue, 03 Jan 2017 08:35:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-03-keysweepe-by-samy-kamkar/</guid><description><![CDATA[<p>Keysweeper<br>
+Is the brainchild of hardware hacker and security researcher Samy Kamkar<br>
+A $10 USB charger with built-in wireless keylogger means more security headaches<br>
+<a href="http://www.codejava.net/frameworks/spring/spring-mvc-beginner-tutorial-with-spring-tool-suite-ide" target="_blank" rel="noopener noreffer ">http://www.codejava.net/frameworks/spring/spring-mvc-beginner-tutorial-with-spring-tool-suite-ide</a><br>
+Author Blog Post: <a href="http://samy.pl/keysweeper/" target="_blank" rel="noopener noreffer ">http://samy.pl/keysweeper/</a></p>]]></description></item><item><title>System Rules - JUnit Testing for System.exit</title><link>https://blog.emecas.net/posts/2015-07-16-system-rules-junit-testing-for-system-exit/</link><pubDate>Thu, 16 Jul 2015 14:11:18 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-16-system-rules-junit-testing-for-system-exit/</guid><description><![CDATA[<p>System Rules<br>
+A collection of JUnit rules for testing code that uses java.lang.System.<br>
+Command-Line Applications - System.exit - System Properties - Security Managers<br>
+<a href="http://stefanbirkner.github.io/system-rules/" target="_blank" rel="noopener noreffer ">http://stefanbirkner.github.io/system-rules/</a><br>
+REF: <a href="http://stackoverflow.com/a/309427/833336" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/a/309427/833336</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Redoc - Tag - My Notes</title><link>https://blog.emecas.net/tags/redoc/</link><description>Redoc - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Mar 2024 13:56:18 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/redoc/" rel="self" type="application/rss+xml"/><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+Generate beautiful API documentation from OpenAPI</p>
+<p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
+<p>By default Redoc offers a three-panel, responsive layout:</p>
+<p>The left panel contains a search bar and navigation menu.<br>
+The central panel contains the documentation.<br>
+The right panel contains request and response examples.</p>
+<p>Redoc Live demo<br>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item></channel></rss>

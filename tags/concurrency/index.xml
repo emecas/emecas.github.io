@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Concurrency - Tag - My Notes</title><link>https://blog.emecas.net/tags/concurrency/</link><description>Concurrency - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 13 Dec 2018 22:20:22 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/concurrency/" rel="self" type="application/rss+xml"/><item><title>Java Architect’s Blog</title><link>https://blog.emecas.net/posts/2018-12-13-java-architects-blog/</link><pubDate>Thu, 13 Dec 2018 22:20:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-13-java-architects-blog/</guid><description><![CDATA[<p>Java Architect’s Blog<br>
+by Korovin Anatoliy  <a href="https://twitter.com/antkorwin" target="_blank" rel="noopener noreffer ">https://twitter.com/antkorwin</a><br>
+<a href="http://antkorwin.com/" target="_blank" rel="noopener noreffer ">http://antkorwin.com/</a><br>
+Categories:<br>
+- TDD<br>
+- Spring State Machine<br>
+- Spring Cloud<br>
+- Spring Configuration<br>
+- Hibernate<br>
+- Reflection<br>
+- Concurrency &amp; Garbage Collector<br>
+- Code conventions<br>
+- Annotation processing</p>]]></description></item></channel></rss>

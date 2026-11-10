@@ -1,0 +1,59 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Podcast - Tag - My Notes</title><link>https://blog.emecas.net/tags/podcast/</link><description>Podcast - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 21 Sep 2022 18:54:15 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/podcast/" rel="self" type="application/rss+xml"/><item><title>Inside Java</title><link>https://blog.emecas.net/posts/2022-09-21-inside-java/</link><pubDate>Wed, 21 Sep 2022 18:54:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-09-21-inside-java/</guid><description><![CDATA[<p>Inside Java<br>
+<a href="https://inside.java/" target="_blank" rel="noopener noreffer ">https://inside.java/</a><br>
+News and views from members of the Java team at Oracle<br>
+Shows: Podcast |  Newscast |  JEP Café |  Sip Of Java<br>
+dev.java |  About |  Jobs</p>]]></description></item><item><title>The ReadME Project</title><link>https://blog.emecas.net/posts/2022-08-12-the-readme-project/</link><pubDate>Fri, 12 Aug 2022 14:04:50 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-08-12-the-readme-project/</guid><description><![CDATA[<p>The ReadME Project<br>
+<a href="https://github.com/readme" target="_blank" rel="noopener noreffer ">https://github.com/readme</a></p>
+<p>About:</p>
+<p>Coding is usually seen as a solitary activity, but it’s actually the world’s largest community effort led by open source maintainers, contributors, and teams. These unsung heroes put in long hours to build software, fix issues, field questions, and manage communities.</p>
+<p>The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.</p>]]></description></item><item><title>Jonathan Stark Podcasts</title><link>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</link><pubDate>Fri, 24 Apr 2020 15:25:31 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</guid><description><![CDATA[<p>Jonathan Stark Podcasts<br>
+<a href="https://www.jonathanstark.com" target="_blank" rel="noopener noreffer ">https://www.jonathanstark.com</a><br>
+Freelancers’ Show: <a href="https://devchat.tv/freelancers/" target="_blank" rel="noopener noreffer ">https://devchat.tv/freelancers/</a><br>
+Terrifying Robot Dog podcast : <a href="https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog" target="_blank" rel="noopener noreffer ">https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog</a><br>
+Ditching Hourly podcast: <a href="https://podcast.ditchinghourly.com/" target="_blank" rel="noopener noreffer ">https://podcast.ditchinghourly.com/</a></p>
+<p>Ref: SE-Radio Episode 300: Jonathan Stark on Mobile App Development<br>
+<a href="https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/</a></p>]]></description></item><item><title>Remoter Library</title><link>https://blog.emecas.net/posts/2020-03-19-remoter-library/</link><pubDate>Thu, 19 Mar 2020 12:00:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-19-remoter-library/</guid><description><![CDATA[<p>The Remoter Library<br>
+<a href="https://www.remoter.com/" target="_blank" rel="noopener noreffer ">https://www.remoter.com/</a><br>
+Learn about recruiting, leadership, management and scaling remote teams from seasoned remoters.</p>
+<p>Explore by type<br>
+Articles<br>
+Podcasts<br>
+Interviews<br>
+Events<br>
+Templates</p>
+<p>Explore by topic<br>
+HR &amp; Legal<br>
+Culture<br>
+Guest<br>
+Work-Life Integration<br>
+Productivity<br>
+Business &amp; Finance<br>
+Diverse Workspace</p>
+<p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>]]></description></item><item><title>Linear Digressions</title><link>https://blog.emecas.net/posts/2020-03-04-linear-digressions/</link><pubDate>Wed, 04 Mar 2020 16:35:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-04-linear-digressions/</guid><description><![CDATA[<p>Linear Digressions<br>
+<a href="https://lineardigressions.com/" target="_blank" rel="noopener noreffer ">https://lineardigressions.com/</a><br>
+<a href="https://twitter.com/lindigressions" target="_blank" rel="noopener noreffer ">https://twitter.com/lindigressions</a> @LinDigressions<br>
+<a href="https://twitter.com/multiarmbandit" target="_blank" rel="noopener noreffer ">https://twitter.com/multiarmbandit</a> Katie Malone<br>
+Linear Digressions is a podcast about Machine Learning and Data Science</p>]]></description></item><item><title>Dataflow Model</title><link>https://blog.emecas.net/posts/2020-01-26-dataflow-model/</link><pubDate>Sun, 26 Jan 2020 19:23:03 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-26-dataflow-model/</guid><description><![CDATA[<p>The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing<br>
+<a href="https://research.google/pubs/pub43864/" target="_blank" rel="noopener noreffer ">https://research.google/pubs/pub43864/</a><br>
+<a href="http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf" target="_blank" rel="noopener noreffer ">http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf</a><br>
+Ref: <a href="https://www.se-radio.net/2016/10/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/10/</a></p>]]></description></item><item><title>Mind Matters</title><link>https://blog.emecas.net/posts/2019-05-12-mind-matters/</link><pubDate>Sun, 12 May 2019 00:05:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-12-mind-matters/</guid><description><![CDATA[<p>Mind Matters<br>
+<a href="https://mindmatters.ai/" target="_blank" rel="noopener noreffer ">https://mindmatters.ai/</a><br>
+About Mind Matters and The Center for Intelligence</p>
+<p>Mind Matters features original news and analysis at the intersection of artificial and natural intelligence. Through articles and podcasts, it explores issues, challenges, and controversies relating to human and artificial intelligence from a perspective that values the unique capabilities of human beings. Mind Matters is published by the Walter Bradley Center for Natural and Artificial Intelligence.</p>
+<p>Articles<br>
+Podcast<br>
+Contributors<br>
+Subscribe</p>]]></description></item><item><title>Testing In The Pub</title><link>https://blog.emecas.net/posts/2019-02-21-testing-in-the-pub/</link><pubDate>Thu, 21 Feb 2019 15:14:06 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-21-testing-in-the-pub/</guid><description><![CDATA[<p>Testing In The Pub<br>
+<a href="http://testinginthepub.co.uk/testinginthepub/" target="_blank" rel="noopener noreffer ">http://testinginthepub.co.uk/testinginthepub/</a><br>
+A podcast all about software, team and quality</p>
+<p>Testing In The Pub – Your Regular Podcast All About Software Quality<br>
+Welcome to Testing In The Pub!<br>
+Listen to Steve and Dan talk about topics of interest, and sometimes interview leading members of the software community too.<br>
+You can subscribe via RSS or iTunes, or stream or download directly from this site. You can also find us on YouTube.<br>
+We appreciate your comments so please let us know what sort of topics you&rsquo;d like to hear about.</p>]]></description></item><item><title>Android Dev Podcast</title><link>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</link><pubDate>Fri, 08 Feb 2019 15:01:54 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</guid><description><![CDATA[<p>Android Dev Podcast<br>
+<a href="https://androiddevpodcast.com/" target="_blank" rel="noopener noreffer ">https://androiddevpodcast.com/</a><br>
+Podcast sobre Android en Español 🇲🇽🇵🇪🇨🇱🇬🇹🇸🇻🇩🇴🇨🇷 🇦🇷🇧🇴🇨🇴🇪🇸<br>
+<a href="https://twitter.com/androiddevlat" target="_blank" rel="noopener noreffer ">https://twitter.com/androiddevlat</a></p>]]></description></item><item><title>Java Pub House</title><link>https://blog.emecas.net/posts/2018-11-30-java-pub-house/</link><pubDate>Fri, 30 Nov 2018 15:44:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-11-30-java-pub-house/</guid><description><![CDATA[<p>Java Pub House<br>
+<a href="http://www.javapubhouse.com/" target="_blank" rel="noopener noreffer ">http://www.javapubhouse.com/</a><br>
+Nominated as the winner for the Ultimate List of Developer Podcast (for Java) we are the best source for Java Topics for the Professional Software Developer and the serious enthusiast! This podcast started with a simple idea. After interviewing all day long for a budding Startup, Freddy noticed that a lot of candidates came in with some strangely warped concepts on multi-threading, garbage collection and/or software design. As he went through the internet he realized that there are a lot of podcasts and beginning tutorials for a budding Java Developer, but there wasn’t a podcast that dealt with the real problems that a Java Developer encounters in their day-to-day job. Things like “how to troubleshoot a deadlock“, to “Optimizing for Performance” were never discussed with clarity, so Freddy set out to create a brand new podcast that will tackle “real issues” on “production software”. We don’t need another “hello world” podcast, but instead, we want to discuss the advantages or disadvantages of using the console for logging output!<br>
+<a href="https://twitter.com/javapubhouse" target="_blank" rel="noopener noreffer ">https://twitter.com/javapubhouse</a></p>]]></description></item></channel></rss>

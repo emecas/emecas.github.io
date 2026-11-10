@@ -1,0 +1,61 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>.NET - Tag - My Notes</title><link>https://blog.emecas.net/tags/.net/</link><description>.NET - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Jun 2021 20:11:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/.net/" rel="self" type="application/rss+xml"/><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+Playwright enables reliable end-to-end testing for modern web apps.<br>
+<a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
+<p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
+<p>Support for all browsers</p>
+<p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
+Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
+Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>xunit</title><link>https://blog.emecas.net/posts/2019-02-19-xunit/</link><pubDate>Tue, 19 Feb 2019 10:19:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-19-xunit/</guid><description><![CDATA[<p>xUnit.net<br>
+<a href="https://xunit.github.io/" target="_blank" rel="noopener noreffer ">https://xunit.github.io/</a><br>
+xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license).</p>]]></description></item><item><title>Deep Dive into Microsoft Configuration</title><link>https://blog.emecas.net/posts/2019-01-31-deep-dive-into-microsoft-configuration/</link><pubDate>Thu, 31 Jan 2019 12:16:23 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-31-deep-dive-into-microsoft-configuration/</guid><description><![CDATA[<p>Deep Dive into Microsoft Configuration<br>
+By Travis Illig<br>
+June 20, 2018<br>
+REF: <a href="https://stackoverflow.com/a/909712/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/909712/833336</a><br>
+Ref: <a href="https://github.com/aspnet/Configuration" target="_blank" rel="noopener noreffer ">https://github.com/aspnet/Configuration</a><br>
+Ref: <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&amp;tabs=basicconfiguration" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration</a></p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
+<p>Version	.NET Framework	Visual Studio	Important Features<br>
+C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>
+Basic features<br>
+C# 2.0	.NET Framework 2.0	Visual Studio 2005<br>
+Generics<br>
+Partial types<br>
+Anonymous methods<br>
+Iterators<br>
+Nullable types<br>
+Private setters (properties)<br>
+Method group conversions (delegates)<br>
+Covariance and Contra-variance<br>
+Static classes<br>
+C# 3.0	.NET Framework 3.0\3.5	Visual Studio 2008<br>
+Implicitly typed local variables<br>
+Object and collection initializers<br>
+Auto-Implemented properties<br>
+Anonymous types<br>
+Extension methods<br>
+Query expressions<br>
+Lambda expressions<br>
+Expression trees<br>
+Partial Methods<br>
+C# 4.0	.NET Framework 4.0	Visual Studio 2010<br>
+Dynamic binding (late binding)<br>
+Named and optional arguments<br>
+Generic co- and contravariance<br>
+Embedded interop types<br>
+C# 5.0	.NET Framework 4.5	Visual Studio 2012/2013<br>
+Async features<br>
+Caller information<br>
+C# 6.0	.NET Framework 4.6	Visual Studio 2013/2015<br>
+Expression Bodied Methods<br>
+Auto-property initializer<br>
+nameof Expression<br>
+Primary constructor<br>
+Await in catch block<br>
+Exception Filter<br>
+String Interpolation</p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
+<p>Windows PowerShell is Microsoft&rsquo;s task automation framework, consisting of a command-line shell and<br>
+associated scripting language built on .NET Framework.<br>
+PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both<br>
+local and remote Windows systems.</p>
+<p><a href="http://www.dimensionit.tv/powershell-quick-reference/" target="_blank" rel="noopener noreffer ">http://www.dimensionit.tv/powershell-quick-reference/</a></p>]]></description></item></channel></rss>

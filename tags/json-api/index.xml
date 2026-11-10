@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JSON-API - Tag - My Notes</title><link>https://blog.emecas.net/tags/json-api/</link><description>JSON-API - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 13 Jan 2020 10:51:45 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/json-api/" rel="self" type="application/rss+xml"/><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
+<a href="https://www.crnk.io/" target="_blank" rel="noopener noreffer ">https://www.crnk.io/</a><br>
+Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods.<br>
+Model your application as resources and relationshipsand implement the repositories to access them.<br>
+This simplifies development and opens up many, powerful new possibilities</p>
+<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>]]></description></item></channel></rss>

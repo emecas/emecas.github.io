@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jib - Tag - My Notes</title><link>https://blog.emecas.net/tags/jib/</link><description>Jib - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 Mar 2019 20:08:01 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jib/" rel="self" type="application/rss+xml"/><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
+<a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
+<p>Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -<br>
+and without deep mastery of Docker best-practices.<br>
+It is available as plugins for Maven and Gradle and as a Java library.</p>
+<p>Maven: See documentation for jib-maven-plugin.<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-maven-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-maven-plugin</a><br>
+Gradle: See documentation for jib-gradle-plugin.<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin</a><br>
+Jib Core: A general-purpose container-building library for Java.<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>]]></description></item></channel></rss>

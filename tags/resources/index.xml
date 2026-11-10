@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Resources - Tag - My Notes</title><link>https://blog.emecas.net/tags/resources/</link><description>Resources - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Sep 2022 16:22:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/resources/" rel="self" type="application/rss+xml"/><item><title>10 Resources to Improve Your Public Speaking Skills</title><link>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</link><pubDate>Thu, 08 Sep 2022 16:22:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</guid><description><![CDATA[<p>10 Resources to Improve Your Public Speaking Skills<br>
+<a href="https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/" target="_blank" rel="noopener noreffer ">https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/</a></p>
+<p>From:  <a href="https://2022.pgconf.nyc/callforpapers/" target="_blank" rel="noopener noreffer ">https://2022.pgconf.nyc/callforpapers/</a></p>]]></description></item><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
+<a href="https://www.crnk.io/" target="_blank" rel="noopener noreffer ">https://www.crnk.io/</a><br>
+Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods.<br>
+Model your application as resources and relationshipsand implement the repositories to access them.<br>
+This simplifies development and opens up many, powerful new possibilities</p>
+<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>]]></description></item><item><title>Netflixoss Eureka</title><link>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</link><pubDate>Wed, 08 Mar 2017 16:27:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</guid><description><![CDATA[<p>Eureka</p>
+<p>Docker image:<br>
+<a href="https://store.docker.com/community/images/netflixoss/eureka" target="_blank" rel="noopener noreffer ">https://store.docker.com/community/images/netflixoss/eureka</a></p>
+<p>docker pull netflixoss/eureka:1.3.1</p>
+<p>github: <a href="https://github.com/netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/netflix/eureka</a></p>
+<p>Running images:<br>
+<a href="https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images" target="_blank" rel="noopener noreffer ">https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images</a></p>]]></description></item><item><title>Bitcoin Resources</title><link>https://blog.emecas.net/posts/2013-11-22-bitcoin-resources/</link><pubDate>Fri, 22 Nov 2013 16:41:32 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-22-bitcoin-resources/</guid><description><![CDATA[<p>Bitcoin Resources</p>
+<p>Oficial Site<br>
+<a href="http://bitcoin.org" target="_blank" rel="noopener noreffer ">http://bitcoin.org</a><br>
+Sitio Oficial en español<br>
+<a href="http://bitcoin.org/es/" target="_blank" rel="noopener noreffer ">http://bitcoin.org/es/</a></p>
+<p>Otro sitio en español<br>
+<a href="http://elbitcoin.org" target="_blank" rel="noopener noreffer ">http://elbitcoin.org</a></p>
+<p>Libro en español<br>
+Bitcoin: La moneda del futuro - Qué es, cómo funciona y por qué cambiará el mundo<br>
+<a href="https://www.coindl.com/page/item/249" target="_blank" rel="noopener noreffer ">https://www.coindl.com/page/item/249</a></p>]]></description></item></channel></rss>

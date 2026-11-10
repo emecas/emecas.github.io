@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Facebook - Tag - My Notes</title><link>https://blog.emecas.net/tags/facebook/</link><description>Facebook - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 May 2020 12:39:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/facebook/" rel="self" type="application/rss+xml"/><item><title>Comic Agile</title><link>https://blog.emecas.net/posts/2020-05-03-comic-agile/</link><pubDate>Sun, 03 May 2020 12:39:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-03-comic-agile/</guid><description><![CDATA[<p>Comic Agile<br>
+<a href="http://www.comicagile.net" target="_blank" rel="noopener noreffer ">http://www.comicagile.net</a><br>
+when agility meets reality<br>
+by Luxshan Ratnaravi and Mikkel Noe-Nygaard<br>
+<a href="https://noe-nygaard.dk/comicagile/" target="_blank" rel="noopener noreffer ">https://noe-nygaard.dk/comicagile/</a></p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
+rocksdb.org<br>
+RocksDB is an embeddable persistent key-value store for fast storage.<br>
+Repo: <a href="https://github.com/facebook/rocksdb/" target="_blank" rel="noopener noreffer ">https://github.com/facebook/rocksdb/</a></p>
+<p>The RocksDB library provides a persistent key value store. Keys and values are arbitrary byte arrays. The keys are ordered within the key value store according to a user-specified comparator function.</p>
+<p>The library is maintained by the Facebook Database Engineering Team, and is based on LevelDB, by Sanjay Ghemawat and Jeff Dean at Google.</p>]]></description></item></channel></rss>

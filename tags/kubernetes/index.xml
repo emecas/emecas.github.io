@@ -1,0 +1,26 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kubernetes - Tag - My Notes</title><link>https://blog.emecas.net/tags/kubernetes/</link><description>Kubernetes - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Feb 2025 23:49:33 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kubernetes/" rel="self" type="application/rss+xml"/><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
+Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+<a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
+<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<p>Feature List</p>
+<p>- Language: provides .NET, Python, Go, Java client for API register<br>
+- Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>
+- Security: Sign, OAuth 2.0, JSON Web Tokens, WAF plugin<br>
+- API governance: Request, response, parameter mapping, Hystrix, RateLimiter plugin<br>
+- Observability: Tracing, metrics, logging plugin<br>
+- Extensions: Plugin hot-swapping, dynamic loading<br>
+- Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
+<a href="https://min.io/" target="_blank" rel="noopener noreffer ">https://min.io/</a><br>
+Kubernetes Native, High Performance Object Storage</p>
+<p>MinIO&rsquo;s high-performance object storage suite is software defined and<br>
+enables customers to build cloud-native data infrastructure for<br>
+machine learning, analytics and application data workloads.</p>
+<p>The defacto standard for Amazon S3 compatibility.</p>
+<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
+Tilt Up and Get Stuff Done<br>
+Tilt manages local development instances for teams that deploy to Kubernetes.</p>
+<p>Transition easily from any setup<br>
+Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item></channel></rss>

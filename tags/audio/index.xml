@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Audio - Tag - My Notes</title><link>https://blog.emecas.net/tags/audio/</link><description>Audio - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jun 2021 11:48:37 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/audio/" rel="self" type="application/rss+xml"/><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
+a highly automated and intuitive digital audio workstation<br>
+<a href="https://www.zrythm.org/en/index.html" target="_blank" rel="noopener noreffer ">https://www.zrythm.org/en/index.html</a></p>
+<p>Sources:<br>
+<a href="https://sr.ht/~alextee/zrythm/" target="_blank" rel="noopener noreffer ">https://sr.ht/~alextee/zrythm/</a></p>
+<p>Overview</p>
+<p>Zrythm is a cross-platform digital audio workstation designed to be featureful and easy to use.</p>
+<p>Limitless automation<br>
+Automate almost anything with automation events using straight lines, ramps and curves, or with LFOs and envelopes.</p>
+<p>Audio plugins<br>
+Complete support for LV2 and VST2, with experimental support for VST3, AU, SFZ and SF2.</p>
+<p>Multi-backend support<br>
+Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>Chronotron</title><link>https://blog.emecas.net/posts/2020-08-29-chronotron/</link><pubDate>Sat, 29 Aug 2020 19:42:56 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-29-chronotron/</guid><description><![CDATA[<p>Chronotron<br>
+<a href="https://www.chronotron.com/" target="_blank" rel="noopener noreffer ">https://www.chronotron.com/</a><br>
+Chronotron is the media player every musician should have in their toolbox.<br>
+Tempo and pitch can be adjusted independently during audio and video playback without affecting one another,<br>
+allowing to slow down audio and video material for easier music and speech transcription. And there&rsquo;s more&hellip;</p>
+<p>Blog : <a href="https://chronosynth.com/" target="_blank" rel="noopener noreffer ">https://chronosynth.com/</a></p>
+<p>Features</p>
+<p>Time-stretch audio and video from 25% to 400% in real time<br>
+Change key from -12 to 12 semitones with optional format preservation in real time<br>
+Download and play YouTube videos with the built-in downloader<br>
+Make transcription a breeze with the innovative Hold mode, polyphonic note detection and the built-in piano keyboard and guitar/bass fretboard<br>
+Use the Surface Dial to control tempo or play note by note in Hold mode<br>
+Play sections of a media clip in a loop<br>
+Memorize up to 10 specific positions in a media file with markers<br>
+Use the Solo Channel function to isolate individual audio channels<br>
+Enhance your sound with the 10-band equalizer, volume and balance controls<br>
+Fine-tune audio and video synchronization with the video delay control<br>
+Recall last used tempo and key settings automatically when opening playlists or individual files<br>
+Render tempo and key changes to a new media file (.mp3, .m4a or .wav for audio, .mp4 for video)<br>
+Supports .m3u, .mp4, .m4a, .wmv, .mp3, .wav, .flac and .wma</p>]]></description></item></channel></rss>

@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Javafaker - Tag - My Notes</title><link>https://blog.emecas.net/tags/javafaker/</link><description>Javafaker - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2020 20:51:02 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/javafaker/" rel="self" type="application/rss+xml"/><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
+<a href="https://github.com/DiUS/java-faker" target="_blank" rel="noopener noreffer ">https://github.com/DiUS/java-faker</a><br>
+Brings the popular ruby faker gem to Java<br>
+JavaFaker is a library that can be used to generate a wide array of real-looking data from addresses to popular culture references.</p>
+<p>maven:<br>
+&lt;dependency&gt;<br>
+&lt;groupId&gt;com.github.javafaker&lt;/groupId&gt;<br>
+&lt;artifactId&gt;javafaker&lt;/artifactId&gt;<br>
+&lt;version&gt;1.0.2&lt;/version&gt;<br>
+&lt;/dependency&gt;</p>
+<p>gradle:<br>
+dependencies {<br>
+implementation &lsquo;com.github.javafaker:javafaker:1.0.2&rsquo;<br>
+}</p>
+<p>Java code<br>
+Faker faker = new Faker();</p>
+<p>String name = faker.name().fullName(); // Miss Samanta Schmidt<br>
+String firstName = faker.name().firstName(); // Emory<br>
+String lastName = faker.name().lastName(); // Barton</p>]]></description></item></channel></rss>

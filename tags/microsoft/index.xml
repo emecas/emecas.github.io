@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Microsoft - Tag - My Notes</title><link>https://blog.emecas.net/tags/microsoft/</link><description>Microsoft - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 Mar 2019 20:49:48 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/microsoft/" rel="self" type="application/rss+xml"/><item><title>Threat Modeling</title><link>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</link><pubDate>Wed, 27 Mar 2019 20:49:48 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</guid><description><![CDATA[<p>Threat Modeling</p>
+<p><a href="https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling" target="_blank" rel="noopener noreffer ">https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling</a></p>
+<p>Threat modeling is a core element of the Microsoft Security Development Lifecycle (SDL). It’s an engineering technique you can use to help you identify threats, attacks, vulnerabilities, and countermeasures that could affect your application. You can use threat modeling to shape your application&rsquo;s design, meet your company&rsquo;s security objectives, and reduce risk.</p>
+<p>There are five major threat modeling steps:<br>
+Defining security requirements.<br>
+Creating an application diagram.<br>
+Identifying threats.<br>
+Mitigating threats.<br>
+Validating that threats have been mitigated.<br>
+Threat modeling should be part of your routine development lifecycle, enabling you to progressively refine your threat model and further reduce risk.</p>]]></description></item><item><title>Deep Dive into Microsoft Configuration</title><link>https://blog.emecas.net/posts/2019-01-31-deep-dive-into-microsoft-configuration/</link><pubDate>Thu, 31 Jan 2019 12:16:23 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-31-deep-dive-into-microsoft-configuration/</guid><description><![CDATA[<p>Deep Dive into Microsoft Configuration<br>
+By Travis Illig<br>
+June 20, 2018<br>
+REF: <a href="https://stackoverflow.com/a/909712/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/909712/833336</a><br>
+Ref: <a href="https://github.com/aspnet/Configuration" target="_blank" rel="noopener noreffer ">https://github.com/aspnet/Configuration</a><br>
+Ref: <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&amp;tabs=basicconfiguration" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration</a></p>]]></description></item><item><title>Introduction to HTML Applications (HTAs)</title><link>https://blog.emecas.net/posts/2017-05-22-introduction-to-html-applications-htas/</link><pubDate>Mon, 22 May 2017 14:32:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-22-introduction-to-html-applications-htas/</guid><description><![CDATA[<p>Introduction to HTML Applications (HTAs)<br>
+<a href="https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx" target="_blank" rel="noopener noreffer ">https://msdn.microsoft.com/en-us/library/ms536496%28v=vs.85%29.aspx</a><br>
+The power to build HTML Applications (HTAs) brings Windows Internet Explorer to the fore as a viable Windows development platform. HTAs are full-fledged applications. These applications are trusted and display only the menus, icons, toolbars, and title information that the web developer creates. In short, HTAs pack all the power of Internet Explorer—its object model, performance, rendering power and protocol support—without enforcing the strict security model and user interface of the browser.<br>
+Content: Updated: May 2011<br>
+Why Use HTAs<br>
+Creating an HTA<br>
+HTA-Specific Functionality<br>
+The Power of Trust: HTAs and Security<br>
+Compatibility<br>
+HTA Deployment<br>
+Conclusion<br>
+Related Topics</p>]]></description></item><item><title>Microsoft now allowing downloads of retail Windows 7 copies</title><link>https://blog.emecas.net/posts/2017-03-20-microsoft-now-allowing-downloads-of-retail-windows-7-copies/</link><pubDate>Mon, 20 Mar 2017 09:27:07 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-20-microsoft-now-allowing-downloads-of-retail-windows-7-copies/</guid><description><![CDATA[<p>Microsoft now allowing downloads of retail Windows 7 copies<br>
+<a href="http://www.zdnet.com/article/microsoft-now-allowing-downloads-of-retail-windows-7-copies/" target="_blank" rel="noopener noreffer ">http://www.zdnet.com/article/microsoft-now-allowing-downloads-of-retail-windows-7-copies/</a></p>]]></description></item><item><title>SAML &amp; ADFS</title><link>https://blog.emecas.net/posts/2017-02-14-saml-adfs/</link><pubDate>Tue, 14 Feb 2017 12:59:10 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-14-saml-adfs/</guid><description><![CDATA[<p>SAML-based products and services</p>
+<p><a href="https://en.wikipedia.org/wiki/SAML-based_products_and_services" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/SAML-based_products_and_services</a></p>
+<p>REF: ADFS (Active Directory Federation Services)<br>
+<a href="https://en.wikipedia.org/wiki/Active_Directory_Federation_Services" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Active_Directory_Federation_Services</a></p>
+<p>SAML 2.0<br>
+<a href="https://en.wikipedia.org/wiki/SAML_2.0" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/SAML_2.0</a><br>
+Security Assertion Markup Language 2.0 (SAML 2.0) is a version of the SAML standard for exchanging authentication and authorization data between security domains. SAML 2.0 is an XML-based protocol that uses security tokens containing assertions to pass information about a principal (usually an end user) between a SAML authority, named an Identity Provider, and a SAML consumer, named a Service Provider. SAML 2.0 enables web-based authentication and authorization scenarios including cross-domain single sign-on (SSO), which helps reduce the administrative overhead of distributing multiple authentication tokens to the user.[1]</p>]]></description></item></channel></rss>

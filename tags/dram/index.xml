@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Dram - Tag - My Notes</title><link>https://blog.emecas.net/tags/dram/</link><description>Dram - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Feb 2020 11:17:23 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/dram/" rel="self" type="application/rss+xml"/><item><title>RAMCloud</title><link>https://blog.emecas.net/posts/2020-02-03-ramcloud/</link><pubDate>Mon, 03 Feb 2020 11:17:23 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-03-ramcloud/</guid><description><![CDATA[<p>RAMCloud<br>
+<a href="https://github.com/PlatformLab/RAMCloud" target="_blank" rel="noopener noreffer ">https://github.com/PlatformLab/RAMCloud</a></p>
+<p>What is RAMCloud?</p>
+<p>RAMCloud is a new class of super-high-speed storage for large-scale datacenter applications.<br>
+It is designed for applications in which a large number of servers in a datacenter need low-latency access to a large durable datastore.<br>
+RAMCloud offers the following properties:</p>
+<p>Low latency: RAMCloud keeps all data in DRAM at all times, so applications can read RAMCloud objects remotely over a datacenter network in as little as 5μs. Writes take less than 15μs. Unlike systems such as memcached, applications never have to deal with cache misses or wait for disk/flash accesses. As a result, RAMCloud storage is 10-1000x faster than other available alternatives.<br>
+Large scale: RAMCloud aggregates the DRAM of thousands of servers to support total capacities of 1PB or more.<br>
+Durability: RAMCloud replicates all data on nonvolatile secondary storage such as disk or flash, so no data is lost if servers crash or the power fails. One of RAMCloud&rsquo;s unique features is that it recovers very quickly from server crashes (only 1-2 seconds) so the availability gaps after crashes are almost unnoticeable. As a result, RAMCloud combines the durability of replicated disk with the speed of DRAM. If you have used memcached, you have probably experienced the challenges of managing a second durable storage system and maintaining consistency between it and memcached. With RAMCloud, there is no need for a second storage system.<br>
+Powerful data model: RAMCloud&rsquo;s basic data model is a key-value store, but we have extended it with several additional features, such as:<br>
+Multiple tables, each with its own key space.<br>
+Transactional updates that span multiple objects in different tables.<br>
+Secondary indices.<br>
+Strong consistency: unlike other NoSQL storage systems, all updates in RAMCloud are consistent, immediately visible, and durable.<br>
+Easy deployment: RAMCloud is a software package that runs on commodity Intel servers with the Linux operating system. RAMCloud is available freely in open source form.</p>]]></description></item></channel></rss>

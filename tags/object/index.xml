@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Object - Tag - My Notes</title><link>https://blog.emecas.net/tags/object/</link><description>Object - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Sep 2020 23:32:13 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/object/" rel="self" type="application/rss+xml"/><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
+<a href="https://min.io/" target="_blank" rel="noopener noreffer ">https://min.io/</a><br>
+Kubernetes Native, High Performance Object Storage</p>
+<p>MinIO&rsquo;s high-performance object storage suite is software defined and<br>
+enables customers to build cloud-native data infrastructure for<br>
+machine learning, analytics and application data workloads.</p>
+<p>The defacto standard for Amazon S3 compatibility.</p>
+<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>]]></description></item><item><title>YOLO You only look once</title><link>https://blog.emecas.net/posts/2019-08-07-yolo-you-only-look-once/</link><pubDate>Wed, 07 Aug 2019 21:55:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-07-yolo-you-only-look-once/</guid><description><![CDATA[<p>YOLO: Real-Time Object Detection<br>
+<a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noopener noreffer ">https://pjreddie.com/darknet/yolo/</a><br>
+<a href="https://github.com/pjreddie/darknet" target="_blank" rel="noopener noreffer ">https://github.com/pjreddie/darknet</a><br>
+You only look once (YOLO) is a state-of-the-art, real-time object detection system. On a Pascal Titan X it processes images at 30 FPS and has a mAP of 57.9% on COCO test-dev.</p>
+<p>Comparison to Other Detectors</p>
+<p>YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on par with Focal Loss but about 4x faster. Moreover, you can easily tradeoff between speed and accuracy simply by changing the size of the model, no retraining required!</p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
+<a href="https://distributedobjectprotocol.org/" target="_blank" rel="noopener noreffer ">https://distributedobjectprotocol.org/</a><br>
+by Josema Gonzalez <a href="https://github.com/Josema" target="_blank" rel="noopener noreffer ">https://github.com/Josema</a><br>
+Distributed Object Protocol is for<br>
+Data sync, Pub/Sub, Remote procedure calls, Reactive programming,<br>
+Optimistic updates, Time-travel debugging, State management,<br>
+Unidirectional data flow, Real time apps.</p>]]></description></item></channel></rss>

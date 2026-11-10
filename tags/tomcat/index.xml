@@ -1,0 +1,45 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tomcat - Tag - My Notes</title><link>https://blog.emecas.net/tags/tomcat/</link><description>Tomcat - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 25 May 2020 12:18:19 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tomcat/" rel="self" type="application/rss+xml"/><item><title>Meecrowave</title><link>https://blog.emecas.net/posts/2020-05-25-meecrowave/</link><pubDate>Mon, 25 May 2020 12:18:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-25-meecrowave/</guid><description><![CDATA[<p>Meecrowave<br>
+<a href="http://openwebbeans.apache.org/meecrowave/index.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/index.html</a><br>
+A light JAX-RS+CDI+JSON server!</p>
+<p>Community / Downloads<br>
+<a href="http://openwebbeans.apache.org/meecrowave/community.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/community.html</a><br>
+<a href="http://openwebbeans.apache.org/meecrowave/download.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/download.html</a></p>
+<p>Maven Central<br>
+<a href="https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22" target="_blank" rel="noopener noreffer ">https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22</a></p>
+<p>last release: org.apache.meecrowave	meecrowave-core	1.2.9	30-Sep-2019	pom  jar  javadoc.jar  runner.jar  sources.jar</p>
+<p>Tutorial:<br>
+<a href="https://www.baeldung.com/apache-meecrowave" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/apache-meecrowave</a></p>
+<p>Components:<br>
+<a href="http://openwebbeans.apache.org/meecrowave/components.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/components.html</a></p>
+<p>Meecrowave Core</p>
+<p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
+<p>Meecrowave JPA</p>
+<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>Kibana Filters</title><link>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</link><pubDate>Tue, 04 Feb 2020 23:27:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</guid><description><![CDATA[<p>Kibana Filters</p>
+<p>tomcat</p>
+<p>message:	Written [{&ldquo;sp&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:57013,&ldquo;message&rdquo;:&ldquo;java.lang.NullPointerException ZRESIDENCE.TRANSACT.fci_complete_with_get_budget{p_term_code=202020, p_pidm=12345678}&rdquo;},&ldquo;stz&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:-1,&ldquo;message&rdquo;:&ldquo;NOT_CALLED&rdquo;}}] as &ldquo;application/json&rdquo; using [org.springframework.http.converter.StringHttpMessageConverter@bdc8014]</p>
+<p>log.file.path: 	/opt/tomcat/embedded/contex-path/logs/service.log</p>
+<p>host.name: 	node#.tomcat.freedom.edu</p>
+<p>container: contex-path</p>
+<p>application: contex-path</p>
+<p>log_type: 	tomcat</p>
+<p>web log</p>
+<p>request.path = [/contex-path/end-point]</p>
+<p>request.status = HTTP STATUS CODE (200 201 404 401)</p>
+<p>request.worker.name  =	sb_[jcpport]</p>
+<p>source = 	/var/log/httpd/access_log</p>
+<p>topic =	apache</p>
+<p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
+<p>request.method = POST</p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
+Part IX. ‘How-to’ guides<br>
+<a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
+73. Embedded servlet containers</p>
+<p>73.1. Add a Servlet, Filter or Listener to an application</p>
+<p>73.1.1. Add a Servlet, Filter or Listener using a Spring bean</p>
+<p>Disable registration of a Servlet or Filter</p>
+<p>73.1.2. Add Servlets, Filters, and Listeners using classpath scanning</p>
+<p>73.2. Change the HTTP port<br>
+73.3. Use a random unassigned HTTP port<br>
+73.4. Discover the HTTP port at runtime<br>
+73.5. Configure SSL<br>
+73.6. Configure Access Logging<br>
+73.7. Use behind a front-end proxy server</p>]]></description></item></channel></rss>

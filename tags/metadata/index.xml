@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Metadata - Tag - My Notes</title><link>https://blog.emecas.net/tags/metadata/</link><description>Metadata - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Dec 2020 19:08:42 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/metadata/" rel="self" type="application/rss+xml"/><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
+<a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
+Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
+<p>Title:<br>
+Standard for Learning Metadata</p>
+<p>Scope:<br>
+This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
+This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
+This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
+This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
+<p>- ExifTool by Phil Harvey<br>
+Read, Write and Edit Meta Information!<br>
+<a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank" rel="noopener noreffer ">http://owl.phy.queensu.ca/~phil/exiftool/</a><br>
+wiki: <a href="https://en.wikipedia.org/wiki/ExifTool" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/ExifTool</a></p>
+<p>-Metadata Extraction Tool<br>
+Introduction<br>
+The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.<br>
+<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>]]></description></item><item><title>Article: Modeling the Semantics of Contextual and Content-specific Research Metadata</title><link>https://blog.emecas.net/posts/2014-03-24-article-modeling-the-semantics-of-contextual-and-content-spe/</link><pubDate>Mon, 24 Mar 2014 20:21:15 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-24-article-modeling-the-semantics-of-contextual-and-content-spe/</guid><description><![CDATA[<p>Modeling the Semantics of Contextual and Content-specific Research Metadata using Ontology Languages: issues on combining CERIF and OWL<br>
+<a href="http://www.sciencedirect.com/science/article/pii/S187705091200292X" target="_blank" rel="noopener noreffer ">http://www.sciencedirect.com/science/article/pii/S187705091200292X</a><br>
+Procedia Computer Science<br>
+Volume 9, 2012, Pages 1563–1570<br>
+Proceedings of the International Conference on Computational Science, ICCS 2012<br>
+Brigitte Jšrga, Jaakko Lappalainenb, Kostas Kastrantasc<br>
+<a href="http://dx.doi.org/10.1016/j.procs.2012.04.171" target="_blank" rel="noopener noreffer ">http://dx.doi.org/10.1016/j.procs.2012.04.171</a></p>]]></description></item></channel></rss>

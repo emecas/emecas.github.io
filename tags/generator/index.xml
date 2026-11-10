@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Generator - Tag - My Notes</title><link>https://blog.emecas.net/tags/generator/</link><description>Generator - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Oct 2024 13:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/generator/" rel="self" type="application/rss+xml"/><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>What is ANTLR?</title><link>https://blog.emecas.net/posts/2013-03-13-what-is-antlr/</link><pubDate>Wed, 13 Mar 2013 13:42:46 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-13-what-is-antlr/</guid><description><![CDATA[<p>ANTLR<br>
+What is ANTLR?<br>
+&ldquo;ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It&rsquo;s widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees. From <a href="http://www.antlr.org" target="_blank" rel="noopener noreffer ">http://www.antlr.org</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Legacy - Tag - My Notes</title><link>https://blog.emecas.net/tags/legacy/</link><description>Legacy - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 02 Feb 2019 14:53:12 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/legacy/" rel="self" type="application/rss+xml"/><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
+By James Shore<br>
+01 Feb, 2019</p>
+<p>- To add tests to legacy code<br>
+- To improve requirements code quality<br>
+- To improve non-functional quality<br>
+- (TDD reflexion) Here&rsquo;s the thing about TDD</p>]]></description></item><item><title>Legacy Application Strangulation : Case Studies - StranglerApplication</title><link>https://blog.emecas.net/posts/2017-02-03-legacy-application-strangulation-case-studies-stranglerappli/</link><pubDate>Fri, 03 Feb 2017 08:18:54 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-03-legacy-application-strangulation-case-studies-stranglerappli/</guid><description><![CDATA[<p>Legacy Application Strangulation : Case Studies<br>
+<a href="http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/" target="_blank" rel="noopener noreffer ">http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/</a><br>
+Strangulation of a legacy or undesirable solution is a safe way to phase one thing our for something better, cheaper, or more expandable. You make something new that obsoletes a small percentage of something old, and put them live together. You do some more work in the same style, and go live again (rinse, repeat).</p>
+<p>StranglerApplication<br>
+<a href="https://www.martinfowler.com/bliki/StranglerApplication.html" target="_blank" rel="noopener noreffer ">https://www.martinfowler.com/bliki/StranglerApplication.html</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Webserver - Tag - My Notes</title><link>https://blog.emecas.net/tags/webserver/</link><description>Webserver - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Sep 2018 22:20:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/webserver/" rel="self" type="application/rss+xml"/><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
+Lightweight. Fast. Crafted for Microservices.<br>
+<a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
+Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
+<p>Simple and fast<br>
+Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.<br>
+border_clear</p>]]></description></item></channel></rss>

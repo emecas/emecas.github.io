@@ -1,0 +1,65 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Code - Tag - My Notes</title><link>https://blog.emecas.net/tags/code/</link><description>Code - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Feb 2024 10:15:29 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/code/" rel="self" type="application/rss+xml"/><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
+<a href="https://www.jetbrains.com/qodana/" target="_blank" rel="noopener noreffer ">https://www.jetbrains.com/qodana/</a><br>
+Code quality done right</p>
+<p>Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.</p>
+<p>* 2,500+ code checks<br>
+Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
+<p>* Third-party license audit<br>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
+Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
+<p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
+<p>Flavors:</p>
+<p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
+- p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
+- Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
+- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
+@paperswithcode<br>
+<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
+Our mission</p>
+<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
+<p>We believe this is best done together with the community and powered by automation.</p>
+<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>]]></description></item><item><title>Black - The uncompromising Python code formatter</title><link>https://blog.emecas.net/posts/2019-02-13-black-the-uncompromising-python-code-formatter/</link><pubDate>Wed, 13 Feb 2019 15:48:21 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-13-black-the-uncompromising-python-code-formatter/</guid><description><![CDATA[<p>Black - The uncompromising Python code formatter<br>
+<a href="https://black.readthedocs.io/en/stable/" target="_blank" rel="noopener noreffer ">https://black.readthedocs.io/en/stable/</a><br>
+<a href="https://github.com/ambv/black" target="_blank" rel="noopener noreffer ">https://github.com/ambv/black</a></p>]]></description></item><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
+By James Shore<br>
+01 Feb, 2019</p>
+<p>- To add tests to legacy code<br>
+- To improve requirements code quality<br>
+- To improve non-functional quality<br>
+- (TDD reflexion) Here&rsquo;s the thing about TDD</p>]]></description></item><item><title>Neural Ordinary Differential Equations</title><link>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</link><pubDate>Fri, 21 Dec 2018 10:48:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</guid><description><![CDATA[<p>Neural Ordinary Differential Equations<br>
+Paper <a href="https://arxiv.org/abs/1806.07366" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1806.07366</a><br>
+Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud<br>
+(Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))<br>
+Post: <a href="https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/" target="_blank" rel="noopener noreffer ">https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/</a><br>
+reddit comments: <a href="https://reddit.com/comments/a65v5r" target="_blank" rel="noopener noreffer ">https://reddit.com/comments/a65v5r</a></p>
+<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
+And we&rsquo;ve written a follow-up paper applying this to generative density modeling:<br>
+Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>]]></description></item><item><title>coala : provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use</title><link>https://blog.emecas.net/posts/2017-06-21-coala-provides-a-unified-command-line-interface-for-linting/</link><pubDate>Wed, 21 Jun 2017 10:00:35 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-21-coala-provides-a-unified-command-line-interface-for-linting/</guid><description><![CDATA[<p>Coala<br>
+<a href="https://coala.io" target="_blank" rel="noopener noreffer ">https://coala.io</a><br>
+coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. <a href="https://coala.io/" target="_blank" rel="noopener noreffer ">https://coala.io/</a></p>
+<p>coala is a language independent analysis toolkit. It empowers developers to create rules which a project&rsquo;s code should conform to. coala takes care of showing these issues to users in a friendly manner, is versatile and can be used in any environment. Patches to automatically fix code will be managed too.</p>]]></description></item><item><title>GeekCode</title><link>https://blog.emecas.net/posts/2015-07-15-geekcode/</link><pubDate>Wed, 15 Jul 2015 15:23:41 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-15-geekcode/</guid><description><![CDATA[<p>The Code of the Geeks v3.12<br>
+<a href="http://www.geekcode.com/geek.html" target="_blank" rel="noopener noreffer ">http://www.geekcode.com/geek.html</a><br>
+Sample:</p>
+<p>GeekCodeBlock<br>
+<a href="http://www.geekcode.com/" target="_blank" rel="noopener noreffer ">http://www.geekcode.com/</a><br>
+<a href="http://www.geekcode.com/geek.html" target="_blank" rel="noopener noreffer ">http://www.geekcode.com/geek.html</a></p>
+<p>-----BEGIN GEEK CODE BLOCK-----<br>
+Version: 3.1</p>
+<p>GCS$ d- s+++ a C+++ UL++$ P+ L+++ E++ W++ N-<br>
+PS++ PE- K- w-- Y+ t5 X+ R- tv-- b++ DI++<br>
+D+ G e+++ r+++ z+++<br>
+------END GEEK CODE BLOCK------</p>]]></description></item><item><title>Visual Studio Code</title><link>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</link><pubDate>Thu, 09 Jul 2015 17:41:10 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</guid><description><![CDATA[<p>Visual Studio Code<br>
+Code Editing. Redefined.<br>
+Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.<br>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">https://code.visualstudio.com/</a></p>]]></description></item><item><title>SonarQube - “Sonar”</title><link>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</link><pubDate>Wed, 08 Jul 2015 12:49:09 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</guid><description><![CDATA[<p>Web Framework Benchmarks<br>
+Introduction<br>
+This is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The test implementations are largely community-contributed and all source is available at the GitHub repository.<br>
+<a href="http://www.techempower.com/benchmarks/#section=intro&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=intro&hw=peak&test=plaintext</a><br>
+<a href="http://www.techempower.com/benchmarks/#section=data-r10&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=data-r10&hw=peak&test=plaintext</a></p>
+<p>SonarQube™ software (previously known as “Sonar”) is an open source project.<br>
+Download and install your own copy. Version: 5.1.1 (Jun 5, 2015) distributed under license LGPL v3.<br>
+All in one<br>
+SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:<br>
+Comments, Coding Rules, Architecture &amp; Design, Duplications, Unit Tests, Potential Bug, Complexity<br>
+<a href="http://www.sonarqube.org/" target="_blank" rel="noopener noreffer ">http://www.sonarqube.org/</a></p>]]></description></item></channel></rss>

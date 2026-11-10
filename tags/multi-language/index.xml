@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Multi-Language - Tag - My Notes</title><link>https://blog.emecas.net/tags/multi-language/</link><description>Multi-Language - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 Jan 2021 23:40:21 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/multi-language/" rel="self" type="application/rss+xml"/><item><title>Eclipse Theia</title><link>https://blog.emecas.net/posts/2021-01-20-eclipse-theia/</link><pubDate>Wed, 20 Jan 2021 23:40:21 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-20-eclipse-theia/</guid><description><![CDATA[<p>Eclipse Theia<br>
+<a href="https://theia-ide.org/" target="_blank" rel="noopener noreffer ">https://theia-ide.org/</a><br>
+Cloud &amp; Desktop IDE Platform<br>
+Eclipse Theia is an extensible platform to develop multi-language Cloud &amp; Desktop IDEs with state-of-the-art web technologies.</p>
+<p>Repo: <a href="https://github.com/eclipse-theia/theia" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-theia/theia</a></p>
+<p>Cloud &amp; Desktop</p>
+<p>Not sure whether you need a web or desktop version or both?</p>
+<p>With Theia you can develop one IDE and run it in browsers or native desktop application from a single source.</p>
+<p>Vendor Neutral</p>
+<p>The Theia project is hosted at the Eclipse Foundation, a not-for-profit corporation, and is developed by a diverse community.</p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
+<a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
+NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
+<p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
+<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item></channel></rss>

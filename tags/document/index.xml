@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Document - Tag - My Notes</title><link>https://blog.emecas.net/tags/document/</link><description>Document - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Feb 2020 19:07:00 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/document/" rel="self" type="application/rss+xml"/><item><title>Crux Open Time Store</title><link>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</link><pubDate>Sat, 08 Feb 2020 19:07:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</guid><description><![CDATA[<p>Crux<br>
+Open Time Store<br>
+<a href="https://github.com/juxt/crux" target="_blank" rel="noopener noreffer ">https://github.com/juxt/crux</a><br>
+<a href="https://opencrux.com/" target="_blank" rel="noopener noreffer ">https://opencrux.com/</a><br>
+Crux is an open source document database with bitemporal graph queries.<br>
+Java, Clojure and HTTP APIs are provided.<br>
+Ref: Introducing Crux JDBC<br>
+<a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
+<a href="https://raml.org/" target="_blank" rel="noopener noreffer ">https://raml.org/</a><br>
+The simplest way to design APIs<br>
+RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It&rsquo;s concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.</p>
+<p>REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation &ldquo;Architectural Styles and the Design of Network-based Software Architecture&rdquo; by Roy Fielding.</p>]]></description></item></channel></rss>

@@ -1,0 +1,32 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Routing - Tag - My Notes</title><link>https://blog.emecas.net/tags/routing/</link><description>Routing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 02 Aug 2019 16:59:57 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/routing/" rel="self" type="application/rss+xml"/><item><title>Apache NiFi</title><link>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</link><pubDate>Fri, 02 Aug 2019 16:59:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</guid><description><![CDATA[<p>Apache NiFi<br>
+<a href="https://nifi.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://nifi.apache.org/index.html</a><br>
+<a href="https://gitbox.apache.org/repos/asf?p=nifi.git" target="_blank" rel="noopener noreffer ">https://gitbox.apache.org/repos/asf?p=nifi.git</a></p>
+<p>An easy to use, powerful, and reliable system to process and distribute data.</p>
+<p>Features</p>
+<p>Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. Some of the high-level capabilities and objectives of Apache NiFi include:</p>
+<p>Web-based user interface<br>
+Seamless experience between design, control, feedback, and monitoring<br>
+Highly configurable<br>
+Loss tolerant vs guaranteed delivery<br>
+Low latency vs high throughput<br>
+Dynamic prioritization<br>
+Flow can be modified at runtime<br>
+Back pressure<br>
+Data Provenance<br>
+Track dataflow from beginning to end<br>
+Designed for extension<br>
+Build your own processors and more<br>
+Enables rapid development and effective testing<br>
+Secure<br>
+SSL, SSH, HTTPS, encrypted content, etc&hellip;<br>
+Multi-tenant authorization and internal authorization/policy management</p>]]></description></item><item><title>OpenShift Cheat Sheet</title><link>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</link><pubDate>Mon, 11 Feb 2019 11:59:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</guid><description><![CDATA[<p>OpenShift Cheat Sheet<br>
+<a href="http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf" target="_blank" rel="noopener noreffer ">http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf</a><br>
+Content<br>
+1. What is OpenShift?. . . . . . . . . . . . . . . . . . . 1<br>
+2. Cheat sheet guide. . . . . . . . . . . . . . . . . . . . 1<br>
+3. Command overview. . . . . . . . . . . . . . . . . . 2<br>
+4. Simple build and deploy overview. . . . . 4<br>
+5. Simple routing overview. . . . . . . . . . . . . 4<br>
+6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5<br>
+7. Additional operations. . . . . . . . . . . . . . . 10<br>
+8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item></channel></rss>

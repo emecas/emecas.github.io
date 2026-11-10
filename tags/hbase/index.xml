@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>HBase - Tag - My Notes</title><link>https://blog.emecas.net/tags/hbase/</link><description>HBase - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 15 Dec 2017 18:33:33 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/hbase/" rel="self" type="application/rss+xml"/><item><title>OpenTSDB - The modern time series database</title><link>https://blog.emecas.net/posts/2017-12-15-opentsdb-the-modern-time-series-database/</link><pubDate>Fri, 15 Dec 2017 18:33:33 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-15-opentsdb-the-modern-time-series-database/</guid><description><![CDATA[<p>OpenTSDB - The modern time series database.<br>
+<a href="http://opentsdb.net/" target="_blank" rel="noopener noreffer ">http://opentsdb.net/</a><br>
+OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on<br>
+top of HBase.  OpenTSDB was written to address a common need: store, index<br>
+and serve metrics collected from computer systems (network gear, operating<br>
+systems, applications) at a large scale, and make this data easily accessible<br>
+and graphable.<br>
+Repo: <a href="https://github.com/OpenTSDB/opentsdb" target="_blank" rel="noopener noreffer ">https://github.com/OpenTSDB/opentsdb</a><br>
+REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>]]></description></item></channel></rss>

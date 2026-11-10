@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mozilla - Tag - My Notes</title><link>https://blog.emecas.net/tags/mozilla/</link><description>Mozilla - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 03 Oct 2018 20:46:27 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mozilla/" rel="self" type="application/rss+xml"/><item><title>Rust</title><link>https://blog.emecas.net/posts/2018-10-03-rust/</link><pubDate>Wed, 03 Oct 2018 20:46:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-10-03-rust/</guid><description><![CDATA[<p>Rust (programming language)<br>
+<a href="https://www.rust-lang.org/en-US/" target="_blank" rel="noopener noreffer ">https://www.rust-lang.org/en-US/</a><br>
+Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.<br>
+<a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Rust_(programming_language)</a><br>
+<a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreffer ">https://github.com/rust-lang/rust</a></p>]]></description></item><item><title>Antena 3 Product - POPCORNJS</title><link>https://blog.emecas.net/posts/2013-06-26-antena-3-product-popcornjs/</link><pubDate>Wed, 26 Jun 2013 14:40:46 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-06-26-antena-3-product-popcornjs/</guid><description><![CDATA[<p>Presentacion Antena 3:<br>
+Experiencia real: &ldquo;REST para móviles en tiempo real: Trabajando al milisegundo&rdquo;<br>
+Link Evento: <a href="https://plus.google.com/u/0/events/c45184gfm6qlq9fai5ah2cf3s44" target="_blank" rel="noopener noreffer ">https://plus.google.com/u/0/events/c45184gfm6qlq9fai5ah2cf3s44</a><br>
+VIDEO: <a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=gyF0tF7W6bA" target="_blank" rel="noopener noreffer ">https://www.youtube.com/watch?feature=player_embedded&v=gyF0tF7W6bA</a></p>
+<p>POPCORNJS<br>
+<a href="http://popcornjs.org/" target="_blank" rel="noopener noreffer ">http://popcornjs.org/</a><br>
+The HTML5 Media Framework<br>
+Popcorn.js is an HTML5 media framework written in JavaScript for filmmakers, web developers, and anyone who wants to create time-based interactive media on the web. Popcorn.js is part of Mozilla&rsquo;s Popcorn project.</p>]]></description></item></channel></rss>

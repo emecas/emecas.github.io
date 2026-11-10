@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>IBM - Tag - My Notes</title><link>https://blog.emecas.net/tags/ibm/</link><description>IBM - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Apr 2019 15:47:22 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ibm/" rel="self" type="application/rss+xml"/><item><title>Open Liberty</title><link>https://blog.emecas.net/posts/2019-04-21-open-liberty/</link><pubDate>Sun, 21 Apr 2019 15:47:22 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-21-open-liberty/</guid><description><![CDATA[<p>Open Liberty<br>
+<a href="https://openliberty.io" target="_blank" rel="noopener noreffer ">https://openliberty.io</a><br>
+Open Liberty is a highly composable, fast to start, dynamic application server runtime environment</p>
+<p>an IBM open source product</p>
+<p>© Copyright IBM Corp. 2017, 2019</p>]]></description></item><item><title>An easier path to functional programming in Java</title><link>https://blog.emecas.net/posts/2017-02-27-an-easier-path-to-functional-programming-in-java/</link><pubDate>Mon, 27 Feb 2017 16:47:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-27-an-easier-path-to-functional-programming-in-java/</guid><description><![CDATA[<p>An easier path to functional programming in Java<br>
+<a href="http://www.ibm.com/developerworks/library/j-java8idioms1/index.html" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-java8idioms1/index.html</a><br>
+By Venkat Subramaniam<br>
+Published on February 15, 2017/Updated: February 24, 2017<br>
+Contents</p>
+<p>Introduction<br>
+The imperative style<br>
+The declarative style<br>
+The functional style<br>
+A functional programming example<br>
+Conclusion<br>
+Downloadable resources<br>
+Related topics<br>
+Comments</p>
+<p>PDF: <a href="http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf</a></p>
+<p>Related topics</p>
+<p>Java 8 language changes<br>
+<a href="https://www.ibm.com/developerworks/library/j-java8lambdas/" target="_blank" rel="noopener noreffer ">https://www.ibm.com/developerworks/library/j-java8lambdas/</a><br>
+Java 8 concurrency basics<br>
+<a href="http://www.ibm.com/developerworks/library/j-jvmc2/index.html" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-jvmc2/index.html</a><br>
+Functional thinking, Part 1: Learn to think like a functional programmer<br>
+<a href="http://www.ibm.com/developerworks/library/j-ft1/" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-ft1/</a><br>
+Functional Programming in Java: The Pragmatic Bookshelf, 2014<br>
+<a href="https://pragprog.com/book/vsjava8/functional-programming-in-java" target="_blank" rel="noopener noreffer ">https://pragprog.com/book/vsjava8/functional-programming-in-java</a></p>]]></description></item></channel></rss>

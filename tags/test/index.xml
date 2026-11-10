@@ -1,0 +1,97 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Test - Tag - My Notes</title><link>https://blog.emecas.net/tags/test/</link><description>Test - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Jun 2021 17:37:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/test/" rel="self" type="application/rss+xml"/><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
+<a href="https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26" target="_blank" rel="noopener noreffer ">https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26</a></p>
+<p>import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;<br>
+import org.junit.jupiter.api.Order;</p>
+<p>@TestMethodOrder(OrderAnnotation.class)<br>
+public class TestSuite1<br>
+{<br>
+@Test<br>
+@Order(1)<br>
+public void test1() throws InterruptedException<br>
+{<br>
+&hellip;<br>
+@Test<br>
+@Order(2)<br>
+public void test2() throws InterruptedException<br>
+{<br>
+&hellip;<br>
+&hellip;</p>]]></description></item><item><title>TCK tools and documentation</title><link>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</link><pubDate>Tue, 25 Aug 2020 21:42:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</guid><description><![CDATA[<p>TCK tools and documentation<br>
+<a href="https://jcp.org/en/resources/tdk" target="_blank" rel="noopener noreffer ">https://jcp.org/en/resources/tdk</a></p>
+<p>Tools</p>
+<p>JavaTest/JT Harness<br>
+• JT Harness project : <a href="http://jtharness.java.net/" target="_blank" rel="noopener noreffer ">http://jtharness.java.net/</a><br>
+• Download page : <a href="http://download.java.net/jtharness/download.html" target="_blank" rel="noopener noreffer ">http://download.java.net/jtharness/download.html</a><br>
+• Documentation : <a href="http://jtharness.java.net/jt_docs.html" target="_blank" rel="noopener noreffer ">http://jtharness.java.net/jt_docs.html</a><br>
+JT harness is the open source version of the JavaTest harness. JT harness is a general purpose, fully-featured, flexible, and configurable test harness very well suited for most types of unit testing, especially TCK test suites. The JT harness is an excellent tool for configuring, sequencing, and running test suites that consist of large numbers of discrete, independent tests. It is especially good at testing APIs and compilers. Originally developed as a test harness to run the JCK test suite, it has since evolved into a general purpose test platform well suited for use with all TCK test suites and other types of test suites.</p>]]></description></item><item><title>7 Popular Unit Test Naming Conventions</title><link>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</link><pubDate>Wed, 29 Apr 2020 18:54:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</guid><description><![CDATA[<p>7 Popular Unit Test Naming Conventions<br>
+<a href="https://dzone.com/articles/7-popular-unit-test-naming" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/7-popular-unit-test-naming</a></p>
+<p>1. MethodName_StateUnderTest_ExpectedBehavior: There are arguments against this strategy that if method names change as part of code refactoring 	than test name like this should also change or it becomes difficult to comprehend at a later stage. Following are some of the example:<br>
+isAdult_AgeLessThan18_False<br>
+withdrawMoney_InvalidAccount_ExceptionThrown<br>
+admitStudent_MissingMandatoryFields_FailToAdmit<br>
+2. MethodName_ExpectedBehavior_StateUnderTest: Slightly tweeked from above, but a section of developers also recommend using this naming technique. This technique also has disadvantage that if method names get changed, it becomes difficult to comprehend at a later stage. Following is how tests in first example would read like if named using this technique:<br>
+isAdult_False_AgeLessThan18<br>
+withdrawMoney_ThrowsException_IfAccountIsInvalid<br>
+admitStudent_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+3. test[Feature being tested]: This one makes it easy to read the test as the feature to be tested is written as part of test name. Although, there are arguments that the “test” prefix is redundant. However, some sections of developer love to use this technique. Following is how the above tests would read like if named using this technique:<br>
+testIsNotAnAdultIfAgeLessThan18<br>
+testFailToWithdrawMoneyIfAccountIsInvalid<br>
+testStudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+4. Feature to be tested: Many suggests that it is better to simply write the feature to be tested because one is anyway using annotations to identify method as test methods. It is also recommended for the reason that it makes unit tests as alternate form of documentation and avoid code smells. Following is how tests in first example would read like if named using this technique:<br>
+IsNotAnAdultIfAgeLessThan18<br>
+FailToWithdrawMoneyIfAccountIsInvalid<br>
+StudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+5. Should_ExpectedBehavior_When_StateUnderTest: This technique is also used by many as it makes it easy to read the tests. Following is how tests in first example would read like if named using this technique:<br>
+Should_ThrowException_When_AgeLessThan18<br>
+Should_FailToWithdrawMoney_ForInvalidAccount<br>
+Should_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+6. When_StateUnderTest_Expect_ExpectedBehavior: Following is how tests in first example would read like if named using this technique:<br>
+When_AgeLessThan18_Expect_isAdultAsFalse<br>
+When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
+When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
+7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>JUnit 5 vs. Spock</title><link>https://blog.emecas.net/posts/2020-03-12-junit-5-vs-spock/</link><pubDate>Thu, 12 Mar 2020 08:45:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-12-junit-5-vs-spock/</guid><description><![CDATA[<p>JUnit 5 vs. Spock feature showdown<br>
+<a href="https://bmuschko.com/blog/junit5-vs-spock-showdown/" target="_blank" rel="noopener noreffer ">https://bmuschko.com/blog/junit5-vs-spock-showdown/</a><br>
+January 1, 2018</p>
+<p>For a quick reference, you can directly jump to a specific test framework feature:<br>
+Test execution<br>
+Fixture set up and tear down<br>
+Descriptive test names<br>
+Disabling tests<br>
+Expecting thrown exceptions<br>
+Repeating test execution<br>
+Declaring test execution timeouts<br>
+Conditional test execution<br>
+Data-driven tests<br>
+Mocking<br>
+Labeling and filtering test execution<br>
+Extending the test framework</p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
+Python wrapper for the GitLab API</p>
+<p>python-gitlab is a Python package providing access to the GitLab server API.<br>
+It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
+<p>Docker:</p>
+<p>How to build</p>
+<p>docker build -t python-gitlab:TAG .</p>
+<p>How to use</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
+<p>or run it directly from the upstream image:</p>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>ArchUnit - checking the architecture of your Java code</title><link>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</link><pubDate>Tue, 19 Feb 2019 13:37:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</guid><description><![CDATA[<p>ArchUnit<br>
+<a href="https://www.archunit.org/" target="_blank" rel="noopener noreffer ">https://www.archunit.org/</a><br>
+ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more. It does so by analyzing given Java bytecode, importing all classes into a Java code structure. You can find examples for the current release at ArchUnit Examples and the sources on GitHub.<br>
+<a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">https://github.com/TNG/ArchUnit</a></p>]]></description></item><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
+By James Shore<br>
+01 Feb, 2019</p>
+<p>- To add tests to legacy code<br>
+- To improve requirements code quality<br>
+- To improve non-functional quality<br>
+- (TDD reflexion) Here&rsquo;s the thing about TDD</p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
+By: Kent Beck<br>
+Sep 28, 2018</p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
+<a href="https://raml.org/" target="_blank" rel="noopener noreffer ">https://raml.org/</a><br>
+The simplest way to design APIs<br>
+RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It&rsquo;s concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.</p>
+<p>REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation &ldquo;Architectural Styles and the Design of Network-based Software Architecture&rdquo; by Roy Fielding.</p>]]></description></item><item><title>Protractor</title><link>https://blog.emecas.net/posts/2017-06-26-protractor/</link><pubDate>Mon, 26 Jun 2017 09:57:17 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-26-protractor/</guid><description><![CDATA[<p>Protractor<br>
+<a href="http://www.protractortest.org/" target="_blank" rel="noopener noreffer ">http://www.protractortest.org/</a><br>
+Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.</p>
+<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>]]></description></item></channel></rss>

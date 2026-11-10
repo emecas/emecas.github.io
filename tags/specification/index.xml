@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Specification - Tag - My Notes</title><link>https://blog.emecas.net/tags/specification/</link><description>Specification - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 May 2020 17:57:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/specification/" rel="self" type="application/rss+xml"/><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
+<a href="https://jcp.org/en/jsr/detail?id=377" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=377</a><br>
+<a href="http://jsr377.github.io/site/" target="_blank" rel="noopener noreffer ">http://jsr377.github.io/site/</a></p>
+<p>The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features</p>
+<p>dependency injection via JSR330.<br>
+common application structure.<br>
+application life-cycle.<br>
+localized resources.<br>
+resource injection.<br>
+localized configuration.<br>
+decouple state from UI (binding).<br>
+persistence session state (preferences).<br>
+action management.<br>
+component life-cycle.<br>
+light-weight event bus.<br>
+honor threading concerns (specific to UI toolkit).<br>
+application extensibility via plugins (implies modularity).</p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
+<a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
+Summary</p>
+<p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
+<p>MAJOR version when you make incompatible API changes,<br>
+MINOR version when you add functionality in a backwards compatible manner, and<br>
+PATCH version when you make backwards compatible bug fixes.</p>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
+<a href="https://raml.org/" target="_blank" rel="noopener noreffer ">https://raml.org/</a><br>
+The simplest way to design APIs<br>
+RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It&rsquo;s concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.</p>
+<p>REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation &ldquo;Architectural Styles and the Design of Network-based Software Architecture&rdquo; by Roy Fielding.</p>]]></description></item><item><title>Spock Framework</title><link>https://blog.emecas.net/posts/2017-02-06-spock-framework/</link><pubDate>Mon, 06 Feb 2017 16:24:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-06-spock-framework/</guid><description><![CDATA[<p>Spock Framework<br>
+<a href="http://spockframework.org/" target="_blank" rel="noopener noreffer ">http://spockframework.org/</a><br>
+the enterprise ready specification framework</p>
+<p>Examples spockframework/spock-example<br>
+<a href="https://github.com/spockframework/spock-example" target="_blank" rel="noopener noreffer ">https://github.com/spockframework/spock-example</a></p>
+<p>Ref1:<br>
+Using Spock to test Groovy AND Java applications<br>
+<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>]]></description></item></channel></rss>

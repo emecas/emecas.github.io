@@ -1,0 +1,41 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Studio - Tag - My Notes</title><link>https://blog.emecas.net/tags/studio/</link><description>Studio - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jul 2017 14:41:41 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/studio/" rel="self" type="application/rss+xml"/><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
+<a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
+<p>Version	.NET Framework	Visual Studio	Important Features<br>
+C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>
+Basic features<br>
+C# 2.0	.NET Framework 2.0	Visual Studio 2005<br>
+Generics<br>
+Partial types<br>
+Anonymous methods<br>
+Iterators<br>
+Nullable types<br>
+Private setters (properties)<br>
+Method group conversions (delegates)<br>
+Covariance and Contra-variance<br>
+Static classes<br>
+C# 3.0	.NET Framework 3.0\3.5	Visual Studio 2008<br>
+Implicitly typed local variables<br>
+Object and collection initializers<br>
+Auto-Implemented properties<br>
+Anonymous types<br>
+Extension methods<br>
+Query expressions<br>
+Lambda expressions<br>
+Expression trees<br>
+Partial Methods<br>
+C# 4.0	.NET Framework 4.0	Visual Studio 2010<br>
+Dynamic binding (late binding)<br>
+Named and optional arguments<br>
+Generic co- and contravariance<br>
+Embedded interop types<br>
+C# 5.0	.NET Framework 4.5	Visual Studio 2012/2013<br>
+Async features<br>
+Caller information<br>
+C# 6.0	.NET Framework 4.6	Visual Studio 2013/2015<br>
+Expression Bodied Methods<br>
+Auto-property initializer<br>
+nameof Expression<br>
+Primary constructor<br>
+Await in catch block<br>
+Exception Filter<br>
+String Interpolation</p>]]></description></item></channel></rss>

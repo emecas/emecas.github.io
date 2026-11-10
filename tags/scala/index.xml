@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Scala - Tag - My Notes</title><link>https://blog.emecas.net/tags/scala/</link><description>Scala - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 23 Aug 2020 20:11:27 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/scala/" rel="self" type="application/rss+xml"/><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
+<a href="https://gatling.io/" target="_blank" rel="noopener noreffer ">https://gatling.io/</a><br>
+Async Scala-Akka-Netty based Load Test Tool<br>
+Gatling is a powerful open-source load testing solution.<br>
+Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
+Gatling includes a web recorder and colorful reports.<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
+<a href="https://decisionstats.com/2014/04/15/installing-scala-on-centos/" target="_blank" rel="noopener noreffer ">https://decisionstats.com/2014/04/15/installing-scala-on-centos/</a></p>
+<p>wget <a href="http://www.scala-lang.org/files/archive/scala-2.10.1.tgz" target="_blank" rel="noopener noreffer ">http://www.scala-lang.org/files/archive/scala-2.10.1.tgz</a><br>
+tar xvf scala-2.10.1.tgz<br>
+sudo mv scala-2.10.1 /usr/lib<br>
+sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala<br>
+export PATH=$PATH:/usr/lib/scala/bin<br>
+scala -version</p>]]></description></item></channel></rss>

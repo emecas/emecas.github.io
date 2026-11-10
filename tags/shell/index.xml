@@ -1,0 +1,34 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Shell - Tag - My Notes</title><link>https://blog.emecas.net/tags/shell/</link><description>Shell - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 21:06:37 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/shell/" rel="self" type="application/rss+xml"/><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+CLI tool for working with Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
+repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
+<a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
+<p>So, what is Scrapbook Page? To put it simply,<br>
+it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
+No need to create any temperory classes (like I did in the previous para).<br>
+You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
+Owner: Robert Field<br>
+Created 2014/05/16 23:13<br>
+Updated 2017/06/09 04:21<br>
+Type Feature<br>
+Status Closed / Delivered<br>
+Component tools / jshell<br>
+Scope JDK<br>
+Discussion<br>
+kulla dash dev at openjdk dot java dot net<br>
+Effort L<br>
+Duration L<br>
+Priority 2<br>
+Reviewed by Alex Buckley, Brian Goetz<br>
+Endorsed by Brian Goetz<br>
+Release 9<br>
+Issue 8043364<br>
+Summary</p>
+<p>Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
+<p>Windows PowerShell is Microsoft&rsquo;s task automation framework, consisting of a command-line shell and<br>
+associated scripting language built on .NET Framework.<br>
+PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both<br>
+local and remote Windows systems.</p>
+<p><a href="http://www.dimensionit.tv/powershell-quick-reference/" target="_blank" rel="noopener noreffer ">http://www.dimensionit.tv/powershell-quick-reference/</a></p>]]></description></item></channel></rss>

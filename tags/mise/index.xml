@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mise - Tag - My Notes</title><link>https://blog.emecas.net/tags/mise/</link><description>Mise - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 17:14:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mise/" rel="self" type="application/rss+xml"/><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
+<a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">https://mise.jdx.dev/</a><br>
+Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
+<p>Everything in its place, before you code.<br>
+In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.<br>
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item></channel></rss>

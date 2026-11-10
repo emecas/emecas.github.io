@@ -1,0 +1,36 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Html5 - Tag - My Notes</title><link>https://blog.emecas.net/tags/html5/</link><description>Html5 - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 03 Jan 2018 09:30:50 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/html5/" rel="self" type="application/rss+xml"/><item><title>jsoup: Java HTML Parser</title><link>https://blog.emecas.net/posts/2018-01-03-jsoup-java-html-parser/</link><pubDate>Wed, 03 Jan 2018 09:30:50 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-01-03-jsoup-java-html-parser/</guid><description><![CDATA[<p>jsoup: Java HTML Parser<br>
+<a href="https://jsoup.org/" target="_blank" rel="noopener noreffer ">https://jsoup.org/</a><br>
+jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.<br>
+Repo: <a href="https://github.com/jhy/jsoup" target="_blank" rel="noopener noreffer ">https://github.com/jhy/jsoup</a></p>]]></description></item><item><title>Asciidoctor - a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.</title><link>https://blog.emecas.net/posts/2017-12-22-asciidoctor-a-fast-text-processor-and-publishing-toolchain-f/</link><pubDate>Fri, 22 Dec 2017 11:36:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-22-asciidoctor-a-fast-text-processor-and-publishing-toolchain-f/</guid><description><![CDATA[<p>Asciidoctor<br>
+<a href="http://asciidoctor.org/" target="_blank" rel="noopener noreffer ">http://asciidoctor.org/</a><br>
+Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Asciidoctor is written in Ruby, packaged as a RubyGem and published to RubyGems.org. The gem is also included in several Linux distributions, including Fedora, Debian and Ubuntu. Asciidoctor is open source, hosted on GitHub and released under the MIT license.</p>]]></description></item><item><title>varios</title><link>https://blog.emecas.net/posts/2013-07-13-varios/</link><pubDate>Sat, 13 Jul 2013 13:09:30 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-07-13-varios/</guid><description><![CDATA[<p>Meetup API</p>
+<p>Java client:<br>
+code.google.com/p/meetup-java-client/<br>
+Python Client<br>
+<a href="https://github.com/meetup/python-api-client" target="_blank" rel="noopener noreffer ">https://github.com/meetup/python-api-client</a></p>
+<p>Tizen</p>
+<p>Intel App Porter Tool<br>
+IOS to HTML5</p>
+<p>Event Injector Concept (IDE Option)</p>
+<p>Ludei : demo html5 phone 5000 drops (multitasking)<br>
+<a href="http://www.ludei.com/" target="_blank" rel="noopener noreffer ">http://www.ludei.com/</a><br>
+<a href="http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/" target="_blank" rel="noopener noreffer ">http://cocoonjsservice.ludei.com/cocoonjslaunchersvr/demo-list/</a></p>
+<p>Stories:<br>
+<a href="http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html" target="_blank" rel="noopener noreffer ">http://www.linuxadictos.com/tizen-se-despide-samsung-de-android.html</a><br>
+<a href="http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android" target="_blank" rel="noopener noreffer ">http://www.osnews.com/story/26865/Samsung_s_future_is_Tizen_not_Android</a><br>
+--&gt; <a href="http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf" target="_blank" rel="noopener noreffer ">http://openmobile.co/pdf/Data_Sheet_ACL_for_Tizen_8.pdf</a></p>
+<p>To solve memory problem on mac to star emulator!!!:<br>
+sudo sysctl -w kern.sysv.shmall=393216 &amp;&amp; sudo sysctl -w kern.sysv.shmmax=1610612736</p>
+<p>To check Linux compatibility:</p>
+<p>Generar el Certificado</p>
+<p>Admins-MacBook-Pro-2:certificate-generator ecastaneda$ pwd<br>
+/Users/ecastaneda/tizen-sdk/tools/certificate-generator<br>
+Admins-MacBook-Pro-2:certificate-generator ecastaneda$ ./certificate-generator.sh<br>
+(tizen)</p>]]></description></item><item><title>Antena 3 Product - POPCORNJS</title><link>https://blog.emecas.net/posts/2013-06-26-antena-3-product-popcornjs/</link><pubDate>Wed, 26 Jun 2013 14:40:46 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-06-26-antena-3-product-popcornjs/</guid><description><![CDATA[<p>Presentacion Antena 3:<br>
+Experiencia real: &ldquo;REST para móviles en tiempo real: Trabajando al milisegundo&rdquo;<br>
+Link Evento: <a href="https://plus.google.com/u/0/events/c45184gfm6qlq9fai5ah2cf3s44" target="_blank" rel="noopener noreffer ">https://plus.google.com/u/0/events/c45184gfm6qlq9fai5ah2cf3s44</a><br>
+VIDEO: <a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=gyF0tF7W6bA" target="_blank" rel="noopener noreffer ">https://www.youtube.com/watch?feature=player_embedded&v=gyF0tF7W6bA</a></p>
+<p>POPCORNJS<br>
+<a href="http://popcornjs.org/" target="_blank" rel="noopener noreffer ">http://popcornjs.org/</a><br>
+The HTML5 Media Framework<br>
+Popcorn.js is an HTML5 media framework written in JavaScript for filmmakers, web developers, and anyone who wants to create time-based interactive media on the web. Popcorn.js is part of Mozilla&rsquo;s Popcorn project.</p>]]></description></item></channel></rss>

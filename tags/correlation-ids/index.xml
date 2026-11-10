@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Correlation-Ids - Tag - My Notes</title><link>https://blog.emecas.net/tags/correlation-ids/</link><description>Correlation-Ids - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Feb 2020 19:53:46 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/correlation-ids/" rel="self" type="application/rss+xml"/><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
+<p>- The Value of Correlation IDs<br>
+<a href="https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/" target="_blank" rel="noopener noreffer ">https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/</a><br>
+- Correlation IDs for microservices architectures<br>
+<a href="https://hilton.org.uk/blog/microservices-correlation-id" target="_blank" rel="noopener noreffer ">https://hilton.org.uk/blog/microservices-correlation-id</a><br>
+- Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)<br>
+<a href="https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/" target="_blank" rel="noopener noreffer ">https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/</a><br>
+- Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
+<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>]]></description></item></channel></rss>

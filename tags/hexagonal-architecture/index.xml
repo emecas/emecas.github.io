@@ -1,0 +1,38 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hexagonal-Architecture - Tag - My Notes</title><link>https://blog.emecas.net/tags/hexagonal-architecture/</link><description>Hexagonal-Architecture - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 21 Feb 2017 13:38:10 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/hexagonal-architecture/" rel="self" type="application/rss+xml"/><item><title>Hexagonal Architecture</title><link>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</link><pubDate>Tue, 21 Feb 2017 13:38:10 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</guid><description><![CDATA[<p>Active Directory Federation Services<br>
+<a href="https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services" target="_blank" rel="noopener noreffer ">https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services</a><br>
+Applies To: Windows Server 2016, Windows Server 2012 R2, Windows Server 2012<br>
+This document contains a list of all of the documentation areas for AD FS for Windows Server 2016, 2012 R2, and 2012. This includes the following:<br>
+•AD FS Overview<br>
+•AD FS Design<br>
+•AD FS Deployment<br>
+•AD FS Development<br>
+•AD FS Operations<br>
+•AD FS Technical Reference</p>
+<p>Hexagonal architecture<br>
+Aditional Ref: <a href="http://alistair.cockburn.us/Hexagonal&#43;architecture" target="_blank" rel="noopener noreffer ">http://alistair.cockburn.us/Hexagonal+architecture</a><br>
+By Alistair Cockburn.<br>
+The Pattern: Ports and Adapters (‘’Object Structural’’)<br>
+Alternative name: ‘’Ports &amp; Adapters’’<br>
+Alternative name: ‘’Hexagonal Architecture’’<br>
+Intent<br>
+Motivation<br>
+Nature of the Solution<br>
+Structure<br>
+Sample Code<br>
+Stage 1: FIT  App  constant-as-mock-database<br>
+Stage 2: UI  App  constant-as-mock-database<br>
+Stage 3: (FIT or UI)  App  mock database<br>
+Application Notes<br>
+The Left-Right Asymmetry<br>
+Use Cases And The Application Boundary<br>
+How Many Ports?<br>
+Known Uses<br>
+Distributed, Large-Team Development<br>
+Related Patterns<br>
+Adapter<br>
+Model-View-Controller<br>
+Mock Objects and Loopback<br>
+Pedestals<br>
+Checks<br>
+References and Related Reading</p>]]></description></item><item><title>Hexagonal Architecture</title><link>https://blog.emecas.net/posts/2017-02-20-hexagonal-architecture/</link><pubDate>Mon, 20 Feb 2017 17:18:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-20-hexagonal-architecture/</guid><description><![CDATA[<p>Hexagonal Architecture Is Powerful<br>
+<a href="https://dzone.com/articles/hexagonal-architecture-is-powerful" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/hexagonal-architecture-is-powerful</a></p>]]></description></item></channel></rss>

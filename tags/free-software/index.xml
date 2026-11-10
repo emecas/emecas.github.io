@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Free-Software - Tag - My Notes</title><link>https://blog.emecas.net/tags/free-software/</link><description>Free-Software - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jun 2021 11:48:37 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/free-software/" rel="self" type="application/rss+xml"/><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
+a highly automated and intuitive digital audio workstation<br>
+<a href="https://www.zrythm.org/en/index.html" target="_blank" rel="noopener noreffer ">https://www.zrythm.org/en/index.html</a></p>
+<p>Sources:<br>
+<a href="https://sr.ht/~alextee/zrythm/" target="_blank" rel="noopener noreffer ">https://sr.ht/~alextee/zrythm/</a></p>
+<p>Overview</p>
+<p>Zrythm is a cross-platform digital audio workstation designed to be featureful and easy to use.</p>
+<p>Limitless automation<br>
+Automate almost anything with automation events using straight lines, ramps and curves, or with LFOs and envelopes.</p>
+<p>Audio plugins<br>
+Complete support for LV2 and VST2, with experimental support for VST3, AU, SFZ and SF2.</p>
+<p>Multi-backend support<br>
+Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>OpenSCAD - The Programmers Solid 3D CAD Modeller</title><link>https://blog.emecas.net/posts/2016-12-15-openscad-the-programmers-solid-3d-cad-modeller/</link><pubDate>Thu, 15 Dec 2016 09:06:50 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-15-openscad-the-programmers-solid-3d-cad-modeller/</guid><description><![CDATA[<p>OpenSCAD - The Programmers Solid 3D CAD Modeller<br>
+<a href="http://www.openscad.org" target="_blank" rel="noopener noreffer ">http://www.openscad.org</a><br>
+OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.</p>]]></description></item><item><title>http://www.pawfal.org/ asociados</title><link>https://blog.emecas.net/posts/2013-05-11-http-www-pawfal-org-asociados/</link><pubDate>Sat, 11 May 2013 01:24:00 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-11-http-www-pawfal-org-asociados/</guid><description><![CDATA[<p><a href="http://www.pawfal.org/" target="_blank" rel="noopener noreffer ">http://www.pawfal.org/</a></p>
+<p>mi<br>
+Music Intellegence is a collection of plugins for SSM that use artificial life to create patterns for generating innovative music.<br>
+Built with 0.1.0b2 version of SSM.<br>
+<a href="http://www.pawfal.org/Software/mi/" target="_blank" rel="noopener noreffer ">http://www.pawfal.org/Software/mi/</a></p>
+<p>Spiral Synth 2<br>
+Note: SpiralSynth isn&rsquo;t being supported any more due to lack of time, and the existance of SpiralSynth Modular. Which is much better featured and developed.<br>
+<a href="http://www.pawfal.org/Software/SpiralSynth/" target="_blank" rel="noopener noreffer ">http://www.pawfal.org/Software/SpiralSynth/</a></p>
+<p>dave&rsquo;s blog of art and programming<br>
+games, magic, livecoding, free software</p>]]></description></item></channel></rss>

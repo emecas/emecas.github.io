@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Methodology - Tag - My Notes</title><link>https://blog.emecas.net/tags/methodology/</link><description>Methodology - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Dec 2016 09:21:34 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/methodology/" rel="self" type="application/rss+xml"/><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
+<p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
+<p>The Twelve Factors<br>
+I. Codebase<br>
+One codebase tracked in revision control, many deploys<br>
+II. Dependencies<br>
+Explicitly declare and isolate dependencies<br>
+III. Config<br>
+Store config in the environment<br>
+IV. Backing services<br>
+Treat backing services as attached resources<br>
+V. Build, release, run<br>
+Strictly separate build and run stages<br>
+VI. Processes<br>
+Execute the app as one or more stateless processes<br>
+VII. Port binding<br>
+Export services via port binding<br>
+VIII. Concurrency<br>
+Scale out via the process model<br>
+IX. Disposability<br>
+Maximize robustness with fast startup and graceful shutdown<br>
+X. Dev/prod parity<br>
+Keep development, staging, and production as similar as possible<br>
+XI. Logs<br>
+Treat logs as event streams<br>
+XII. Admin processes<br>
+Run admin/management tasks as one-off processes</p>]]></description></item></channel></rss>

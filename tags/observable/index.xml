@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Observable - Tag - My Notes</title><link>https://blog.emecas.net/tags/observable/</link><description>Observable - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Nov 2025 12:55:25 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/observable/" rel="self" type="application/rss+xml"/><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
+<p>An open-source scientific and technical publishing system</p>
+<p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
+Create dynamic content with Python, R, Julia, and Observable.<br>
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
+Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
+Lightweight. Fast. Crafted for Microservices.<br>
+<a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
+Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
+<p>Simple and fast<br>
+Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.<br>
+border_clear</p>]]></description></item></channel></rss>

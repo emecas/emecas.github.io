@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Interoperable - Tag - My Notes</title><link>https://blog.emecas.net/tags/interoperable/</link><description>Interoperable - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Jun 2020 22:12:59 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/interoperable/" rel="self" type="application/rss+xml"/><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+<a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
+A simple web framework for Java and Kotlin<br>
+<a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
+<p>Simple<br>
+Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.</p>
+<p>Lightweight<br>
+Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item></channel></rss>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tuning - Tag - My Notes</title><link>https://blog.emecas.net/tags/tuning/</link><description>Tuning - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 12 Nov 2013 22:36:21 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tuning/" rel="self" type="application/rss+xml"/><item><title>Links: Apache APC, HTTP performance , and MySQL Tuning</title><link>https://blog.emecas.net/posts/2013-11-12-links-apache-apc-http-performance-and-mysql-tuning/</link><pubDate>Tue, 12 Nov 2013 22:36:21 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-12-links-apache-apc-http-performance-and-mysql-tuning/</guid><description><![CDATA[<p>Uninstalling/enable or disable Apache APC</p>
+<p>How to uninstall APC from a dedicated cpanel server using ssh<br>
+<a href="http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh</a></p>
+<p>Linux: enable or disable PHP APC opcode cache for virtual host<br>
+<a href="http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/" target="_blank" rel="noopener noreffer ">http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/</a></p>
+<p>Disable or remove apc<br>
+<a href="http://stackoverflow.com/questions/11309987/disable-or-remove-apc" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/11309987/disable-or-remove-apc</a></p>
+<p>Testing HTTP performance</p>
+<p>Staying Out of Deep Water: Performance Testing Using HTTPD-Test&rsquo;s Flood Page 3<br>
+<a href="http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm" target="_blank" rel="noopener noreffer ">http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm</a></p>
+<p>MySQL Tuning</p>
+<p>2 Linux MySQL Tuning Scripts you must have<br>
+<a href="http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have" target="_blank" rel="noopener noreffer ">http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have</a></p>
+<p>MySQL Performance Tuning Scripts and Know-How<br>
+<a href="http://www.askapache.com/mysql/performance-tuning-mysql.html" target="_blank" rel="noopener noreffer ">http://www.askapache.com/mysql/performance-tuning-mysql.html</a></p>]]></description></item></channel></rss>

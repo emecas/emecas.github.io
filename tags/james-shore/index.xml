@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>James-Shore - Tag - My Notes</title><link>https://blog.emecas.net/tags/james-shore/</link><description>James-Shore - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 02 Feb 2019 14:53:12 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/james-shore/" rel="self" type="application/rss+xml"/><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
+By James Shore<br>
+01 Feb, 2019</p>
+<p>- To add tests to legacy code<br>
+- To improve requirements code quality<br>
+- To improve non-functional quality<br>
+- (TDD reflexion) Here&rsquo;s the thing about TDD</p>]]></description></item></channel></rss>

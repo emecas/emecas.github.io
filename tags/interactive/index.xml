@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Interactive - Tag - My Notes</title><link>https://blog.emecas.net/tags/interactive/</link><description>Interactive - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Jul 2017 16:24:28 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/interactive/" rel="self" type="application/rss+xml"/><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
+Owner: Robert Field<br>
+Created 2014/05/16 23:13<br>
+Updated 2017/06/09 04:21<br>
+Type Feature<br>
+Status Closed / Delivered<br>
+Component tools / jshell<br>
+Scope JDK<br>
+Discussion<br>
+kulla dash dev at openjdk dot java dot net<br>
+Effort L<br>
+Duration L<br>
+Priority 2<br>
+Reviewed by Alex Buckley, Brian Goetz<br>
+Endorsed by Brian Goetz<br>
+Release 9<br>
+Issue 8043364<br>
+Summary</p>
+<p>Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>]]></description></item><item><title>JWT - JSON Web Tokens</title><link>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</link><pubDate>Mon, 27 Mar 2017 13:23:50 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</guid><description><![CDATA[<p>JWT - JSON Web Tokens<br>
+<a href="https://jwt.io/" target="_blank" rel="noopener noreffer ">https://jwt.io/</a><br>
+JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.</p>
+<p>JWT.IO allows you to decode, verify and generate JWT.</p>
+<p>JSON Web Token (JWT)<br>
+REF:  <a href="https://tools.ietf.org/html/rfc7519" target="_blank" rel="noopener noreffer ">https://tools.ietf.org/html/rfc7519</a></p>]]></description></item><item><title>KML Interactive Sampler</title><link>https://blog.emecas.net/posts/2014-04-14-kml-interactive-sampler/</link><pubDate>Mon, 14 Apr 2014 22:53:25 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-14-kml-interactive-sampler/</guid><description><![CDATA[<p>KML Interactive Sampler<br>
+<a href="https://kml-samples.googlecode.com/svn/trunk/interactive/index.html" target="_blank" rel="noopener noreffer ">https://kml-samples.googlecode.com/svn/trunk/interactive/index.html</a><br>
+Explore the samples below or enter your own KML to get started. You can then make changes and see them in action by clicking &lsquo;Update Earth&rsquo;!<br>
+This sampler requires the Google Earth Plug-in.</p>]]></description></item><item><title>TileMill</title><link>https://blog.emecas.net/posts/2014-04-11-tilemill/</link><pubDate>Fri, 11 Apr 2014 12:17:19 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-11-tilemill/</guid><description><![CDATA[<p>TileMill<br>
+<a href="https://www.mapbox.com/tilemill/" target="_blank" rel="noopener noreffer ">https://www.mapbox.com/tilemill/</a><br>
+Create beautiful interactive maps</p>]]></description></item><item><title>Learning Theory interactive Map</title><link>https://blog.emecas.net/posts/2014-02-10-learning-theory-interactive-map/</link><pubDate>Mon, 10 Feb 2014 11:20:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-10-learning-theory-interactive-map/</guid><description><![CDATA[<p>Learning Theory interactive Map<br>
+<a href="http://blog.richardmillwood.net/2013/05/10/learning-theory/" target="_blank" rel="noopener noreffer ">http://blog.richardmillwood.net/2013/05/10/learning-theory/</a></p>]]></description></item><item><title>Scratch</title><link>https://blog.emecas.net/posts/2013-03-19-scratch/</link><pubDate>Tue, 19 Mar 2013 00:32:33 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-19-scratch/</guid><description><![CDATA[<p>Scratch<br>
+<a href="http://scratch.mit.edu" target="_blank" rel="noopener noreffer ">http://scratch.mit.edu</a><br>
+Scratch is a programming language that makes it easy to create your own interactive stories, animations, games, music, and art -- and share your creations on the web.<br>
+As young people create and share Scratch projects, they learn important mathematical and computational ideas, while also learning to think creatively, reason systematically, and work collaboratively.</p>]]></description></item></channel></rss>

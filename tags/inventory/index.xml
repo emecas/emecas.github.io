@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Inventory - Tag - My Notes</title><link>https://blog.emecas.net/tags/inventory/</link><description>Inventory - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Mar 2017 13:23:50 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/inventory/" rel="self" type="application/rss+xml"/><item><title>JWT - JSON Web Tokens</title><link>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</link><pubDate>Mon, 27 Mar 2017 13:23:50 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</guid><description><![CDATA[<p>JWT - JSON Web Tokens<br>
+<a href="https://jwt.io/" target="_blank" rel="noopener noreffer ">https://jwt.io/</a><br>
+JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.</p>
+<p>JWT.IO allows you to decode, verify and generate JWT.</p>
+<p>JSON Web Token (JWT)<br>
+REF:  <a href="https://tools.ietf.org/html/rfc7519" target="_blank" rel="noopener noreffer ">https://tools.ietf.org/html/rfc7519</a></p>]]></description></item></channel></rss>

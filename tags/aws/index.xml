@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AWS - Tag - My Notes</title><link>https://blog.emecas.net/tags/aws/</link><description>AWS - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 02 Oct 2020 19:42:25 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/aws/" rel="self" type="application/rss+xml"/><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
+<a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
+<a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
+<a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
+<p><a href="https://github.com/architect/architect" target="_blank" rel="noopener noreffer ">https://github.com/architect/architect</a></p>
+<p>Deno is a brand new experimental JavaScript runtime and deno.town is a web based REPL with linting and code completion to help you explore and learn the API.<br>
+Why Deno?</p>
+<p>It is very fast<br>
+Built in least privilege security<br>
+Standard esmodules<br>
+TypeScript, JSX and TSX dialects supported</p>
+<p>How</p>
+<p>AWS Lambda (and friends) by way of OpenJS Architect<br>
+Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
+<a href="https://min.io/" target="_blank" rel="noopener noreffer ">https://min.io/</a><br>
+Kubernetes Native, High Performance Object Storage</p>
+<p>MinIO&rsquo;s high-performance object storage suite is software defined and<br>
+enables customers to build cloud-native data infrastructure for<br>
+machine learning, analytics and application data workloads.</p>
+<p>The defacto standard for Amazon S3 compatibility.</p>
+<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>]]></description></item></channel></rss>

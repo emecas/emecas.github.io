@@ -1,0 +1,69 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Command-Line - Tag - My Notes</title><link>https://blog.emecas.net/tags/command-line/</link><description>Command-Line - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Oct 2024 13:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/command-line/" rel="self" type="application/rss+xml"/><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+CLI tool for working with Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
+repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
+<a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
+web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
+<a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
+The Software Development Kit Manager</p>
+<p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
+<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
+Command line client for Trello<br>
+<a href="https://github.com/mheap/trello-cli" target="_blank" rel="noopener noreffer ">https://github.com/mheap/trello-cli</a></p>
+<p>Supported API commands</p>
+<p>trello-cli currently supports the following commands:</p>
+<p>add-board          Adds a new board with the specified name<br>
+add-card           Add a card to a board<br>
+add-list           Adds a new list to the spcified board with the specified name<br>
+assigned-to-me     Show cards that are currently assigned to you<br>
+close-board        Closes those board(s) where the specified text occurs in their name<br>
+delete-card        Remove a card from a board<br>
+move-all-cards     Move all cards from one list to another<br>
+refresh            Refresh all your board/list names<br>
+show-boards        Show the list of cached boards<br>
+show-cards         Show the cards on a list<br>
+show-labels        Show labels defined on a board<br>
+show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
+show-lists         Show the list of cached lists</p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
+<a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
+A command-line installer for Windows<br>
+<a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
+<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>]]></description></item><item><title>yokadi</title><link>https://blog.emecas.net/posts/2019-05-13-yokadi/</link><pubDate>Mon, 13 May 2019 22:52:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-13-yokadi/</guid><description><![CDATA[<p>yokadi<br>
+<a href="http://yokadi.github.io/" target="_blank" rel="noopener noreffer ">http://yokadi.github.io/</a><br>
+Yokadi is a command line oriented, sqlite powered, todo-list.<br>
+<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>]]></description></item><item><title>args4j Java command line arguments parser</title><link>https://blog.emecas.net/posts/2017-12-11-args4j-java-command-line-arguments-parser/</link><pubDate>Mon, 11 Dec 2017 14:14:43 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-11-args4j-java-command-line-arguments-parser/</guid><description><![CDATA[<p>args4j<br>
+args4j : Java command line arguments parser<br>
+<a href="http://args4j.kohsuke.org/" target="_blank" rel="noopener noreffer ">http://args4j.kohsuke.org/</a><br>
+args4j is a small Java class library that makes it easy to parse command line options/arguments in your CUI application.<br>
+<a href="https://github.com/kohsuke/args4j" target="_blank" rel="noopener noreffer ">https://github.com/kohsuke/args4j</a></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
+Text-mode interface for git<br>
+<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
+What is Tig?</p>
+<p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
+<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>]]></description></item></channel></rss>

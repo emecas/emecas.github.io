@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Grails - Tag - My Notes</title><link>https://blog.emecas.net/tags/grails/</link><description>Grails - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 26 Apr 2016 04:46:56 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/grails/" rel="self" type="application/rss+xml"/><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
+<p>1.	JSON approach</p>
+<p>Groovy. Write objects to file (json) and read them back<br>
+<a href="https://gist.github.com/keyle/723181f3a9a59a3f7652" target="_blank" rel="noopener noreffer ">https://gist.github.com/keyle/723181f3a9a59a3f7652</a></p>
+<p>2.	Groovy and files References</p>
+<p>Groovy File Examples<br>
+<a href="http://grails.asia/groovy-file-examples" target="_blank" rel="noopener noreffer ">http://grails.asia/groovy-file-examples</a></p>
+<p>Groovy Goodness: Working with Files<br>
+<a href="http://mrhaki.blogspot.in/2009/08/groovy-goodness-working-with-files.html" target="_blank" rel="noopener noreffer ">http://mrhaki.blogspot.in/2009/08/groovy-goodness-working-with-files.html</a></p>
+<p>3.	Serialization Key Concepts</p>
+<p>Object Persistence Made Easy<br>
+<a href="http://www.javacoffeebreak.com/articles/serialization/" target="_blank" rel="noopener noreffer ">http://www.javacoffeebreak.com/articles/serialization/</a></p>
+<p>4.	Utilities</p>
+<p>GORM is Grails&rsquo; object relational mapping (ORM) implementation.<br>
+<a href="https://grails.github.io/grails-doc/latest/guide/GORM.html" target="_blank" rel="noopener noreffer ">https://grails.github.io/grails-doc/latest/guide/GORM.html</a></p>
+<p>GORM Tutorial: Recipes for using GORM with Grails<br>
+<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,52 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cloud - Tag - My Notes</title><link>https://blog.emecas.net/tags/cloud/</link><description>Cloud - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 20 Jan 2021 23:40:21 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cloud/" rel="self" type="application/rss+xml"/><item><title>Eclipse Theia</title><link>https://blog.emecas.net/posts/2021-01-20-eclipse-theia/</link><pubDate>Wed, 20 Jan 2021 23:40:21 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-20-eclipse-theia/</guid><description><![CDATA[<p>Eclipse Theia<br>
+<a href="https://theia-ide.org/" target="_blank" rel="noopener noreffer ">https://theia-ide.org/</a><br>
+Cloud &amp; Desktop IDE Platform<br>
+Eclipse Theia is an extensible platform to develop multi-language Cloud &amp; Desktop IDEs with state-of-the-art web technologies.</p>
+<p>Repo: <a href="https://github.com/eclipse-theia/theia" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-theia/theia</a></p>
+<p>Cloud &amp; Desktop</p>
+<p>Not sure whether you need a web or desktop version or both?</p>
+<p>With Theia you can develop one IDE and run it in browsers or native desktop application from a single source.</p>
+<p>Vendor Neutral</p>
+<p>The Theia project is hosted at the Eclipse Foundation, a not-for-profit corporation, and is developed by a diverse community.</p>]]></description></item><item><title>The Serverless Framework</title><link>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</link><pubDate>Tue, 14 Apr 2020 19:13:42 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</guid><description><![CDATA[<p>The Serverless Framework<br>
+<a href="https://serverless.com/" target="_blank" rel="noopener noreffer ">https://serverless.com/</a><br>
+The Serverless Framework gives you everything you need to develop, deploy, monitor and secure serverless applications on any cloud.</p>]]></description></item><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
+<a href="https://cdkworkshop.com/" target="_blank" rel="noopener noreffer ">https://cdkworkshop.com/</a><br>
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun<br>
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
+<p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>7labs keep up with the latest technology inventions</title><link>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</link><pubDate>Wed, 14 Aug 2019 11:04:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</guid><description><![CDATA[<p>7labs<br>
+<a href="https://7labs.io/" target="_blank" rel="noopener noreffer ">https://7labs.io/</a><br>
+The Mission<br>
+We are a small team of tech savvy people who just love to keep up with the latest technology inventions.<br>
+Be it computer, mobile phones, applications or any other software, we just want to test everything.<br>
+We try to find out how to make the best use of a particular product.<br>
+In our ventures, we have also tried to figure out ways of making things work.<br>
+Whenever we wanted to achieve some goal, first we used to search for a solution on the one place everybody looks for – the Internet.<br>
+Yeah, sometimes we did find solution there, but at other times when we didn’t, we tried our own ways to find a suitable alternative.<br>
+And if we were lucky enough, a solution would be discovered.</p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p>A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.</p>
+<p><a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
+<a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>]]></description></item><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
+<a href="https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/" target="_blank" rel="noopener noreffer ">https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/</a><br>
+By<br>
+Zoltan Altfatter</p>
+<p>In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized<br>
+configuration management in a microservice environment. I have prepared a simple example project<br>
+which you can find on my github account. It contains a config-service leveraging Spring Cloud<br>
+Config Server and three little services using Spring Cloud Config Client.</p>]]></description></item><item><title>Blog: Holistic Security and Technology</title><link>https://blog.emecas.net/posts/2017-07-17-blog-holistic-security-and-technology/</link><pubDate>Mon, 17 Jul 2017 16:22:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-17-blog-holistic-security-and-technology/</guid><description><![CDATA[<p>Blog: Holistic Security and Technology<br>
+<a href="https://holisticsecurity.io" target="_blank" rel="noopener noreffer ">https://holisticsecurity.io</a><br>
+Open Source, Security, BigData, DevOps in SDLC and Cloud<br>
+by Roger CARHUATOCTO (chilcano)<br>
+With The Systems Thinking approach, We see any problem in a complete and holistic manner, in fact, it is possible to apply Systems Thinking Methodology to ITSec problems allowing to incorporate new variables (usability, trust, quality, risk, etc.) to the problem that before was not considered in the solution.</p>]]></description></item><item><title>Restcomm is the Open Source Cloud Communications platform</title><link>https://blog.emecas.net/posts/2017-03-17-restcomm-is-the-open-source-cloud-communications-platform/</link><pubDate>Fri, 17 Mar 2017 14:08:16 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-17-restcomm-is-the-open-source-cloud-communications-platform/</guid><description><![CDATA[<p>Restcomm is the Open Source Cloud Communications platform<br>
+<a href="https://www.restcomm.com/product/" target="_blank" rel="noopener noreffer ">https://www.restcomm.com/product/</a></p>
+<p>Restcomm is a next generation Cloud Communications Platform to rapidly build voice and text messaging applications, using mainstream web development skills. Restcomm is a turnkey Cloud Communications solution from Telestax, Inc.</p>
+<p>Restcomm is the Open Source Cloud Communications platform.</p>
+<p>Developers: Build, test and sell your next telephony app on the Restcomm App Store in a matter of hours. Focus on creating, not babysitting. Let service providers be your sales force.</p>]]></description></item><item><title>OpenWeatherMap</title><link>https://blog.emecas.net/posts/2017-01-10-openweathermap/</link><pubDate>Tue, 10 Jan 2017 16:47:06 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-10-openweathermap/</guid><description><![CDATA[<p>OpenWeatherMap<br>
+<a href="http://openweathermap.org" target="_blank" rel="noopener noreffer ">http://openweathermap.org</a></p>
+<p><a href="http://owm.io/about" target="_blank" rel="noopener noreffer ">http://owm.io/about</a><br>
+Our mission is to make geo data open and available through easy to use cloud products and APIs to inspire new innovative applications with imagery, weather data, and other data feeds that are instantly available for you. A lot of new features are coming soon.</p>
+<p>We use high-end Big Data IT technologies to automatically process billions of data points every second providing you with RGB and NVDI images, cloudless maps, interactive weather maps and many other products.</p>]]></description></item><item><title>Visual Studio Code</title><link>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</link><pubDate>Thu, 09 Jul 2015 17:41:10 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</guid><description><![CDATA[<p>Visual Studio Code<br>
+Code Editing. Redefined.<br>
+Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.<br>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">https://code.visualstudio.com/</a></p>]]></description></item></channel></rss>

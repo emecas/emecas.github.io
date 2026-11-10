@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Schema - Tag - My Notes</title><link>https://blog.emecas.net/tags/schema/</link><description>Schema - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Dec 2020 19:08:42 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/schema/" rel="self" type="application/rss+xml"/><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
+<a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
+Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
+<p>Title:<br>
+Standard for Learning Metadata</p>
+<p>Scope:<br>
+This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
+This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
+This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
+This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>IndoorOSM</title><link>https://blog.emecas.net/posts/2014-04-10-indoorosm/</link><pubDate>Thu, 10 Apr 2014 11:33:41 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-10-indoorosm/</guid><description><![CDATA[<p>IndoorOSM<br>
+<a href="http://wiki.openstreetmap.org/wiki/IndoorOSM#The_Model_.2F_Tagging_Schema" target="_blank" rel="noopener noreffer ">http://wiki.openstreetmap.org/wiki/IndoorOSM#The_Model_.2F_Tagging_Schema</a><br>
+IndoorOSM is a proposed tagging schema for Indoor Mapping (One of several possible schemes. See Indoor Mapping#Tagging proposals for a list of other possibilities)<br>
+You might be looking for IndoorOSM on Android.</p>]]></description></item></channel></rss>

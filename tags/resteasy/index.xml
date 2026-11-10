@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Resteasy - Tag - My Notes</title><link>https://blog.emecas.net/tags/resteasy/</link><description>Resteasy - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2020 17:45:58 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/resteasy/" rel="self" type="application/rss+xml"/><item><title>Eclipse Krazo</title><link>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</link><pubDate>Tue, 25 Feb 2020 17:45:58 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</guid><description><![CDATA[<p>Eclipse Krazo<br>
+<a href="https://projects.eclipse.org/proposals/eclipse-krazo" target="_blank" rel="noopener noreffer ">https://projects.eclipse.org/proposals/eclipse-krazo</a><br>
+<a href="https://github.com/eclipse-ee4j/krazo" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/krazo</a><br>
+<a href="https://projects.eclipse.org/projects/ee4j.krazo" target="_blank" rel="noopener noreffer ">https://projects.eclipse.org/projects/ee4j.krazo</a><br>
+Eclipse Krazo is an implementation of action-based MVC specified by MVC 1.0 (JSR-371).<br>
+It builds on top of JAX-RS and currently contains support for RESTEasy,<br>
+Jersey and CXF with a well-defined SPI for other implementations.<br>
+<a href="https://github.com/eclipse-ee4j/krazo/wiki" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/krazo/wiki</a><br>
+Related links:<br>
+<a href="https://www.mvc-spec.org/" target="_blank" rel="noopener noreffer ">https://www.mvc-spec.org/</a><br>
+<a href="https://jcp.org/en/jsr/detail?id=371" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=371</a></p>]]></description></item></channel></rss>

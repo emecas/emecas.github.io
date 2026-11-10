@@ -1,0 +1,111 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Examples - Tag - My Notes</title><link>https://blog.emecas.net/tags/examples/</link><description>Examples - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 09:07:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/examples/" rel="self" type="application/rss+xml"/><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+A build automation tool for Docker applications.<br>
+<a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
+<p>A build automation tool for Docker applications.<br>
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.</p>
+<p>Use Cases</p>
+<p>examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.<br>
+examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)<br>
+examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.<br>
+examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
+examples/init-named-volume - create or update the files in a named docker volume.<br>
+examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
+<p>Joel Parker Henderson<br>
+<a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
+<a href="http://www.joelparkerhenderson.com/" target="_blank" rel="noopener noreffer ">http://www.joelparkerhenderson.com/</a></p>
+<p>About</p>
+<p>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</p>
+<p>Contents:</p>
+<p>What is an architecture decision record?<br>
+How to start using ADRs<br>
+How to start using ADRs with tools<br>
+How to start using ADRs with git<br>
+File name conventions for ADRs<br>
+Suggestions for writing good ADRs<br>
+ADR example templates<br>
+Teamwork advice for ADRs<br>
+For more information</p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
+<a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
+HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
+<p>CURL Call:<br>
+$ curl -d &lsquo;{&ldquo;query&rdquo;:&quot;{people{ surname }}&quot;}&rsquo; -H &ldquo;Content-Type: application/json&rdquo; -X POST <a href="http://localhost:8080/graphql" target="_blank" rel="noopener noreffer ">http://localhost:8080/graphql</a></p>
+<p>Reponse:<br>
+{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
+<a href="http://nealford.com/katas/list.html" target="_blank" rel="noopener noreffer ">http://nealford.com/katas/list.html</a></p>
+<p>Agile Dead Trees<br>
+All Stuff, No Cruft<br>
+Am.I.Sck<br>
+Check Your Work<br>
+E(xperimental) College<br>
+Gird the Grid<br>
+Going Green<br>
+Going&hellip;Going&hellip;Gone!<br>
+Hot Diggety Dog!<br>
+I Can Haz Cheezborger?<br>
+I&rsquo;ll Have the BLT<br>
+Lights, Please<br>
+Make the Grade<br>
+Room with a View<br>
+Sysop Squad<br>
+Tales Of A Fourth Grade<br>
+The Road Warrior<br>
+Where&rsquo;s Fluffymon?<br>
+World of Webcraft<br>
+You Look Good In Print</p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
+Evolution of Enterprise Java -  Optimised for microservice architectures<br>
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
+examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
+<p>Mature<br>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>7 Popular Unit Test Naming Conventions</title><link>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</link><pubDate>Wed, 29 Apr 2020 18:54:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</guid><description><![CDATA[<p>7 Popular Unit Test Naming Conventions<br>
+<a href="https://dzone.com/articles/7-popular-unit-test-naming" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/7-popular-unit-test-naming</a></p>
+<p>1. MethodName_StateUnderTest_ExpectedBehavior: There are arguments against this strategy that if method names change as part of code refactoring 	than test name like this should also change or it becomes difficult to comprehend at a later stage. Following are some of the example:<br>
+isAdult_AgeLessThan18_False<br>
+withdrawMoney_InvalidAccount_ExceptionThrown<br>
+admitStudent_MissingMandatoryFields_FailToAdmit<br>
+2. MethodName_ExpectedBehavior_StateUnderTest: Slightly tweeked from above, but a section of developers also recommend using this naming technique. This technique also has disadvantage that if method names get changed, it becomes difficult to comprehend at a later stage. Following is how tests in first example would read like if named using this technique:<br>
+isAdult_False_AgeLessThan18<br>
+withdrawMoney_ThrowsException_IfAccountIsInvalid<br>
+admitStudent_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+3. test[Feature being tested]: This one makes it easy to read the test as the feature to be tested is written as part of test name. Although, there are arguments that the “test” prefix is redundant. However, some sections of developer love to use this technique. Following is how the above tests would read like if named using this technique:<br>
+testIsNotAnAdultIfAgeLessThan18<br>
+testFailToWithdrawMoneyIfAccountIsInvalid<br>
+testStudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+4. Feature to be tested: Many suggests that it is better to simply write the feature to be tested because one is anyway using annotations to identify method as test methods. It is also recommended for the reason that it makes unit tests as alternate form of documentation and avoid code smells. Following is how tests in first example would read like if named using this technique:<br>
+IsNotAnAdultIfAgeLessThan18<br>
+FailToWithdrawMoneyIfAccountIsInvalid<br>
+StudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+5. Should_ExpectedBehavior_When_StateUnderTest: This technique is also used by many as it makes it easy to read the tests. Following is how tests in first example would read like if named using this technique:<br>
+Should_ThrowException_When_AgeLessThan18<br>
+Should_FailToWithdrawMoney_ForInvalidAccount<br>
+Should_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+6. When_StateUnderTest_Expect_ExpectedBehavior: Following is how tests in first example would read like if named using this technique:<br>
+When_AgeLessThan18_Expect_isAdultAsFalse<br>
+When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
+When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
+7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>react-burger-menu</title><link>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</link><pubDate>Tue, 28 Apr 2020 18:33:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</guid><description><![CDATA[<p>react-burger-menu<br>
+An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations<br>
+<a href="https://github.com/negomi/react-burger-menu" target="_blank" rel="noopener noreffer ">https://github.com/negomi/react-burger-menu</a><br>
+<a href="http://negomi.github.io/react-burger-menu/" target="_blank" rel="noopener noreffer ">http://negomi.github.io/react-burger-menu/</a></p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
+<a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
+This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
+using both built-in and custom metrics with Helidon MP.</p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
+<a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
+<p>So, what is Scrapbook Page? To put it simply,<br>
+it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
+No need to create any temperory classes (like I did in the previous para).<br>
+You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>OpenShift Cheat Sheet</title><link>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</link><pubDate>Mon, 11 Feb 2019 11:59:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</guid><description><![CDATA[<p>OpenShift Cheat Sheet<br>
+<a href="http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf" target="_blank" rel="noopener noreffer ">http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf</a><br>
+Content<br>
+1. What is OpenShift?. . . . . . . . . . . . . . . . . . . 1<br>
+2. Cheat sheet guide. . . . . . . . . . . . . . . . . . . . 1<br>
+3. Command overview. . . . . . . . . . . . . . . . . . 2<br>
+4. Simple build and deploy overview. . . . . 4<br>
+5. Simple routing overview. . . . . . . . . . . . . 4<br>
+6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5<br>
+7. Additional operations. . . . . . . . . . . . . . . 10<br>
+8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item></channel></rss>

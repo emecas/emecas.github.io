@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Conventions - Tag - My Notes</title><link>https://blog.emecas.net/tags/conventions/</link><description>Conventions - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2020 18:54:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/conventions/" rel="self" type="application/rss+xml"/><item><title>7 Popular Unit Test Naming Conventions</title><link>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</link><pubDate>Wed, 29 Apr 2020 18:54:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</guid><description><![CDATA[<p>7 Popular Unit Test Naming Conventions<br>
+<a href="https://dzone.com/articles/7-popular-unit-test-naming" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/7-popular-unit-test-naming</a></p>
+<p>1. MethodName_StateUnderTest_ExpectedBehavior: There are arguments against this strategy that if method names change as part of code refactoring 	than test name like this should also change or it becomes difficult to comprehend at a later stage. Following are some of the example:<br>
+isAdult_AgeLessThan18_False<br>
+withdrawMoney_InvalidAccount_ExceptionThrown<br>
+admitStudent_MissingMandatoryFields_FailToAdmit<br>
+2. MethodName_ExpectedBehavior_StateUnderTest: Slightly tweeked from above, but a section of developers also recommend using this naming technique. This technique also has disadvantage that if method names get changed, it becomes difficult to comprehend at a later stage. Following is how tests in first example would read like if named using this technique:<br>
+isAdult_False_AgeLessThan18<br>
+withdrawMoney_ThrowsException_IfAccountIsInvalid<br>
+admitStudent_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+3. test[Feature being tested]: This one makes it easy to read the test as the feature to be tested is written as part of test name. Although, there are arguments that the “test” prefix is redundant. However, some sections of developer love to use this technique. Following is how the above tests would read like if named using this technique:<br>
+testIsNotAnAdultIfAgeLessThan18<br>
+testFailToWithdrawMoneyIfAccountIsInvalid<br>
+testStudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+4. Feature to be tested: Many suggests that it is better to simply write the feature to be tested because one is anyway using annotations to identify method as test methods. It is also recommended for the reason that it makes unit tests as alternate form of documentation and avoid code smells. Following is how tests in first example would read like if named using this technique:<br>
+IsNotAnAdultIfAgeLessThan18<br>
+FailToWithdrawMoneyIfAccountIsInvalid<br>
+StudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+5. Should_ExpectedBehavior_When_StateUnderTest: This technique is also used by many as it makes it easy to read the tests. Following is how tests in first example would read like if named using this technique:<br>
+Should_ThrowException_When_AgeLessThan18<br>
+Should_FailToWithdrawMoney_ForInvalidAccount<br>
+Should_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+6. When_StateUnderTest_Expect_ExpectedBehavior: Following is how tests in first example would read like if named using this technique:<br>
+When_AgeLessThan18_Expect_isAdultAsFalse<br>
+When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
+When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
+7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item></channel></rss>

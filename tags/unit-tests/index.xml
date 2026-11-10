@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Unit-Tests - Tag - My Notes</title><link>https://blog.emecas.net/tags/unit-tests/</link><description>Unit-Tests - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Feb 2019 07:59:26 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/unit-tests/" rel="self" type="application/rss+xml"/><item><title>Expert Excuses for Not Writing Unit Tests</title><link>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</link><pubDate>Sun, 03 Feb 2019 07:59:26 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</guid><description><![CDATA[<p>Expert Excuses for Not Writing Unit Tests<br>
+<a href="https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/" target="_blank" rel="noopener noreffer ">https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/</a><br>
+By Ben E. C. Boyter</p>
+<p>The Promise of Bad Tests<br>
+Testing leads to bad design<br>
+Adding of cost<br>
+Faking It<br>
+Auto Generating<br>
+Learning From Volkswagen and Diesel-gate<br>
+Shifting Blame<br>
+Its QA’s problem<br>
+Blaming other team members<br>
+Blaming the technology<br>
+How to test the tests?<br>
+Your Language/Framework/Tool Sucks<br>
+Blaming the process<br>
+Blaming the requirements<br>
+Blame a lower level, OS / Hardware<br>
+Undermining Managers<br>
+Creating Diversions and Ruining Work-flows<br>
+Introducing subtle bugs.<br>
+Test Failing? Delete it!<br>
+Introducing Unreliability<br>
+How to write flaky tests<br>
+What not to test</p>]]></description></item></channel></rss>

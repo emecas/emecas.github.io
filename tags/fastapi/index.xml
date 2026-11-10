@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Fastapi - Tag - My Notes</title><link>https://blog.emecas.net/tags/fastapi/</link><description>Fastapi - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Mar 2020 09:56:33 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/fastapi/" rel="self" type="application/rss+xml"/><item><title>FastAPI</title><link>https://blog.emecas.net/posts/2020-03-18-fastapi/</link><pubDate>Wed, 18 Mar 2020 09:56:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-18-fastapi/</guid><description><![CDATA[<p>FastAPI<br>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
+FastAPI framework, high performance, easy to learn, fast to code, ready for production</p>
+<p>The key features are:</p>
+<p>Fast: Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.</p>
+<p>Fast to code: Increase the speed to develop features by about 200% to 300% *.</p>
+<p>Fewer bugs: Reduce about 40% of human (developer) induced errors. *</p>
+<p>Intuitive: Great editor support. Completion everywhere. Less time debugging.</p>]]></description></item></channel></rss>

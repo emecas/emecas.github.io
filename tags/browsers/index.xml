@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Browsers - Tag - My Notes</title><link>https://blog.emecas.net/tags/browsers/</link><description>Browsers - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Jun 2021 20:11:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/browsers/" rel="self" type="application/rss+xml"/><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+Playwright enables reliable end-to-end testing for modern web apps.<br>
+<a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
+<p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
+<p>Support for all browsers</p>
+<p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
+Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
+Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item></channel></rss>

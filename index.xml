@@ -1,0 +1,90 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>My Notes</title><link>https://blog.emecas.net/</link><description>Personal notes and links</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 17:14:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
+<a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">https://mise.jdx.dev/</a><br>
+Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
+<p>Everything in its place, before you code.<br>
+In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.<br>
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+A build automation tool for Docker applications.<br>
+<a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
+<p>A build automation tool for Docker applications.<br>
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.</p>
+<p>Use Cases</p>
+<p>examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.<br>
+examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)<br>
+examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.<br>
+examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
+examples/init-named-volume - create or update the files in a named docker volume.<br>
+examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
+<a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
+<p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
+<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>OpenTelemetri</title><link>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</link><pubDate>Tue, 03 Mar 2026 14:24:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</guid><description><![CDATA[<p>OpenTelemetry<br>
+<a href="https://opentelemetry.io/" target="_blank" rel="noopener noreffer ">https://opentelemetry.io/</a><br>
+The open standard for telemetry</p>
+<p>OpenTelemetry (OTel) is a leading open-source framework designed to help developers monitor and understand the performance of complex, cloud-native applications. It was created by merging two major projects, **OpenTracing** and **OpenCensus**, under the Cloud Native Computing Foundation (CNCF).</p>
+<p>Here is a breakdown of why it’s a big deal in the software world:</p>
+<p>### Core Benefits</p>
+<p>* **Vendor Neutrality:** You can instrument your code once and send your data to any backend (like Prometheus, Jaeger, or commercial tools). This prevents &ldquo;vendor lock-in,&rdquo; allowing you to switch providers without rewriting your application code.<br>
+* **Unified Signals:** It brings together **Traces** (the journey of a request), **Metrics** (performance data over time), and **Logs** (timestamped events) into a single, correlated view.<br>
+* **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Apache Superset</title><link>https://blog.emecas.net/posts/2026-02-22-apache-superset/</link><pubDate>Sun, 22 Feb 2026 11:43:14 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-02-22-apache-superset/</guid><description><![CDATA[<p>Apache Superset<br>
+<a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
+Apache Superset is an open-source modern data exploration and visualization platform.</p>
+<p>Key features</p>
+<p>• 40+ pre-installed visualizations<br>
+• Support for drag-and-drop and SQL queries<br>
+• Data caching for the faster load time of charts and dashboards<br>
+• Jinja templating and dashboard filters for creating interactive dashboards<br>
+• CSS templates to customize charts and dashboards to your brand’s look and feel<br>
+• Semantic layer for SQL data transformations<br>
+• Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
+• Virtual datasets for ad-hoc data exploration<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
+<p>An open-source scientific and technical publishing system</p>
+<p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
+Create dynamic content with Python, R, Julia, and Observable.<br>
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
+Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
+Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+<a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
+<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<p>Feature List</p>
+<p>- Language: provides .NET, Python, Go, Java client for API register<br>
+- Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>
+- Security: Sign, OAuth 2.0, JSON Web Tokens, WAF plugin<br>
+- API governance: Request, response, parameter mapping, Hystrix, RateLimiter plugin<br>
+- Observability: Tracing, metrics, logging plugin<br>
+- Extensions: Plugin hot-swapping, dynamic loading<br>
+- Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Krita</title><link>https://blog.emecas.net/posts/2024-09-26-krita/</link><pubDate>Thu, 26 Sep 2024 20:06:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-26-krita/</guid><description><![CDATA[<p>Krita<br>
+<a href="https://krita.org/" target="_blank" rel="noopener noreffer ">https://krita.org/</a><br>
+Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
+<p>Features:</p>
+<p>- Clean and Flexible Interface</p>
+<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item></channel></rss>

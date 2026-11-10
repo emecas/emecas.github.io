@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>TC - Tag - My Notes</title><link>https://blog.emecas.net/tags/tc/</link><description>TC - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Feb 2019 12:55:12 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tc/" rel="self" type="application/rss+xml"/><item><title>.gitignore nice pattern</title><link>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</link><pubDate>Fri, 01 Feb 2019 12:55:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</guid><description><![CDATA[<p>.gitignore nice pattern</p>
+<p>[TIL] : there is not other place where you can see a practical example<br>
+Ref: <a href="https://stackoverflow.com/a/8527645/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/8527645/833336</a></p>
+<p>Line Examples:</p>
+<p>#<br>
+[Tt]est[Rr]esult*/</p>
+<p># Build results<br>
+[Dd]ebug/<br>
+[Dd]ebugPublic/<br>
+[Rr]elease/<br>
+[Rr]eleases/<br>
+x64/<br>
+x86/<br>
+bld/<br>
+[Bb]in/<br>
+[Oo]bj/<br>
+[Ll]og/</p>
+<p>More refs:<br>
+<a href="https://git-scm.com/docs/gitignore" target="_blank" rel="noopener noreffer ">https://git-scm.com/docs/gitignore</a><br>
+<a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
+[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>]]></description></item></channel></rss>

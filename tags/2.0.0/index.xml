@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>2.0.0 - Tag - My Notes</title><link>https://blog.emecas.net/tags/2.0.0/</link><description>2.0.0 - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 02 Apr 2020 16:55:34 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/2.0.0/" rel="self" type="application/rss+xml"/><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
+<a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
+Summary</p>
+<p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
+<p>MAJOR version when you make incompatible API changes,<br>
+MINOR version when you add functionality in a backwards compatible manner, and<br>
+PATCH version when you make backwards compatible bug fixes.</p>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item></channel></rss>

@@ -1,0 +1,82 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Mar 2026 14:24:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>OpenTelemetri</title><link>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</link><pubDate>Tue, 03 Mar 2026 14:24:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</guid><description><![CDATA[<p>OpenTelemetry<br>
+<a href="https://opentelemetry.io/" target="_blank" rel="noopener noreffer ">https://opentelemetry.io/</a><br>
+The open standard for telemetry</p>
+<p>OpenTelemetry (OTel) is a leading open-source framework designed to help developers monitor and understand the performance of complex, cloud-native applications. It was created by merging two major projects, **OpenTracing** and **OpenCensus**, under the Cloud Native Computing Foundation (CNCF).</p>
+<p>Here is a breakdown of why it’s a big deal in the software world:</p>
+<p>### Core Benefits</p>
+<p>* **Vendor Neutrality:** You can instrument your code once and send your data to any backend (like Prometheus, Jaeger, or commercial tools). This prevents &ldquo;vendor lock-in,&rdquo; allowing you to switch providers without rewriting your application code.<br>
+* **Unified Signals:** It brings together **Traces** (the journey of a request), **Metrics** (performance data over time), and **Logs** (timestamped events) into a single, correlated view.<br>
+* **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Apache Superset</title><link>https://blog.emecas.net/posts/2026-02-22-apache-superset/</link><pubDate>Sun, 22 Feb 2026 11:43:14 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-02-22-apache-superset/</guid><description><![CDATA[<p>Apache Superset<br>
+<a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
+Apache Superset is an open-source modern data exploration and visualization platform.</p>
+<p>Key features</p>
+<p>• 40+ pre-installed visualizations<br>
+• Support for drag-and-drop and SQL queries<br>
+• Data caching for the faster load time of charts and dashboards<br>
+• Jinja templating and dashboard filters for creating interactive dashboards<br>
+• CSS templates to customize charts and dashboards to your brand’s look and feel<br>
+• Semantic layer for SQL data transformations<br>
+• Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
+• Virtual datasets for ad-hoc data exploration<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
+<p>An open-source scientific and technical publishing system</p>
+<p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
+Create dynamic content with Python, R, Julia, and Observable.<br>
+Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
+Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
+Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
+<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
+<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
+<p>Installation Process:</p>
+<p>$ winget install hatoo.oha<br>
+Found oha [hatoo.oha] Version 1.4.6<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+This package requires the following dependencies:<br>
+- Packages<br>
+Microsoft.VCRedist.2015+.x64<br>
+Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
+██████████████████████████████  10.8 MB / 10.8 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Path environment variable modified; restart your shell to use the new value.<br>
+Command line alias added: &ldquo;oha&rdquo;<br>
+Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<p>hey is a tiny program that sends some load to a web application.</p>
+<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
+<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
+To preserve the name for its original owner, we renamed this project to hey.</p>
+<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Krita</title><link>https://blog.emecas.net/posts/2024-09-26-krita/</link><pubDate>Thu, 26 Sep 2024 20:06:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-26-krita/</guid><description><![CDATA[<p>Krita<br>
+<a href="https://krita.org/" target="_blank" rel="noopener noreffer ">https://krita.org/</a><br>
+Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
+<p>Features:</p>
+<p>- Clean and Flexible Interface</p>
+<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item><item><title>Democracy Lab</title><link>https://blog.emecas.net/posts/2024-05-15-democracy-lab/</link><pubDate>Wed, 15 May 2024 20:17:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-15-democracy-lab/</guid><description><![CDATA[<p>Democracy Lab<br>
+<a href="https://www.democracylab.org/" target="_blank" rel="noopener noreffer ">https://www.democracylab.org/</a><br>
+Civic Infrastructure</p>
+<p>DemocracyLab empowers people who use technology for public good by connecting tech-for-good projects with skilled volunteers and companies.</p>
+<p>Make Tech. Do Good.</p>
+<p>We connect tech-for-good projects with skilled volunteers and socially responsible companies.</p>
+<p>GitHub main repo: <a href="https://github.com/DemocracyLab/CivicTechExchange" target="_blank" rel="noopener noreffer ">https://github.com/DemocracyLab/CivicTechExchange</a></p>
+<p>Blog: <a href="https://blog.democracylab.org/" target="_blank" rel="noopener noreffer ">https://blog.democracylab.org/</a></p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+Generate easy-to-read web pages for your Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
+repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
+demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+CLI tool for working with Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
+repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+Generate beautiful API documentation from OpenAPI</p>
+<p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
+<p>By default Redoc offers a three-panel, responsive layout:</p>
+<p>The left panel contains a search bar and navigation menu.<br>
+The central panel contains the documentation.<br>
+The right panel contains request and response examples.</p>
+<p>Redoc Live demo<br>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item></channel></rss>

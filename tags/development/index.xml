@@ -1,0 +1,143 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Development - Tag - My Notes</title><link>https://blog.emecas.net/tags/development/</link><description>Development - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 21 Sep 2020 12:35:13 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/development/" rel="self" type="application/rss+xml"/><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
+<a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
+web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>]]></description></item><item><title>Jonathan Stark Podcasts</title><link>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</link><pubDate>Fri, 24 Apr 2020 15:25:31 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</guid><description><![CDATA[<p>Jonathan Stark Podcasts<br>
+<a href="https://www.jonathanstark.com" target="_blank" rel="noopener noreffer ">https://www.jonathanstark.com</a><br>
+Freelancers’ Show: <a href="https://devchat.tv/freelancers/" target="_blank" rel="noopener noreffer ">https://devchat.tv/freelancers/</a><br>
+Terrifying Robot Dog podcast : <a href="https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog" target="_blank" rel="noopener noreffer ">https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog</a><br>
+Ditching Hourly podcast: <a href="https://podcast.ditchinghourly.com/" target="_blank" rel="noopener noreffer ">https://podcast.ditchinghourly.com/</a></p>
+<p>Ref: SE-Radio Episode 300: Jonathan Stark on Mobile App Development<br>
+<a href="https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/</a></p>]]></description></item><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
+<a href="https://cdkworkshop.com/" target="_blank" rel="noopener noreffer ">https://cdkworkshop.com/</a><br>
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun<br>
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
+<p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
+Tilt Up and Get Stuff Done<br>
+Tilt manages local development instances for teams that deploy to Kubernetes.</p>
+<p>Transition easily from any setup<br>
+Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>Threat Modeling</title><link>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</link><pubDate>Wed, 27 Mar 2019 20:49:48 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</guid><description><![CDATA[<p>Threat Modeling</p>
+<p><a href="https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling" target="_blank" rel="noopener noreffer ">https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling</a></p>
+<p>Threat modeling is a core element of the Microsoft Security Development Lifecycle (SDL). It’s an engineering technique you can use to help you identify threats, attacks, vulnerabilities, and countermeasures that could affect your application. You can use threat modeling to shape your application&rsquo;s design, meet your company&rsquo;s security objectives, and reduce risk.</p>
+<p>There are five major threat modeling steps:<br>
+Defining security requirements.<br>
+Creating an application diagram.<br>
+Identifying threats.<br>
+Mitigating threats.<br>
+Validating that threats have been mitigated.<br>
+Threat modeling should be part of your routine development lifecycle, enabling you to progressively refine your threat model and further reduce risk.</p>]]></description></item><item><title>Primitive Obsession</title><link>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</link><pubDate>Sat, 09 Feb 2019 18:11:48 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</guid><description><![CDATA[<p>Primitive Obsession<br>
+<a href="https://www.devteams.at/2019/02/04/primitive-obsession.html" target="_blank" rel="noopener noreffer ">https://www.devteams.at/2019/02/04/primitive-obsession.html</a><br>
+by David Tanzer<br>
+<a href="https://www.devteams.at/" target="_blank" rel="noopener noreffer ">https://www.devteams.at/</a></p>
+<p>Did you ever see some piece of code that uses primitive data types, like Strings or integers,<br>
+in it’s public API? I am sure you have, because most code is written like that.</p>
+<p>But that can cause problems. Today, I want to talk about a code smell called “Primitive Obsession”.<br>
+And I want to show you how code often becomes easier to understand and “nicer”<br>
+by eliminating primitive data types - especially, but not only, from it’s public API.</p>]]></description></item><item><title>Android Dev Podcast</title><link>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</link><pubDate>Fri, 08 Feb 2019 15:01:54 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</guid><description><![CDATA[<p>Android Dev Podcast<br>
+<a href="https://androiddevpodcast.com/" target="_blank" rel="noopener noreffer ">https://androiddevpodcast.com/</a><br>
+Podcast sobre Android en Español 🇲🇽🇵🇪🇨🇱🇬🇹🇸🇻🇩🇴🇨🇷 🇦🇷🇧🇴🇨🇴🇪🇸<br>
+<a href="https://twitter.com/androiddevlat" target="_blank" rel="noopener noreffer ">https://twitter.com/androiddevlat</a></p>]]></description></item><item><title>Mininet</title><link>https://blog.emecas.net/posts/2018-09-12-mininet/</link><pubDate>Wed, 12 Sep 2018 16:27:10 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-12-mininet/</guid><description><![CDATA[<p>Mininet<br>
+An Instant Virtual Network on your Laptop (or other PC)<br>
+<a href="http://mininet.org/" target="_blank" rel="noopener noreffer ">http://mininet.org/</a></p>
+<p>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command:</p>]]></description></item><item><title>List of Software Development Philosophies</title><link>https://blog.emecas.net/posts/2018-09-05-list-of-software-development-philosophies/</link><pubDate>Wed, 05 Sep 2018 16:09:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-05-list-of-software-development-philosophies/</guid><description><![CDATA[<p>List of Software Development Philosophies<br>
+<a href="https://en.wikipedia.org/wiki/List_of_software_development_philosophies" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/List_of_software_development_philosophies</a><br>
+This is a list of approaches, styles, and philosophies in software development not included in the category tree of software development philosophies. It contains also software development processes, software development methodologies and single practices, principles and laws.</p>
+<p>Contents</p>
+<p>1 Software development philosophies<br>
+2 Programming paradigms<br>
+3 Software development methodologies<br>
+4 Software development processes<br>
+5 See also<br>
+6 References</p>
+<p>Programming principles<br>
+Abstraction principle (computer programming)<br>
+Black box<br>
+Code reuse<br>
+Cohesion (computer science)<br>
+Command–query separation<br>
+Composition over inheritance<br>
+Coupling (computer programming)<br>
+Defensive programming<br>
+Dependency inversion principle<br>
+Deutsch limit<br>
+Discoverability<br>
+Don&rsquo;t repeat yourself<br>
+Fail-fast<br>
+GRASP (object-oriented design)<br>
+If it ain&rsquo;t broke, don&rsquo;t fix it<br>
+Information hiding<br>
+Interface segregation principle<br>
+Inversion of control<br>
+KISS principle<br>
+Law of Demeter<br>
+Liskov substitution principle<br>
+Loose coupling<br>
+Ninety-ninety rule<br>
+Offensive programming<br>
+Open–closed principle<br>
+Principle of least astonishment<br>
+Pristine Sources<br>
+Separation of concerns<br>
+Separation of mechanism and policy<br>
+Single responsibility principle<br>
+SOLID<br>
+Uniform access principle<br>
+Worse is better<br>
+You aren&rsquo;t gonna need it<br>
+Zen of Python<br>
+Zero one infinity rule<br>
+List of software development philosophies<br>
+Acceptance test–driven development<br>
+After the Software Wars<br>
+Agile Manifesto<br>
+Agile software development<br>
+Pull-based agile coaching<br>
+Behavior-driven development<br>
+Best practice<br>
+The Cathedral and the Bazaar<br>
+Comment programming<br>
+Composition filters<br>
+Cowboy coding<br>
+Design-driven development<br>
+Domain-driven design<br>
+Extreme programming<br>
+Fibonacci scale (agile)<br>
+Formal methods<br>
+Homesteading the Noosphere<br>
+Integration competency center<br>
+Iterative and incremental development<br>
+Kanban (development)<br>
+KISS principle<br>
+Lean integration<br>
+Lean software development<br>
+Lightweight methodology<br>
+The Magic Cauldron (essay)<br>
+Mayo-Smith pyramid<br>
+Micro-innovation<br>
+Minimalism (computing)<br>
+Open–closed principle<br>
+Planning poker<br>
+PM Declaration of Interdependence<br>
+Release early, release often<br>
+Retrenchment (computing)<br>
+Rule of least power<br>
+Scaled agile framework<br>
+Secure by design<br>
+Specification by example<br>
+Test double<br>
+Continuous test-driven development<br>
+Test-driven development<br>
+There&rsquo;s more than one way to do it<br>
+Transformation Priority Premise<br>
+Unix philosophy<br>
+Waterfall model<br>
+Worse is better<br>
+You aren&rsquo;t gonna need it</p>]]></description></item><item><title>Dandelion free and Open Source Java framework aimed at making web development simpler in JVM-based environments</title><link>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</link><pubDate>Wed, 28 Jun 2017 17:26:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</guid><description><![CDATA[<p>Dandelion<br>
+<a href="http://dandelion.github.io/" target="_blank" rel="noopener noreffer ">http://dandelion.github.io/</a><br>
+Dandelion is a free and Open Source Java framework aimed at making web development simpler in JVM-based environments.<br>
+It helps to manipulate the web assets (JS, CSS) in different ways: assets organization in a bundle graph and classical optimizations like minification, compression or caching.<br>
+It also facilitates the integration of powerful JavaScript libraries thanks to a set of extensible components.</p>
+<p><a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>
+<p>Repos: <a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>]]></description></item></channel></rss>

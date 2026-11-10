@@ -1,0 +1,57 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tips - Tag - My Notes</title><link>https://blog.emecas.net/tags/tips/</link><description>Tips - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Sep 2022 16:22:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tips/" rel="self" type="application/rss+xml"/><item><title>10 Resources to Improve Your Public Speaking Skills</title><link>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</link><pubDate>Thu, 08 Sep 2022 16:22:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</guid><description><![CDATA[<p>10 Resources to Improve Your Public Speaking Skills<br>
+<a href="https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/" target="_blank" rel="noopener noreffer ">https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/</a></p>
+<p>From:  <a href="https://2022.pgconf.nyc/callforpapers/" target="_blank" rel="noopener noreffer ">https://2022.pgconf.nyc/callforpapers/</a></p>]]></description></item><item><title>DBeaver not showing dbms_output</title><link>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</link><pubDate>Thu, 04 Jun 2020 17:12:31 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</guid><description><![CDATA[<p>DBeaver not showing dbms_output<br>
+(Ctrl+Shift+O)<br>
+Ref:<a href="https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980</a></p>]]></description></item><item><title>Disable Auto-commit Mode</title><link>https://blog.emecas.net/posts/2020-02-07-disable-auto-commit-mode/</link><pubDate>Fri, 07 Feb 2020 06:49:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-07-disable-auto-commit-mode/</guid><description><![CDATA[<p>How to Disable Auto-commit Mode in Spring Boot<br>
+-Doracle.jdbc.autoCommitSpecCompliant=false<br>
+<a href="https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d</a><br>
+<a href="https://github.com/rsim/ruby-plsql/issues/121" target="_blank" rel="noopener noreffer ">https://github.com/rsim/ruby-plsql/issues/121</a></p>]]></description></item><item><title>docker issue fix</title><link>https://blog.emecas.net/posts/2020-01-28-docker-issue-fix/</link><pubDate>Tue, 28 Jan 2020 19:10:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-28-docker-issue-fix/</guid><description><![CDATA[<p>docker sudo issue fix<br>
+Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.39/containers/json: dial unix /var/run/docker.sock: connect: permission denied<br>
+Solution: <a href="https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/" target="_blank" rel="noopener noreffer ">https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/</a><br>
+&gt; sudo usermod -a -G docker $USER</p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
+<a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
+<p>So, what is Scrapbook Page? To put it simply,<br>
+it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
+No need to create any temperory classes (like I did in the previous para).<br>
+You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>Fixing JWT Security Flaws</title><link>https://blog.emecas.net/posts/2019-10-22-fixing-jwt-security-flaws/</link><pubDate>Tue, 22 Oct 2019 17:32:29 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-10-22-fixing-jwt-security-flaws/</guid><description><![CDATA[<p>How I Fixed JWT Security Flaws in 3 Steps<br>
+<a href="https://dev.to/dashbird/how-i-fixed-jwt-security-flaws-in-3-steps-264k" target="_blank" rel="noopener noreffer ">https://dev.to/dashbird/how-i-fixed-jwt-security-flaws-in-3-steps-264k</a></p>]]></description></item><item><title>7labs keep up with the latest technology inventions</title><link>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</link><pubDate>Wed, 14 Aug 2019 11:04:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</guid><description><![CDATA[<p>7labs<br>
+<a href="https://7labs.io/" target="_blank" rel="noopener noreffer ">https://7labs.io/</a><br>
+The Mission<br>
+We are a small team of tech savvy people who just love to keep up with the latest technology inventions.<br>
+Be it computer, mobile phones, applications or any other software, we just want to test everything.<br>
+We try to find out how to make the best use of a particular product.<br>
+In our ventures, we have also tried to figure out ways of making things work.<br>
+Whenever we wanted to achieve some goal, first we used to search for a solution on the one place everybody looks for – the Internet.<br>
+Yeah, sometimes we did find solution there, but at other times when we didn’t, we tried our own ways to find a suitable alternative.<br>
+And if we were lucky enough, a solution would be discovered.</p>]]></description></item><item><title>Expert Excuses for Not Writing Unit Tests</title><link>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</link><pubDate>Sun, 03 Feb 2019 07:59:26 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</guid><description><![CDATA[<p>Expert Excuses for Not Writing Unit Tests<br>
+<a href="https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/" target="_blank" rel="noopener noreffer ">https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/</a><br>
+By Ben E. C. Boyter</p>
+<p>The Promise of Bad Tests<br>
+Testing leads to bad design<br>
+Adding of cost<br>
+Faking It<br>
+Auto Generating<br>
+Learning From Volkswagen and Diesel-gate<br>
+Shifting Blame<br>
+Its QA’s problem<br>
+Blaming other team members<br>
+Blaming the technology<br>
+How to test the tests?<br>
+Your Language/Framework/Tool Sucks<br>
+Blaming the process<br>
+Blaming the requirements<br>
+Blame a lower level, OS / Hardware<br>
+Undermining Managers<br>
+Creating Diversions and Ruining Work-flows<br>
+Introducing subtle bugs.<br>
+Test Failing? Delete it!<br>
+Introducing Unreliability<br>
+How to write flaky tests<br>
+What not to test</p>]]></description></item><item><title>How to Write a Git Commit Message</title><link>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</link><pubDate>Fri, 25 Jan 2019 13:28:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</guid><description><![CDATA[<p>How to Write a Git Commit Message<br>
+<a href="https://chris.beams.io/posts/git-commit/" target="_blank" rel="noopener noreffer ">https://chris.beams.io/posts/git-commit/</a><br>
+Introduction: Why good commit messages matter<br>
+By Chris Beams</p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
+<a href="https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/" target="_blank" rel="noopener noreffer ">https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/</a><br>
+The Gradle wrapper is a self-contained Gradle runner and distribution that&rsquo;s typically built into your Gradle project. It&rsquo;s bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.</p>
+<p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item></channel></rss>

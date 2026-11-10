@@ -1,0 +1,41 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Config - Tag - My Notes</title><link>https://blog.emecas.net/tags/config/</link><description>Config - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 22 Apr 2019 11:20:43 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/config/" rel="self" type="application/rss+xml"/><item><title>SmallRye</title><link>https://blog.emecas.net/posts/2019-04-22-smallrye/</link><pubDate>Mon, 22 Apr 2019 11:20:43 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-22-smallrye/</guid><description><![CDATA[<p>SmallRye<br>
+<a href="https://smallrye.io/" target="_blank" rel="noopener noreffer ">https://smallrye.io/</a><br>
+Community driven implementations of Eclipse MicroProfile.<br>
+<a href="https://github.com/smallrye" target="_blank" rel="noopener noreffer ">https://github.com/smallrye</a><br>
+<a href="https://smallrye.io/projects/overview" target="_blank" rel="noopener noreffer ">https://smallrye.io/projects/overview</a></p>]]></description></item><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
+<a href="https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/" target="_blank" rel="noopener noreffer ">https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/</a><br>
+By<br>
+Zoltan Altfatter</p>
+<p>In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized<br>
+configuration management in a microservice environment. I have prepared a simple example project<br>
+which you can find on my github account. It contains a config-service leveraging Spring Cloud<br>
+Config Server and three little services using Spring Cloud Config Client.</p>]]></description></item><item><title>Apache Spark: Config Cheatsheets</title><link>https://blog.emecas.net/posts/2016-12-14-apache-spark-config-cheatsheets/</link><pubDate>Wed, 14 Dec 2016 10:32:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-14-apache-spark-config-cheatsheets/</guid><description><![CDATA[<p>Apache Spark: Config Cheatsheets (parts 1 &amp; 2)<br>
+<a href="http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/" target="_blank" rel="noopener noreffer ">http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/</a><br>
+<a href="http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/" target="_blank" rel="noopener noreffer ">http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/</a></p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
+<p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
+<p>The Twelve Factors<br>
+I. Codebase<br>
+One codebase tracked in revision control, many deploys<br>
+II. Dependencies<br>
+Explicitly declare and isolate dependencies<br>
+III. Config<br>
+Store config in the environment<br>
+IV. Backing services<br>
+Treat backing services as attached resources<br>
+V. Build, release, run<br>
+Strictly separate build and run stages<br>
+VI. Processes<br>
+Execute the app as one or more stateless processes<br>
+VII. Port binding<br>
+Export services via port binding<br>
+VIII. Concurrency<br>
+Scale out via the process model<br>
+IX. Disposability<br>
+Maximize robustness with fast startup and graceful shutdown<br>
+X. Dev/prod parity<br>
+Keep development, staging, and production as similar as possible<br>
+XI. Logs<br>
+Treat logs as event streams<br>
+XII. Admin processes<br>
+Run admin/management tasks as one-off processes</p>]]></description></item></channel></rss>

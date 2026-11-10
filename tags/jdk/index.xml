@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jdk - Tag - My Notes</title><link>https://blog.emecas.net/tags/jdk/</link><description>Jdk - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jdk/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<p>NAME:<br>
+jvms - JDK Version Manager (JVMS) for Windows</p>
+<p>USAGE:<br>
+jvms.exe [global options] command [command options] [arguments&hellip;]</p>
+<p>VERSION:<br>
+v2.1.5</p>
+<p>COMMANDS:<br>
+init        Initialize config file<br>
+list, ls    List current JDK installations.<br>
+install, i  Install available remote jdk<br>
+switch, s   Switch to use the specified version.<br>
+remove, rm  Remove a specific version.<br>
+rls         Show a list of versions available for download.<br>
+proxy       Set a proxy to use for downloads.<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
+<a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
+The Software Development Kit Manager</p>
+<p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
+<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>JDK 11 on the Raspberry Pi</title><link>https://blog.emecas.net/posts/2020-01-10-jdk-11-on-the-raspberry-pi/</link><pubDate>Fri, 10 Jan 2020 20:41:09 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-10-jdk-11-on-the-raspberry-pi/</guid><description><![CDATA[<p>JDK 11 on the Raspberry Pi<br>
+2019-01-13 - By Marcus<br>
+<a href="http://hirt.se/blog/?p=1116" target="_blank" rel="noopener noreffer ">http://hirt.se/blog/?p=1116</a><br>
+This is a very short post on what I ended up doing to get an OpenJDK 11 build for Raspbian on my Raspberry Pi 3.</p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
+Owner: Robert Field<br>
+Created 2014/05/16 23:13<br>
+Updated 2017/06/09 04:21<br>
+Type Feature<br>
+Status Closed / Delivered<br>
+Component tools / jshell<br>
+Scope JDK<br>
+Discussion<br>
+kulla dash dev at openjdk dot java dot net<br>
+Effort L<br>
+Duration L<br>
+Priority 2<br>
+Reviewed by Alex Buckley, Brian Goetz<br>
+Endorsed by Brian Goetz<br>
+Release 9<br>
+Issue 8043364<br>
+Summary</p>
+<p>Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>]]></description></item><item><title>JDK 9 (schedule and features)</title><link>https://blog.emecas.net/posts/2017-01-06-jdk-9-schedule-and-features/</link><pubDate>Fri, 06 Jan 2017 17:38:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-06-jdk-9-schedule-and-features/</guid><description><![CDATA[<p>JDK 9 (schedule and features)</p>
+<p><a href="http://openjdk.java.net/projects/jdk9/" target="_blank" rel="noopener noreffer ">http://openjdk.java.net/projects/jdk9/</a><br>
+The goal of this Project is to produce an open-source reference implementation of the Java SE 9 Platform, to be defined by a forthcoming JSR in the Java Community Process.</p>
+<p>The schedule and features of this release are proposed and tracked via the JEP Process, as amended by the JEP 2.0 proposal.<br>
+Schedule</p>
+<p>2016/05/26 		Feature Complete<br>
+2016/12/22 		Feature Extension Complete<br>
+2017/01/05 		Rampdown Start<br>
+2017/02/09 		All Tests Run<br>
+2017/02/16 		Zero Bug Bounce<br>
+2017/03/16 		Rampdown Phase 2<br>
+2017/07/06 		Final Release Candidate<br>
+2017/07/27 		General Availability</p>]]></description></item></channel></rss>

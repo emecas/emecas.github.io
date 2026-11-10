@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>BDD - Tag - My Notes</title><link>https://blog.emecas.net/tags/bdd/</link><description>BDD - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 12 Mar 2020 08:45:57 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/bdd/" rel="self" type="application/rss+xml"/><item><title>JUnit 5 vs. Spock</title><link>https://blog.emecas.net/posts/2020-03-12-junit-5-vs-spock/</link><pubDate>Thu, 12 Mar 2020 08:45:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-12-junit-5-vs-spock/</guid><description><![CDATA[<p>JUnit 5 vs. Spock feature showdown<br>
+<a href="https://bmuschko.com/blog/junit5-vs-spock-showdown/" target="_blank" rel="noopener noreffer ">https://bmuschko.com/blog/junit5-vs-spock-showdown/</a><br>
+January 1, 2018</p>
+<p>For a quick reference, you can directly jump to a specific test framework feature:<br>
+Test execution<br>
+Fixture set up and tear down<br>
+Descriptive test names<br>
+Disabling tests<br>
+Expecting thrown exceptions<br>
+Repeating test execution<br>
+Declaring test execution timeouts<br>
+Conditional test execution<br>
+Data-driven tests<br>
+Mocking<br>
+Labeling and filtering test execution<br>
+Extending the test framework</p>]]></description></item><item><title>JGiven Behavior-Driven Development in Plain Java</title><link>https://blog.emecas.net/posts/2017-12-14-jgiven-behavior-driven-development-in-plain-java/</link><pubDate>Thu, 14 Dec 2017 14:51:44 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-14-jgiven-behavior-driven-development-in-plain-java/</guid><description><![CDATA[<p>JGiven Behavior-Driven Development in Plain Java<br>
+<a href="http://jgiven.org/" target="_blank" rel="noopener noreffer ">http://jgiven.org/</a><br>
+JGiven is a developer-friendly and pragmatic BDD tool for Java. Developers write scenarios in plain Java using a fluent, domain-specific API, JGiven generates reports that are readable by domain experts.<br>
+<a href="https://github.com/TNG/JGiven" target="_blank" rel="noopener noreffer ">https://github.com/TNG/JGiven</a></p>]]></description></item></channel></rss>
