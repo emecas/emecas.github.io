@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OpenSOurce - Tag - My Notes</title><link>https://blog.emecas.net/tags/opensource/</link><description>OpenSOurce - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jun 2021 11:48:37 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/opensource/" rel="self" type="application/rss+xml"/><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Opensource - Tag - My Notes</title><link>https://blog.emecas.net/tags/opensource/</link><description>Opensource - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jun 2021 11:48:37 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/opensource/" rel="self" type="application/rss+xml"/><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
 a highly automated and intuitive digital audio workstation<br>
 <a href="https://www.zrythm.org/en/index.html" target="_blank" rel="noopener noreffer ">https://www.zrythm.org/en/index.html</a></p>
 <p>Sources:<br>
@@ -10,13 +10,13 @@ Automate almost anything with automation events using straight lines, ramps and 
 <p>Audio plugins<br>
 Complete support for LV2 and VST2, with experimental support for VST3, AU, SFZ and SF2.</p>
 <p>Multi-backend support<br>
-Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
+Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
 <a href="https://elgg.org/" target="_blank" rel="noopener noreffer ">https://elgg.org/</a><br>
 Introducing a powerful open source social networking engine<br>
 Providing you with the core components needed to build a socially aware web application</p>
 <p>Elgg is an award-winning open source social networking engine that provides a robust framework on which to build all kinds of social environments,<br>
 from a campus wide social network for your university, school or college or an internal collaborative platform for your organization through to a<br>
-brand-building communications tool for your company and its clients.</p>]]></description></item><item><title>diaspora</title><link>https://blog.emecas.net/posts/2021-01-23-diaspora/</link><pubDate>Sat, 23 Jan 2021 09:26:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-23-diaspora/</guid><description><![CDATA[<p>diaspora<br>
+brand-building communications tool for your company and its clients.</p>]]></description></item><item><title>diaspora</title><link>https://blog.emecas.net/posts/2021-01-23-diaspora/</link><pubDate>Sat, 23 Jan 2021 09:26:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-23-diaspora/</guid><description><![CDATA[<p>diaspora<br>
 <a href="https://diasporafoundation.org/" target="_blank" rel="noopener noreffer ">https://diasporafoundation.org/</a><br>
 Welcome to diaspora*<br>
 The online social world where you are in control</p>
@@ -30,7 +30,7 @@ Map<br>
 Stats</p>
 <p><a href="https://alternativeto.net/software/diaspora/about/" target="_blank" rel="noopener noreffer ">https://alternativeto.net/software/diaspora/about/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/88f174652c04ea2d64a9a90dd66b8e9e3d509360" target="_blank" rel="noopener noreffer "><code>88f1746</code></a> in My-Notes.</em></p>]]></description></item><item><title>1x Engineer</title><link>https://blog.emecas.net/posts/2020-10-16-1x-engineer/</link><pubDate>Fri, 16 Oct 2020 13:34:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-16-1x-engineer/</guid><description><![CDATA[<p>1x Engineer<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/88f174652c04ea2d64a9a90dd66b8e9e3d509360" target="_blank" rel="noopener noreffer "><code>88f1746</code></a> in My-Notes.</em></p>]]></description></item><item><title>1x Engineer</title><link>https://blog.emecas.net/posts/2020-10-16-1x-engineer/</link><pubDate>Fri, 16 Oct 2020 13:34:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-16-1x-engineer/</guid><description><![CDATA[<p>1x Engineer<br>
 <a href="https://1x.engineer/" target="_blank" rel="noopener noreffer ">https://1x.engineer/</a><br>
 <a href="https://github.com/cutenode/1x.engineer" target="_blank" rel="noopener noreffer ">https://github.com/cutenode/1x.engineer</a><br>
 What is a 1x Engineer?<br>
@@ -38,7 +38,7 @@ You might have already heard of a 10x engineer. Probably too often, actually. If
 Of course there is! Let&rsquo;s dig into a non-exhaustive list of what qualities make up a 1x engineer.</p>
 <p><a href="https://svdictionary.com/words/10x-engineer" target="_blank" rel="noopener noreffer ">https://svdictionary.com/words/10x-engineer</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34261162040168fe299ccd00d091306ab8d7eb75" target="_blank" rel="noopener noreffer "><code>3426116</code></a> in My-Notes.</em></p>]]></description></item><item><title>OpenJS Foundation</title><link>https://blog.emecas.net/posts/2020-09-19-openjs-foundation/</link><pubDate>Sat, 19 Sep 2020 18:43:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-19-openjs-foundation/</guid><description><![CDATA[<p>OpenJS Foundation<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34261162040168fe299ccd00d091306ab8d7eb75" target="_blank" rel="noopener noreffer "><code>3426116</code></a> in My-Notes.</em></p>]]></description></item><item><title>OpenJS Foundation</title><link>https://blog.emecas.net/posts/2020-09-19-openjs-foundation/</link><pubDate>Sat, 19 Sep 2020 18:43:14 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-19-openjs-foundation/</guid><description><![CDATA[<p>OpenJS Foundation<br>
 <a href="https://openjsf.org" target="_blank" rel="noopener noreffer ">https://openjsf.org</a></p>
 <p>Developers rely on a growing portfolio of open source technologies to create, test and deploy critical applications. By creating a center of gravity for the open source JavaScript ecosystem, the OpenJS Foundation’s mission is to drive broad adoption and ongoing development of key JavaScript solutions and related technologies.</p>
 <p>The primary goals of the OpenJS Foundation are:</p>
@@ -46,7 +46,7 @@ Of course there is! Let&rsquo;s dig into a non-exhaustive list of what qualities
 To facilitate collaboration within the JavaScript development community.<br>
 To create a center of gravity for open source projects throughout the end-to-end JavaScript ecosystem guiding them toward open governance and diverse collaborator bases.<br>
 To host the infrastructure to support hosted JavaScript open source projects.<br>
-To enable, through advancement of Projects and strategic partnerships, an open and accessible web.</p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
+To enable, through advancement of Projects and strategic partnerships, an open and accessible web.</p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
 <a href="https://gatling.io/" target="_blank" rel="noopener noreffer ">https://gatling.io/</a><br>
 Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
@@ -54,7 +54,7 @@ Gatling is designed for continuous load testing and integrates with your develop
 Gatling includes a web recorder and colorful reports.<br>
 <a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
 <p>POM:</p>
 <p>&lt;plugin&gt;<br>
 &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>
@@ -84,7 +84,7 @@ Gatling includes a web recorder and colorful reports.<br>
 <p>It&rsquo;s also available in Maven central for easy inclusion in any java projects.</p>
 <p>Usage:</p>
 <p>Declare the nl.talsmasoftware.umldoclet.UMLDoclet class to be used by javadoc (will by default also delegate to Standard doclet, so all-in-one).<br>
-All customizable options will become documented on the github page before the 1.0.0 release.</p>]]></description></item><item><title>SoapUI</title><link>https://blog.emecas.net/posts/2020-06-22-soapui/</link><pubDate>Mon, 22 Jun 2020 19:36:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-22-soapui/</guid><description><![CDATA[<p>SoapUI<br>
+All customizable options will become documented on the github page before the 1.0.0 release.</p>]]></description></item><item><title>SoapUI</title><link>https://blog.emecas.net/posts/2020-06-22-soapui/</link><pubDate>Mon, 22 Jun 2020 19:36:20 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-22-soapui/</guid><description><![CDATA[<p>SoapUI<br>
 <a href="https://www.soapui.org/" target="_blank" rel="noopener noreffer ">https://www.soapui.org/</a><br>
 Build Better | Test Smarter<br>
 The Most Advanced REST, SOAP and GraphQL<br>
@@ -92,12 +92,12 @@ API Testing Tool in the World<br>
 Get the open source version of the most widely used API testing tool in the world. Read about the latest release</p>
 <p>github: <a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">https://github.com/SmartBear/soapui</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fe1ac6b775142c661820cd1a9fd4d4efaa92a514" target="_blank" rel="noopener noreffer "><code>fe1ac6b</code></a> in My-Notes.</em></p>]]></description></item><item><title>Alembic</title><link>https://blog.emecas.net/posts/2020-04-07-alembic/</link><pubDate>Tue, 07 Apr 2020 19:22:43 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-07-alembic/</guid><description><![CDATA[<p>Alembic<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fe1ac6b775142c661820cd1a9fd4d4efaa92a514" target="_blank" rel="noopener noreffer "><code>fe1ac6b</code></a> in My-Notes.</em></p>]]></description></item><item><title>Alembic</title><link>https://blog.emecas.net/posts/2020-04-07-alembic/</link><pubDate>Tue, 07 Apr 2020 19:22:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-07-alembic/</guid><description><![CDATA[<p>Alembic<br>
 <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank" rel="noopener noreffer ">https://alembic.sqlalchemy.org/en/latest/</a><br>
 Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
 Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>go-covid</title><link>https://blog.emecas.net/posts/2020-03-20-go-covid/</link><pubDate>Fri, 20 Mar 2020 17:07:36 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-20-go-covid/</guid><description><![CDATA[<p>go-covid<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>go-covid</title><link>https://blog.emecas.net/posts/2020-03-20-go-covid/</link><pubDate>Fri, 20 Mar 2020 17:07:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-20-go-covid/</guid><description><![CDATA[<p>go-covid<br>
 Go Package to get information regarding the novel corona virus provided by Johns Hopkins university<br>
 <a href="https://ahmednafies.github.io/go-covid/" target="_blank" rel="noopener noreffer ">https://ahmednafies.github.io/go-covid/</a><br>
 <a href="https://github.com/ahmednafies/go-covid" target="_blank" rel="noopener noreffer ">https://github.com/ahmednafies/go-covid</a></p>

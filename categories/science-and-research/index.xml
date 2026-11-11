@@ -1,0 +1,76 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Science and Research - Category - My Notes</title><link>https://blog.emecas.net/categories/science-and-research/</link><description>Science and Research - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Aug 2022 09:53:17 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/science-and-research/" rel="self" type="application/rss+xml"/><item><title>Metacreation: Lab for Creative AI</title><link>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</link><pubDate>Mon, 01 Aug 2022 09:53:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</guid><description><![CDATA[<p>Metacreation: Lab for Creative AI<br>
+<a href="https://metacreation.net/" target="_blank" rel="noopener noreffer ">https://metacreation.net/</a></p>
+<p>Driven by collaborations involving scientists, experts in artificial intelligence, cognitive sciences, designers, and artists, the Metacreation Lab for Creative AI is at the forefront of the development of generative systems, whether these are embedded in interactive experiences or automating workflows integrated into cutting-edge creative software.</p>
+<p>Generative Systems</p>
+<p>As automation becomes commonplace in an ever expanding range of fields, the Metacreation Lab goes further by developing systems that are capable of human-level creativity. These are systems capable of autonomous creation, producing original artwork and creative output alongside and beyond their human counterparts.</p>]]></description></item><item><title>Computational model reveals how the brain manages short-term memories</title><link>https://blog.emecas.net/posts/2021-01-01-computational-model-reveals-how-the-brain-manages-short-term/</link><pubDate>Fri, 01 Jan 2021 10:32:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-01-computational-model-reveals-how-the-brain-manages-short-term/</guid><description><![CDATA[<p>Computational model reveals how the brain manages short-term memories<br>
+<a href="https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/" target="_blank" rel="noopener noreffer ">https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/</a></p>
+<p>Salk scientists show how “working memories” might be stored by neurons that can maintain information longer than average<br>
+DOI: 10.1038/s41593-020-00753-w <a href="https://doi.org/10.1038/s41593-020-00753-w" target="_blank" rel="noopener noreffer ">https://doi.org/10.1038/s41593-020-00753-w</a></p>
+<p>Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks<br>
+<a href="https://www.nature.com/articles/s41593-020-00753-w" target="_blank" rel="noopener noreffer ">https://www.nature.com/articles/s41593-020-00753-w</a></p>
+<p>Robert Kim &amp; Terrence J. Sejnowski</p>
+<p>Nature Neuroscience volume 24, pages129–139(2021)Cite this article</p>
+<p>2610 Accesses</p>
+<p>94 Altmetric</p>
+<p>Metrics</p>
+<p>Abstract</p>
+<p>Cortical neurons process information on multiple timescales, and areas important for working memory (WM) contain neurons capable of integrating information over a long timescale. However, the underlying mechanisms for the emergence of neuronal timescales stable enough to support WM are unclear. By analyzing a spiking recurrent neural network model trained on a WM task and activity of single neurons in the primate prefrontal cortex, we show that the temporal properties of our model and the neural data are remarkably similar. Dissecting our recurrent neural network model revealed strong inhibitory-to-inhibitory connections underlying a disinhibitory microcircuit as a critical component for long neuronal timescales and WM maintenance. We also found that enhancing inhibitory-to-inhibitory connections led to more stable temporal dynamics and improved task performance. Finally, we show that a network with such microcircuitry can perform other tasks without disrupting its pre-existing timescale architecture, suggesting that strong inhibitory signaling underlies a flexible WM network.</p>]]></description></item><item><title>Unpaywall is transforming Open Science</title><link>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</link><pubDate>Thu, 24 Dec 2020 18:52:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</guid><description><![CDATA[<p>Unpaywall is transforming Open Science<br>
+<a href="https://unpaywall.org/" target="_blank" rel="noopener noreffer ">https://unpaywall.org/</a><br>
+An open database of 27,932,682 free scholarly articles.<br>
+We harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9d975f49f29fde2f2db161efe1f9fd704763e8fe" target="_blank" rel="noopener noreffer "><code>9d975f4</code></a> in My-Notes.</em></p>]]></description></item><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
+<a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
+Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
+<p>Title:<br>
+Standard for Learning Metadata</p>
+<p>Scope:<br>
+This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
+This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
+This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
+This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
+<a href="https://www.fab-os.org/en/" target="_blank" rel="noopener noreffer ">https://www.fab-os.org/en/</a><br>
+open, distributed, real-time capable and secure operating system for production.</p>
+<p>FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.<br>
+German companies can benefit from their deep domain knowledge and experience of industrial products, complex and high-quality manufacturing processes, and versatile and highly networked production systems (Internet of Things, Industry 4.0).<br>
+This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>Evostar and EvoMUSART 2021 (Sevilla, Spain)</title><link>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</link><pubDate>Fri, 07 Aug 2020 19:04:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</guid><description><![CDATA[<p>Evostar and EvoMUSART 2021 (Sevilla, Spain)<br>
+<a href="http://www.evostar.org/2021/important-dates/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/important-dates/</a></p>
+<p>Important Dates</p>
+<p>EvoApplications Special Session proposals: 10 September, 2020<br>
+Submission deadline: 1 November, 2020<br>
+EvoStar Conference: 7-9 April, 2021</p>
+<p>EvoMUSART 2021 is the 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design.<br>
+<a href="http://www.evostar.org/2021/evomusart/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/evomusart/</a></p>
+<p>Areas of Interest and Contributions</p>
+<p>Submissions should concern the use of Artificial Intelligence techniques (e.g. Evolutionary Computation, Artificial Neural Networks, Artificial Life, Machine Learning, Deep Learning, Swarm Intelligence) in the generation, analysis and interpretation of Art, Music, Design, Architecture and other artistic fields. Topics of interest include, but are not limited to:<br>
+Generation</p>]]></description></item><item><title>GISAID</title><link>https://blog.emecas.net/posts/2020-05-05-gisaid/</link><pubDate>Tue, 05 May 2020 23:36:28 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-05-gisaid/</guid><description><![CDATA[<p>Global Initiative for Sharing All Influenza Data<br>
+<a href="http://www.gisaid.org" target="_blank" rel="noopener noreffer ">http://www.gisaid.org</a><br>
+Mision:<br>
+Enabling rapid and open access to epidemic and pandemic virus data</p>
+<p>The GISAID Initiative promotes the rapid sharing of data from all influenza viruses and the coronavirus causing COVID-19. This includes genetic sequence and related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how viruses evolve and spread during epidemics and pandemics.</p>]]></description></item><item><title>Qiskit</title><link>https://blog.emecas.net/posts/2020-03-23-qiskit/</link><pubDate>Mon, 23 Mar 2020 21:30:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-23-qiskit/</guid><description><![CDATA[<p>Qiskit<br>
+<a href="https://qiskit.org/" target="_blank" rel="noopener noreffer ">https://qiskit.org/</a><br>
+<a href="https://github.com/Qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit</a><br>
+An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.</p>
+<p><a href="https://github.com/Qiskit/qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit/qiskit</a><br>
+Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.<br>
+Qiskit is made up elements that each work together to enable quantum computing. This is a simple meta-package to install the elements of Qiskit altogether.</p>
+<p>The four elements of Qiskit are the essential parts that give Qiskit its power<br>
+Qiskit Terra <a href="https://qiskit.org/terra" target="_blank" rel="noopener noreffer ">https://qiskit.org/terra</a><br>
+Qiskit Aer   <a href="https://qiskit.org/aer" target="_blank" rel="noopener noreffer ">https://qiskit.org/aer</a><br>
+Qiskit Ignis <a href="https://qiskit.org/ignis" target="_blank" rel="noopener noreffer ">https://qiskit.org/ignis</a><br>
+Qiskit Aqua  <a href="https://qiskit.org/aqua" target="_blank" rel="noopener noreffer ">https://qiskit.org/aqua</a></p>]]></description></item><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
+@paperswithcode<br>
+<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
+Our mission</p>
+<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
+<p>We believe this is best done together with the community and powered by automation.</p>
+<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/37c127a777e4d494edaf1c0b597b97c94774a6b6" target="_blank" rel="noopener noreffer "><code>37c127a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Electronic Proceedings of the NIPS</title><link>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</link><pubDate>Mon, 24 Feb 2020 18:14:05 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</guid><description><![CDATA[<p>Electronic Proceedings of the Neural Information Processing Systems Conference<br>
+<a href="https://papers.nips.cc/" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/</a><br>
+Neural Ordinary Differential Equations<br>
+Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations</a><br>
+github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
+application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

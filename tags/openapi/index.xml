@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OpenAPI - Tag - My Notes</title><link>https://blog.emecas.net/tags/openapi/</link><description>OpenAPI - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Mar 2024 13:56:18 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/openapi/" rel="self" type="application/rss+xml"/><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OpenAPI - Tag - My Notes</title><link>https://blog.emecas.net/tags/openapi/</link><description>OpenAPI - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Mar 2024 13:56:18 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/openapi/" rel="self" type="application/rss+xml"/><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
 Generate beautiful API documentation from OpenAPI</p>
 <p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
 <p>By default Redoc offers a three-panel, responsive layout:</p>
@@ -6,14 +6,14 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
 <a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
 A simple web framework for Java and Kotlin<br>
 <a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
 <p>Simple<br>
 Unlike other Java and Kotlin web frameworks, Javalin has very few concepts that you need to learn. You never extend classes and you rarely implement interfaces.</p>
 <p>Lightweight<br>
-Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item><item><title>FastAPI</title><link>https://blog.emecas.net/posts/2020-03-18-fastapi/</link><pubDate>Wed, 18 Mar 2020 09:56:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-18-fastapi/</guid><description><![CDATA[<p>FastAPI<br>
+Javalin is just a few thousand lines of code on top of Jetty, and its performance is equivalent to raw Jetty code. Due to its size, it&rsquo;s very easy to reason about the source code.</p>]]></description></item><item><title>FastAPI</title><link>https://blog.emecas.net/posts/2020-03-18-fastapi/</link><pubDate>Wed, 18 Mar 2020 09:56:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-fastapi/</guid><description><![CDATA[<p>FastAPI<br>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
 FastAPI framework, high performance, easy to learn, fast to code, ready for production</p>
 <p>The key features are:</p>

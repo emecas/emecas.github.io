@@ -1,0 +1,78 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cloud and Serverless - Category - My Notes</title><link>https://blog.emecas.net/categories/cloud-and-serverless/</link><description>Cloud and Serverless - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Aug 2022 19:52:26 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/cloud-and-serverless/" rel="self" type="application/rss+xml"/><item><title>Azure Cosmos DB</title><link>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</link><pubDate>Thu, 18 Aug 2022 19:52:26 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</guid><description><![CDATA[<p>Azure Cosmos DB<br>
+<a href="https://azure.microsoft.com/en-us/services/cosmos-db/#overview" target="_blank" rel="noopener noreffer ">https://azure.microsoft.com/en-us/services/cosmos-db/#overview</a><br>
+Build or modernize scalable, high-performance apps</p>
+<p>Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale. Get guaranteed single-digit millisecond performance and 99.999-percent availability, backed by SLAs, automatic and instant scalability, enterprise-grade security, and open-source APIs for NoSQL databases including MongoDB and Cassandra. Enjoy fast writes and reads anywhere in the world with multi-region writes and data replication. Gain insight over real-time data with no-ETL (extract, transform, load) analytics using Azure Synapse Link for Azure Cosmos DB.</p>]]></description></item><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
+<a href="https://min.io/" target="_blank" rel="noopener noreffer ">https://min.io/</a><br>
+Kubernetes Native, High Performance Object Storage</p>
+<p>MinIO&rsquo;s high-performance object storage suite is software defined and<br>
+enables customers to build cloud-native data infrastructure for<br>
+machine learning, analytics and application data workloads.</p>
+<p>The defacto standard for Amazon S3 compatibility.</p>
+<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83cd25f395f96a5f8678b05a1ececbbd4cd47e7d" target="_blank" rel="noopener noreffer "><code>83cd25f</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Serverless Framework</title><link>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</link><pubDate>Tue, 14 Apr 2020 19:13:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</guid><description><![CDATA[<p>The Serverless Framework<br>
+<a href="https://serverless.com/" target="_blank" rel="noopener noreffer ">https://serverless.com/</a><br>
+The Serverless Framework gives you everything you need to develop, deploy, monitor and secure serverless applications on any cloud.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/faaaf68cb502a4d48c580683d4af06d02290aee4" target="_blank" rel="noopener noreffer "><code>faaaf68</code></a> in My-Notes.</em></p>]]></description></item><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
+<a href="https://cdkworkshop.com/" target="_blank" rel="noopener noreffer ">https://cdkworkshop.com/</a><br>
+The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun<br>
+and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
+<p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
+Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p>A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.</p>
+<p><a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
+<a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7c554b4eeba04470edd606130edd13af30e8f1ab" target="_blank" rel="noopener noreffer "><code>7c554b4</code></a> in My-Notes.</em></p>]]></description></item><item><title>OpenShift Cheat Sheet</title><link>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</link><pubDate>Mon, 11 Feb 2019 11:59:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</guid><description><![CDATA[<p>OpenShift Cheat Sheet<br>
+<a href="http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf" target="_blank" rel="noopener noreffer ">http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf</a><br>
+Content<br>
+1. What is OpenShift?. . . . . . . . . . . . . . . . . . . 1<br>
+2. Cheat sheet guide. . . . . . . . . . . . . . . . . . . . 1<br>
+3. Command overview. . . . . . . . . . . . . . . . . . 2<br>
+4. Simple build and deploy overview. . . . . 4<br>
+5. Simple routing overview. . . . . . . . . . . . . 4<br>
+6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5<br>
+7. Additional operations. . . . . . . . . . . . . . . 10<br>
+8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item><item><title>Restcomm is the Open Source Cloud Communications platform</title><link>https://blog.emecas.net/posts/2017-03-17-restcomm-is-the-open-source-cloud-communications-platform/</link><pubDate>Fri, 17 Mar 2017 14:08:16 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-17-restcomm-is-the-open-source-cloud-communications-platform/</guid><description><![CDATA[<p>Restcomm is the Open Source Cloud Communications platform<br>
+<a href="https://www.restcomm.com/product/" target="_blank" rel="noopener noreffer ">https://www.restcomm.com/product/</a></p>
+<p>Restcomm is a next generation Cloud Communications Platform to rapidly build voice and text messaging applications, using mainstream web development skills. Restcomm is a turnkey Cloud Communications solution from Telestax, Inc.</p>
+<p>Restcomm is the Open Source Cloud Communications platform.</p>
+<p>Developers: Build, test and sell your next telephony app on the Restcomm App Store in a matter of hours. Focus on creating, not babysitting. Let service providers be your sales force.</p>]]></description></item><item><title>Apollo - A platform for running your next generation web services and applications</title><link>https://blog.emecas.net/posts/2017-03-16-apollo-a-platform-for-running-your-next-generation-web-servi/</link><pubDate>Thu, 16 Mar 2017 12:52:51 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-16-apollo-a-platform-for-running-your-next-generation-web-servi/</guid><description><![CDATA[<p>Apollo - A platform for running your next generation web services and applications.<br>
+<a href="https://capgemini.github.io/devops/apollo/" target="_blank" rel="noopener noreffer ">https://capgemini.github.io/devops/apollo/</a></p>
+<p>An open-source platform for cloud native applications based on Apache Mesos and Docker.<br>
+github: <a href="https://github.com/Capgemini/Apollo" target="_blank" rel="noopener noreffer ">https://github.com/Capgemini/Apollo</a></p>
+<p>Features / Components</p>
+<p>The following open source components are baked into Apollo core:</p>
+<p>Apache Mesos: The backbone of Apollo. Mesos handles cluster management and orchestration. Highly scalable and fault tolerant out of the box Mesos allows you to simplify the datacenter treating your cluster like one big machine. Mesos handles resource availability (CPU/memory/storage) and is able to distribute arbritrary tasks across your datacenter, making it ideal for big data workloads. <a href="http://mesos.apache.org" target="_blank" rel="noopener noreffer ">http://mesos.apache.org</a></p>]]></description></item><item><title>Serverless Architectures</title><link>https://blog.emecas.net/posts/2017-03-14-serverless-architectures/</link><pubDate>Tue, 14 Mar 2017 09:12:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-14-serverless-architectures/</guid><description><![CDATA[<p>Serverless Architectures<br>
+<a href="https://www.martinfowler.com/articles/serverless.html" target="_blank" rel="noopener noreffer ">https://www.martinfowler.com/articles/serverless.html</a><br>
+By Mike Roberts<br>
+Serverless architectures refer to applications that significantly depend on third-party services (knows as Backend as a Service or &ldquo;BaaS&rdquo;) or on custom code that&rsquo;s run in ephemeral containers (Function as a Service or &ldquo;FaaS&rdquo;), the best known vendor host of which currently is AWS Lambda. By using these ideas, and by moving much behavior to the front end, such architectures remove the need for the traditional &lsquo;always on&rsquo; server system sitting behind an application. Depending on the circumstances, such systems can significantly reduce operational cost and complexity at a cost of vendor dependencies and (at the moment) immaturity of supporting services.</p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
+<p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
+<p>The Twelve Factors<br>
+I. Codebase<br>
+One codebase tracked in revision control, many deploys<br>
+II. Dependencies<br>
+Explicitly declare and isolate dependencies<br>
+III. Config<br>
+Store config in the environment<br>
+IV. Backing services<br>
+Treat backing services as attached resources<br>
+V. Build, release, run<br>
+Strictly separate build and run stages<br>
+VI. Processes<br>
+Execute the app as one or more stateless processes<br>
+VII. Port binding<br>
+Export services via port binding<br>
+VIII. Concurrency<br>
+Scale out via the process model<br>
+IX. Disposability<br>
+Maximize robustness with fast startup and graceful shutdown<br>
+X. Dev/prod parity<br>
+Keep development, staging, and production as similar as possible<br>
+XI. Logs<br>
+Treat logs as event streams<br>
+XII. Admin processes<br>
+Run admin/management tasks as one-off processes</p>]]></description></item></channel></rss>

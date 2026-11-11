@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Version - Tag - My Notes</title><link>https://blog.emecas.net/tags/version/</link><description>Version - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/version/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Version - Tag - My Notes</title><link>https://blog.emecas.net/tags/version/</link><description>Version - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/version/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
 <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
 <p>NAME:<br>
 jvms - JDK Version Manager (JVMS) for Windows</p>
@@ -14,7 +14,7 @@ switch, s   Switch to use the specified version.<br>
 remove, rm  Remove a specific version.<br>
 rls         Show a list of versions available for download.<br>
 proxy       Set a proxy to use for downloads.<br>
-help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
 <a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
 Summary</p>
 <p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
@@ -23,10 +23,10 @@ MINOR version when you add functionality in a backwards compatible manner, and<b
 PATCH version when you make backwards compatible bug fixes.</p>
 <p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
 <a href="https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/" target="_blank" rel="noopener noreffer ">https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/</a><br>
 The Gradle wrapper is a self-contained Gradle runner and distribution that&rsquo;s typically built into your Gradle project. It&rsquo;s bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.</p>
-<p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
+<p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
 <a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
 <p>Version	.NET Framework	Visual Studio	Important Features<br>
 C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>
@@ -66,7 +66,7 @@ nameof Expression<br>
 Primary constructor<br>
 Await in catch block<br>
 Exception Filter<br>
-String Interpolation</p>]]></description></item><item><title>Advantages of monolithic version control</title><link>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</link><pubDate>Mon, 13 Feb 2017 14:48:03 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</guid><description><![CDATA[<p>Advantages of monolithic version control<br>
+String Interpolation</p>]]></description></item><item><title>Advantages of monolithic version control</title><link>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</link><pubDate>Mon, 13 Feb 2017 14:48:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</guid><description><![CDATA[<p>Advantages of monolithic version control<br>
 By Dan Luu may 2015<br>
 <a href="http://danluu.com/monorepo/" target="_blank" rel="noopener noreffer ">http://danluu.com/monorepo/</a></p>
 <hr>

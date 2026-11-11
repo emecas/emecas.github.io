@@ -1,0 +1,105 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Art, Music and Creative - Category - My Notes</title><link>https://blog.emecas.net/categories/art-music-and-creative/</link><description>Art, Music and Creative - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 26 Sep 2024 20:06:20 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/art-music-and-creative/" rel="self" type="application/rss+xml"/><item><title>Krita</title><link>https://blog.emecas.net/posts/2024-09-26-krita/</link><pubDate>Thu, 26 Sep 2024 20:06:20 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-26-krita/</guid><description><![CDATA[<p>Krita<br>
+<a href="https://krita.org/" target="_blank" rel="noopener noreffer ">https://krita.org/</a><br>
+Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
+<p>Features:</p>
+<p>- Clean and Flexible Interface</p>
+<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
+Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
+<p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
+<p>Flavors:</p>
+<p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
+- p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
+- Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
+- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>Metacreation: Lab for Creative AI</title><link>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</link><pubDate>Mon, 01 Aug 2022 09:53:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</guid><description><![CDATA[<p>Metacreation: Lab for Creative AI<br>
+<a href="https://metacreation.net/" target="_blank" rel="noopener noreffer ">https://metacreation.net/</a></p>
+<p>Driven by collaborations involving scientists, experts in artificial intelligence, cognitive sciences, designers, and artists, the Metacreation Lab for Creative AI is at the forefront of the development of generative systems, whether these are embedded in interactive experiences or automating workflows integrated into cutting-edge creative software.</p>
+<p>Generative Systems</p>
+<p>As automation becomes commonplace in an ever expanding range of fields, the Metacreation Lab goes further by developing systems that are capable of human-level creativity. These are systems capable of autonomous creation, producing original artwork and creative output alongside and beyond their human counterparts.</p>]]></description></item><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
+a highly automated and intuitive digital audio workstation<br>
+<a href="https://www.zrythm.org/en/index.html" target="_blank" rel="noopener noreffer ">https://www.zrythm.org/en/index.html</a></p>
+<p>Sources:<br>
+<a href="https://sr.ht/~alextee/zrythm/" target="_blank" rel="noopener noreffer ">https://sr.ht/~alextee/zrythm/</a></p>
+<p>Overview</p>
+<p>Zrythm is a cross-platform digital audio workstation designed to be featureful and easy to use.</p>
+<p>Limitless automation<br>
+Automate almost anything with automation events using straight lines, ramps and curves, or with LFOs and envelopes.</p>
+<p>Audio plugins<br>
+Complete support for LV2 and VST2, with experimental support for VST3, AU, SFZ and SF2.</p>
+<p>Multi-backend support<br>
+Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>openFrameworks</title><link>https://blog.emecas.net/posts/2020-10-25-openframeworks/</link><pubDate>Sun, 25 Oct 2020 07:49:51 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-25-openframeworks/</guid><description><![CDATA[<p>openFrameworks<br>
+<a href="https://openframeworks.cc/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/</a><br>
+openFrameworks is an open source C++ toolkit for creative coding.</p>
+<p>Repos: <a href="https://github.com/openframeworks" target="_blank" rel="noopener noreffer ">https://github.com/openframeworks</a></p>
+<p>Download <a href="https://openframeworks.cc/download/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/download/</a></p>
+<p>Grab the most recent release (0.11.0) and follow the setup guide to get openFrameworks running.</p>
+<p>Documentation <a href="https://openframeworks.cc/documentation/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/documentation/</a></p>
+<p>Reference for openFrameworks classes, functions and addons. You can also check the tutorials section <a href="https://openframeworks.cc/tutorials" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/tutorials</a>.</p>
+<p>Forum <a href="https://forum.openframeworks.cc/" target="_blank" rel="noopener noreffer ">https://forum.openframeworks.cc/</a></p>
+<p>The forum is a place to meet other people working with openFrameworks. It&rsquo;s a place to share your work, or find help solving problems.</p>]]></description></item><item><title>Chronotron</title><link>https://blog.emecas.net/posts/2020-08-29-chronotron/</link><pubDate>Sat, 29 Aug 2020 19:42:56 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-29-chronotron/</guid><description><![CDATA[<p>Chronotron<br>
+<a href="https://www.chronotron.com/" target="_blank" rel="noopener noreffer ">https://www.chronotron.com/</a><br>
+Chronotron is the media player every musician should have in their toolbox.<br>
+Tempo and pitch can be adjusted independently during audio and video playback without affecting one another,<br>
+allowing to slow down audio and video material for easier music and speech transcription. And there&rsquo;s more&hellip;</p>
+<p>Blog : <a href="https://chronosynth.com/" target="_blank" rel="noopener noreffer ">https://chronosynth.com/</a></p>
+<p>Features</p>
+<p>Time-stretch audio and video from 25% to 400% in real time<br>
+Change key from -12 to 12 semitones with optional format preservation in real time<br>
+Download and play YouTube videos with the built-in downloader<br>
+Make transcription a breeze with the innovative Hold mode, polyphonic note detection and the built-in piano keyboard and guitar/bass fretboard<br>
+Use the Surface Dial to control tempo or play note by note in Hold mode<br>
+Play sections of a media clip in a loop<br>
+Memorize up to 10 specific positions in a media file with markers<br>
+Use the Solo Channel function to isolate individual audio channels<br>
+Enhance your sound with the 10-band equalizer, volume and balance controls<br>
+Fine-tune audio and video synchronization with the video delay control<br>
+Recall last used tempo and key settings automatically when opening playlists or individual files<br>
+Render tempo and key changes to a new media file (.mp3, .m4a or .wav for audio, .mp4 for video)<br>
+Supports .m3u, .mp4, .m4a, .wmv, .mp3, .wav, .flac and .wma</p>]]></description></item><item><title>Evostar and EvoMUSART 2021 (Sevilla, Spain)</title><link>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</link><pubDate>Fri, 07 Aug 2020 19:04:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</guid><description><![CDATA[<p>Evostar and EvoMUSART 2021 (Sevilla, Spain)<br>
+<a href="http://www.evostar.org/2021/important-dates/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/important-dates/</a></p>
+<p>Important Dates</p>
+<p>EvoApplications Special Session proposals: 10 September, 2020<br>
+Submission deadline: 1 November, 2020<br>
+EvoStar Conference: 7-9 April, 2021</p>
+<p>EvoMUSART 2021 is the 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design.<br>
+<a href="http://www.evostar.org/2021/evomusart/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/evomusart/</a></p>
+<p>Areas of Interest and Contributions</p>
+<p>Submissions should concern the use of Artificial Intelligence techniques (e.g. Evolutionary Computation, Artificial Neural Networks, Artificial Life, Machine Learning, Deep Learning, Swarm Intelligence) in the generation, analysis and interpretation of Art, Music, Design, Architecture and other artistic fields. Topics of interest include, but are not limited to:<br>
+Generation</p>]]></description></item><item><title>Can Machines And Artificial Intelligence Be Creative</title><link>https://blog.emecas.net/posts/2020-03-02-can-machines-and-artificial-intelligence-be-creative/</link><pubDate>Mon, 02 Mar 2020 12:16:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-can-machines-and-artificial-intelligence-be-creative/</guid><description><![CDATA[<p>Can Machines And Artificial Intelligence Be Creative?<br>
+<a href="https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580" target="_blank" rel="noopener noreffer ">https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580</a></p>
+<p>interview: Marcus du Sautoy<br>
+<a href="https://www.youtube.com/watch?v=7tHIHCQccjg" target="_blank" rel="noopener noreffer ">https://www.youtube.com/watch?v=7tHIHCQccjg</a></p>
+<p>Book:<br>
+The Creativity Code: Art and Innovation in the Age of AI Hardcover<br>
+April 15, 2019<br>
+<a href="https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/" target="_blank" rel="noopener noreffer ">https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9b5e55d1cbbf27c8fa19e5d16799c8702d8707d1" target="_blank" rel="noopener noreffer "><code>9b5e55d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Best GIMP Brushes For Drawing &amp; Painting (All Free)</title><link>https://blog.emecas.net/posts/2019-02-10-best-gimp-brushes-for-drawing-painting-all-free/</link><pubDate>Sun, 10 Feb 2019 18:47:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-10-best-gimp-brushes-for-drawing-painting-all-free/</guid><description><![CDATA[<p>Best GIMP Brushes For Drawing &amp; Painting (All Free)<br>
+<a href="https://conceptartempire.com/gimp-brushes/" target="_blank" rel="noopener noreffer ">https://conceptartempire.com/gimp-brushes/</a></p>
+<p>K04sk Brushes <a href="https://www.deviantart.com/k04sk/art/K04sk-Gimp-Brushes-201848061" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/k04sk/art/K04sk-Gimp-Brushes-201848061</a><br>
+Digital Oil Brushes  <a href="https://www.deviantart.com/andantonius/art/Digital-Oil-Brushes-Free-Download-597379459" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/andantonius/art/Digital-Oil-Brushes-Free-Download-597379459</a><br>
+Texture Set  <a href="https://www.deviantart.com/jagged88/art/Gimp-texture-brush-set-1-128211836" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/jagged88/art/Gimp-texture-brush-set-1-128211836</a><br>
+Artistic Brushes <a href="https://www.deviantart.com/chrisdesign/art/GIMP-BrushBrush-305465605" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/chrisdesign/art/GIMP-BrushBrush-305465605</a><br>
+20 Count Brush Set <a href="https://www.deviantart.com/viraqupis/art/20-new-gimp-brushes-344706120" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/viraqupis/art/20-new-gimp-brushes-344706120</a><br>
+101 GIMP Brushes <a href="https://www.deviantart.com/xelar-art/art/101-Gimp-Paintbrushes-47961962" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/xelar-art/art/101-Gimp-Paintbrushes-47961962</a><br>
+AaronGriffinArt Brush Pack <a href="https://www.deviantart.com/aarongriffinart/art/BRUSHES-609357781" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/aarongriffinart/art/BRUSHES-609357781</a><br>
+Alex Ruiz Brushes <a href="https://gumroad.com/l/AtzY" target="_blank" rel="noopener noreffer ">https://gumroad.com/l/AtzY</a><br>
+Hair Pack <a href="https://www.deviantart.com/novalupe/art/NovaLupe-s-Hair-Brushes-for-gimp-546449347" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/novalupe/art/NovaLupe-s-Hair-Brushes-for-gimp-546449347</a><br>
+Diamonds <a href="https://www.deviantart.com/pkgam/art/Diamond-GIMP-Brushes-For-GIMP-2-6-325244080" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/pkgam/art/Diamond-GIMP-Brushes-For-GIMP-2-6-325244080</a><br>
+Free Brushes by daRoz <a href="https://www.deviantart.com/daroz/art/FREE-PHOTOSHOP-BRUSHES-DAREK-ZABROCKI-BRUSH-SET-431393487" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/daroz/art/FREE-PHOTOSHOP-BRUSHES-DAREK-ZABROCKI-BRUSH-SET-431393487</a><br>
+Mane &amp; Tail Brushes <a href="https://www.deviantart.com/ooo-alouette-ooo/art/Mane-and-Tail-Brushes-for-Gimp-322749936" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/ooo-alouette-ooo/art/Mane-and-Tail-Brushes-for-Gimp-322749936</a><br>
+Splatter Brushes <a href="https://www.deviantart.com/project-gimpbc/art/GIMP-Splatter-Brushes-48299826" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/project-gimpbc/art/GIMP-Splatter-Brushes-48299826</a><br>
+Inkpen Set <a href="https://www.deviantart.com/magenta-stock/art/Inkpen-GIMP-Brushes-updated-33537424" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/magenta-stock/art/Inkpen-GIMP-Brushes-updated-33537424</a><br>
+Smoke Brush Pack  <a href="https://www.deviantart.com/ljfhutch/art/Gimp-Smoke-Brushes-Animated-162129054" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/ljfhutch/art/Gimp-Smoke-Brushes-Animated-162129054</a><br>
+Water Brush Pack <a href="https://www.deviantart.com/ljfhutch/art/Gimp-Water-Brushes-177498235" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/ljfhutch/art/Gimp-Water-Brushes-177498235</a><br>
+Grass Brush Pack <a href="https://www.deviantart.com/ljfhutch/art/Gimp-Anim-Grass-Brushes-Set-163317084" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/ljfhutch/art/Gimp-Anim-Grass-Brushes-Set-163317084</a><br>
+Four Assorted Brushes  <a href="https://www.deviantart.com/pkgam/art/Four-Assorted-GIMP-Brushes-363856003" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/pkgam/art/Four-Assorted-GIMP-Brushes-363856003</a><br>
+Real Pencil <a href="https://www.deviantart.com/elmerucr/art/Real-Pencil-Brushes-for-GIMP-57810771" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/elmerucr/art/Real-Pencil-Brushes-for-GIMP-57810771</a><br>
+Pencil Brush by Nari <a href="https://www.deviantart.com/n-a-r-i/art/Pencil-Brush-by-Nari-2nd-EDITION-416255384" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/n-a-r-i/art/Pencil-Brush-by-Nari-2nd-EDITION-416255384</a><br>
+Hairbrushes <a href="https://www.deviantart.com/el-l-en/art/GIMP-8-Hairbrushes-133326240" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/el-l-en/art/GIMP-8-Hairbrushes-133326240</a><br>
+Rolled Paint <a href="https://www.deviantart.com/redheadstock/art/Rolled-Paint-Photoshop-and-GIMP-Brushes-413429832" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/redheadstock/art/Rolled-Paint-Photoshop-and-GIMP-Brushes-413429832</a><br>
+Free PS/GIMP Brush Set <a href="https://www.deviantart.com/jonasdero/art/FREE-PHOTOSHOP-GIMP-BRUSHES-Explanation-348274576" target="_blank" rel="noopener noreffer ">https://www.deviantart.com/jonasdero/art/FREE-PHOTOSHOP-GIMP-BRUSHES-Explanation-348274576</a></p>]]></description></item><item><title>OpenSCAD - The Programmers Solid 3D CAD Modeller</title><link>https://blog.emecas.net/posts/2016-12-15-openscad-the-programmers-solid-3d-cad-modeller/</link><pubDate>Thu, 15 Dec 2016 09:06:50 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-15-openscad-the-programmers-solid-3d-cad-modeller/</guid><description><![CDATA[<p>OpenSCAD - The Programmers Solid 3D CAD Modeller<br>
+<a href="http://www.openscad.org" target="_blank" rel="noopener noreffer ">http://www.openscad.org</a><br>
+OpenSCAD is a software for creating solid 3D CAD objects. It is free software and available for Linux/UNIX, MS Windows and Mac OS X.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7551c2c076766c0748584629c972498625ef37f2" target="_blank" rel="noopener noreffer "><code>7551c2c</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
