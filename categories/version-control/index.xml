@@ -1,0 +1,45 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Version Control - Category - My Notes</title><link>https://blog.emecas.net/categories/version-control/</link><description>Version Control - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 05 Feb 2019 12:27:59 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/version-control/" rel="self" type="application/rss+xml"/><item><title>Developing and Deploying with Branches</title><link>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</link><pubDate>Tue, 05 Feb 2019 12:27:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</guid><description><![CDATA[<p>Developing and Deploying with Branches<br>
+<a href="http://guides.beanstalkapp.com/version-control/branching-best-practices.html" target="_blank" rel="noopener noreffer ">http://guides.beanstalkapp.com/version-control/branching-best-practices.html</a><br>
+By beanstalk<br>
+See too: <a href="http://guides.beanstalkapp.com/" target="_blank" rel="noopener noreffer ">http://guides.beanstalkapp.com/</a></p>]]></description></item><item><title>.gitignore nice pattern</title><link>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</link><pubDate>Fri, 01 Feb 2019 12:55:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</guid><description><![CDATA[<p>.gitignore nice pattern</p>
+<p>[TIL] : there is not other place where you can see a practical example<br>
+Ref: <a href="https://stackoverflow.com/a/8527645/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/8527645/833336</a></p>
+<p>Line Examples:</p>
+<p>#<br>
+[Tt]est[Rr]esult*/</p>
+<p># Build results<br>
+[Dd]ebug/<br>
+[Dd]ebugPublic/<br>
+[Rr]elease/<br>
+[Rr]eleases/<br>
+x64/<br>
+x86/<br>
+bld/<br>
+[Bb]in/<br>
+[Oo]bj/<br>
+[Ll]og/</p>
+<p>More refs:<br>
+<a href="https://git-scm.com/docs/gitignore" target="_blank" rel="noopener noreffer ">https://git-scm.com/docs/gitignore</a><br>
+<a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
+[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
+By: Kent Beck<br>
+Sep 28, 2018</p>]]></description></item><item><title>How to Write a Git Commit Message</title><link>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</link><pubDate>Fri, 25 Jan 2019 13:28:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</guid><description><![CDATA[<p>How to Write a Git Commit Message<br>
+<a href="https://chris.beams.io/posts/git-commit/" target="_blank" rel="noopener noreffer ">https://chris.beams.io/posts/git-commit/</a><br>
+Introduction: Why good commit messages matter<br>
+By Chris Beams</p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
+Text-mode interface for git<br>
+<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
+What is Tig?</p>
+<p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
+<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>]]></description></item><item><title>Advantages of monolithic version control</title><link>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</link><pubDate>Mon, 13 Feb 2017 14:48:03 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</guid><description><![CDATA[<p>Advantages of monolithic version control<br>
+By Dan Luu may 2015<br>
+<a href="http://danluu.com/monorepo/" target="_blank" rel="noopener noreffer ">http://danluu.com/monorepo/</a></p>]]></description></item><item><title>Subversion vs. Git: Myths and Facts (by a subversion lover)</title><link>https://blog.emecas.net/posts/2017-01-10-subversion-vs-git-myths-and-facts-by-a-subversion-lover/</link><pubDate>Tue, 10 Jan 2017 12:13:30 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-10-subversion-vs-git-myths-and-facts-by-a-subversion-lover/</guid><description><![CDATA[<p>Subversion vs. Git: Myths and Facts (by a subversion lover)<br>
+<a href="https://svnvsgit.com/" target="_blank" rel="noopener noreffer ">https://svnvsgit.com/</a><br>
+There are a number of Subversion vs. Git comparisons around the web and most of them are based on myths rather than facts. The list below is intended to bust some of these myths. Although it doesn&rsquo;t tell which version control system is better, it should help you to understand the actual state of affairs.</p>]]></description></item><item><title>GIT-FLOW Cheatsheet</title><link>https://blog.emecas.net/posts/2016-12-07-git-flow-cheatsheet/</link><pubDate>Wed, 07 Dec 2016 15:03:11 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-git-flow-cheatsheet/</guid><description><![CDATA[<p>GIT-FLOW Cheatsheet<br>
+Efficient branching using git-flow by Vincent Driessen<br>
+<a href="http://danielkummer.github.io/git-flow-cheatsheet/" target="_blank" rel="noopener noreffer ">http://danielkummer.github.io/git-flow-cheatsheet/</a><br>
+<a href="https://github.com/danielkummer/git-flow-cheatsheet" target="_blank" rel="noopener noreffer ">https://github.com/danielkummer/git-flow-cheatsheet</a></p>]]></description></item><item><title>Readme.md Notation for Indicators of Progress GitHub</title><link>https://blog.emecas.net/posts/2014-02-12-readme-md-notation-for-indicators-of-progress-github/</link><pubDate>Wed, 12 Feb 2014 09:29:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-12-readme-md-notation-for-indicators-of-progress-github/</guid><description><![CDATA[<p>Nice indicators for progress in a Github Readme File<br>
+<a href="https://raw.github.com/FastFeed/FastFeed/master/README.md" target="_blank" rel="noopener noreffer ">https://raw.github.com/FastFeed/FastFeed/master/README.md</a></p>]]></description></item><item><title>Backing Up Subversion Automatically</title><link>https://blog.emecas.net/posts/2013-06-07-backing-up-subversion-automatically/</link><pubDate>Fri, 07 Jun 2013 12:41:51 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-06-07-backing-up-subversion-automatically/</guid><description><![CDATA[<p>Backing Up Subversion Automatically<br>
+<a href="http://blog.markshead.com/101/backing-up-subversion-automatically/" target="_blank" rel="noopener noreffer ">http://blog.markshead.com/101/backing-up-subversion-automatically/</a><br>
+<a href="http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/" target="_blank" rel="noopener noreffer ">http://blogs.law.harvard.edu/mwshead/2011/02/01/sv-backup/</a></p>]]></description></item></channel></rss>

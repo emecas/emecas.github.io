@@ -1,0 +1,91 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Distributed Systems &amp; Networking - Category - My Notes</title><link>https://blog.emecas.net/categories/distributed-systems--networking/</link><description>Distributed Systems &amp; Networking - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Mar 2026 14:24:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/distributed-systems--networking/" rel="self" type="application/rss+xml"/><item><title>OpenTelemetri</title><link>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</link><pubDate>Tue, 03 Mar 2026 14:24:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</guid><description><![CDATA[<p>OpenTelemetry<br>
+<a href="https://opentelemetry.io/" target="_blank" rel="noopener noreffer ">https://opentelemetry.io/</a><br>
+The open standard for telemetry</p>
+<p>OpenTelemetry (OTel) is a leading open-source framework designed to help developers monitor and understand the performance of complex, cloud-native applications. It was created by merging two major projects, **OpenTracing** and **OpenCensus**, under the Cloud Native Computing Foundation (CNCF).</p>
+<p>Here is a breakdown of why it’s a big deal in the software world:</p>
+<p>### Core Benefits</p>
+<p>* **Vendor Neutrality:** You can instrument your code once and send your data to any backend (like Prometheus, Jaeger, or commercial tools). This prevents &ldquo;vendor lock-in,&rdquo; allowing you to switch providers without rewriting your application code.<br>
+* **Unified Signals:** It brings together **Traces** (the journey of a request), **Metrics** (performance data over time), and **Logs** (timestamped events) into a single, correlated view.<br>
+* **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
+Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+<a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
+<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<p>Feature List</p>
+<p>- Language: provides .NET, Python, Go, Java client for API register<br>
+- Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>
+- Security: Sign, OAuth 2.0, JSON Web Tokens, WAF plugin<br>
+- API governance: Request, response, parameter mapping, Hystrix, RateLimiter plugin<br>
+- Observability: Tracing, metrics, logging plugin<br>
+- Extensions: Plugin hot-swapping, dynamic loading<br>
+- Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>zipkin</title><link>https://blog.emecas.net/posts/2020-10-02-zipkin/</link><pubDate>Fri, 02 Oct 2020 22:28:43 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-02-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
+<a href="https://zipkin.io/" target="_blank" rel="noopener noreffer ">https://zipkin.io/</a></p>
+<p>Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.</p>
+<p>If you have a trace ID in a log file, you can jump directly to it. Otherwise, you can query based on attributes such as service, operation name, tags and duration. Some interesting data will be summarized for you, such as the percentage of time spent in a service, and whether or not operations failed.</p>]]></description></item><item><title>Meecrowave</title><link>https://blog.emecas.net/posts/2020-05-25-meecrowave/</link><pubDate>Mon, 25 May 2020 12:18:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-25-meecrowave/</guid><description><![CDATA[<p>Meecrowave<br>
+<a href="http://openwebbeans.apache.org/meecrowave/index.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/index.html</a><br>
+A light JAX-RS+CDI+JSON server!</p>
+<p>Community / Downloads<br>
+<a href="http://openwebbeans.apache.org/meecrowave/community.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/community.html</a><br>
+<a href="http://openwebbeans.apache.org/meecrowave/download.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/download.html</a></p>
+<p>Maven Central<br>
+<a href="https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22" target="_blank" rel="noopener noreffer ">https://search.maven.org/classic/#search%7Cgav%7C1%7Cg%3A%22org.apache.meecrowave%22%20AND%20a%3A%22meecrowave-core%22</a></p>
+<p>last release: org.apache.meecrowave	meecrowave-core	1.2.9	30-Sep-2019	pom  jar  javadoc.jar  runner.jar  sources.jar</p>
+<p>Tutorial:<br>
+<a href="https://www.baeldung.com/apache-meecrowave" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/apache-meecrowave</a></p>
+<p>Components:<br>
+<a href="http://openwebbeans.apache.org/meecrowave/components.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/components.html</a></p>
+<p>Meecrowave Core</p>
+<p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
+<p>Meecrowave JPA</p>
+<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
+Evolution of Enterprise Java -  Optimised for microservice architectures<br>
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
+examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
+<p>Mature<br>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
+<p>- The Value of Correlation IDs<br>
+<a href="https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/" target="_blank" rel="noopener noreffer ">https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/</a><br>
+- Correlation IDs for microservices architectures<br>
+<a href="https://hilton.org.uk/blog/microservices-correlation-id" target="_blank" rel="noopener noreffer ">https://hilton.org.uk/blog/microservices-correlation-id</a><br>
+- Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)<br>
+<a href="https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/" target="_blank" rel="noopener noreffer ">https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/</a><br>
+- Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
+<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>]]></description></item><item><title>RAMCloud</title><link>https://blog.emecas.net/posts/2020-02-03-ramcloud/</link><pubDate>Mon, 03 Feb 2020 11:17:23 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-03-ramcloud/</guid><description><![CDATA[<p>RAMCloud<br>
+<a href="https://github.com/PlatformLab/RAMCloud" target="_blank" rel="noopener noreffer ">https://github.com/PlatformLab/RAMCloud</a></p>
+<p>What is RAMCloud?</p>
+<p>RAMCloud is a new class of super-high-speed storage for large-scale datacenter applications.<br>
+It is designed for applications in which a large number of servers in a datacenter need low-latency access to a large durable datastore.<br>
+RAMCloud offers the following properties:</p>
+<p>Low latency: RAMCloud keeps all data in DRAM at all times, so applications can read RAMCloud objects remotely over a datacenter network in as little as 5μs. Writes take less than 15μs. Unlike systems such as memcached, applications never have to deal with cache misses or wait for disk/flash accesses. As a result, RAMCloud storage is 10-1000x faster than other available alternatives.<br>
+Large scale: RAMCloud aggregates the DRAM of thousands of servers to support total capacities of 1PB or more.<br>
+Durability: RAMCloud replicates all data on nonvolatile secondary storage such as disk or flash, so no data is lost if servers crash or the power fails. One of RAMCloud&rsquo;s unique features is that it recovers very quickly from server crashes (only 1-2 seconds) so the availability gaps after crashes are almost unnoticeable. As a result, RAMCloud combines the durability of replicated disk with the speed of DRAM. If you have used memcached, you have probably experienced the challenges of managing a second durable storage system and maintaining consistency between it and memcached. With RAMCloud, there is no need for a second storage system.<br>
+Powerful data model: RAMCloud&rsquo;s basic data model is a key-value store, but we have extended it with several additional features, such as:<br>
+Multiple tables, each with its own key space.<br>
+Transactional updates that span multiple objects in different tables.<br>
+Secondary indices.<br>
+Strong consistency: unlike other NoSQL storage systems, all updates in RAMCloud are consistent, immediately visible, and durable.<br>
+Easy deployment: RAMCloud is a software package that runs on commodity Intel servers with the Linux operating system. RAMCloud is available freely in open source form.</p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
+<a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
+This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
+using both built-in and custom metrics with Helidon MP.</p>]]></description></item><item><title>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</title><link>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</link><pubDate>Sun, 11 Aug 2019 14:29:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</guid><description><![CDATA[<p>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</p>
+<p>Consul vs. Eureka<br>
+<a href="https://www.consul.io/intro/vs/eureka.html" target="_blank" rel="noopener noreffer ">https://www.consul.io/intro/vs/eureka.html</a></p>
+<p>Comparison of Spring Cloud with Eureka vs. Consul.io<br>
+<a href="http://www.nvisia.com/insights/comparison-of-spring-cloud-with-eureka-vs.-consul" target="_blank" rel="noopener noreffer ">http://www.nvisia.com/insights/comparison-of-spring-cloud-with-eureka-vs.-consul</a></p>
+<p>Consul vs Eureka vs Zookeeper<br>
+<a href="https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper" target="_blank" rel="noopener noreffer ">https://stackshare.io/stackups/consul-vs-eureka-vs-zookeeper</a></p>
+<p>Compare Eureka vs HashiCorp Consul<br>
+<a href="https://www.g2.com/compare/netflix-eureka-vs-hashicorp-consul" target="_blank" rel="noopener noreffer ">https://www.g2.com/compare/netflix-eureka-vs-hashicorp-consul</a></p>
+<p>Compare Eureka and consul-api&rsquo;s popularity and activity<br>
+<a href="https://java.libhunt.com/compare-eureka-vs-consul-api" target="_blank" rel="noopener noreffer ">https://java.libhunt.com/compare-eureka-vs-consul-api</a></p>
+<p>StevenACoffman/Eureka vs Consul.md<br>
+<a href="https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583" target="_blank" rel="noopener noreffer ">https://gist.github.com/StevenACoffman/de394d6511a387ada9ab988e33be8583</a></p>
+<p>What is the role of Zookeeper vs Eureka for microservices?<br>
+<a href="https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices</a></p>
+<p>Spring Cloud: use consul instead of eureka for service discovery with zuul<br>
+<a href="https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul</a></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
+<a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
+NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
+<p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
+<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item></channel></rss>

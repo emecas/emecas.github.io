@@ -1,0 +1,90 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning &amp; Books - Category - My Notes</title><link>https://blog.emecas.net/categories/learning--books/</link><description>Learning &amp; Books - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Dec 2020 19:08:42 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/learning--books/" rel="self" type="application/rss+xml"/><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
+<a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
+Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
+<p>Title:<br>
+Standard for Learning Metadata</p>
+<p>Scope:<br>
+This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
+This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
+This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
+This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>Big-O Cheat Sheet</title><link>https://blog.emecas.net/posts/2020-11-17-big-o-cheat-sheet/</link><pubDate>Tue, 17 Nov 2020 20:46:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-11-17-big-o-cheat-sheet/</guid><description><![CDATA[<p>Big-O Cheat Sheet<br>
+<a href="https://www.bigocheatsheet.com/Know" target="_blank" rel="noopener noreffer ">https://www.bigocheatsheet.com/Know</a> Thy Complexities!</p>
+<p>Hi there!  This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.  When preparing for technical interviews in the past, I found myself spending hours crawling the internet putting together the best, average, and worst case complexities for search and sorting algorithms so that I wouldn&rsquo;t be stumped when asked about them.  Over the last few years, I&rsquo;ve interviewed at several Silicon Valley startups, and also some bigger companies, like Google, Facebook, Yahoo, LinkedIn, and Uber, and each time that I prepared for an interview, I thought to myself &ldquo;Why hasn&rsquo;t someone created a nice Big-O cheat sheet?&rdquo;.  So, to save all of you fine folks a ton of time, I went ahead and created one.  Enjoy! - Eric</p>]]></description></item><item><title>Living Open Source Foundation</title><link>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</link><pubDate>Mon, 02 Nov 2020 10:12:30 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</guid><description><![CDATA[<p>Living Open Source Foundation<br>
+<a href="https://www.livingopensource.net/" target="_blank" rel="noopener noreffer ">https://www.livingopensource.net/</a></p>
+<p>WHAT WE DO<br>
+Our mission is to foster the growth and use of the Open Source Software in Zambia and Africa!</p>
+<p>Our approach is to create communities in countries where we have found motivated people that want to start an open source community. Working with the local open source enthusiasts, we organize events; find sponsors for venue, course materials, certification and logistics; organize an initial open source training and community building; help to certify community members with world-wide recognized high-standard Linux Foundation certification; and enable local talent to further educate and build the local communities.</p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
+<a href="http://nealford.com/katas/list.html" target="_blank" rel="noopener noreffer ">http://nealford.com/katas/list.html</a></p>
+<p>Agile Dead Trees<br>
+All Stuff, No Cruft<br>
+Am.I.Sck<br>
+Check Your Work<br>
+E(xperimental) College<br>
+Gird the Grid<br>
+Going Green<br>
+Going&hellip;Going&hellip;Gone!<br>
+Hot Diggety Dog!<br>
+I Can Haz Cheezborger?<br>
+I&rsquo;ll Have the BLT<br>
+Lights, Please<br>
+Make the Grade<br>
+Room with a View<br>
+Sysop Squad<br>
+Tales Of A Fourth Grade<br>
+The Road Warrior<br>
+Where&rsquo;s Fluffymon?<br>
+World of Webcraft<br>
+You Look Good In Print</p>]]></description></item><item><title>The Art of Computer Programming</title><link>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</link><pubDate>Mon, 20 Apr 2020 09:24:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</guid><description><![CDATA[<p>The Art of Computer Programming<br>
+<a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html" target="_blank" rel="noopener noreffer ">https://www-cs-faculty.stanford.edu/~knuth/taocp.html</a></p>
+<p>&gt;&gt; The bible of all fundamental algorithms and the work that taught many of today’s software developers<br>
+&gt;&gt; most of what they know about computer programming.<br>
+&gt;&gt; —Byte, September 1995</p>
+<p>ISBN-13: 978-0321751041<br>
+ISBN-10: 0321751043</p>
+<p>Ref: <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/#comments" target="_blank" rel="noopener noreffer ">https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/#comments</a></p>
+<p>Knuth eventually merged his dual loves of discrete digital problems and large collections of information in his magnum opus, The Art of Computer Programming — a book series he began writing as a graduate student in 1962 and has yet to complete. He published volume 1 in 1968, and the current version is in its 42nd printing. Volume 2 followed in 1969 and volume 3 in 1973. By then he was a computer science professor at Stanford University, but he worried that his work would prevent him from completing his books. So he took a leave of absence in 1990 and then retired in 1993 to spend the rest of his life completing the seven-volume set. Now 82, he’s hard at work on part B of volume 4, and he anticipates that the book will have at least parts A through F.</p>]]></description></item><item><title>Software Engineering Handbook</title><link>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</link><pubDate>Tue, 18 Feb 2020 18:55:32 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</guid><description><![CDATA[<p>Software Engineering Handbook<br>
+<a href="https://software-engineering-handbook.com/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/</a><br>
+<a href="https://software-engineering-handbook.com/Handbook/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/Handbook/</a><br>
+github:<a href="https://github.com/uribench/software-engineering-handbook" target="_blank" rel="noopener noreffer ">https://github.com/uribench/software-engineering-handbook</a></p>]]></description></item><item><title>Becoming a Technical Leader</title><link>https://blog.emecas.net/posts/2020-01-10-becoming-a-technical-leader/</link><pubDate>Fri, 10 Jan 2020 17:38:58 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-10-becoming-a-technical-leader/</guid><description><![CDATA[<p>Becoming a Technical Leader: An Organic Problem-Solving Approach (Paperback)<br>
+by Gerald M. Weinberg (Author), Ken Orr (Foreword)<br>
+ISBN-13: 978-0932633026<br>
+ISBN-10: 9780932633026<br>
+Ref: from <a href="https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/</a></p>]]></description></item><item><title>Learn REST: A RESTful Tutorial</title><link>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</link><pubDate>Wed, 06 Mar 2019 15:58:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</guid><description><![CDATA[<p>Learn REST: A RESTful Tutorial<br>
+<a href="https://www.restapitutorial.com/" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/</a></p>
+<p>RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available<br>
+to enable quick reference and self education for the development crafts-person.<br>
+We&rsquo;ll discuss both the art and science of creating REST Web services.</p>
+<p><a href="https://www.restapitutorial.com/lessons/httpmethods.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/lessons/httpmethods.html</a><br>
+<a href="https://www.restapitutorial.com/httpstatuscodes.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/httpstatuscodes.html</a><br>
+<a href="https://github.com/tfredrich/RestApiTutorial.com" target="_blank" rel="noopener noreffer ">https://github.com/tfredrich/RestApiTutorial.com</a></p>]]></description></item><item><title>Guru99</title><link>https://blog.emecas.net/posts/2019-03-03-guru99/</link><pubDate>Sun, 03 Mar 2019 19:36:24 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-03-guru99/</guid><description><![CDATA[<p>Guru99<br>
+<a href="https://www.guru99.com/" target="_blank" rel="noopener noreffer ">https://www.guru99.com/</a></p>
+<p>Guru99 is totally new kind of learning experience.</p>
+<p>Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.</p>
+<p>Inside, you will find tons of video tutorials</p>
+<p>All provided FREE!!!</p>
+<p>Testing</p>
+<p>Software Testing<br>
+QTP (Quick Test Professional)<br>
+Selenium<br>
+Mobile App Testing<br>
+Cucumber Testing<br>
+SoapUI<br>
+Agile Testing<br>
+JUnit<br>
+RPA</p>
+<p>Live Projects</p>
+<p>Live Testing Project<br>
+Live Selenium Project<br>
+Live Ecommerce Project<br>
+Live UFT Testing<br>
+Live HP ALM Exercise<br>
+Live Mobile Testing<br>
+Live Security Testing<br>
+Live PHP Project<br>
+Live Scrum(Agile) Testing<br>
+Live Insurance Testing<br>
+Live Payment Gateway<br>
+Live Telecom<br>
+Live Java Project</p>]]></description></item><item><title>Discovering Modern Java</title><link>https://blog.emecas.net/posts/2019-03-03-discovering-modern-java/</link><pubDate>Sun, 03 Mar 2019 19:31:03 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-03-discovering-modern-java/</guid><description><![CDATA[<p>Discovering Modern Java<br>
+What you need to know about Java 9, 10, 11, and beyond</p>
+<p><a href="https://github.com/henri-tremblay/java91011beyond" target="_blank" rel="noopener noreffer ">https://github.com/henri-tremblay/java91011beyond</a></p>]]></description></item></channel></rss>

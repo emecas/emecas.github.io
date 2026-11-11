@@ -1,0 +1,73 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Practices - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-practices/</link><description>Programming Practices - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2020 20:46:04 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-practices/" rel="self" type="application/rss+xml"/><item><title>Big-O Cheat Sheet</title><link>https://blog.emecas.net/posts/2020-11-17-big-o-cheat-sheet/</link><pubDate>Tue, 17 Nov 2020 20:46:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-11-17-big-o-cheat-sheet/</guid><description><![CDATA[<p>Big-O Cheat Sheet<br>
+<a href="https://www.bigocheatsheet.com/Know" target="_blank" rel="noopener noreffer ">https://www.bigocheatsheet.com/Know</a> Thy Complexities!</p>
+<p>Hi there!  This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.  When preparing for technical interviews in the past, I found myself spending hours crawling the internet putting together the best, average, and worst case complexities for search and sorting algorithms so that I wouldn&rsquo;t be stumped when asked about them.  Over the last few years, I&rsquo;ve interviewed at several Silicon Valley startups, and also some bigger companies, like Google, Facebook, Yahoo, LinkedIn, and Uber, and each time that I prepared for an interview, I thought to myself &ldquo;Why hasn&rsquo;t someone created a nice Big-O cheat sheet?&rdquo;.  So, to save all of you fine folks a ton of time, I went ahead and created one.  Enjoy! - Eric</p>]]></description></item><item><title>7 Popular Unit Test Naming Conventions</title><link>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</link><pubDate>Wed, 29 Apr 2020 18:54:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</guid><description><![CDATA[<p>7 Popular Unit Test Naming Conventions<br>
+<a href="https://dzone.com/articles/7-popular-unit-test-naming" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/7-popular-unit-test-naming</a></p>
+<p>1. MethodName_StateUnderTest_ExpectedBehavior: There are arguments against this strategy that if method names change as part of code refactoring 	than test name like this should also change or it becomes difficult to comprehend at a later stage. Following are some of the example:<br>
+isAdult_AgeLessThan18_False<br>
+withdrawMoney_InvalidAccount_ExceptionThrown<br>
+admitStudent_MissingMandatoryFields_FailToAdmit<br>
+2. MethodName_ExpectedBehavior_StateUnderTest: Slightly tweeked from above, but a section of developers also recommend using this naming technique. This technique also has disadvantage that if method names get changed, it becomes difficult to comprehend at a later stage. Following is how tests in first example would read like if named using this technique:<br>
+isAdult_False_AgeLessThan18<br>
+withdrawMoney_ThrowsException_IfAccountIsInvalid<br>
+admitStudent_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+3. test[Feature being tested]: This one makes it easy to read the test as the feature to be tested is written as part of test name. Although, there are arguments that the “test” prefix is redundant. However, some sections of developer love to use this technique. Following is how the above tests would read like if named using this technique:<br>
+testIsNotAnAdultIfAgeLessThan18<br>
+testFailToWithdrawMoneyIfAccountIsInvalid<br>
+testStudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+4. Feature to be tested: Many suggests that it is better to simply write the feature to be tested because one is anyway using annotations to identify method as test methods. It is also recommended for the reason that it makes unit tests as alternate form of documentation and avoid code smells. Following is how tests in first example would read like if named using this technique:<br>
+IsNotAnAdultIfAgeLessThan18<br>
+FailToWithdrawMoneyIfAccountIsInvalid<br>
+StudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
+5. Should_ExpectedBehavior_When_StateUnderTest: This technique is also used by many as it makes it easy to read the tests. Following is how tests in first example would read like if named using this technique:<br>
+Should_ThrowException_When_AgeLessThan18<br>
+Should_FailToWithdrawMoney_ForInvalidAccount<br>
+Should_FailToAdmit_IfMandatoryFieldsAreMissing<br>
+6. When_StateUnderTest_Expect_ExpectedBehavior: Following is how tests in first example would read like if named using this technique:<br>
+When_AgeLessThan18_Expect_isAdultAsFalse<br>
+When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
+When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
+7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>The Art of Computer Programming</title><link>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</link><pubDate>Mon, 20 Apr 2020 09:24:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</guid><description><![CDATA[<p>The Art of Computer Programming<br>
+<a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html" target="_blank" rel="noopener noreffer ">https://www-cs-faculty.stanford.edu/~knuth/taocp.html</a></p>
+<p>&gt;&gt; The bible of all fundamental algorithms and the work that taught many of today’s software developers<br>
+&gt;&gt; most of what they know about computer programming.<br>
+&gt;&gt; —Byte, September 1995</p>
+<p>ISBN-13: 978-0321751041<br>
+ISBN-10: 0321751043</p>
+<p>Ref: <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/#comments" target="_blank" rel="noopener noreffer ">https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/#comments</a></p>
+<p>Knuth eventually merged his dual loves of discrete digital problems and large collections of information in his magnum opus, The Art of Computer Programming — a book series he began writing as a graduate student in 1962 and has yet to complete. He published volume 1 in 1968, and the current version is in its 42nd printing. Volume 2 followed in 1969 and volume 3 in 1973. By then he was a computer science professor at Stanford University, but he worried that his work would prevent him from completing his books. So he took a leave of absence in 1990 and then retired in 1993 to spend the rest of his life completing the seven-volume set. Now 82, he’s hard at work on part B of volume 4, and he anticipates that the book will have at least parts A through F.</p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
+<a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
+Summary</p>
+<p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
+<p>MAJOR version when you make incompatible API changes,<br>
+MINOR version when you add functionality in a backwards compatible manner, and<br>
+PATCH version when you make backwards compatible bug fixes.</p>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item><item><title>Software Engineering Handbook</title><link>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</link><pubDate>Tue, 18 Feb 2020 18:55:32 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</guid><description><![CDATA[<p>Software Engineering Handbook<br>
+<a href="https://software-engineering-handbook.com/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/</a><br>
+<a href="https://software-engineering-handbook.com/Handbook/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/Handbook/</a><br>
+github:<a href="https://github.com/uribench/software-engineering-handbook" target="_blank" rel="noopener noreffer ">https://github.com/uribench/software-engineering-handbook</a></p>]]></description></item><item><title>Primitive Obsession</title><link>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</link><pubDate>Sat, 09 Feb 2019 18:11:48 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</guid><description><![CDATA[<p>Primitive Obsession<br>
+<a href="https://www.devteams.at/2019/02/04/primitive-obsession.html" target="_blank" rel="noopener noreffer ">https://www.devteams.at/2019/02/04/primitive-obsession.html</a><br>
+by David Tanzer<br>
+<a href="https://www.devteams.at/" target="_blank" rel="noopener noreffer ">https://www.devteams.at/</a></p>
+<p>Did you ever see some piece of code that uses primitive data types, like Strings or integers,<br>
+in it’s public API? I am sure you have, because most code is written like that.</p>
+<p>But that can cause problems. Today, I want to talk about a code smell called “Primitive Obsession”.<br>
+And I want to show you how code often becomes easier to understand and “nicer”<br>
+by eliminating primitive data types - especially, but not only, from it’s public API.</p>]]></description></item><item><title>Objections Are Goals</title><link>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</link><pubDate>Tue, 29 Jan 2019 19:54:54 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</guid><description><![CDATA[<p>Objections Are Goals<br>
+<a href="https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069</a><br>
+By: Kent BeckF<br>
+Oct 9, 2018</p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
+By: Kent Beck<br>
+Sep 28, 2018</p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
+<a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
+Here&rsquo;s how you can truly master Kata.</p>
+<p>We Learn Best by Doing:<br>
+In this blog, I will show you how to get started coding the Eclipse Collections Pet Kata.<br>
+If you want to become proficient in Eclipse Collections, you should practice the Kata on your own.<br>
+In order to truly master the Kata, try teaching the Kata to others, teaching results in deeper learning.<br>
+Git repo: <a href="https://github.com/eclipse/eclipse-collections-kata" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/eclipse-collections-kata</a></p>]]></description></item><item><title>Efficient Programming with Components</title><link>https://blog.emecas.net/posts/2019-01-28-efficient-programming-with-components/</link><pubDate>Mon, 28 Jan 2019 11:07:40 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-efficient-programming-with-components/</guid><description><![CDATA[<p>Efficient Programming with Components (39 videos)<br>
+<a href="https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD" target="_blank" rel="noopener noreffer ">https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD</a><br>
+By Alexander Stepanov<br>
+A9 Videos<br>
+Published on Apr 22, 2013</p>]]></description></item></channel></rss>

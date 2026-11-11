@@ -1,0 +1,60 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JavaScript &amp; Frontend - Category - My Notes</title><link>https://blog.emecas.net/categories/javascript--frontend/</link><description>JavaScript &amp; Frontend - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 12 Oct 2022 09:17:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/javascript--frontend/" rel="self" type="application/rss+xml"/><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
+Repo: <a href="https://github.com/inboxSDK/inboxsdk" target="_blank" rel="noopener noreffer ">https://github.com/inboxSDK/inboxsdk</a><br>
+Documentation: <a href="https://inboxsdk.github.io/inboxsdk-docs/" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/</a><br>
+Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" rel="noopener noreffer ">https://github.com/InboxSDK/inboxsdk-docs</a><br>
+The InboxSDK lets you build apps for Gmail.</p>
+<p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
+<p>Getting Started<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+Playwright enables reliable end-to-end testing for modern web apps.<br>
+<a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
+<p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
+<p>Support for all browsers</p>
+<p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
+Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
+Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>excalidraw</title><link>https://blog.emecas.net/posts/2020-10-24-excalidraw/</link><pubDate>Sat, 24 Oct 2020 17:59:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-24-excalidraw/</guid><description><![CDATA[<p>excalidraw<br>
+<a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
+Virtual whiteboard for sketching hand-drawn like diagrams.<br>
+Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
+repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>]]></description></item><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
+<a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
+<a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
+<a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
+<p><a href="https://github.com/architect/architect" target="_blank" rel="noopener noreffer ">https://github.com/architect/architect</a></p>
+<p>Deno is a brand new experimental JavaScript runtime and deno.town is a web based REPL with linting and code completion to help you explore and learn the API.<br>
+Why Deno?</p>
+<p>It is very fast<br>
+Built in least privilege security<br>
+Standard esmodules<br>
+TypeScript, JSX and TSX dialects supported</p>
+<p>How</p>
+<p>AWS Lambda (and friends) by way of OpenJS Architect<br>
+Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
+<a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
+web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>]]></description></item><item><title>OpenJS Foundation</title><link>https://blog.emecas.net/posts/2020-09-19-openjs-foundation/</link><pubDate>Sat, 19 Sep 2020 18:43:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-19-openjs-foundation/</guid><description><![CDATA[<p>OpenJS Foundation<br>
+<a href="https://openjsf.org" target="_blank" rel="noopener noreffer ">https://openjsf.org</a></p>
+<p>Developers rely on a growing portfolio of open source technologies to create, test and deploy critical applications. By creating a center of gravity for the open source JavaScript ecosystem, the OpenJS Foundation’s mission is to drive broad adoption and ongoing development of key JavaScript solutions and related technologies.</p>
+<p>The primary goals of the OpenJS Foundation are:</p>
+<p>To promote the widespread adoption and continued development of key JavaScript and web solutions and related technologies.<br>
+To facilitate collaboration within the JavaScript development community.<br>
+To create a center of gravity for open source projects throughout the end-to-end JavaScript ecosystem guiding them toward open governance and diverse collaborator bases.<br>
+To host the infrastructure to support hosted JavaScript open source projects.<br>
+To enable, through advancement of Projects and strategic partnerships, an open and accessible web.</p>]]></description></item><item><title>Fastify</title><link>https://blog.emecas.net/posts/2020-09-16-fastify/</link><pubDate>Wed, 16 Sep 2020 18:56:30 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-09-16-fastify/</guid><description><![CDATA[<p>Fastify<br>
+<a href="https://www.fastify.io/" target="_blank" rel="noopener noreffer ">https://www.fastify.io/</a><br>
+Fast and low overhead web framework, for Node.js</p>
+<p>Why</p>
+<p>An efficient server implies a lower cost of the infrastructure, a better responsiveness under load and happy users. How can you efficiently handle the resources of your server, knowing that you are serving the highest number of requests possible, without sacrificing security validations and handy development?</p>
+<p>Enter Fastify. Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.</p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
+<a href="https://plnkr.co" target="_blank" rel="noopener noreffer ">https://plnkr.co</a><br>
+Plunker is where you get stuff done<br>
+Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.</p>]]></description></item><item><title>Jasmine</title><link>https://blog.emecas.net/posts/2020-06-26-jasmine/</link><pubDate>Fri, 26 Jun 2020 18:56:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-26-jasmine/</guid><description><![CDATA[<p>Jasmine<br>
+Behavior-Driven JavaScript<br>
+<a href="https://jasmine.github.io/index.html" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/index.html</a><br>
+Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.<br>
+<a href="https://jasmine.github.io/tutorials/your_first_suite" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/tutorials/your_first_suite</a><br>
+Github: <a href="https://github.com/jasmine/jasmine.github.io" target="_blank" rel="noopener noreffer ">https://github.com/jasmine/jasmine.github.io</a></p>
+<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>]]></description></item><item><title>react-burger-menu</title><link>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</link><pubDate>Tue, 28 Apr 2020 18:33:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</guid><description><![CDATA[<p>react-burger-menu<br>
+An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations<br>
+<a href="https://github.com/negomi/react-burger-menu" target="_blank" rel="noopener noreffer ">https://github.com/negomi/react-burger-menu</a><br>
+<a href="http://negomi.github.io/react-burger-menu/" target="_blank" rel="noopener noreffer ">http://negomi.github.io/react-burger-menu/</a></p>]]></description></item></channel></rss>

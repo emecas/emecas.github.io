@@ -1,0 +1,65 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Software Architecture - Category - My Notes</title><link>https://blog.emecas.net/categories/software-architecture/</link><description>Software Architecture - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 May 2024 12:13:58 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/software-architecture/" rel="self" type="application/rss+xml"/><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+Generate easy-to-read web pages for your Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
+repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
+demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+CLI tool for working with Architecture Decision Records<br>
+<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
+repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
+<p>Joel Parker Henderson<br>
+<a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
+<a href="http://www.joelparkerhenderson.com/" target="_blank" rel="noopener noreffer ">http://www.joelparkerhenderson.com/</a></p>
+<p>About</p>
+<p>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</p>
+<p>Contents:</p>
+<p>What is an architecture decision record?<br>
+How to start using ADRs<br>
+How to start using ADRs with tools<br>
+How to start using ADRs with git<br>
+File name conventions for ADRs<br>
+Suggestions for writing good ADRs<br>
+ADR example templates<br>
+Teamwork advice for ADRs<br>
+For more information</p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
+<a href="http://nealford.com/katas/list.html" target="_blank" rel="noopener noreffer ">http://nealford.com/katas/list.html</a></p>
+<p>Agile Dead Trees<br>
+All Stuff, No Cruft<br>
+Am.I.Sck<br>
+Check Your Work<br>
+E(xperimental) College<br>
+Gird the Grid<br>
+Going Green<br>
+Going&hellip;Going&hellip;Gone!<br>
+Hot Diggety Dog!<br>
+I Can Haz Cheezborger?<br>
+I&rsquo;ll Have the BLT<br>
+Lights, Please<br>
+Make the Grade<br>
+Room with a View<br>
+Sysop Squad<br>
+Tales Of A Fourth Grade<br>
+The Road Warrior<br>
+Where&rsquo;s Fluffymon?<br>
+World of Webcraft<br>
+You Look Good In Print</p>]]></description></item><item><title>Package by feature, not layer</title><link>https://blog.emecas.net/posts/2020-01-08-package-by-feature-not-layer/</link><pubDate>Wed, 08 Jan 2020 13:03:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-08-package-by-feature-not-layer/</guid><description><![CDATA[<p>Package by feature, not layer<br>
+<a href="http://www.javapractices.com/topic/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205" target="_blank" rel="noopener noreffer ">http://www.javapractices.com/topic/TopicAction.do;jsessionid=0BF4844350780B6F55476E1137FF4893?Id=205</a><br>
+The first question in building an application is &ldquo;How do I divide it up into packages?&rdquo;.<br>
+For typical business applications, there seems to be two ways of answering this question.</p>]]></description></item><item><title>Microservice Principles: Decentralized Data Management</title><link>https://blog.emecas.net/posts/2019-03-01-microservice-principles-decentralized-data-management/</link><pubDate>Fri, 01 Mar 2019 14:14:36 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-01-microservice-principles-decentralized-data-management/</guid><description><![CDATA[<p>Microservice Principles: Decentralized Data Management<br>
+<a href="https://medium.com/@nathankpeck/microservice-principles-decentralized-data-management-4adaceea173f" target="_blank" rel="noopener noreffer ">https://medium.com/@nathankpeck/microservice-principles-decentralized-data-management-4adaceea173f</a></p>]]></description></item><item><title>ArchUnit - checking the architecture of your Java code</title><link>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</link><pubDate>Tue, 19 Feb 2019 13:37:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</guid><description><![CDATA[<p>ArchUnit<br>
+<a href="https://www.archunit.org/" target="_blank" rel="noopener noreffer ">https://www.archunit.org/</a><br>
+ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more. It does so by analyzing given Java bytecode, importing all classes into a Java code structure. You can find examples for the current release at ArchUnit Examples and the sources on GitHub.<br>
+<a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">https://github.com/TNG/ArchUnit</a></p>]]></description></item><item><title>Design patterns implemented in Java</title><link>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</link><pubDate>Mon, 11 Feb 2019 11:03:25 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</guid><description><![CDATA[<p>Design patterns implemented in Java<br>
+<a href="https://java-design-patterns.com/" target="_blank" rel="noopener noreffer ">https://java-design-patterns.com/</a><br>
+Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a></p>
+<p>Introduction</p>
+<p>Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.</p>
+<p>Design patterns can speed up the development process by providing tested, proven development paradigms.</p>
+<p>Reusing design patterns helps to prevent subtle issues that can cause major problems, and it also improves code readability for coders and architects who are familiar with the patterns.</p>]]></description></item><item><title>Investigating the CQRS pattern using GraphQL and SPQR</title><link>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</link><pubDate>Wed, 30 Jan 2019 17:33:02 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</guid><description><![CDATA[<p>Investigating the CQRS pattern using GraphQL and SPQR<br>
+<a href="https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582" target="_blank" rel="noopener noreffer ">https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582</a><br>
+Ken Anderson<br>
+Aug 26, 2018</p>]]></description></item><item><title>Domain Driven Design</title><link>https://blog.emecas.net/posts/2017-04-24-domain-driven-design/</link><pubDate>Mon, 24 Apr 2017 08:58:07 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-24-domain-driven-design/</guid><description><![CDATA[<p>Book: Domain Driven Design<br>
+By Eric Evans<br>
+<a href="https://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC" target="_blank" rel="noopener noreffer ">https://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC</a></p>]]></description></item></channel></rss>

@@ -1,0 +1,71 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AI &amp; Machine Learning - Category - My Notes</title><link>https://blog.emecas.net/categories/ai--machine-learning/</link><description>AI &amp; Machine Learning - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Oct 2023 12:52:42 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/ai--machine-learning/" rel="self" type="application/rss+xml"/><item><title>Whisper</title><link>https://blog.emecas.net/posts/2023-10-18-whisper/</link><pubDate>Wed, 18 Oct 2023 12:52:42 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-10-18-whisper/</guid><description><![CDATA[<p>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision<br>
+<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper</a></p>
+<p>[Blog] : <a href="https://openai.com/blog/whisper" target="_blank" rel="noopener noreffer ">https://openai.com/blog/whisper</a></p>
+<p>[Paper] : <a href="https://arxiv.org/abs/2212.04356" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/2212.04356</a></p>
+<p>[Model card] : <a href="https://github.com/openai/whisper/blob/main/model-card.md" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper/blob/main/model-card.md</a></p>
+<p>[Colab example] : <a href="https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb" target="_blank" rel="noopener noreffer ">https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb</a></p>
+<p>Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.</p>]]></description></item><item><title>Metacreation: Lab for Creative AI</title><link>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</link><pubDate>Mon, 01 Aug 2022 09:53:17 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</guid><description><![CDATA[<p>Metacreation: Lab for Creative AI<br>
+<a href="https://metacreation.net/" target="_blank" rel="noopener noreffer ">https://metacreation.net/</a></p>
+<p>Driven by collaborations involving scientists, experts in artificial intelligence, cognitive sciences, designers, and artists, the Metacreation Lab for Creative AI is at the forefront of the development of generative systems, whether these are embedded in interactive experiences or automating workflows integrated into cutting-edge creative software.</p>
+<p>Generative Systems</p>
+<p>As automation becomes commonplace in an ever expanding range of fields, the Metacreation Lab goes further by developing systems that are capable of human-level creativity. These are systems capable of autonomous creation, producing original artwork and creative output alongside and beyond their human counterparts.</p>]]></description></item><item><title>Computational model reveals how the brain manages short-term memories</title><link>https://blog.emecas.net/posts/2021-01-01-computational-model-reveals-how-the-brain-manages-short-term/</link><pubDate>Fri, 01 Jan 2021 10:32:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-01-01-computational-model-reveals-how-the-brain-manages-short-term/</guid><description><![CDATA[<p>Computational model reveals how the brain manages short-term memories<br>
+<a href="https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/" target="_blank" rel="noopener noreffer ">https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/</a></p>
+<p>Salk scientists show how “working memories” might be stored by neurons that can maintain information longer than average<br>
+DOI: 10.1038/s41593-020-00753-w <a href="https://doi.org/10.1038/s41593-020-00753-w" target="_blank" rel="noopener noreffer ">https://doi.org/10.1038/s41593-020-00753-w</a></p>
+<p>Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks<br>
+<a href="https://www.nature.com/articles/s41593-020-00753-w" target="_blank" rel="noopener noreffer ">https://www.nature.com/articles/s41593-020-00753-w</a></p>
+<p>Robert Kim &amp; Terrence J. Sejnowski</p>
+<p>Nature Neuroscience volume 24, pages129–139(2021)Cite this article</p>
+<p>2610 Accesses</p>
+<p>94 Altmetric</p>
+<p>Metrics</p>
+<p>Abstract</p>
+<p>Cortical neurons process information on multiple timescales, and areas important for working memory (WM) contain neurons capable of integrating information over a long timescale. However, the underlying mechanisms for the emergence of neuronal timescales stable enough to support WM are unclear. By analyzing a spiking recurrent neural network model trained on a WM task and activity of single neurons in the primate prefrontal cortex, we show that the temporal properties of our model and the neural data are remarkably similar. Dissecting our recurrent neural network model revealed strong inhibitory-to-inhibitory connections underlying a disinhibitory microcircuit as a critical component for long neuronal timescales and WM maintenance. We also found that enhancing inhibitory-to-inhibitory connections led to more stable temporal dynamics and improved task performance. Finally, we show that a network with such microcircuitry can perform other tasks without disrupting its pre-existing timescale architecture, suggesting that strong inhibitory signaling underlies a flexible WM network.</p>]]></description></item><item><title>Evostar and EvoMUSART 2021 (Sevilla, Spain)</title><link>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</link><pubDate>Fri, 07 Aug 2020 19:04:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</guid><description><![CDATA[<p>Evostar and EvoMUSART 2021 (Sevilla, Spain)<br>
+<a href="http://www.evostar.org/2021/important-dates/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/important-dates/</a></p>
+<p>Important Dates</p>
+<p>EvoApplications Special Session proposals: 10 September, 2020<br>
+Submission deadline: 1 November, 2020<br>
+EvoStar Conference: 7-9 April, 2021</p>
+<p>EvoMUSART 2021 is the 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design.<br>
+<a href="http://www.evostar.org/2021/evomusart/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/evomusart/</a></p>
+<p>Areas of Interest and Contributions</p>
+<p>Submissions should concern the use of Artificial Intelligence techniques (e.g. Evolutionary Computation, Artificial Neural Networks, Artificial Life, Machine Learning, Deep Learning, Swarm Intelligence) in the generation, analysis and interpretation of Art, Music, Design, Architecture and other artistic fields. Topics of interest include, but are not limited to:<br>
+Generation</p>]]></description></item><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
+@paperswithcode<br>
+<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
+Our mission</p>
+<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
+<p>We believe this is best done together with the community and powered by automation.</p>
+<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>]]></description></item><item><title>Linear Digressions</title><link>https://blog.emecas.net/posts/2020-03-04-linear-digressions/</link><pubDate>Wed, 04 Mar 2020 16:35:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-04-linear-digressions/</guid><description><![CDATA[<p>Linear Digressions<br>
+<a href="https://lineardigressions.com/" target="_blank" rel="noopener noreffer ">https://lineardigressions.com/</a><br>
+<a href="https://twitter.com/lindigressions" target="_blank" rel="noopener noreffer ">https://twitter.com/lindigressions</a> @LinDigressions<br>
+<a href="https://twitter.com/multiarmbandit" target="_blank" rel="noopener noreffer ">https://twitter.com/multiarmbandit</a> Katie Malone<br>
+Linear Digressions is a podcast about Machine Learning and Data Science</p>]]></description></item><item><title>Can Machines And Artificial Intelligence Be Creative</title><link>https://blog.emecas.net/posts/2020-03-02-can-machines-and-artificial-intelligence-be-creative/</link><pubDate>Mon, 02 Mar 2020 12:16:21 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-02-can-machines-and-artificial-intelligence-be-creative/</guid><description><![CDATA[<p>Can Machines And Artificial Intelligence Be Creative?<br>
+<a href="https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580" target="_blank" rel="noopener noreffer ">https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580</a></p>
+<p>interview: Marcus du Sautoy<br>
+<a href="https://www.youtube.com/watch?v=7tHIHCQccjg" target="_blank" rel="noopener noreffer ">https://www.youtube.com/watch?v=7tHIHCQccjg</a></p>
+<p>Book:<br>
+The Creativity Code: Art and Innovation in the Age of AI Hardcover<br>
+April 15, 2019<br>
+<a href="https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/" target="_blank" rel="noopener noreffer ">https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/</a></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
+<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a><br>
+Build and run Docker containers leveraging NVIDIA GPUs<br>
+The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
+<a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>]]></description></item><item><title>Electronic Proceedings of the NIPS</title><link>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</link><pubDate>Mon, 24 Feb 2020 18:14:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</guid><description><![CDATA[<p>Electronic Proceedings of the Neural Information Processing Systems Conference<br>
+<a href="https://papers.nips.cc/" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/</a><br>
+Neural Ordinary Differential Equations<br>
+Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations</a><br>
+github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
+application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>]]></description></item><item><title>Collective Intelligence</title><link>https://blog.emecas.net/posts/2020-02-23-collective-intelligence/</link><pubDate>Sun, 23 Feb 2020 17:34:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-23-collective-intelligence/</guid><description><![CDATA[<p>A Stack to Build Collective Intelligence Technology<br>
+<a href="https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove" target="_blank" rel="noopener noreffer ">https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove</a><br>
+January 29, 2020</p>
+<p>- a rich schema that models concepts such as themes, ideas, messages, reactions, sentiments<br>
+- how the different personas or actors need to interact with the system<br>
+- every post being tied into the IBM Watson Natural Language Understanding API<br>
+- a microservice called Holmes to communicate with the IBM Watson APIs<br>
+- a developer should not have to step out of their comfort zone in order to generate their microservice—or in other words, we don’t force a Python developer to install Node.js in order to generate their Python microservice<br>
+- 3 different algorithm<br>
+- a semantic analysis clustering algorithm for on-site live debates. This uses a combination of unsupervised and then supervised learning in order to group and classify responses into topics<br>
+- an NLP algorithm designed to find actionable solutions in text<br>
+-<br>
+- precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring</p>]]></description></item></channel></rss>
