@@ -9,4 +9,6 @@ Jul 5, 2008<br>
 X-Ray is an open-source software visualization plug-in for the Eclipse framework. It is my bachelor project and thesis, as far as my research topic, supervised by Prof. Dr. Michele Lanza and Dipl. Ing. Mircea Lungu. It provides System Complexity View, Class and Package Dependency View for a given Java project. Moreover, its model of the underlying Java project can be triggered and used by other plug-ins</p>]]></description></item><item><title>KML Interactive Sampler</title><link>https://blog.emecas.net/posts/2014-04-14-kml-interactive-sampler/</link><pubDate>Mon, 14 Apr 2014 22:53:25 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-14-kml-interactive-sampler/</guid><description><![CDATA[<p>KML Interactive Sampler<br>
 <a href="https://kml-samples.googlecode.com/svn/trunk/interactive/index.html" target="_blank" rel="noopener noreffer ">https://kml-samples.googlecode.com/svn/trunk/interactive/index.html</a><br>
 Explore the samples below or enter your own KML to get started. You can then make changes and see them in action by clicking &lsquo;Update Earth&rsquo;!<br>
-This sampler requires the Google Earth Plug-in.</p>]]></description></item></channel></rss>
+This sampler requires the Google Earth Plug-in.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ec0c43541ea3fb4db0518f37d24807e82c8421a6" target="_blank" rel="noopener noreffer "><code>ec0c435</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

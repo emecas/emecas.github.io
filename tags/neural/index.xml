@@ -3,7 +3,9 @@
 Neural Ordinary Differential Equations<br>
 Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations</a><br>
 github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
-application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>]]></description></item><item><title>Neural Ordinary Differential Equations</title><link>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</link><pubDate>Fri, 21 Dec 2018 10:48:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</guid><description><![CDATA[<p>Neural Ordinary Differential Equations<br>
+application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item><item><title>Neural Ordinary Differential Equations</title><link>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</link><pubDate>Fri, 21 Dec 2018 10:48:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</guid><description><![CDATA[<p>Neural Ordinary Differential Equations<br>
 Paper <a href="https://arxiv.org/abs/1806.07366" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1806.07366</a><br>
 Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud<br>
 (Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))<br>
@@ -11,4 +13,6 @@ Post: <a href="https://www.technologyreview.com/s/612561/a-radical-new-neural-ne
 reddit comments: <a href="https://reddit.com/comments/a65v5r" target="_blank" rel="noopener noreffer ">https://reddit.com/comments/a65v5r</a></p>
 <p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
 And we&rsquo;ve written a follow-up paper applying this to generative density modeling:<br>
-Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>]]></description></item></channel></rss>
+Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cff11f0fcc7ddd107baf966c239282637af7a684" target="_blank" rel="noopener noreffer "><code>cff11f0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

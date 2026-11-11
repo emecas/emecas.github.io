@@ -1,8 +1,12 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Atom - Tag - My Notes</title><link>https://blog.emecas.net/tags/atom/</link><description>Atom - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 13 May 2019 19:03:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/atom/" rel="self" type="application/rss+xml"/><item><title>ROME</title><link>https://blog.emecas.net/posts/2019-05-13-rome/</link><pubDate>Mon, 13 May 2019 19:03:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-13-rome/</guid><description><![CDATA[<p>ROME<br>
 <a href="https://rometools.github.io/rome/" target="_blank" rel="noopener noreffer ">https://rometools.github.io/rome/</a><br>
 ROME is a Java framework for RSS and Atom feeds. It&rsquo;s open source and licensed under the Apache 2.0 license.<br>
-<a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">https://github.com/rometools/rome</a></p>]]></description></item><item><title>ATOM</title><link>https://blog.emecas.net/posts/2014-02-28-atom/</link><pubDate>Fri, 28 Feb 2014 09:38:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-28-atom/</guid><description><![CDATA[<p>ATOM<br>
+<a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">https://github.com/rometools/rome</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb141a0f2bd573b899755de2cfd14025d0339312" target="_blank" rel="noopener noreffer "><code>cb141a0</code></a> in My-Notes.</em></p>]]></description></item><item><title>ATOM</title><link>https://blog.emecas.net/posts/2014-02-28-atom/</link><pubDate>Fri, 28 Feb 2014 09:38:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-28-atom/</guid><description><![CDATA[<p>ATOM<br>
 <a href="http://atom.io" target="_blank" rel="noopener noreffer ">http://atom.io</a><br>
 A hackable text editor<br>
 for the 21st Century</p>
-<p>At GitHub, we&rsquo;re building the text editor we&rsquo;ve always wanted. A tool you can customize to do anything, but also use productively on the first day without ever touching a config file. Atom is modern, approachable, and hackable to the core. We can&rsquo;t wait to see what you build with it.</p>]]></description></item></channel></rss>
+<p>At GitHub, we&rsquo;re building the text editor we&rsquo;ve always wanted. A tool you can customize to do anything, but also use productively on the first day without ever touching a config file. Atom is modern, approachable, and hackable to the core. We can&rsquo;t wait to see what you build with it.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/763e35261de62498c00e6fec5c8233e4060626cc" target="_blank" rel="noopener noreffer "><code>763e352</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

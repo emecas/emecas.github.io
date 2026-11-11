@@ -13,11 +13,15 @@ Generate easy-to-read web pages for your Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
 repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
 demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
-<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
 CLI tool for working with Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
 repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
-<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
 <a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
 <p>Joel Parker Henderson<br>
 <a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
@@ -84,7 +88,9 @@ Granular note permission settings and private image storage give you full contro
 <a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
 Virtual whiteboard for sketching hand-drawn like diagrams.<br>
 Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
-repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
+repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7362c09fb3e7fbfafb2978b9bbd1abfb2431843" target="_blank" rel="noopener noreffer "><code>c7362c0</code></a> in My-Notes.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
 <p>POM:</p>
 <p>&lt;plugin&gt;<br>
 &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>

@@ -4,7 +4,9 @@
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Flathub</title><link>https://blog.emecas.net/posts/2023-06-03-flathub/</link><pubDate>Sat, 03 Jun 2023 15:14:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-06-03-flathub/</guid><description><![CDATA[<p>Flathub<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Flathub</title><link>https://blog.emecas.net/posts/2023-06-03-flathub/</link><pubDate>Sat, 03 Jun 2023 15:14:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-06-03-flathub/</guid><description><![CDATA[<p>Flathub<br>
 <a href="https://flathub.org/" target="_blank" rel="noopener noreffer ">https://flathub.org/</a><br>
 Apps for Linux, right here</p>
 <p>Welcome to Flathub, the home of hundreds of apps which can be easily installed on any Linux distribution. Browse the apps online, from your app center or the command line.</p>
@@ -13,7 +15,9 @@ Apps for Linux, right here</p>
 Use Flathub to gain access to a growing collection of Flatpaks by following the setup instructions.</p>]]></description></item><item><title>Huayra</title><link>https://blog.emecas.net/posts/2021-06-11-huayra/</link><pubDate>Fri, 11 Jun 2021 10:06:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-11-huayra/</guid><description><![CDATA[<p>Huayra<br>
 <a href="https://huayra.educar.gob.ar/" target="_blank" rel="noopener noreffer ">https://huayra.educar.gob.ar/</a><br>
 Huayra GNU/Linux es el primer sistema operativo libre desarrollado por el Estado Nacional que incluye una selección de software ideal para el trabajo en clase y mucho más. Con un escritorio liviano y ágil, realiza un uso óptimo de recursos y es seguro, sin necesidad de antivirus.</p>
-<p>FAQs: <a href="https://huayra.educar.gob.ar/preguntas-frecuentes/" target="_blank" rel="noopener noreffer ">https://huayra.educar.gob.ar/preguntas-frecuentes/</a></p>]]></description></item><item><title>Living Open Source Foundation</title><link>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</link><pubDate>Mon, 02 Nov 2020 10:12:30 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</guid><description><![CDATA[<p>Living Open Source Foundation<br>
+<p>FAQs: <a href="https://huayra.educar.gob.ar/preguntas-frecuentes/" target="_blank" rel="noopener noreffer ">https://huayra.educar.gob.ar/preguntas-frecuentes/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b33b8942347c37abde8642c3da2d27727e2225ea" target="_blank" rel="noopener noreffer "><code>b33b894</code></a> in My-Notes.</em></p>]]></description></item><item><title>Living Open Source Foundation</title><link>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</link><pubDate>Mon, 02 Nov 2020 10:12:30 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</guid><description><![CDATA[<p>Living Open Source Foundation<br>
 <a href="https://www.livingopensource.net/" target="_blank" rel="noopener noreffer ">https://www.livingopensource.net/</a></p>
 <p>WHAT WE DO<br>
 Our mission is to foster the growth and use of the Open Source Software in Zambia and Africa!</p>
@@ -29,7 +33,9 @@ yum clean all</p>
 <p>FROM registry.access.redhat.com/rhel7-atomic<br>
 RUN microdnf --enablerepo=rhel-7-server-rpms \\
 install java-1.8.0-openjdk-headless --nodocs ;\\
-microdnf clean all</p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
+microdnf clean all</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
 <a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a><br>
 calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
@@ -39,7 +45,9 @@ It is cross platform, running on Linux, Windows and macOS.</p>
 <a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
 Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
 <a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
-<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
+<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
 is a free and open source software for healthcare data management.</p>
 <p>The organization web page:<br>
 <a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
@@ -52,7 +60,9 @@ This repository is used to build its portable releases.</p>
 <a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
 <a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
 <a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
-<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>]]></description></item><item><title>Hyperledger</title><link>https://blog.emecas.net/posts/2017-07-06-hyperledger/</link><pubDate>Thu, 06 Jul 2017 10:42:29 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-06-hyperledger/</guid><description><![CDATA[<p>Hyperledger<br>
+<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f262870586c0479dda30a4f580eb343a4cde0c74" target="_blank" rel="noopener noreffer "><code>f262870</code></a> in My-Notes.</em></p>]]></description></item><item><title>Hyperledger</title><link>https://blog.emecas.net/posts/2017-07-06-hyperledger/</link><pubDate>Thu, 06 Jul 2017 10:42:29 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-06-hyperledger/</guid><description><![CDATA[<p>Hyperledger<br>
 <a href="https://www.hyperledger.org/" target="_blank" rel="noopener noreffer ">https://www.hyperledger.org/</a><br>
 Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, IoT, supply chain, manufacturing and technology.</p>
 <p>Projects: Business Blockchain Frameworks Hosted with Hyperledger</p>

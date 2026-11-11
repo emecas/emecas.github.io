@@ -8,7 +8,9 @@ Jersey and CXF with a well-defined SPI for other implementations.<br>
 <a href="https://github.com/eclipse-ee4j/krazo/wiki" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/krazo/wiki</a><br>
 Related links:<br>
 <a href="https://www.mvc-spec.org/" target="_blank" rel="noopener noreffer ">https://www.mvc-spec.org/</a><br>
-<a href="https://jcp.org/en/jsr/detail?id=371" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=371</a></p>]]></description></item><item><title>More about marshalling to XML/JSON</title><link>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</link><pubDate>Thu, 21 Nov 2013 13:59:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</guid><description><![CDATA[<p>Related S.O.answers:<br>
+<a href="https://jcp.org/en/jsr/detail?id=371" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=371</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1806f0f39973df9ff1a23517860dbbcf1ec819d1" target="_blank" rel="noopener noreffer "><code>1806f0f</code></a> in My-Notes.</em></p>]]></description></item><item><title>More about marshalling to XML/JSON</title><link>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</link><pubDate>Thu, 21 Nov 2013 13:59:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</guid><description><![CDATA[<p>Related S.O.answers:<br>
 Is it possible using Jersey/JAX-RS annotations to skip a class member when marshalling to XML/JSON?<br>
 <a href="http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh</a></p>
 <p>Jersey on Jetty on Android throws ContainerException: The ResourceConfig instance does not contain any root resource classes<br>
@@ -18,6 +20,10 @@ Is it possible using Jersey/JAX-RS annotations to skip a class member when marsh
 <p>Ref related: Java XML and JSON Binding<br>
 <a href="http://blog.bdoughan.com/" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/</a><br>
 Blog entry:<br>
-<a href="http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html</a></p>]]></description></item><item><title>Jersey and Cayenne</title><link>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</link><pubDate>Wed, 06 Nov 2013 21:53:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</guid><description><![CDATA[<p>Old Thread about Jersey and Cayenne<br>
+<a href="http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d42ff3f66cdb72c60ec460dd18fed6f016949c7b" target="_blank" rel="noopener noreffer "><code>d42ff3f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Jersey and Cayenne</title><link>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</link><pubDate>Wed, 06 Nov 2013 21:53:38 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</guid><description><![CDATA[<p>Old Thread about Jersey and Cayenne<br>
 Help with Jersey Rest Services and Cayenne<br>
-<a href="http://comments.gmane.org/gmane.comp.java.cayenne.user/13326" target="_blank" rel="noopener noreffer ">http://comments.gmane.org/gmane.comp.java.cayenne.user/13326</a></p>]]></description></item></channel></rss>
+<a href="http://comments.gmane.org/gmane.comp.java.cayenne.user/13326" target="_blank" rel="noopener noreffer ">http://comments.gmane.org/gmane.comp.java.cayenne.user/13326</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/52b31367f5bc6daf01c94420450ff69c3d06eb84" target="_blank" rel="noopener noreffer "><code>52b3136</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

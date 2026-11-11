@@ -21,7 +21,9 @@ Summary</p>
 <p>MAJOR version when you make incompatible API changes,<br>
 MINOR version when you add functionality in a backwards compatible manner, and<br>
 PATCH version when you make backwards compatible bug fixes.</p>
-<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
 <a href="https://raml.org/" target="_blank" rel="noopener noreffer ">https://raml.org/</a><br>
 The simplest way to design APIs<br>
 RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It&rsquo;s concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.</p>
@@ -32,4 +34,6 @@ the enterprise ready specification framework</p>
 <a href="https://github.com/spockframework/spock-example" target="_blank" rel="noopener noreffer ">https://github.com/spockframework/spock-example</a></p>
 <p>Ref1:<br>
 Using Spock to test Groovy AND Java applications<br>
-<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>]]></description></item></channel></rss>
+<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/61b013a90a70d1b6042a359d1638b118dc6b604d" target="_blank" rel="noopener noreffer "><code>61b013a</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

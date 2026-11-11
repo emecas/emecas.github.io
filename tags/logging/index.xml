@@ -6,9 +6,13 @@
 - Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)<br>
 <a href="https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/" target="_blank" rel="noopener noreffer ">https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/</a><br>
 - Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
-<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>]]></description></item><item><title>Autonomous Transactions</title><link>https://blog.emecas.net/posts/2020-01-07-autonomous-transactions/</link><pubDate>Tue, 07 Jan 2020 12:07:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-07-autonomous-transactions/</guid><description><![CDATA[<p>Autonomous Transactions<br>
+<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Autonomous Transactions</title><link>https://blog.emecas.net/posts/2020-01-07-autonomous-transactions/</link><pubDate>Tue, 07 Jan 2020 12:07:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-07-autonomous-transactions/</guid><description><![CDATA[<p>Autonomous Transactions<br>
 <a href="https://oracle-base.com/articles/misc/autonomous-transactions" target="_blank" rel="noopener noreffer ">https://oracle-base.com/articles/misc/autonomous-transactions</a><br>
 Autonomous transactions allow you to leave the context of the calling transaction,<br>
 perform an independant transaction, and return to the calling transaction without affecting it&rsquo;s state.<br>
 The autonomous transaction has no link to the calling transaction,<br>
-so only commited data can be shared by both transactions.</p>]]></description></item></channel></rss>
+so only commited data can be shared by both transactions.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cda164afd2950bc2feaa380c00f85c33a24c6946" target="_blank" rel="noopener noreffer "><code>cda164a</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -4,4 +4,6 @@ Solution:<br>
 If you&rsquo;ve found following error while using mysql database<br>
 The user specified as a definer (&lsquo;root&rsquo;@&rsquo;%&rsquo;) does not exist<br>
 Then you can solve it by using following :<br>
-grant all on *.* to &lsquo;root&rsquo;@&rsquo;%&rsquo; identified by &lsquo;password&rsquo; with grant option</p>]]></description></item></channel></rss>
+grant all on *.* to &lsquo;root&rsquo;@&rsquo;%&rsquo; identified by &lsquo;password&rsquo; with grant option</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/54cc59f5c80a05c4661fb6ca5a120bc82e4b3997" target="_blank" rel="noopener noreffer "><code>54cc59f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

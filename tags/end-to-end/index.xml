@@ -9,4 +9,6 @@ Test for mobile. Use device emulation to test your responsive web apps in mobile
 Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>Protractor</title><link>https://blog.emecas.net/posts/2017-06-26-protractor/</link><pubDate>Mon, 26 Jun 2017 09:57:17 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-26-protractor/</guid><description><![CDATA[<p>Protractor<br>
 <a href="http://www.protractortest.org/" target="_blank" rel="noopener noreffer ">http://www.protractortest.org/</a><br>
 Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.</p>
-<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>]]></description></item></channel></rss>
+<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a305ec8d19b3396be643e8390337dbd5c127f59d" target="_blank" rel="noopener noreffer "><code>a305ec8</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

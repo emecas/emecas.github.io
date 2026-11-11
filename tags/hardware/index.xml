@@ -2,8 +2,12 @@
 Is the brainchild of hardware hacker and security researcher Samy Kamkar<br>
 A $10 USB charger with built-in wireless keylogger means more security headaches<br>
 <a href="http://www.codejava.net/frameworks/spring/spring-mvc-beginner-tutorial-with-spring-tool-suite-ide" target="_blank" rel="noopener noreffer ">http://www.codejava.net/frameworks/spring/spring-mvc-beginner-tutorial-with-spring-tool-suite-ide</a><br>
-Author Blog Post: <a href="http://samy.pl/keysweeper/" target="_blank" rel="noopener noreffer ">http://samy.pl/keysweeper/</a></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
+Author Blog Post: <a href="http://samy.pl/keysweeper/" target="_blank" rel="noopener noreffer ">http://samy.pl/keysweeper/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/aac4027b5e561b1b4581986052188186ebb37b00" target="_blank" rel="noopener noreffer "><code>aac4027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
 An app that extracts info from your android device and let you export it</p>
 <p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
 * WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>]]></description></item></channel></rss>
+<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b252078d3b5b847ab11c8d5facdd38140b1d3563" target="_blank" rel="noopener noreffer "><code>b252078</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

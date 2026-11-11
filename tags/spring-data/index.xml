@@ -5,4 +5,6 @@ I recently had a number of extremely interesting conversations with a company th
 <a href="http://iordanis.com/post/22677357894/import-large-graphs-to-neo4j-with-spring-data-fast" target="_blank" rel="noopener noreffer ">http://iordanis.com/post/22677357894/import-large-graphs-to-neo4j-with-spring-data-fast</a></p>]]></description></item><item><title>Spring Data Neo4J</title><link>https://blog.emecas.net/posts/2014-03-31-spring-data-neo4j/</link><pubDate>Mon, 31 Mar 2014 10:55:05 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-31-spring-data-neo4j/</guid><description><![CDATA[<p>PROJECTS<br>
 Spring Data Neo4J<br>
 Enables POJO based development for the Neo4j Graph Database and with Spring&rsquo;s familiar template programming model.<br>
-<a href="http://projects.spring.io/spring-data-neo4j/" target="_blank" rel="noopener noreffer ">http://projects.spring.io/spring-data-neo4j/</a></p>]]></description></item></channel></rss>
+<a href="http://projects.spring.io/spring-data-neo4j/" target="_blank" rel="noopener noreffer ">http://projects.spring.io/spring-data-neo4j/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b377438fd936905ecfd519bca149e8447ab735" target="_blank" rel="noopener noreffer "><code>d0b3774</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

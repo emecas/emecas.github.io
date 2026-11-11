@@ -14,7 +14,9 @@ This strong industrial competence is essential to develop AI solutions for indus
 - Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)<br>
 <a href="https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/" target="_blank" rel="noopener noreffer ">https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/</a><br>
 - Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
-<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
+<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
 <a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
 NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
 <p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
@@ -31,17 +33,23 @@ and serve metrics collected from computer systems (network gear, operating<br>
 systems, applications) at a large scale, and make this data easily accessible<br>
 and graphable.<br>
 Repo: <a href="https://github.com/OpenTSDB/opentsdb" target="_blank" rel="noopener noreffer ">https://github.com/OpenTSDB/opentsdb</a><br>
-REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
+REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/66bc4726da282157d612f2f3d00a115ead2af347" target="_blank" rel="noopener noreffer "><code>66bc472</code></a> in My-Notes.</em></p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
 <a href="https://distributedobjectprotocol.org/" target="_blank" rel="noopener noreffer ">https://distributedobjectprotocol.org/</a><br>
 by Josema Gonzalez <a href="https://github.com/Josema" target="_blank" rel="noopener noreffer ">https://github.com/Josema</a><br>
 Distributed Object Protocol is for<br>
 Data sync, Pub/Sub, Remote procedure calls, Reactive programming,<br>
 Optimistic updates, Time-travel debugging, State management,<br>
-Unidirectional data flow, Real time apps.</p>]]></description></item><item><title>PRINCIPLES OF CHAOS ENGINEERING</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>PRINCIPLES OF CHAOS ENGINEERING<br>
+Unidirectional data flow, Real time apps.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5f3d7d162fed917a34108c52d0595bb1296a413e" target="_blank" rel="noopener noreffer "><code>5f3d7d1</code></a> in My-Notes.</em></p>]]></description></item><item><title>PRINCIPLES OF CHAOS ENGINEERING</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>PRINCIPLES OF CHAOS ENGINEERING<br>
 principlesofchaos.org<br>
 Chaos Engineering is the discipline of experimenting on a distributed system<br>
 in order to build confidence in the system’s capability<br>
-to withstand turbulent conditions in production</p>]]></description></item><item><title>Hadoop</title><link>https://blog.emecas.net/posts/2013-04-24-hadoop/</link><pubDate>Wed, 24 Apr 2013 22:48:40 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-04-24-hadoop/</guid><description><![CDATA[<p>The Apache Hadoop<br>
+to withstand turbulent conditions in production</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9c7716efdd174f5ec05f83d6aef027a7985b14a1" target="_blank" rel="noopener noreffer "><code>9c7716e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Hadoop</title><link>https://blog.emecas.net/posts/2013-04-24-hadoop/</link><pubDate>Wed, 24 Apr 2013 22:48:40 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-04-24-hadoop/</guid><description><![CDATA[<p>The Apache Hadoop<br>
 <a href="http://hadoop.apache.org/" target="_blank" rel="noopener noreffer ">http://hadoop.apache.org/</a><br>
 The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.</p>
 <p>The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-avaiability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-availabile service on top of a cluster of computers, each of which may be prone to failures.</p>]]></description></item></channel></rss>

@@ -5,7 +5,9 @@ Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" re
 The InboxSDK lets you build apps for Gmail.</p>
 <p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
 <p>Getting Started<br>
-<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>]]></description></item><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
 <a href="https://github.com/DiUS/java-faker" target="_blank" rel="noopener noreffer ">https://github.com/DiUS/java-faker</a><br>
 Brings the popular ruby faker gem to Java<br>
 JavaFaker is a library that can be used to generate a wide array of real-looking data from addresses to popular culture references.</p>
@@ -40,15 +42,21 @@ Work-Life Integration<br>
 Productivity<br>
 Business &amp; Finance<br>
 Diverse Workspace</p>
-<p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>]]></description></item><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
+<p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d81463f08101f441a84e83e11b372f264a0db75" target="_blank" rel="noopener noreffer "><code>0d81463</code></a> in My-Notes.</em></p>]]></description></item><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
 <a href="https://www.crnk.io/" target="_blank" rel="noopener noreffer ">https://www.crnk.io/</a><br>
 Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods.<br>
 Model your application as resources and relationshipsand implement the repositories to access them.<br>
 This simplifies development and opens up many, powerful new possibilities</p>
-<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>]]></description></item><item><title>lxml</title><link>https://blog.emecas.net/posts/2019-08-08-lxml/</link><pubDate>Thu, 08 Aug 2019 16:06:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-08-lxml/</guid><description><![CDATA[<p>lxml<br>
+<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/50822b8ad10126e24aaacca08bf1fe8c648747df" target="_blank" rel="noopener noreffer "><code>50822b8</code></a> in My-Notes.</em></p>]]></description></item><item><title>lxml</title><link>https://blog.emecas.net/posts/2019-08-08-lxml/</link><pubDate>Thu, 08 Aug 2019 16:06:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-08-lxml/</guid><description><![CDATA[<p>lxml<br>
 <a href="https://lxml.de/" target="_blank" rel="noopener noreffer ">https://lxml.de/</a><br>
 XML and HTML with Python<br>
-lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>]]></description></item><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
+lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d019561850ad41bc8b10cccdffdb35d262130042" target="_blank" rel="noopener noreffer "><code>d019561</code></a> in My-Notes.</em></p>]]></description></item><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
 <a href="https://dask.org/" target="_blank" rel="noopener noreffer ">https://dask.org/</a></p>
 <p>Dask is a flexible library for parallel computing in Python.</p>
 <p><a href="https://docs.dask.org/en/latest/" target="_blank" rel="noopener noreffer ">https://docs.dask.org/en/latest/</a><br>
@@ -57,7 +65,9 @@ Dask is composed of two parts:</p>
 “Big Data” collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.</p>]]></description></item><item><title>ROME</title><link>https://blog.emecas.net/posts/2019-05-13-rome/</link><pubDate>Mon, 13 May 2019 19:03:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-13-rome/</guid><description><![CDATA[<p>ROME<br>
 <a href="https://rometools.github.io/rome/" target="_blank" rel="noopener noreffer ">https://rometools.github.io/rome/</a><br>
 ROME is a Java framework for RSS and Atom feeds. It&rsquo;s open source and licensed under the Apache 2.0 license.<br>
-<a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">https://github.com/rometools/rome</a></p>]]></description></item><item><title>Testcontainers</title><link>https://blog.emecas.net/posts/2019-03-26-testcontainers/</link><pubDate>Tue, 26 Mar 2019 20:43:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-26-testcontainers/</guid><description><![CDATA[<p>Testcontainers<br>
+<a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">https://github.com/rometools/rome</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb141a0f2bd573b899755de2cfd14025d0339312" target="_blank" rel="noopener noreffer "><code>cb141a0</code></a> in My-Notes.</em></p>]]></description></item><item><title>Testcontainers</title><link>https://blog.emecas.net/posts/2019-03-26-testcontainers/</link><pubDate>Tue, 26 Mar 2019 20:43:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-26-testcontainers/</guid><description><![CDATA[<p>Testcontainers<br>
 Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.<br>
 <a href="https://www.testcontainers.org/" target="_blank" rel="noopener noreffer ">https://www.testcontainers.org/</a><br>
 Testcontainers make the following kinds of tests easier:</p>
@@ -73,7 +83,9 @@ It is available as plugins for Maven and Gradle and as a Java library.</p>
 Gradle: See documentation for jib-gradle-plugin.<br>
 <a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin</a><br>
 Jib Core: A general-purpose container-building library for Java.<br>
-<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>]]></description></item><item><title>ArchUnit - checking the architecture of your Java code</title><link>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</link><pubDate>Tue, 19 Feb 2019 13:37:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</guid><description><![CDATA[<p>ArchUnit<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7c473f3561ba9eadbb16b4a8e81c0fa516780a4" target="_blank" rel="noopener noreffer "><code>c7c473f</code></a> in My-Notes.</em></p>]]></description></item><item><title>ArchUnit - checking the architecture of your Java code</title><link>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</link><pubDate>Tue, 19 Feb 2019 13:37:59 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</guid><description><![CDATA[<p>ArchUnit<br>
 <a href="https://www.archunit.org/" target="_blank" rel="noopener noreffer ">https://www.archunit.org/</a><br>
 ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more. It does so by analyzing given Java bytecode, importing all classes into a Java code structure. You can find examples for the current release at ArchUnit Examples and the sources on GitHub.<br>
 <a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">https://github.com/TNG/ArchUnit</a></p>]]></description></item></channel></rss>

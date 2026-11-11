@@ -5,4 +5,6 @@ Zoltan Altfatter</p>
 <p>In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized<br>
 configuration management in a microservice environment. I have prepared a simple example project<br>
 which you can find on my github account. It contains a config-service leveraging Spring Cloud<br>
-Config Server and three little services using Spring Cloud Config Client.</p>]]></description></item></channel></rss>
+Config Server and three little services using Spring Cloud Config Client.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b5a44d6b83ee5ba7249995bfdc95fc1e28f2948d" target="_blank" rel="noopener noreffer "><code>b5a44d6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

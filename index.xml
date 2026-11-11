@@ -82,7 +82,9 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Krita</title><link>https://blog.emecas.net/posts/2024-09-26-krita/</link><pubDate>Thu, 26 Sep 2024 20:06:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-26-krita/</guid><description><![CDATA[<p>Krita<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Krita</title><link>https://blog.emecas.net/posts/2024-09-26-krita/</link><pubDate>Thu, 26 Sep 2024 20:06:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-26-krita/</guid><description><![CDATA[<p>Krita<br>
 <a href="https://krita.org/" target="_blank" rel="noopener noreffer ">https://krita.org/</a><br>
 Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
 <p>Features:</p>

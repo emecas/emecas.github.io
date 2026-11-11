@@ -4,7 +4,9 @@ Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
 <p>POM:</p>
 <p>&lt;plugin&gt;<br>
 &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>
@@ -51,7 +53,9 @@ A light JAX-RS+CDI+JSON server!</p>
 <p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
 <p>Meecrowave JPA</p>
 <p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>Maven in 5 Minutes</title><link>https://blog.emecas.net/posts/2020-05-15-maven-in-5-minutes/</link><pubDate>Fri, 15 May 2020 16:09:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-15-maven-in-5-minutes/</guid><description><![CDATA[<p>Maven in 5 Minutes<br>
-<a href="https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html" target="_blank" rel="noopener noreffer ">https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html</a></p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html" target="_blank" rel="noopener noreffer ">https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55f6640a839a9d57604052f4e0490a9fd60b718d" target="_blank" rel="noopener noreffer "><code>55f6640</code></a> in My-Notes.</em></p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
 <a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
 Evolution of Enterprise Java -  Optimised for microservice architectures<br>
 Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
@@ -89,7 +93,9 @@ WildFly is a flexible, lightweight, managed application runtime that helps you b
 &lt;/add-user&gt;<br>
 &lt;/configuration&gt;<br>
 &lt;/plugin&gt;<br>
-&lt;/plugins&gt;</p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
+&lt;/plugins&gt;</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
 is a free and open source software for healthcare data management.</p>
 <p>The organization web page:<br>
 <a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
@@ -102,7 +108,9 @@ This repository is used to build its portable releases.</p>
 <a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
 <a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
 <a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
-<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
+<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f262870586c0479dda30a4f580eb343a4cde0c74" target="_blank" rel="noopener noreffer "><code>f262870</code></a> in My-Notes.</em></p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
 <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
 <p>Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -<br>
 and without deep mastery of Docker best-practices.<br>
@@ -112,7 +120,9 @@ It is available as plugins for Maven and Gradle and as a Java library.</p>
 Gradle: See documentation for jib-gradle-plugin.<br>
 <a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin</a><br>
 Jib Core: A general-purpose container-building library for Java.<br>
-<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>]]></description></item><item><title>Project Lombok - Never write another getter or equals method again</title><link>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</link><pubDate>Tue, 02 Jan 2018 13:10:43 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</guid><description><![CDATA[<p>Project Lombok<br>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7c473f3561ba9eadbb16b4a8e81c0fa516780a4" target="_blank" rel="noopener noreffer "><code>c7c473f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Project Lombok - Never write another getter or equals method again</title><link>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</link><pubDate>Tue, 02 Jan 2018 13:10:43 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</guid><description><![CDATA[<p>Project Lombok<br>
 <a href="https://projectlombok.org/" target="_blank" rel="noopener noreffer ">https://projectlombok.org/</a><br>
 Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.<br>
 Never write another getter or equals method again. Early access to future java features such as val, and much more.<br>

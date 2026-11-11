@@ -43,7 +43,9 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
 <a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">https://python-poetry.org/</a><br>
 Python packaging and dependency management made easy<br>
 REPO: <a href="https://github.com/python-poetry/poetry" target="_blank" rel="noopener noreffer ">https://github.com/python-poetry/poetry</a></p>
@@ -61,16 +63,22 @@ Civic Infrastructure</p>
 <p>Make Tech. Do Good.</p>
 <p>We connect tech-for-good projects with skilled volunteers and socially responsible companies.</p>
 <p>GitHub main repo: <a href="https://github.com/DemocracyLab/CivicTechExchange" target="_blank" rel="noopener noreffer ">https://github.com/DemocracyLab/CivicTechExchange</a></p>
-<p>Blog: <a href="https://blog.democracylab.org/" target="_blank" rel="noopener noreffer ">https://blog.democracylab.org/</a></p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+<p>Blog: <a href="https://blog.democracylab.org/" target="_blank" rel="noopener noreffer ">https://blog.democracylab.org/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3d00911d4754c92fdbe5149074dd4ae4753c359b" target="_blank" rel="noopener noreffer "><code>3d00911</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
 Generate easy-to-read web pages for your Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
 repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
 demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
-<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
 CLI tool for working with Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
 repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
-<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
 <a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
 <p>Joel Parker Henderson<br>
 <a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>

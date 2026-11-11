@@ -4,7 +4,9 @@ Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
 Lightweight. Fast. Crafted for Microservices.<br>
 <a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
 Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
@@ -13,4 +15,6 @@ Helidon is designed to be simple to use, with tooling and examples to get you go
 border_clear</p>]]></description></item><item><title>The Netty project</title><link>https://blog.emecas.net/posts/2015-07-09-the-netty-project/</link><pubDate>Thu, 09 Jul 2015 18:24:23 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-09-the-netty-project/</guid><description><![CDATA[<p>The Netty project<br>
 <a href="http://netty.io/" target="_blank" rel="noopener noreffer ">http://netty.io/</a><br>
 Netty is an asynchronous event-driven network application framework<br>
-for rapid development of maintainable high performance protocol servers &amp; clients.</p>]]></description></item></channel></rss>
+for rapid development of maintainable high performance protocol servers &amp; clients.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c3960b01c224180e93716b14a0e75f201a1731ee" target="_blank" rel="noopener noreffer "><code>c3960b0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

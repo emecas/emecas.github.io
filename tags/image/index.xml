@@ -10,13 +10,17 @@ yum clean all</p>
 <p>FROM registry.access.redhat.com/rhel7-atomic<br>
 RUN microdnf --enablerepo=rhel-7-server-rpms \\
 install java-1.8.0-openjdk-headless --nodocs ;\\
-microdnf clean all</p>]]></description></item><item><title>Netflixoss Eureka</title><link>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</link><pubDate>Wed, 08 Mar 2017 16:27:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</guid><description><![CDATA[<p>Eureka</p>
+microdnf clean all</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>Netflixoss Eureka</title><link>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</link><pubDate>Wed, 08 Mar 2017 16:27:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</guid><description><![CDATA[<p>Eureka</p>
 <p>Docker image:<br>
 <a href="https://store.docker.com/community/images/netflixoss/eureka" target="_blank" rel="noopener noreffer ">https://store.docker.com/community/images/netflixoss/eureka</a></p>
 <p>docker pull netflixoss/eureka:1.3.1</p>
 <p>github: <a href="https://github.com/netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/netflix/eureka</a></p>
 <p>Running images:<br>
-<a href="https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images" target="_blank" rel="noopener noreffer ">https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images</a></p>]]></description></item><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
+<a href="https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images" target="_blank" rel="noopener noreffer ">https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ea2fa4a19829c830645b68496fb3c0d4935eb739" target="_blank" rel="noopener noreffer "><code>ea2fa4a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
 <p>- ExifTool by Phil Harvey<br>
 Read, Write and Edit Meta Information!<br>
 <a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank" rel="noopener noreffer ">http://owl.phy.queensu.ca/~phil/exiftool/</a><br>
@@ -24,4 +28,6 @@ wiki: <a href="https://en.wikipedia.org/wiki/ExifTool" target="_blank" rel="noop
 <p>-Metadata Extraction Tool<br>
 Introduction<br>
 The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.<br>
-<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>]]></description></item></channel></rss>
+<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ef3c9a1f5fc3d4108810a0c6a1f520f68ee6e346" target="_blank" rel="noopener noreffer "><code>ef3c9a1</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

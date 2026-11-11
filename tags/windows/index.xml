@@ -4,7 +4,9 @@
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
 <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
 <p>NAME:<br>
 jvms - JDK Version Manager (JVMS) for Windows</p>
@@ -36,7 +38,9 @@ It can also be used to forward full desktops, from X11 servers, MS Windows, or M
 <a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
 Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
 <a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
-<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
+<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
 is a free and open source software for healthcare data management.</p>
 <p>The organization web page:<br>
 <a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
@@ -49,13 +53,19 @@ This repository is used to build its portable releases.</p>
 <a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
 <a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
 <a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
-<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
+<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f262870586c0479dda30a4f580eb343a4cde0c74" target="_blank" rel="noopener noreffer "><code>f262870</code></a> in My-Notes.</em></p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
 <a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
 A command-line installer for Windows<br>
 <a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
-<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>]]></description></item><item><title>Handle</title><link>https://blog.emecas.net/posts/2019-05-15-handle/</link><pubDate>Wed, 15 May 2019 14:51:54 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-15-handle/</guid><description><![CDATA[<p>Handle<br>
+<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/081c5bc6aa12df1babfae664a9b319d7ca61c9db" target="_blank" rel="noopener noreffer "><code>081c5bc</code></a> in My-Notes.</em></p>]]></description></item><item><title>Handle</title><link>https://blog.emecas.net/posts/2019-05-15-handle/</link><pubDate>Wed, 15 May 2019 14:51:54 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-15-handle/</guid><description><![CDATA[<p>Handle<br>
 <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/handle" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/sysinternals/downloads/handle</a><br>
-Ever wondered which program has a particular file or directory open? Now you can find out. Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.</p>]]></description></item><item><title>OptiKey : Full computer control and speech with your eyes</title><link>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</link><pubDate>Fri, 23 Jun 2017 08:58:32 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</guid><description><![CDATA[<p>OptiKey<br>
+Ever wondered which program has a particular file or directory open? Now you can find out. Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/af26d65855b91950a8013cd86c5cc872e80eee9d" target="_blank" rel="noopener noreffer "><code>af26d65</code></a> in My-Notes.</em></p>]]></description></item><item><title>OptiKey : Full computer control and speech with your eyes</title><link>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</link><pubDate>Fri, 23 Jun 2017 08:58:32 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</guid><description><![CDATA[<p>OptiKey<br>
 <a href="https://github.com/OptiKey/OptiKey/wiki" target="_blank" rel="noopener noreffer ">https://github.com/OptiKey/OptiKey/wiki</a><br>
 Full computer control and speech with your eyes <a href="http://www.optikey.org" target="_blank" rel="noopener noreffer ">http://www.optikey.org</a></p>
 <p>OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).</p>

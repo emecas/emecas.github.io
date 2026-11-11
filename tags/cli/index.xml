@@ -37,7 +37,9 @@ Having an insight of your project&rsquo;s dependencies is just one command away.
 CLI tool for working with Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
 repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
-<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
 <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
 <p>NAME:<br>
 jvms - JDK Version Manager (JVMS) for Windows</p>
@@ -89,9 +91,13 @@ WildFly is a flexible, lightweight, managed application runtime that helps you b
 &lt;/add-user&gt;<br>
 &lt;/configuration&gt;<br>
 &lt;/plugin&gt;<br>
-&lt;/plugins&gt;</p>]]></description></item><item><title>Apache Weex</title><link>https://blog.emecas.net/posts/2020-03-15-apache-weex/</link><pubDate>Sun, 15 Mar 2020 01:29:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-15-apache-weex/</guid><description><![CDATA[<p>Apache Weex<br>
+&lt;/plugins&gt;</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>Apache Weex</title><link>https://blog.emecas.net/posts/2020-03-15-apache-weex/</link><pubDate>Sun, 15 Mar 2020 01:29:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-15-apache-weex/</guid><description><![CDATA[<p>Apache Weex<br>
 Weex is a framework for building performant mobile apps with modern web technology.<br>
-<a href="https://weex.apache.org/" target="_blank" rel="noopener noreffer ">https://weex.apache.org/</a></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<a href="https://weex.apache.org/" target="_blank" rel="noopener noreffer ">https://weex.apache.org/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/86bb018ca7a220f3b2911add20ba4ba18e7216a9" target="_blank" rel="noopener noreffer "><code>86bb018</code></a> in My-Notes.</em></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
 <a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
 Python wrapper for the GitLab API</p>
 <p>python-gitlab is a Python package providing access to the GitLab server API.<br>
@@ -104,4 +110,6 @@ It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
 <p>or run it directly from the upstream image:</p>
 <p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
 <a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
-Tasks, boards &amp; notes for the command-line habitat</p>]]></description></item></channel></rss>
+Tasks, boards &amp; notes for the command-line habitat</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

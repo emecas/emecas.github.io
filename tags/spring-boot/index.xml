@@ -1,7 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spring-Boot - Tag - My Notes</title><link>https://blog.emecas.net/tags/spring-boot/</link><description>Spring-Boot - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 07 Feb 2020 06:49:05 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spring-boot/" rel="self" type="application/rss+xml"/><item><title>Disable Auto-commit Mode</title><link>https://blog.emecas.net/posts/2020-02-07-disable-auto-commit-mode/</link><pubDate>Fri, 07 Feb 2020 06:49:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-07-disable-auto-commit-mode/</guid><description><![CDATA[<p>How to Disable Auto-commit Mode in Spring Boot<br>
 -Doracle.jdbc.autoCommitSpecCompliant=false<br>
 <a href="https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d</a><br>
-<a href="https://github.com/rsim/ruby-plsql/issues/121" target="_blank" rel="noopener noreffer ">https://github.com/rsim/ruby-plsql/issues/121</a></p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
+<a href="https://github.com/rsim/ruby-plsql/issues/121" target="_blank" rel="noopener noreffer ">https://github.com/rsim/ruby-plsql/issues/121</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/566caa4ee4005976af72d92f7ff3429c6f024f5a" target="_blank" rel="noopener noreffer "><code>566caa4</code></a> in My-Notes.</em></p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
 <p>- The Value of Correlation IDs<br>
 <a href="https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/" target="_blank" rel="noopener noreffer ">https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/</a><br>
 - Correlation IDs for microservices architectures<br>
@@ -9,11 +11,15 @@
 - Implementing correlation ids in Spring Boot (for distributed tracing in SOA/microservices)<br>
 <a href="https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/" target="_blank" rel="noopener noreffer ">https://taidevcouk.wordpress.com/2014/05/26/implementing-correlation-ids-in-spring-boot/</a><br>
 - Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
-<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>]]></description></item><item><title>HTTPS in a Spring Boot</title><link>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</link><pubDate>Thu, 23 Jan 2020 19:21:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</guid><description><![CDATA[<p>How to enable HTTPS in a Spring Boot Java application<br>
+<a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>HTTPS in a Spring Boot</title><link>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</link><pubDate>Thu, 23 Jan 2020 19:21:13 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</guid><description><![CDATA[<p>How to enable HTTPS in a Spring Boot Java application<br>
 <a href="https://www.thomasvitale.com/https-spring-boot-ssl-certificate/" target="_blank" rel="noopener noreffer ">https://www.thomasvitale.com/https-spring-boot-ssl-certificate/</a><br>
 Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate and configuring SSL in Spring Boot.<br>
 Whether you&rsquo;re going to generate a self-signed certificate or you have already got one by a CA,<br>
-I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
+I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb732917ebe04fe2ff33cafaf4fa27b411231a2b" target="_blank" rel="noopener noreffer "><code>cb73291</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
 <a href="http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database" target="_blank" rel="noopener noreffer ">http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database</a><br>
 This guide will help you understand the concept of in memory database. We will look at simple JPA example to understand the best practices in using in memory databases.<br>
 You will learn</p>
@@ -25,4 +31,6 @@ How to connect a Spring Boot project to H2?</p>]]></description></item><item><ti
 Authors<br>
 Phillip Webb, Dave Syer, Josh Long, Stéphane Nicoll, Rob Winch, Andy Wilkinson, Marcel Overdijk, Christian Dupuis, Sébastien Deleuze<br>
 1.4.2.RELEASE<br>
-Copyright © 2013-2016</p>]]></description></item></channel></rss>
+Copyright © 2013-2016</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e9c25d6d0cef12389c6d72bbd6b71e11b16beab6" target="_blank" rel="noopener noreffer "><code>e9c25d6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -2,8 +2,12 @@
 <a href="https://kodein.org/Kodein-DI/" target="_blank" rel="noopener noreffer ">https://kodein.org/Kodein-DI/</a><br>
 Kodein (for KOtlin DEpendency INjection) is a DI framework.<br>
 It allows you to bind your business unit interfaces with their implementation and thus having each business unit being independent.<br>
-<a href="https://github.com/Kodein-Framework/Kodein-DI" target="_blank" rel="noopener noreffer ">https://github.com/Kodein-Framework/Kodein-DI</a></p>]]></description></item><item><title>Koin</title><link>https://blog.emecas.net/posts/2019-04-27-koin/</link><pubDate>Sat, 27 Apr 2019 18:36:53 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-27-koin/</guid><description><![CDATA[<p>Koin<br>
+<a href="https://github.com/Kodein-Framework/Kodein-DI" target="_blank" rel="noopener noreffer ">https://github.com/Kodein-Framework/Kodein-DI</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/70c5c0f327dbe921d76916f7a77c75320de0b412" target="_blank" rel="noopener noreffer "><code>70c5c0f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Koin</title><link>https://blog.emecas.net/posts/2019-04-27-koin/</link><pubDate>Sat, 27 Apr 2019 18:36:53 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-04-27-koin/</guid><description><![CDATA[<p>Koin<br>
 <a href="https://insert-koin.io/" target="_blank" rel="noopener noreffer ">https://insert-koin.io/</a><br>
 A pragmatic lightweight dependency injection framework for Kotlin developers.<br>
 Written in pure Kotlin using functional resolution only: no proxy, no code generation, no reflection<br>
-<a href="https://github.com/InsertKoinIO/koin" target="_blank" rel="noopener noreffer ">https://github.com/InsertKoinIO/koin</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/InsertKoinIO/koin" target="_blank" rel="noopener noreffer ">https://github.com/InsertKoinIO/koin</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6c57aee03df4b919880e6eecc9a182b1abf943d" target="_blank" rel="noopener noreffer "><code>a6c57ae</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -14,7 +14,9 @@ yum clean all</p>
 <p>FROM registry.access.redhat.com/rhel7-atomic<br>
 RUN microdnf --enablerepo=rhel-7-server-rpms \\
 install java-1.8.0-openjdk-headless --nodocs ;\\
-microdnf clean all</p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+microdnf clean all</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
 <a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
 Evolution of Enterprise Java -  Optimised for microservice architectures<br>
 Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
@@ -24,6 +26,10 @@ Develop services using the feature richness and maturity of the enterprise Java 
 <a href="https://springframework.guru/" target="_blank" rel="noopener noreffer ">https://springframework.guru/</a></p>
 <p><a href="https://springframework.guru/about/" target="_blank" rel="noopener noreffer ">https://springframework.guru/about/</a></p>
 <p>Hi. I’m John.</p>
-<p>I’ve been in the IT industry for over 20 years. Today, I specialize mainly in Java, the most successful and widely known programming language in use today. I also specialize in the Spring Framework, which is the most popular open source application framework for building enterprise class applications on the Java platform.</p>]]></description></item><item><title>Community Projects JBOSS</title><link>https://blog.emecas.net/posts/2013-05-18-community-projects-jboss/</link><pubDate>Sat, 18 May 2013 17:22:28 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-18-community-projects-jboss/</guid><description><![CDATA[<p>Community Projects JBOSS<br>
+<p>I’ve been in the IT industry for over 20 years. Today, I specialize mainly in Java, the most successful and widely known programming language in use today. I also specialize in the Spring Framework, which is the most popular open source application framework for building enterprise class applications on the Java platform.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f168312f58ea9b89c4b9848c8f43c7ab5082423d" target="_blank" rel="noopener noreffer "><code>f168312</code></a> in My-Notes.</em></p>]]></description></item><item><title>Community Projects JBOSS</title><link>https://blog.emecas.net/posts/2013-05-18-community-projects-jboss/</link><pubDate>Sat, 18 May 2013 17:22:28 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-18-community-projects-jboss/</guid><description><![CDATA[<p>Community Projects JBOSS<br>
 JBoss redefined the application server back in 2002 when it broke apart the monolithic designs of the past with its modular architecture. Since then we&rsquo;ve continued to find new ways to challenge convention and redefine Enterprise Java through community-driven projects.<br>
-<a href="http://www.jboss.org/projects" target="_blank" rel="noopener noreffer ">http://www.jboss.org/projects</a></p>]]></description></item></channel></rss>
+<a href="http://www.jboss.org/projects" target="_blank" rel="noopener noreffer ">http://www.jboss.org/projects</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a2a085b545babf7467d178905c4366b21cf92a08" target="_blank" rel="noopener noreffer "><code>a2a085b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

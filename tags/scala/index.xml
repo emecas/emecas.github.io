@@ -4,11 +4,15 @@ Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
 <a href="https://decisionstats.com/2014/04/15/installing-scala-on-centos/" target="_blank" rel="noopener noreffer ">https://decisionstats.com/2014/04/15/installing-scala-on-centos/</a></p>
 <p>wget <a href="http://www.scala-lang.org/files/archive/scala-2.10.1.tgz" target="_blank" rel="noopener noreffer ">http://www.scala-lang.org/files/archive/scala-2.10.1.tgz</a><br>
 tar xvf scala-2.10.1.tgz<br>
 sudo mv scala-2.10.1 /usr/lib<br>
 sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala<br>
 export PATH=$PATH:/usr/lib/scala/bin<br>
-scala -version</p>]]></description></item></channel></rss>
+scala -version</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55625ca409b85bf74569555ad86770aa304b5f95" target="_blank" rel="noopener noreffer "><code>55625ca</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

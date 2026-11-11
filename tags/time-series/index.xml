@@ -6,4 +6,6 @@ and serve metrics collected from computer systems (network gear, operating<br>
 systems, applications) at a large scale, and make this data easily accessible<br>
 and graphable.<br>
 Repo: <a href="https://github.com/OpenTSDB/opentsdb" target="_blank" rel="noopener noreffer ">https://github.com/OpenTSDB/opentsdb</a><br>
-REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>]]></description></item></channel></rss>
+REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/66bc4726da282157d612f2f3d00a115ead2af347" target="_blank" rel="noopener noreffer "><code>66bc472</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

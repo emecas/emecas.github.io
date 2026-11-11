@@ -4,7 +4,9 @@ Apache Empire-db is a relational database abstraction layer and data persistence
 <a href="https://agrest.io/" target="_blank" rel="noopener noreffer ">https://agrest.io/</a><br>
 An open-source protocol and framework for REST data services<br>
 Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.<br>
-Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a></p>]]></description></item><item><title>JPA Performance Benchmark (JPAB)</title><link>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</link><pubDate>Wed, 08 Feb 2017 11:51:26 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</guid><description><![CDATA[<p>JPA Performance Benchmark (JPAB)<br>
+Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/788ef1f38045cc652b3182706eaae9dd69d9ff0b" target="_blank" rel="noopener noreffer "><code>788ef1f</code></a> in My-Notes.</em></p>]]></description></item><item><title>JPA Performance Benchmark (JPAB)</title><link>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</link><pubDate>Wed, 08 Feb 2017 11:51:26 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</guid><description><![CDATA[<p>JPA Performance Benchmark (JPAB)<br>
 <a href="http://www.jpab.org/" target="_blank" rel="noopener noreffer ">http://www.jpab.org/</a><br>
 About this Benchmark</p>
 <p>This is a comprehensive benchmark that compares the performance of different combinations of JPA providers and Database Management Systems (DBMS). It covers many JPA ORM providers (Hibernate, EclipseLink, OpenJPA and DataNucleus) and DBMS (MySQL, PostgreSQL, Derby, HSQLDB, H2, HSQLite) that are available in Java.</p>
@@ -24,6 +26,8 @@ About this Benchmark</p>
 <p>GORM is Grails&rsquo; object relational mapping (ORM) implementation.<br>
 <a href="https://grails.github.io/grails-doc/latest/guide/GORM.html" target="_blank" rel="noopener noreffer ">https://grails.github.io/grails-doc/latest/guide/GORM.html</a></p>
 <p>GORM Tutorial: Recipes for using GORM with Grails<br>
-<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>]]></description></item><item><title>Ujorm</title><link>https://blog.emecas.net/posts/2013-12-09-ujorm/</link><pubDate>Mon, 09 Dec 2013 23:38:09 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-09-ujorm/</guid><description><![CDATA[<p>Ujorm<br>
+<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item><item><title>Ujorm</title><link>https://blog.emecas.net/posts/2013-12-09-ujorm/</link><pubDate>Mon, 09 Dec 2013 23:38:09 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-09-ujorm/</guid><description><![CDATA[<p>Ujorm<br>
 <a href="http://ujorm.org" target="_blank" rel="noopener noreffer ">http://ujorm.org</a><br>
 The Ujorm is an open source Java small library which provides non-traditional objects based on the key-value architecture to open up new exciting opportunities for writing efficient code. This library offers a unique ORM module designed for rapid Java development with great performance and a small footprint. The key features are type safe database queries, relation mapping by Java code, no entity states and a memory overloading protection cache. Try it</p>]]></description></item></channel></rss>

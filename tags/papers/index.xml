@@ -4,12 +4,16 @@
 Our mission</p>
 <p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
 <p>We believe this is best done together with the community and powered by automation.</p>
-<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>]]></description></item><item><title>Electronic Proceedings of the NIPS</title><link>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</link><pubDate>Mon, 24 Feb 2020 18:14:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</guid><description><![CDATA[<p>Electronic Proceedings of the Neural Information Processing Systems Conference<br>
+<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/37c127a777e4d494edaf1c0b597b97c94774a6b6" target="_blank" rel="noopener noreffer "><code>37c127a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Electronic Proceedings of the NIPS</title><link>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</link><pubDate>Mon, 24 Feb 2020 18:14:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</guid><description><![CDATA[<p>Electronic Proceedings of the Neural Information Processing Systems Conference<br>
 <a href="https://papers.nips.cc/" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/</a><br>
 Neural Ordinary Differential Equations<br>
 Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations</a><br>
 github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
-application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>]]></description></item><item><title>CloudSort Benchmark - Spark new world record</title><link>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</link><pubDate>Mon, 12 Dec 2016 08:32:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</guid><description><![CDATA[<p>CloudSort Benchmark<br>
+application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item><item><title>CloudSort Benchmark - Spark new world record</title><link>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</link><pubDate>Mon, 12 Dec 2016 08:32:05 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-12-cloudsort-benchmark-spark-new-world-record/</guid><description><![CDATA[<p>CloudSort Benchmark<br>
 <a href="http://sortbenchmark.org/" target="_blank" rel="noopener noreffer ">http://sortbenchmark.org/</a></p>
 <p>Sort Benchmark Home Page</p>
 <p>New: The 2016 records are listed below in green. Thank you to all of the many 2016 entrants!<br>

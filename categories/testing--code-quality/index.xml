@@ -23,7 +23,9 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
 <a href="https://www.jetbrains.com/qodana/" target="_blank" rel="noopener noreffer ">https://www.jetbrains.com/qodana/</a><br>
 Code quality done right</p>
 <p>Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.</p>
@@ -47,7 +49,9 @@ public void test1() throws InterruptedException<br>
 public void test2() throws InterruptedException<br>
 {<br>
 &hellip;<br>
-&hellip;</p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+&hellip;</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3741e5e23d4fdf2a70197b6b05e08b2e554fc80b" target="_blank" rel="noopener noreffer "><code>3741e5e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
 Playwright enables reliable end-to-end testing for modern web apps.<br>
 <a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
 <p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
@@ -68,19 +72,25 @@ Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>Jasmine</title><link>https://blog.emecas.net/posts/2020-06-26-jasmine/</link><pubDate>Fri, 26 Jun 2020 18:56:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-26-jasmine/</guid><description><![CDATA[<p>Jasmine<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Jasmine</title><link>https://blog.emecas.net/posts/2020-06-26-jasmine/</link><pubDate>Fri, 26 Jun 2020 18:56:00 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-26-jasmine/</guid><description><![CDATA[<p>Jasmine<br>
 Behavior-Driven JavaScript<br>
 <a href="https://jasmine.github.io/index.html" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/index.html</a><br>
 Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.<br>
 <a href="https://jasmine.github.io/tutorials/your_first_suite" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/tutorials/your_first_suite</a><br>
 Github: <a href="https://github.com/jasmine/jasmine.github.io" target="_blank" rel="noopener noreffer ">https://github.com/jasmine/jasmine.github.io</a></p>
-<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>]]></description></item><item><title>SoapUI</title><link>https://blog.emecas.net/posts/2020-06-22-soapui/</link><pubDate>Mon, 22 Jun 2020 19:36:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-22-soapui/</guid><description><![CDATA[<p>SoapUI<br>
+<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fb857afbf2b673fd6dbf6c8023027cf177595a20" target="_blank" rel="noopener noreffer "><code>fb857af</code></a> in My-Notes.</em></p>]]></description></item><item><title>SoapUI</title><link>https://blog.emecas.net/posts/2020-06-22-soapui/</link><pubDate>Mon, 22 Jun 2020 19:36:20 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-22-soapui/</guid><description><![CDATA[<p>SoapUI<br>
 <a href="https://www.soapui.org/" target="_blank" rel="noopener noreffer ">https://www.soapui.org/</a><br>
 Build Better | Test Smarter<br>
 The Most Advanced REST, SOAP and GraphQL<br>
 API Testing Tool in the World<br>
 Get the open source version of the most widely used API testing tool in the world. Read about the latest release</p>
-<p>github: <a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">https://github.com/SmartBear/soapui</a></p>]]></description></item><item><title>DbUnit</title><link>https://blog.emecas.net/posts/2020-06-10-dbunit/</link><pubDate>Wed, 10 Jun 2020 18:48:29 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-10-dbunit/</guid><description><![CDATA[<p>DbUnit<br>
+<p>github: <a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">https://github.com/SmartBear/soapui</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fe1ac6b775142c661820cd1a9fd4d4efaa92a514" target="_blank" rel="noopener noreffer "><code>fe1ac6b</code></a> in My-Notes.</em></p>]]></description></item><item><title>DbUnit</title><link>https://blog.emecas.net/posts/2020-06-10-dbunit/</link><pubDate>Wed, 10 Jun 2020 18:48:29 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-10-dbunit/</guid><description><![CDATA[<p>DbUnit<br>
 <a href="http://www.dbunit.org/" target="_blank" rel="noopener noreffer ">http://www.dbunit.org/</a><br>
 DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven projects that, among other things, puts your database into a known state between test runs. This is an excellent way to avoid the myriad of problems that can occur when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage.</p>
 <p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item></channel></rss>

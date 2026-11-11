@@ -13,4 +13,6 @@ January 29, 2020</p>
 - precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring</p>]]></description></item><item><title>Clusterfck</title><link>https://blog.emecas.net/posts/2013-03-14-clusterfck/</link><pubDate>Thu, 14 Mar 2013 02:30:45 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-14-clusterfck/</guid><description><![CDATA[<p>Clusterfck</p>
 <p>JavaScript agglomerative hierarchical clustering<br>
 clusterfck is a JavaScript library for hierarchical clustering. Clustering is used to group similar items together. Hierarchical clustering in particular is used when a hierarchy of items is needed or when the number of clusters isn&rsquo;t known ahead of time. An example use, clustering similar colors based on their rgb values:<br>
-<a href="http://harthur.github.com/clusterfck/" target="_blank" rel="noopener noreffer ">http://harthur.github.com/clusterfck/</a></p>]]></description></item></channel></rss>
+<a href="http://harthur.github.com/clusterfck/" target="_blank" rel="noopener noreffer ">http://harthur.github.com/clusterfck/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/6bdcdade716c21ceb179f7317e68669bf31d3985" target="_blank" rel="noopener noreffer "><code>6bdcdad</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

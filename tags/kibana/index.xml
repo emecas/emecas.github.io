@@ -13,4 +13,6 @@
 <p>source = 	/var/log/httpd/access_log</p>
 <p>topic =	apache</p>
 <p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
-<p>request.method = POST</p>]]></description></item></channel></rss>
+<p>request.method = POST</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

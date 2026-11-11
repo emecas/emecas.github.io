@@ -1,3 +1,5 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Semantic-Web - Tag - My Notes</title><link>https://blog.emecas.net/tags/semantic-web/</link><description>Semantic-Web - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 May 2014 16:49:46 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/semantic-web/" rel="self" type="application/rss+xml"/><item><title>Apache Jena</title><link>https://blog.emecas.net/posts/2014-05-08-apache-jena/</link><pubDate>Thu, 08 May 2014 16:49:46 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-05-08-apache-jena/</guid><description><![CDATA[<p>Apache Jena<br>
 A free and open source Java framework for building Semantic Web and Linked Data applications.<br>
-<a href="http://jena.apache.org/index.html" target="_blank" rel="noopener noreffer ">http://jena.apache.org/index.html</a></p>]]></description></item></channel></rss>
+<a href="http://jena.apache.org/index.html" target="_blank" rel="noopener noreffer ">http://jena.apache.org/index.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/361f5a1df27ce03dd5f6aff5e040cf85be185752" target="_blank" rel="noopener noreffer "><code>361f5a1</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

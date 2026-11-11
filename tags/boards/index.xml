@@ -17,4 +17,6 @@ show-labels        Show labels defined on a board<br>
 show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
 show-lists         Show the list of cached lists</p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
 <a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
-Tasks, boards &amp; notes for the command-line habitat</p>]]></description></item></channel></rss>
+Tasks, boards &amp; notes for the command-line habitat</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

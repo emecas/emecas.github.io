@@ -2,10 +2,14 @@
 <a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
 Virtual whiteboard for sketching hand-drawn like diagrams.<br>
 Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
-repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>]]></description></item><item><title>react-burger-menu</title><link>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</link><pubDate>Tue, 28 Apr 2020 18:33:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</guid><description><![CDATA[<p>react-burger-menu<br>
+repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7362c09fb3e7fbfafb2978b9bbd1abfb2431843" target="_blank" rel="noopener noreffer "><code>c7362c0</code></a> in My-Notes.</em></p>]]></description></item><item><title>react-burger-menu</title><link>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</link><pubDate>Tue, 28 Apr 2020 18:33:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</guid><description><![CDATA[<p>react-burger-menu<br>
 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations<br>
 <a href="https://github.com/negomi/react-burger-menu" target="_blank" rel="noopener noreffer ">https://github.com/negomi/react-burger-menu</a><br>
-<a href="http://negomi.github.io/react-burger-menu/" target="_blank" rel="noopener noreffer ">http://negomi.github.io/react-burger-menu/</a></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
+<a href="http://negomi.github.io/react-burger-menu/" target="_blank" rel="noopener noreffer ">http://negomi.github.io/react-burger-menu/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/dff4ca57ad9e7205b3ece21b33421384f835f88a" target="_blank" rel="noopener noreffer "><code>dff4ca5</code></a> in My-Notes.</em></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
 Command line client for Trello<br>
 <a href="https://github.com/mheap/trello-cli" target="_blank" rel="noopener noreffer ">https://github.com/mheap/trello-cli</a></p>
 <p>Supported API commands</p>

@@ -13,7 +13,9 @@ Kubernetes Native, High Performance Object Storage</p>
 enables customers to build cloud-native data infrastructure for<br>
 machine learning, analytics and application data workloads.</p>
 <p>The defacto standard for Amazon S3 compatibility.</p>
-<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
+<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83cd25f395f96a5f8678b05a1ececbbd4cd47e7d" target="_blank" rel="noopener noreffer "><code>83cd25f</code></a> in My-Notes.</em></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
 <a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
 NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
 <p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>

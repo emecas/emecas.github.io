@@ -8,7 +8,9 @@ It can also be used to forward full desktops, from X11 servers, MS Windows, or M
 <a href="https://www.thomasvitale.com/https-spring-boot-ssl-certificate/" target="_blank" rel="noopener noreffer ">https://www.thomasvitale.com/https-spring-boot-ssl-certificate/</a><br>
 Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate and configuring SSL in Spring Boot.<br>
 Whether you&rsquo;re going to generate a self-signed certificate or you have already got one by a CA,<br>
-I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
+I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb732917ebe04fe2ff33cafaf4fa27b411231a2b" target="_blank" rel="noopener noreffer "><code>cb73291</code></a> in My-Notes.</em></p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
 Part IX. ‘How-to’ guides<br>
 <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
 73. Embedded servlet containers</p>

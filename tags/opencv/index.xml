@@ -2,4 +2,6 @@
 <a href="http://www.appson.es/Singles/MadridJS.php" target="_blank" rel="noopener noreffer ">http://www.appson.es/Singles/MadridJS.php</a></p>
 <p>JavaCV<br>
 <a href="https://code.google.com/p/javacv/" target="_blank" rel="noopener noreffer ">https://code.google.com/p/javacv/</a><br>
-JavaCV first provides wrappers to commonly used libraries by researchers in the field of computer vision: OpenCV, FFmpeg, libdc1394, PGR FlyCapture, OpenKinect, videoInput, and ARToolKitPlus. The classes found under the com.googlecode.javacv.cpp package namespace expose their complete APIs. Moreover, utility classes make their functionality easier to use on the Java platform, including Android.</p>]]></description></item></channel></rss>
+JavaCV first provides wrappers to commonly used libraries by researchers in the field of computer vision: OpenCV, FFmpeg, libdc1394, PGR FlyCapture, OpenKinect, videoInput, and ARToolKitPlus. The classes found under the com.googlecode.javacv.cpp package namespace expose their complete APIs. Moreover, utility classes make their functionality easier to use on the Java platform, including Android.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f0d7250eb894119e4daa520f57478d43e8b4923d" target="_blank" rel="noopener noreffer "><code>f0d7250</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

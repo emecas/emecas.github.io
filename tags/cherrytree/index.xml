@@ -1,4 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cherrytree - Tag - My Notes</title><link>https://blog.emecas.net/tags/cherrytree/</link><description>Cherrytree - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Apr 2020 19:08:57 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cherrytree/" rel="self" type="application/rss+xml"/><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
 A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlighting<br>
 <a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
-<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>]]></description></item></channel></rss>
+<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

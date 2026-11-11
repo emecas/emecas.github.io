@@ -2,13 +2,17 @@
 <a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
 Virtual whiteboard for sketching hand-drawn like diagrams.<br>
 Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
-repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
+repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7362c09fb3e7fbfafb2978b9bbd1abfb2431843" target="_blank" rel="noopener noreffer "><code>c7362c0</code></a> in My-Notes.</em></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
 <a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
 HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
 <p>CURL Call:<br>
 $ curl -d &lsquo;{&ldquo;query&rdquo;:&quot;{people{ surname }}&quot;}&rsquo; -H &ldquo;Content-Type: application/json&rdquo; -X POST <a href="http://localhost:8080/graphql" target="_blank" rel="noopener noreffer ">http://localhost:8080/graphql</a></p>
 <p>Reponse:<br>
-{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>]]></description></item><item><title>Meecrowave</title><link>https://blog.emecas.net/posts/2020-05-25-meecrowave/</link><pubDate>Mon, 25 May 2020 12:18:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-25-meecrowave/</guid><description><![CDATA[<p>Meecrowave<br>
+{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5b74c13f15716b2c46c9b95139126cf2a8b05475" target="_blank" rel="noopener noreffer "><code>5b74c13</code></a> in My-Notes.</em></p>]]></description></item><item><title>Meecrowave</title><link>https://blog.emecas.net/posts/2020-05-25-meecrowave/</link><pubDate>Mon, 25 May 2020 12:18:19 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-25-meecrowave/</guid><description><![CDATA[<p>Meecrowave<br>
 <a href="http://openwebbeans.apache.org/meecrowave/index.html" target="_blank" rel="noopener noreffer ">http://openwebbeans.apache.org/meecrowave/index.html</a><br>
 A light JAX-RS+CDI+JSON server!</p>
 <p>Community / Downloads<br>
@@ -29,12 +33,16 @@ By Travis Illig<br>
 June 20, 2018<br>
 REF: <a href="https://stackoverflow.com/a/909712/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/909712/833336</a><br>
 Ref: <a href="https://github.com/aspnet/Configuration" target="_blank" rel="noopener noreffer ">https://github.com/aspnet/Configuration</a><br>
-Ref: <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&amp;tabs=basicconfiguration" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration</a></p>]]></description></item><item><title>JWT - JSON Web Tokens</title><link>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</link><pubDate>Mon, 27 Mar 2017 13:23:50 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</guid><description><![CDATA[<p>JWT - JSON Web Tokens<br>
+Ref: <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&amp;tabs=basicconfiguration" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/680733600eac73c7fd87f64a4a34b3e26f1e9b4e" target="_blank" rel="noopener noreffer "><code>6807336</code></a> in My-Notes.</em></p>]]></description></item><item><title>JWT - JSON Web Tokens</title><link>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</link><pubDate>Mon, 27 Mar 2017 13:23:50 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</guid><description><![CDATA[<p>JWT - JSON Web Tokens<br>
 <a href="https://jwt.io/" target="_blank" rel="noopener noreffer ">https://jwt.io/</a><br>
 JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.</p>
 <p>JWT.IO allows you to decode, verify and generate JWT.</p>
 <p>JSON Web Token (JWT)<br>
-REF:  <a href="https://tools.ietf.org/html/rfc7519" target="_blank" rel="noopener noreffer ">https://tools.ietf.org/html/rfc7519</a></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
+REF:  <a href="https://tools.ietf.org/html/rfc7519" target="_blank" rel="noopener noreffer ">https://tools.ietf.org/html/rfc7519</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/33584e71a4061470c2071f48ded3339ac599c4eb" target="_blank" rel="noopener noreffer "><code>33584e7</code></a> in My-Notes.</em></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
 <p>1.	JSON approach</p>
 <p>Groovy. Write objects to file (json) and read them back<br>
 <a href="https://gist.github.com/keyle/723181f3a9a59a3f7652" target="_blank" rel="noopener noreffer ">https://gist.github.com/keyle/723181f3a9a59a3f7652</a></p>
@@ -50,10 +58,14 @@ REF:  <a href="https://tools.ietf.org/html/rfc7519" target="_blank" rel="noopene
 <p>GORM is Grails&rsquo; object relational mapping (ORM) implementation.<br>
 <a href="https://grails.github.io/grails-doc/latest/guide/GORM.html" target="_blank" rel="noopener noreffer ">https://grails.github.io/grails-doc/latest/guide/GORM.html</a></p>
 <p>GORM Tutorial: Recipes for using GORM with Grails<br>
-<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>]]></description></item><item><title>JSON EDITOR ONLINE</title><link>https://blog.emecas.net/posts/2016-04-21-json-editor-online/</link><pubDate>Thu, 21 Apr 2016 04:39:02 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-21-json-editor-online/</guid><description><![CDATA[<p>JSON Editor Online - Documentation<br>
+<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item><item><title>JSON EDITOR ONLINE</title><link>https://blog.emecas.net/posts/2016-04-21-json-editor-online/</link><pubDate>Thu, 21 Apr 2016 04:39:02 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-21-json-editor-online/</guid><description><![CDATA[<p>JSON Editor Online - Documentation<br>
 JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.<br>
 Supported browsers: Chrome, Firefox, Safari, Opera, Internet Explorer 8+.<br>
-<a href="http://jsoneditoronline.org" target="_blank" rel="noopener noreffer ">http://jsoneditoronline.org</a>.</p>]]></description></item><item><title>More about marshalling to XML/JSON</title><link>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</link><pubDate>Thu, 21 Nov 2013 13:59:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</guid><description><![CDATA[<p>Related S.O.answers:<br>
+<a href="http://jsoneditoronline.org" target="_blank" rel="noopener noreffer ">http://jsoneditoronline.org</a>.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/65473661503179ca1ce55bdfec1d1bbf2155968c" target="_blank" rel="noopener noreffer "><code>6547366</code></a> in My-Notes.</em></p>]]></description></item><item><title>More about marshalling to XML/JSON</title><link>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</link><pubDate>Thu, 21 Nov 2013 13:59:55 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-11-21-more-about-marshalling-to-xml-json/</guid><description><![CDATA[<p>Related S.O.answers:<br>
 Is it possible using Jersey/JAX-RS annotations to skip a class member when marshalling to XML/JSON?<br>
 <a href="http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/13069729/is-it-possible-using-jersey-jax-rs-annotations-to-skip-a-class-member-when-marsh</a></p>
 <p>Jersey on Jetty on Android throws ContainerException: The ResourceConfig instance does not contain any root resource classes<br>
@@ -63,4 +75,6 @@ Is it possible using Jersey/JAX-RS annotations to skip a class member when marsh
 <p>Ref related: Java XML and JSON Binding<br>
 <a href="http://blog.bdoughan.com/" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/</a><br>
 Blog entry:<br>
-<a href="http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html</a></p>]]></description></item></channel></rss>
+<a href="http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html" target="_blank" rel="noopener noreffer ">http://blog.bdoughan.com/2012/07/jaxb-and-root-elements.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d42ff3f66cdb72c60ec460dd18fed6f016949c7b" target="_blank" rel="noopener noreffer "><code>d42ff3f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

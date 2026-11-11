@@ -35,7 +35,9 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
 Generate beautiful API documentation from OpenAPI</p>
 <p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
 <p>By default Redoc offers a three-panel, responsive layout:</p>
@@ -50,7 +52,9 @@ Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" re
 The InboxSDK lets you build apps for Gmail.</p>
 <p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
 <p>Getting Started<br>
-<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
 Playwright enables reliable end-to-end testing for modern web apps.<br>
 <a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
 <p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
@@ -75,10 +79,14 @@ Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
 <a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
 HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
 <p>CURL Call:<br>
 $ curl -d &lsquo;{&ldquo;query&rdquo;:&quot;{people{ surname }}&quot;}&rsquo; -H &ldquo;Content-Type: application/json&rdquo; -X POST <a href="http://localhost:8080/graphql" target="_blank" rel="noopener noreffer ">http://localhost:8080/graphql</a></p>
 <p>Reponse:<br>
-{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>]]></description></item></channel></rss>
+{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5b74c13f15716b2c46c9b95139126cf2a8b05475" target="_blank" rel="noopener noreffer "><code>5b74c13</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Lxml - Tag - My Notes</title><link>https://blog.emecas.net/tags/lxml/</link><description>Lxml - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Aug 2019 16:06:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/lxml/" rel="self" type="application/rss+xml"/><item><title>lxml</title><link>https://blog.emecas.net/posts/2019-08-08-lxml/</link><pubDate>Thu, 08 Aug 2019 16:06:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-08-lxml/</guid><description><![CDATA[<p>lxml<br>
 <a href="https://lxml.de/" target="_blank" rel="noopener noreffer ">https://lxml.de/</a><br>
 XML and HTML with Python<br>
-lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>]]></description></item></channel></rss>
+lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d019561850ad41bc8b10cccdffdb35d262130042" target="_blank" rel="noopener noreffer "><code>d019561</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

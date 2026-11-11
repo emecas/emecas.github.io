@@ -1,4 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Harvest - Tag - My Notes</title><link>https://blog.emecas.net/tags/harvest/</link><description>Harvest - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 24 Dec 2020 18:52:04 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/harvest/" rel="self" type="application/rss+xml"/><item><title>Unpaywall is transforming Open Science</title><link>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</link><pubDate>Thu, 24 Dec 2020 18:52:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</guid><description><![CDATA[<p>Unpaywall is transforming Open Science<br>
 <a href="https://unpaywall.org/" target="_blank" rel="noopener noreffer ">https://unpaywall.org/</a><br>
 An open database of 27,932,682 free scholarly articles.<br>
-We harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use.</p>]]></description></item></channel></rss>
+We harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9d975f49f29fde2f2db161efe1f9fd704763e8fe" target="_blank" rel="noopener noreffer "><code>9d975f4</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spqr - Tag - My Notes</title><link>https://blog.emecas.net/tags/spqr/</link><description>Spqr - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Jan 2019 17:33:02 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spqr/" rel="self" type="application/rss+xml"/><item><title>Investigating the CQRS pattern using GraphQL and SPQR</title><link>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</link><pubDate>Wed, 30 Jan 2019 17:33:02 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</guid><description><![CDATA[<p>Investigating the CQRS pattern using GraphQL and SPQR<br>
 <a href="https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582" target="_blank" rel="noopener noreffer ">https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582</a><br>
 Ken Anderson<br>
-Aug 26, 2018</p>]]></description></item></channel></rss>
+Aug 26, 2018</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a2b2256bd5354daa70a904723418636d8479b64d" target="_blank" rel="noopener noreffer "><code>a2b2256</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

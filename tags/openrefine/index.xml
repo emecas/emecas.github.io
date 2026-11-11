@@ -8,4 +8,6 @@
 <p>OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.</p>
 <p>OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)</p>]]></description></item><item><title>OpenRefine</title><link>https://blog.emecas.net/posts/2013-03-13-openrefine/</link><pubDate>Wed, 13 Mar 2013 20:10:26 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-13-openrefine/</guid><description><![CDATA[<p>OpenRefine<br>
 A free, open source, power tool for working with messy data<br>
-<a href="http://openrefine.org/" target="_blank" rel="noopener noreffer ">http://openrefine.org/</a></p>]]></description></item></channel></rss>
+<a href="http://openrefine.org/" target="_blank" rel="noopener noreffer ">http://openrefine.org/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3a002f6a6c6b12b4a941dcf1bdf7f9d51a0f06c6" target="_blank" rel="noopener noreffer "><code>3a002f6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

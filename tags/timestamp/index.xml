@@ -3,4 +3,6 @@ Epoch &amp; Unix Timestamp Conversion Tools<br>
 <a href="http://www.epochconverter.com" target="_blank" rel="noopener noreffer ">http://www.epochconverter.com</a><br>
 It includes multiplex references to convert ions<br>
 PostgreSQL:<br>
-SELECT extract(epoch FROM date(&lsquo;2000-01-01 12:34&rsquo;));</p>]]></description></item></channel></rss>
+SELECT extract(epoch FROM date(&lsquo;2000-01-01 12:34&rsquo;));</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/6b477820a7af3f86f229aaab887dc8735386b069" target="_blank" rel="noopener noreffer "><code>6b47782</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

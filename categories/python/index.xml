@@ -14,13 +14,19 @@ Generate easy-to-read web pages for your Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
 repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
 demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
-<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
 A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlighting<br>
 <a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
-<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>]]></description></item><item><title>Alembic</title><link>https://blog.emecas.net/posts/2020-04-07-alembic/</link><pubDate>Tue, 07 Apr 2020 19:22:43 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-07-alembic/</guid><description><![CDATA[<p>Alembic<br>
+<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Alembic</title><link>https://blog.emecas.net/posts/2020-04-07-alembic/</link><pubDate>Tue, 07 Apr 2020 19:22:43 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-07-alembic/</guid><description><![CDATA[<p>Alembic<br>
 <a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank" rel="noopener noreffer ">https://alembic.sqlalchemy.org/en/latest/</a><br>
 Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
-Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>]]></description></item><item><title>Qiskit</title><link>https://blog.emecas.net/posts/2020-03-23-qiskit/</link><pubDate>Mon, 23 Mar 2020 21:30:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-23-qiskit/</guid><description><![CDATA[<p>Qiskit<br>
+Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>Qiskit</title><link>https://blog.emecas.net/posts/2020-03-23-qiskit/</link><pubDate>Mon, 23 Mar 2020 21:30:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-23-qiskit/</guid><description><![CDATA[<p>Qiskit<br>
 <a href="https://qiskit.org/" target="_blank" rel="noopener noreffer ">https://qiskit.org/</a><br>
 <a href="https://github.com/Qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit</a><br>
 An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.</p>
@@ -52,7 +58,9 @@ It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
 <p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>lxml</title><link>https://blog.emecas.net/posts/2019-08-08-lxml/</link><pubDate>Thu, 08 Aug 2019 16:06:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-08-08-lxml/</guid><description><![CDATA[<p>lxml<br>
 <a href="https://lxml.de/" target="_blank" rel="noopener noreffer ">https://lxml.de/</a><br>
 XML and HTML with Python<br>
-lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>]]></description></item><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
+lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d019561850ad41bc8b10cccdffdb35d262130042" target="_blank" rel="noopener noreffer "><code>d019561</code></a> in My-Notes.</em></p>]]></description></item><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
 <a href="https://dask.org/" target="_blank" rel="noopener noreffer ">https://dask.org/</a></p>
 <p>Dask is a flexible library for parallel computing in Python.</p>
 <p><a href="https://docs.dask.org/en/latest/" target="_blank" rel="noopener noreffer ">https://docs.dask.org/en/latest/</a><br>
@@ -61,4 +69,6 @@ Dask is composed of two parts:</p>
 “Big Data” collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.</p>]]></description></item><item><title>yokadi</title><link>https://blog.emecas.net/posts/2019-05-13-yokadi/</link><pubDate>Mon, 13 May 2019 22:52:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-13-yokadi/</guid><description><![CDATA[<p>yokadi<br>
 <a href="http://yokadi.github.io/" target="_blank" rel="noopener noreffer ">http://yokadi.github.io/</a><br>
 Yokadi is a command line oriented, sqlite powered, todo-list.<br>
-<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb0b665b7bdf8539f3fd400c2fed569a5cf6fd7d" target="_blank" rel="noopener noreffer "><code>cb0b665</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

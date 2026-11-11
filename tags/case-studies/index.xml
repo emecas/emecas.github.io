@@ -2,4 +2,6 @@
 <a href="http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/" target="_blank" rel="noopener noreffer ">http://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/</a><br>
 Strangulation of a legacy or undesirable solution is a safe way to phase one thing our for something better, cheaper, or more expandable. You make something new that obsoletes a small percentage of something old, and put them live together. You do some more work in the same style, and go live again (rinse, repeat).</p>
 <p>StranglerApplication<br>
-<a href="https://www.martinfowler.com/bliki/StranglerApplication.html" target="_blank" rel="noopener noreffer ">https://www.martinfowler.com/bliki/StranglerApplication.html</a></p>]]></description></item></channel></rss>
+<a href="https://www.martinfowler.com/bliki/StranglerApplication.html" target="_blank" rel="noopener noreffer ">https://www.martinfowler.com/bliki/StranglerApplication.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b1ac9cbf390296266fd010212831e8333e0948c1" target="_blank" rel="noopener noreffer "><code>b1ac9cb</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

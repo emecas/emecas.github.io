@@ -2,4 +2,6 @@
 <p><a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a></p>
 <p>Launcher is one of MicroProfile implementations. Launcher 1.0 is conformed to MicroProfile 1.1 which includes CDI 1.2, JSON-P 1.0, JAX-RS 2.0 and MicroProfile Config 1.0 API. For the details of MicroProfile, please refer MicroProfile.</p>
 <p>In addition that, Launcher provides the feature to create a portable uber(fat) jar. For the details, please refer Usage.</p>
-<p><a href="https://github.com/fujitsu/launcher/releases" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher/releases</a></p>]]></description></item></channel></rss>
+<p><a href="https://github.com/fujitsu/launcher/releases" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher/releases</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d6c0b6b04a2d4e4b28e14ea63d296faddc189e27" target="_blank" rel="noopener noreffer "><code>d6c0b6b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

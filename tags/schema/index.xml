@@ -10,4 +10,6 @@ This conceptual data schema specifies the data elements which compose a metadata
 This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>IndoorOSM</title><link>https://blog.emecas.net/posts/2014-04-10-indoorosm/</link><pubDate>Thu, 10 Apr 2014 11:33:41 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-10-indoorosm/</guid><description><![CDATA[<p>IndoorOSM<br>
 <a href="http://wiki.openstreetmap.org/wiki/IndoorOSM#The_Model_.2F_Tagging_Schema" target="_blank" rel="noopener noreffer ">http://wiki.openstreetmap.org/wiki/IndoorOSM#The_Model_.2F_Tagging_Schema</a><br>
 IndoorOSM is a proposed tagging schema for Indoor Mapping (One of several possible schemes. See Indoor Mapping#Tagging proposals for a list of other possibilities)<br>
-You might be looking for IndoorOSM on Android.</p>]]></description></item></channel></rss>
+You might be looking for IndoorOSM on Android.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5c4f3b3e2248ded762ab0489cdc7695493f61283" target="_blank" rel="noopener noreffer "><code>5c4f3b3</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -21,7 +21,9 @@ Summary</p>
 <p>MAJOR version when you make incompatible API changes,<br>
 MINOR version when you add functionality in a backwards compatible manner, and<br>
 PATCH version when you make backwards compatible bug fixes.</p>
-<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
 <a href="https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/" target="_blank" rel="noopener noreffer ">https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/</a><br>
 The Gradle wrapper is a self-contained Gradle runner and distribution that&rsquo;s typically built into your Gradle project. It&rsquo;s bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.</p>
 <p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
@@ -66,4 +68,6 @@ Await in catch block<br>
 Exception Filter<br>
 String Interpolation</p>]]></description></item><item><title>Advantages of monolithic version control</title><link>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</link><pubDate>Mon, 13 Feb 2017 14:48:03 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</guid><description><![CDATA[<p>Advantages of monolithic version control<br>
 By Dan Luu may 2015<br>
-<a href="http://danluu.com/monorepo/" target="_blank" rel="noopener noreffer ">http://danluu.com/monorepo/</a></p>]]></description></item></channel></rss>
+<a href="http://danluu.com/monorepo/" target="_blank" rel="noopener noreffer ">http://danluu.com/monorepo/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1000e12df9f012ccc2c58b8d2b80f40b90efca53" target="_blank" rel="noopener noreffer "><code>1000e12</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

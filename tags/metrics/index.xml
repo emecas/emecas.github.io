@@ -9,9 +9,13 @@ The open standard for telemetry</p>
 * **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
 <a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
 This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
-using both built-in and custom metrics with Helidon MP.</p>]]></description></item><item><title>JDepend</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend/</link><pubDate>Tue, 05 Mar 2019 11:14:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend/</guid><description><![CDATA[<p>JDepend<br>
+using both built-in and custom metrics with Helidon MP.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/68433d5c990d5c431bbd80e3d2ab4d872a17272d" target="_blank" rel="noopener noreffer "><code>68433d5</code></a> in My-Notes.</em></p>]]></description></item><item><title>JDepend</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend/</link><pubDate>Tue, 05 Mar 2019 11:14:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend/</guid><description><![CDATA[<p>JDepend<br>
 <a href="https://github.com/clarkware/jdepend" target="_blank" rel="noopener noreffer ">https://github.com/clarkware/jdepend</a><br>
-A Java package dependency analyzer that generates design quality metrics.</p>]]></description></item><item><title>CodeCity</title><link>https://blog.emecas.net/posts/2019-02-26-codecity/</link><pubDate>Tue, 26 Feb 2019 16:53:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-26-codecity/</guid><description><![CDATA[<p>CodeCity<br>
+A Java package dependency analyzer that generates design quality metrics.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/52fdd4cb442cb05a8925fbd3c3bfdcba08f4163c" target="_blank" rel="noopener noreffer "><code>52fdd4c</code></a> in My-Notes.</em></p>]]></description></item><item><title>CodeCity</title><link>https://blog.emecas.net/posts/2019-02-26-codecity/</link><pubDate>Tue, 26 Feb 2019 16:53:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-26-codecity/</guid><description><![CDATA[<p>CodeCity<br>
 <a href="http://wettel.github.io/codecity.html" target="_blank" rel="noopener noreffer ">http://wettel.github.io/codecity.html</a><br>
 By Richard Wettel<br>
 Welcome to CodeCity!<br>
@@ -23,7 +27,9 @@ and serve metrics collected from computer systems (network gear, operating<br>
 systems, applications) at a large scale, and make this data easily accessible<br>
 and graphable.<br>
 Repo: <a href="https://github.com/OpenTSDB/opentsdb" target="_blank" rel="noopener noreffer ">https://github.com/OpenTSDB/opentsdb</a><br>
-REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>]]></description></item><item><title>Vim - Creating your own syntax files</title><link>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</link><pubDate>Fri, 12 May 2017 11:45:16 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</guid><description><![CDATA[<p>ctop: Top-like interface for container metrics</p>
+REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/66bc4726da282157d612f2f3d00a115ead2af347" target="_blank" rel="noopener noreffer "><code>66bc472</code></a> in My-Notes.</em></p>]]></description></item><item><title>Vim - Creating your own syntax files</title><link>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</link><pubDate>Fri, 12 May 2017 11:45:16 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</guid><description><![CDATA[<p>ctop: Top-like interface for container metrics</p>
 <p>Vim - Creating your own syntax files<br>
 <a href="http://vim.wikia.com/wiki/Creating_your_own_syntax_files" target="_blank" rel="noopener noreffer ">http://vim.wikia.com/wiki/Creating_your_own_syntax_files</a></p>
 <p>Ref:<br>
@@ -32,6 +38,10 @@ REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streami
 <a href="http://severinghaus.org/projects/icv/" target="_blank" rel="noopener noreffer ">http://severinghaus.org/projects/icv/</a><br>
 <a href="http://severinghaus.org/projects/icalendar-validator" target="_blank" rel="noopener noreffer ">http://severinghaus.org/projects/icalendar-validator</a><br>
 icalendar.vim : Syntax file for icalendar files<br>
-<a href="http://www.vim.org/scripts/script.php?script_id=1519" target="_blank" rel="noopener noreffer ">http://www.vim.org/scripts/script.php?script_id=1519</a></p>]]></description></item><item><title>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3</title><link>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</link><pubDate>Thu, 13 Jun 2013 15:55:32 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</guid><description><![CDATA[<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
+<a href="http://www.vim.org/scripts/script.php?script_id=1519" target="_blank" rel="noopener noreffer ">http://www.vim.org/scripts/script.php?script_id=1519</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/32f4a6e8dd249c7b8629c767b6df4b2c063a66c6" target="_blank" rel="noopener noreffer "><code>32f4a6e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3</title><link>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</link><pubDate>Thu, 13 Jun 2013 15:55:32 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</guid><description><![CDATA[<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
 <a href="http://almossawi.com/firefox/" target="_blank" rel="noopener noreffer ">http://almossawi.com/firefox/</a><br>
-LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed</p>]]></description></item></channel></rss>
+LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2dd362bbf125b8d1f50d1b62d9e6d64a51dc1327" target="_blank" rel="noopener noreffer "><code>2dd362b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

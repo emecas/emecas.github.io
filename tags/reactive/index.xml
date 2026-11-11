@@ -5,7 +5,9 @@ guide: <a href="https://spring.io/guides/gs/reactive-rest-service/" target="_bla
 Building a Reactive RESTful Web Service :: Learn how to create a RESTful web service with Reactive Spring.</p>
 <p>ref: <a href="https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/</a><br>
 slides: <a href="https://www.slideshare.net/poutsma/reactive-programming-in-spring-5" target="_blank" rel="noopener noreffer ">https://www.slideshare.net/poutsma/reactive-programming-in-spring-5</a><br>
-other: <a href="https://springframework.guru/spring-web-reactive/" target="_blank" rel="noopener noreffer ">https://springframework.guru/spring-web-reactive/</a></p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
+other: <a href="https://springframework.guru/spring-web-reactive/" target="_blank" rel="noopener noreffer ">https://springframework.guru/spring-web-reactive/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0256c31ced0834085769440bf9ddcc5ff44030bd" target="_blank" rel="noopener noreffer "><code>0256c31</code></a> in My-Notes.</em></p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
 Lightweight. Fast. Crafted for Microservices.<br>
 <a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
 Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
@@ -17,6 +19,10 @@ by Josema Gonzalez <a href="https://github.com/Josema" target="_blank" rel="noop
 Distributed Object Protocol is for<br>
 Data sync, Pub/Sub, Remote procedure calls, Reactive programming,<br>
 Optimistic updates, Time-travel debugging, State management,<br>
-Unidirectional data flow, Real time apps.</p>]]></description></item><item><title>Vert.x - reactive applications on the JVM</title><link>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</link><pubDate>Thu, 30 Jun 2016 12:41:12 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</guid><description><![CDATA[<p>Vert.x<br>
+Unidirectional data flow, Real time apps.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5f3d7d162fed917a34108c52d0595bb1296a413e" target="_blank" rel="noopener noreffer "><code>5f3d7d1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Vert.x - reactive applications on the JVM</title><link>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</link><pubDate>Thu, 30 Jun 2016 12:41:12 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</guid><description><![CDATA[<p>Vert.x<br>
 <a href="http://vertx.io/" target="_blank" rel="noopener noreffer ">http://vertx.io/</a><br>
-Vert.x is a tool-kit for building reactive applications on the JVM.</p>]]></description></item></channel></rss>
+Vert.x is a tool-kit for building reactive applications on the JVM.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b944bf0d4d3097e049e3734d8ac87561de918e50" target="_blank" rel="noopener noreffer "><code>b944bf0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

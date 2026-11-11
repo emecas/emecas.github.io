@@ -5,4 +5,6 @@ guide: <a href="https://spring.io/guides/gs/reactive-rest-service/" target="_bla
 Building a Reactive RESTful Web Service :: Learn how to create a RESTful web service with Reactive Spring.</p>
 <p>ref: <a href="https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/</a><br>
 slides: <a href="https://www.slideshare.net/poutsma/reactive-programming-in-spring-5" target="_blank" rel="noopener noreffer ">https://www.slideshare.net/poutsma/reactive-programming-in-spring-5</a><br>
-other: <a href="https://springframework.guru/spring-web-reactive/" target="_blank" rel="noopener noreffer ">https://springframework.guru/spring-web-reactive/</a></p>]]></description></item></channel></rss>
+other: <a href="https://springframework.guru/spring-web-reactive/" target="_blank" rel="noopener noreffer ">https://springframework.guru/spring-web-reactive/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0256c31ced0834085769440bf9ddcc5ff44030bd" target="_blank" rel="noopener noreffer "><code>0256c31</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

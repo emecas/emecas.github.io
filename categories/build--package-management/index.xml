@@ -50,19 +50,27 @@ help, h     Shows a list of commands or help for one command</p>]]></description
 The Software Development Kit Manager</p>
 <p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
 <p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>Maven in 5 Minutes</title><link>https://blog.emecas.net/posts/2020-05-15-maven-in-5-minutes/</link><pubDate>Fri, 15 May 2020 16:09:38 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-15-maven-in-5-minutes/</guid><description><![CDATA[<p>Maven in 5 Minutes<br>
-<a href="https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html" target="_blank" rel="noopener noreffer ">https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html</a></p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
+<a href="https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html" target="_blank" rel="noopener noreffer ">https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55f6640a839a9d57604052f4e0490a9fd60b718d" target="_blank" rel="noopener noreffer "><code>55f6640</code></a> in My-Notes.</em></p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
 <a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
 Summary</p>
 <p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
 <p>MAJOR version when you make incompatible API changes,<br>
 MINOR version when you add functionality in a backwards compatible manner, and<br>
 PATCH version when you make backwards compatible bug fixes.</p>
-<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
 <a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
 A command-line installer for Windows<br>
 <a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
-<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>]]></description></item><item><title>jEnv</title><link>https://blog.emecas.net/posts/2020-01-22-jenv/</link><pubDate>Wed, 22 Jan 2020 12:10:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-22-jenv/</guid><description><![CDATA[<p>jEnv<br>
+<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/081c5bc6aa12df1babfae664a9b319d7ca61c9db" target="_blank" rel="noopener noreffer "><code>081c5bc</code></a> in My-Notes.</em></p>]]></description></item><item><title>jEnv</title><link>https://blog.emecas.net/posts/2020-01-22-jenv/</link><pubDate>Wed, 22 Jan 2020 12:10:12 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-01-22-jenv/</guid><description><![CDATA[<p>jEnv<br>
 Manage your Java environment<br>
 <a href="http://www.jenv.be/" target="_blank" rel="noopener noreffer ">http://www.jenv.be/</a><br>
 Github: <a href="https://github.com/jenv/jenv" target="_blank" rel="noopener noreffer ">https://github.com/jenv/jenv</a><br>
-Ref: <a href="https://stackoverflow.com/a/45336908/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/45336908/833336</a></p>]]></description></item></channel></rss>
+Ref: <a href="https://stackoverflow.com/a/45336908/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/45336908/833336</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3a9b644dcbe5d9dd35428aaa24cb746831175f10" target="_blank" rel="noopener noreffer "><code>3a9b644</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -12,4 +12,6 @@ here: <a href="http://kb.mozillazine.org/About:config" target="_blank" rel="noop
 * Search for &ldquo;FINDDEBUGGER&rdquo;.<br>
 * Double-click the entry to change &ldquo;value&rdquo; to &ldquo;true&rdquo;<br>
 * Close the window / tab and reload your page.  Debugger should<br>
-appear.</p>]]></description></item></channel></rss>
+appear.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/4139fb23242e2b15f0d8af2f1e26b27e2c913eab" target="_blank" rel="noopener noreffer "><code>4139fb2</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

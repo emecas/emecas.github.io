@@ -3,4 +3,6 @@
 Abstract</p>
 <p>As more and more information is either stored in XML, exchanged in XML, or presented as XML through various interfaces, the ability to intelligently query our XML data sources becomes increasingly important. XML documents are structured documents – they blur the distinction between data and documents, allowing documents to be treated as data sources, and traditional data sources to be treated as documents.</p>]]></description></item><item><title>LINQ - Language Integrated Query</title><link>https://blog.emecas.net/posts/2014-02-17-linq-language-integrated-query/</link><pubDate>Mon, 17 Feb 2014 12:37:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-02-17-linq-language-integrated-query/</guid><description><![CDATA[<p>LINQ<br>
 Language Integrated Query<br>
-<a href="http://en.wikipedia.org/wiki/Language_Integrated_Query" target="_blank" rel="noopener noreffer ">http://en.wikipedia.org/wiki/Language_Integrated_Query</a></p>]]></description></item></channel></rss>
+<a href="http://en.wikipedia.org/wiki/Language_Integrated_Query" target="_blank" rel="noopener noreffer ">http://en.wikipedia.org/wiki/Language_Integrated_Query</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3718fbf8d6330cbd315f6e0c0382fd74d0f20857" target="_blank" rel="noopener noreffer "><code>3718fbf</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -1,6 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Eclipse - Tag - My Notes</title><link>https://blog.emecas.net/tags/eclipse/</link><description>Eclipse - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Jun 2021 16:56:32 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/eclipse/" rel="self" type="application/rss+xml"/><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
 <a href="https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap" target="_blank" rel="noopener noreffer ">https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap</a><br>
-ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
+ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/82ef19fc5e2c59f50a8967fe8447a1c5a4eac304" target="_blank" rel="noopener noreffer "><code>82ef19f</code></a> in My-Notes.</em></p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
 <a href="https://www.fab-os.org/en/" target="_blank" rel="noopener noreffer ">https://www.fab-os.org/en/</a><br>
 open, distributed, real-time capable and secure operating system for production.</p>
 <p>FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.<br>
@@ -19,7 +21,9 @@ You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></
 <a href="https://smallrye.io/" target="_blank" rel="noopener noreffer ">https://smallrye.io/</a><br>
 Community driven implementations of Eclipse MicroProfile.<br>
 <a href="https://github.com/smallrye" target="_blank" rel="noopener noreffer ">https://github.com/smallrye</a><br>
-<a href="https://smallrye.io/projects/overview" target="_blank" rel="noopener noreffer ">https://smallrye.io/projects/overview</a></p>]]></description></item><item><title>X-Ray</title><link>https://blog.emecas.net/posts/2019-02-26-x-ray/</link><pubDate>Tue, 26 Feb 2019 16:44:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-26-x-ray/</guid><description><![CDATA[<p>X-Ray<br>
+<a href="https://smallrye.io/projects/overview" target="_blank" rel="noopener noreffer ">https://smallrye.io/projects/overview</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b431338e26f95b4215187658524bd94890e6b6a2" target="_blank" rel="noopener noreffer "><code>b431338</code></a> in My-Notes.</em></p>]]></description></item><item><title>X-Ray</title><link>https://blog.emecas.net/posts/2019-02-26-x-ray/</link><pubDate>Tue, 26 Feb 2019 16:44:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-26-x-ray/</guid><description><![CDATA[<p>X-Ray<br>
 <a href="http://xray.inf.usi.ch/xray.php" target="_blank" rel="noopener noreffer ">http://xray.inf.usi.ch/xray.php</a></p>
 <p>X-Ray 1.0.4.1, my Bachelor and Research Project<br>
 Jul 5, 2008<br>
@@ -27,7 +31,9 @@ X-Ray is an open-source software visualization plug-in for the Eclipse framework
 <a href="https://www.eclipse.org/community/eclipse_newsletter/" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/</a><br>
 A fresh new issue delivered monthly<br>
 <a href="https://www.eclipse.org/community/eclipse_newsletter/archives.php" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/archives.php</a><br>
-January 2019: <a href="https://www.eclipse.org/community/eclipse_newsletter/2019/january/" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/2019/january/</a></p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
+January 2019: <a href="https://www.eclipse.org/community/eclipse_newsletter/2019/january/" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/2019/january/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a52f46b8e504ec7e0bc2946a6768b1a01a61c33b" target="_blank" rel="noopener noreffer "><code>a52f46b</code></a> in My-Notes.</em></p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
 <a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
 Here&rsquo;s how you can truly master Kata.</p>
 <p>We Learn Best by Doing:<br>
@@ -63,4 +69,6 @@ Written by Mike Milinkovich<br>
 About:<br>
 I have the great good fortune to be the Executive Director of the Eclipse Foundation. This blog covers a fairly wide variety of topics related to Eclipse technology, the community, and the ecosystem as well as the operations of the Eclipse Foundation itself.</p>
 <p>REF: Java: Free At Last<br>
-<a href="https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/" target="_blank" rel="noopener noreffer ">https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/</a></p>]]></description></item></channel></rss>
+<a href="https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/" target="_blank" rel="noopener noreffer ">https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fa627fe2760af68e15f2376303bed997b4a97c48" target="_blank" rel="noopener noreffer "><code>fa627fe</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

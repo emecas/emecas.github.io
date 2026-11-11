@@ -2,7 +2,9 @@
 <a href="https://inside.java/" target="_blank" rel="noopener noreffer ">https://inside.java/</a><br>
 News and views from members of the Java team at Oracle<br>
 Shows: Podcast |  Newscast |  JEP Café |  Sip Of Java<br>
-dev.java |  About |  Jobs</p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
+dev.java |  About |  Jobs</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/6aabf652f3a52eb7c7da90983b8d06e3af251669" target="_blank" rel="noopener noreffer "><code>6aabf65</code></a> in My-Notes.</em></p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
 Owner: Robert Field<br>
 Created 2014/05/16 23:13<br>
 Updated 2017/06/09 04:21<br>

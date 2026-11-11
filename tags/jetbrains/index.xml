@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JetBrains - Tag - My Notes</title><link>https://blog.emecas.net/tags/jetbrains/</link><description>JetBrains - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Feb 2024 10:15:29 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jetbrains/" rel="self" type="application/rss+xml"/><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jetbrains - Tag - My Notes</title><link>https://blog.emecas.net/tags/jetbrains/</link><description>Jetbrains - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Feb 2024 10:15:29 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jetbrains/" rel="self" type="application/rss+xml"/><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
 <a href="https://www.jetbrains.com/qodana/" target="_blank" rel="noopener noreffer ">https://www.jetbrains.com/qodana/</a><br>
 Code quality done right</p>
 <p>Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.</p>
@@ -12,4 +12,6 @@ Build #WS-163.12024.17, built on January 31, 2017<br>
 JRE: 1.8.0_112-release-408-b6 x86<br>
 JVM: OpenJDK Server VM by JetBrains s.r.o</p>
 <p>Third-Party OpenSource Used by WebStorm:<br>
-<a href="https://confluence.jetbrains.com/display/WI/Third-Party&#43;Software&#43;Used&#43;by&#43;WebStorm" target="_blank" rel="noopener noreffer ">https://confluence.jetbrains.com/display/WI/Third-Party+Software+Used+by+WebStorm</a></p>]]></description></item></channel></rss>
+<a href="https://confluence.jetbrains.com/display/WI/Third-Party&#43;Software&#43;Used&#43;by&#43;WebStorm" target="_blank" rel="noopener noreffer ">https://confluence.jetbrains.com/display/WI/Third-Party+Software+Used+by+WebStorm</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0e5a21c17c6ee2e3ebef79b9c16f3cca3415b009" target="_blank" rel="noopener noreffer "><code>0e5a21c</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

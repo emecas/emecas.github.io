@@ -5,7 +5,11 @@ tar xvf scala-2.10.1.tgz<br>
 sudo mv scala-2.10.1 /usr/lib<br>
 sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala<br>
 export PATH=$PATH:/usr/lib/scala/bin<br>
-scala -version</p>]]></description></item><item><title>Get started with Docker for Windows</title><link>https://blog.emecas.net/posts/2017-03-14-get-started-with-docker-for-windows/</link><pubDate>Tue, 14 Mar 2017 09:07:11 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-14-get-started-with-docker-for-windows/</guid><description><![CDATA[<p>Get started with Docker for Windows<br>
+scala -version</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55625ca409b85bf74569555ad86770aa304b5f95" target="_blank" rel="noopener noreffer "><code>55625ca</code></a> in My-Notes.</em></p>]]></description></item><item><title>Get started with Docker for Windows</title><link>https://blog.emecas.net/posts/2017-03-14-get-started-with-docker-for-windows/</link><pubDate>Tue, 14 Mar 2017 09:07:11 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-14-get-started-with-docker-for-windows/</guid><description><![CDATA[<p>Get started with Docker for Windows<br>
 <a href="https://docs.docker.com/docker-for-windows/" target="_blank" rel="noopener noreffer ">https://docs.docker.com/docker-for-windows/</a><br>
 Welcome to Docker for Windows!<br>
-Docker is a full development platform for creating containerized apps, and Docker for Windows is the best way to get started with Docker on Windows systems.</p>]]></description></item></channel></rss>
+Docker is a full development platform for creating containerized apps, and Docker for Windows is the best way to get started with Docker on Windows systems.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c0ab20fff23a550870e5f27e870f8cad0ca4baa3" target="_blank" rel="noopener noreffer "><code>c0ab20f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

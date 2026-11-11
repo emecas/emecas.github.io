@@ -13,11 +13,15 @@ Conditional test execution<br>
 Data-driven tests<br>
 Mocking<br>
 Labeling and filtering test execution<br>
-Extending the test framework</p>]]></description></item><item><title>Spock Framework</title><link>https://blog.emecas.net/posts/2017-02-06-spock-framework/</link><pubDate>Mon, 06 Feb 2017 16:24:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-06-spock-framework/</guid><description><![CDATA[<p>Spock Framework<br>
+Extending the test framework</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/76d3a6ae17b0921e876b10adb93de4f8b0a1b88d" target="_blank" rel="noopener noreffer "><code>76d3a6a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spock Framework</title><link>https://blog.emecas.net/posts/2017-02-06-spock-framework/</link><pubDate>Mon, 06 Feb 2017 16:24:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-06-spock-framework/</guid><description><![CDATA[<p>Spock Framework<br>
 <a href="http://spockframework.org/" target="_blank" rel="noopener noreffer ">http://spockframework.org/</a><br>
 the enterprise ready specification framework</p>
 <p>Examples spockframework/spock-example<br>
 <a href="https://github.com/spockframework/spock-example" target="_blank" rel="noopener noreffer ">https://github.com/spockframework/spock-example</a></p>
 <p>Ref1:<br>
 Using Spock to test Groovy AND Java applications<br>
-<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>]]></description></item></channel></rss>
+<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/61b013a90a70d1b6042a359d1638b118dc6b604d" target="_blank" rel="noopener noreffer "><code>61b013a</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

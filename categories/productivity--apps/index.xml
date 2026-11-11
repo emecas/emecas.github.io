@@ -48,10 +48,14 @@ It is cross platform, running on Linux, Windows and macOS.</p>
 Kast is Watch Parties Made Easy<br>
 Share movies, TV shows, games, and whatever you want with 100+ people.</p>
 <p>Mission</p>
-<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>]]></description></item><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
+<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/aab086aa72a97474cd53c8c306bff593ef62f276" target="_blank" rel="noopener noreffer "><code>aab086a</code></a> in My-Notes.</em></p>]]></description></item><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
 A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlighting<br>
 <a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
-<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
+<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
 Command line client for Trello<br>
 <a href="https://github.com/mheap/trello-cli" target="_blank" rel="noopener noreffer ">https://github.com/mheap/trello-cli</a></p>
 <p>Supported API commands</p>
@@ -81,13 +85,21 @@ This repository is used to build its portable releases.</p>
 <a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
 <a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
 <a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
-<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>]]></description></item><item><title>Tasks</title><link>https://blog.emecas.net/posts/2020-02-28-tasks/</link><pubDate>Fri, 28 Feb 2020 20:00:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-28-tasks/</guid><description><![CDATA[<p>Tasks<br>
+<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f262870586c0479dda30a4f580eb343a4cde0c74" target="_blank" rel="noopener noreffer "><code>f262870</code></a> in My-Notes.</em></p>]]></description></item><item><title>Tasks</title><link>https://blog.emecas.net/posts/2020-02-28-tasks/</link><pubDate>Fri, 28 Feb 2020 20:00:52 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-28-tasks/</guid><description><![CDATA[<p>Tasks<br>
 <a href="https://tasks.org/" target="_blank" rel="noopener noreffer ">https://tasks.org/</a><br>
 Astrid To-Do List Clone<br>
 Bringing Astrid Tasks back from the dead <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>
-github <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">https://github.com/tasks/tasks</a></p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
+github <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">https://github.com/tasks/tasks</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c99e4accd82a8505e18d28cd43ac162c71bcad4f" target="_blank" rel="noopener noreffer "><code>c99e4ac</code></a> in My-Notes.</em></p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
 <a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
-Tasks, boards &amp; notes for the command-line habitat</p>]]></description></item><item><title>yokadi</title><link>https://blog.emecas.net/posts/2019-05-13-yokadi/</link><pubDate>Mon, 13 May 2019 22:52:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-13-yokadi/</guid><description><![CDATA[<p>yokadi<br>
+Tasks, boards &amp; notes for the command-line habitat</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item><item><title>yokadi</title><link>https://blog.emecas.net/posts/2019-05-13-yokadi/</link><pubDate>Mon, 13 May 2019 22:52:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-13-yokadi/</guid><description><![CDATA[<p>yokadi<br>
 <a href="http://yokadi.github.io/" target="_blank" rel="noopener noreffer ">http://yokadi.github.io/</a><br>
 Yokadi is a command line oriented, sqlite powered, todo-list.<br>
-<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb0b665b7bdf8539f3fd400c2fed569a5cf6fd7d" target="_blank" rel="noopener noreffer "><code>cb0b665</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

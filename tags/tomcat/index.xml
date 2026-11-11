@@ -29,7 +29,9 @@ A light JAX-RS+CDI+JSON server!</p>
 <p>source = 	/var/log/httpd/access_log</p>
 <p>topic =	apache</p>
 <p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
-<p>request.method = POST</p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
+<p>request.method = POST</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
 Part IX. ‘How-to’ guides<br>
 <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
 73. Embedded servlet containers</p>

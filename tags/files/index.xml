@@ -1,7 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Files - Tag - My Notes</title><link>https://blog.emecas.net/tags/files/</link><description>Files - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2017 12:10:51 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/files/" rel="self" type="application/rss+xml"/><item><title>Turbo Shredder</title><link>https://blog.emecas.net/posts/2017-07-20-turbo-shredder/</link><pubDate>Thu, 20 Jul 2017 12:10:51 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-20-turbo-shredder/</guid><description><![CDATA[<p>Turbo Shredder<br>
 Turbo Shredder securely removes files.<br>
 <a href="https://sourceforge.net/projects/turboshredder/" target="_blank" rel="noopener noreffer ">https://sourceforge.net/projects/turboshredder/</a><br>
-Source : <a href="https://sourceforge.net/projects/turboshredder/files/src/" target="_blank" rel="noopener noreffer ">https://sourceforge.net/projects/turboshredder/files/src/</a></p>]]></description></item><item><title>Vim - Creating your own syntax files</title><link>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</link><pubDate>Fri, 12 May 2017 11:45:16 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</guid><description><![CDATA[<p>ctop: Top-like interface for container metrics</p>
+Source : <a href="https://sourceforge.net/projects/turboshredder/files/src/" target="_blank" rel="noopener noreffer ">https://sourceforge.net/projects/turboshredder/files/src/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f08b6134b18270bd8e0802a29638a9dac88af7d" target="_blank" rel="noopener noreffer "><code>3f08b61</code></a> in My-Notes.</em></p>]]></description></item><item><title>Vim - Creating your own syntax files</title><link>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</link><pubDate>Fri, 12 May 2017 11:45:16 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</guid><description><![CDATA[<p>ctop: Top-like interface for container metrics</p>
 <p>Vim - Creating your own syntax files<br>
 <a href="http://vim.wikia.com/wiki/Creating_your_own_syntax_files" target="_blank" rel="noopener noreffer ">http://vim.wikia.com/wiki/Creating_your_own_syntax_files</a></p>
 <p>Ref:<br>
@@ -10,7 +12,9 @@ Source : <a href="https://sourceforge.net/projects/turboshredder/files/src/" tar
 <a href="http://severinghaus.org/projects/icv/" target="_blank" rel="noopener noreffer ">http://severinghaus.org/projects/icv/</a><br>
 <a href="http://severinghaus.org/projects/icalendar-validator" target="_blank" rel="noopener noreffer ">http://severinghaus.org/projects/icalendar-validator</a><br>
 icalendar.vim : Syntax file for icalendar files<br>
-<a href="http://www.vim.org/scripts/script.php?script_id=1519" target="_blank" rel="noopener noreffer ">http://www.vim.org/scripts/script.php?script_id=1519</a></p>]]></description></item><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
+<a href="http://www.vim.org/scripts/script.php?script_id=1519" target="_blank" rel="noopener noreffer ">http://www.vim.org/scripts/script.php?script_id=1519</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/32f4a6e8dd249c7b8629c767b6df4b2c063a66c6" target="_blank" rel="noopener noreffer "><code>32f4a6e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Metadata Extraction Tools</title><link>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</link><pubDate>Mon, 30 Jan 2017 14:12:57 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-01-30-metadata-extraction-tools/</guid><description><![CDATA[<p>Metadata Extraction Tools</p>
 <p>- ExifTool by Phil Harvey<br>
 Read, Write and Edit Meta Information!<br>
 <a href="http://owl.phy.queensu.ca/~phil/exiftool/" target="_blank" rel="noopener noreffer ">http://owl.phy.queensu.ca/~phil/exiftool/</a><br>
@@ -18,7 +22,9 @@ wiki: <a href="https://en.wikipedia.org/wiki/ExifTool" target="_blank" rel="noop
 <p>-Metadata Extraction Tool<br>
 Introduction<br>
 The Metadata Extraction Tool was developed by the National Library of New Zealand to programmatically extract preservation metadata from a range of file formats like PDF documents, image files, sound files Microsoft office documents, and many others.<br>
-<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
+<a href="http://meta-extractor.sourceforge.net/" target="_blank" rel="noopener noreffer ">http://meta-extractor.sourceforge.net/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ef3c9a1f5fc3d4108810a0c6a1f520f68ee6e346" target="_blank" rel="noopener noreffer "><code>ef3c9a1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
 <p>1.	JSON approach</p>
 <p>Groovy. Write objects to file (json) and read them back<br>
 <a href="https://gist.github.com/keyle/723181f3a9a59a3f7652" target="_blank" rel="noopener noreffer ">https://gist.github.com/keyle/723181f3a9a59a3f7652</a></p>
@@ -34,4 +40,6 @@ The Metadata Extraction Tool was developed by the National Library of New Zealan
 <p>GORM is Grails&rsquo; object relational mapping (ORM) implementation.<br>
 <a href="https://grails.github.io/grails-doc/latest/guide/GORM.html" target="_blank" rel="noopener noreffer ">https://grails.github.io/grails-doc/latest/guide/GORM.html</a></p>
 <p>GORM Tutorial: Recipes for using GORM with Grails<br>
-<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>]]></description></item></channel></rss>
+<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

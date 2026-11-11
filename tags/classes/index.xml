@@ -3,4 +3,6 @@
 @WebService()<br>
 @XmlSeeAlso({Class1.class,<br>
 Class2.class,</p>
-<p><a href="http://fusesource.com/docs/esb/4.2/jaxws/JAXWSDataMappingOverMoreClasses.html" target="_blank" rel="noopener noreffer ">http://fusesource.com/docs/esb/4.2/jaxws/JAXWSDataMappingOverMoreClasses.html</a></p>]]></description></item></channel></rss>
+<p><a href="http://fusesource.com/docs/esb/4.2/jaxws/JAXWSDataMappingOverMoreClasses.html" target="_blank" rel="noopener noreffer ">http://fusesource.com/docs/esb/4.2/jaxws/JAXWSDataMappingOverMoreClasses.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d6aad1729ef2fa48290c2c707cc05606e8dd574c" target="_blank" rel="noopener noreffer "><code>d6aad17</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -4,4 +4,6 @@
 <p>[Paper] : <a href="https://arxiv.org/abs/2212.04356" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/2212.04356</a></p>
 <p>[Model card] : <a href="https://github.com/openai/whisper/blob/main/model-card.md" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper/blob/main/model-card.md</a></p>
 <p>[Colab example] : <a href="https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb" target="_blank" rel="noopener noreffer ">https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb</a></p>
-<p>Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.</p>]]></description></item></channel></rss>
+<p>Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2adf5fabcdf8ce3614c5a196e38ffbdb9422617d" target="_blank" rel="noopener noreffer "><code>2adf5fa</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -5,4 +5,6 @@ tar xvf scala-2.10.1.tgz<br>
 sudo mv scala-2.10.1 /usr/lib<br>
 sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala<br>
 export PATH=$PATH:/usr/lib/scala/bin<br>
-scala -version</p>]]></description></item></channel></rss>
+scala -version</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55625ca409b85bf74569555ad86770aa304b5f95" target="_blank" rel="noopener noreffer "><code>55625ca</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

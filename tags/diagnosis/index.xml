@@ -5,4 +5,6 @@ Tilt manages local development instances for teams that deploy to Kubernetes.</p
 <p>Transition easily from any setup<br>
 Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
 (and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>Tips Before Upgrade to Mavericks</title><link>https://blog.emecas.net/posts/2014-03-05-tips-before-upgrade-to-mavericks/</link><pubDate>Wed, 05 Mar 2014 10:41:29 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-05-tips-before-upgrade-to-mavericks/</guid><description><![CDATA[<p>Diagnosis Tips and ToDoList before Upgrade to Mavericks<br>
-<a href="http://www.macworld.com/article/2052602/get-your-mac-ready-for-mavericks-os-x-10-9.html" target="_blank" rel="noopener noreffer ">http://www.macworld.com/article/2052602/get-your-mac-ready-for-mavericks-os-x-10-9.html</a></p>]]></description></item></channel></rss>
+<a href="http://www.macworld.com/article/2052602/get-your-mac-ready-for-mavericks-os-x-10-9.html" target="_blank" rel="noopener noreffer ">http://www.macworld.com/article/2052602/get-your-mac-ready-for-mavericks-os-x-10-9.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/4b734509bb43dd713d72b6bd4e0084682784a2d0" target="_blank" rel="noopener noreffer "><code>4b73450</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

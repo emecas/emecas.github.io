@@ -1,4 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cocoa - Tag - My Notes</title><link>https://blog.emecas.net/tags/cocoa/</link><description>Cocoa - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 13 Mar 2013 18:51:47 +0100</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cocoa/" rel="self" type="application/rss+xml"/><item><title>Chocolat</title><link>https://blog.emecas.net/posts/2013-03-13-chocolat/</link><pubDate>Wed, 13 Mar 2013 18:51:47 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-13-chocolat/</guid><description><![CDATA[<p>Chocolat<br>
 <a href="http://www.chocolatapp.com/" target="_blank" rel="noopener noreffer ">http://www.chocolatapp.com/</a><br>
 A tasty new text editor for Mac.<br>
-Chocolat is a new text editor for Mac OS X, that combines native Cocoa with powerful text editing tools.</p>]]></description></item></channel></rss>
+Chocolat is a new text editor for Mac OS X, that combines native Cocoa with powerful text editing tools.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/42c914838053f9436e7be74d568ccb7f11a9586b" target="_blank" rel="noopener noreffer "><code>42c9148</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -5,10 +5,16 @@ tar xvf scala-2.10.1.tgz<br>
 sudo mv scala-2.10.1 /usr/lib<br>
 sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala<br>
 export PATH=$PATH:/usr/lib/scala/bin<br>
-scala -version</p>]]></description></item><item><title>Lynx on Mac</title><link>https://blog.emecas.net/posts/2014-03-01-lynx-on-mac/</link><pubDate>Sat, 01 Mar 2014 22:40:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-01-lynx-on-mac/</guid><description><![CDATA[<p>Lynx on Mac<br>
+scala -version</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55625ca409b85bf74569555ad86770aa304b5f95" target="_blank" rel="noopener noreffer "><code>55625ca</code></a> in My-Notes.</em></p>]]></description></item><item><title>Lynx on Mac</title><link>https://blog.emecas.net/posts/2014-03-01-lynx-on-mac/</link><pubDate>Sat, 01 Mar 2014 22:40:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-03-01-lynx-on-mac/</guid><description><![CDATA[<p>Lynx on Mac<br>
 Installing Lynx 2.8.7 on Mac OS X 10.6 Snow Leopard<br>
 <a href="https://wincent.com/wiki/Installing_Lynx_2.8.7_on_Mac_OS_X_10.6_Snow_Leopard" target="_blank" rel="noopener noreffer ">https://wincent.com/wiki/Installing_Lynx_2.8.7_on_Mac_OS_X_10.6_Snow_Leopard</a><br>
 Last Stable Release: <a href="http://lynx.isc.org/lynx2.8.8/index.html" target="_blank" rel="noopener noreffer ">http://lynx.isc.org/lynx2.8.8/index.html</a></p>
 <p>REF: SO extensio<br>
-<a href="http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu" target="_blank" rel="noopener noreffer ">http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu</a></p>]]></description></item><item><title>New Links</title><link>https://blog.emecas.net/posts/2013-03-10-new-links/</link><pubDate>Sun, 10 Mar 2013 14:06:54 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-10-new-links/</guid><description><![CDATA[<p>Installing PHP on MAC OS X 1.8<br>
-<a href="http://php-osx.liip.ch/" target="_blank" rel="noopener noreffer ">http://php-osx.liip.ch/</a></p>]]></description></item></channel></rss>
+<a href="http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu" target="_blank" rel="noopener noreffer ">http://stackapps.com/questions/542/column-80-plain-text-optimised-sofu</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ba36592a1317ce33e40e4f3def72d1d8413b24fd" target="_blank" rel="noopener noreffer "><code>ba36592</code></a> in My-Notes.</em></p>]]></description></item><item><title>New Links</title><link>https://blog.emecas.net/posts/2013-03-10-new-links/</link><pubDate>Sun, 10 Mar 2013 14:06:54 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-10-new-links/</guid><description><![CDATA[<p>Installing PHP on MAC OS X 1.8<br>
+<a href="http://php-osx.liip.ch/" target="_blank" rel="noopener noreffer ">http://php-osx.liip.ch/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3a77c60e0ebfdcfd6a3e5ece84a29b3856e701da" target="_blank" rel="noopener noreffer "><code>3a77c60</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

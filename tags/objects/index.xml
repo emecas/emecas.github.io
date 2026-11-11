@@ -2,7 +2,9 @@
 <a href="https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/" target="_blank" rel="noopener noreffer ">https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/</a><br>
 In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.<br>
 Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
-If you aren’t familiar with dependency injection, please read this article first</p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
+If you aren’t familiar with dependency injection, please read this article first</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b85b772384455b2bc1f660181a59fa56e782f9" target="_blank" rel="noopener noreffer "><code>d0b85b7</code></a> in My-Notes.</em></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
 <p>1.	JSON approach</p>
 <p>Groovy. Write objects to file (json) and read them back<br>
 <a href="https://gist.github.com/keyle/723181f3a9a59a3f7652" target="_blank" rel="noopener noreffer ">https://gist.github.com/keyle/723181f3a9a59a3f7652</a></p>
@@ -18,6 +20,10 @@ If you aren’t familiar with dependency injection, please read this article fir
 <p>GORM is Grails&rsquo; object relational mapping (ORM) implementation.<br>
 <a href="https://grails.github.io/grails-doc/latest/guide/GORM.html" target="_blank" rel="noopener noreffer ">https://grails.github.io/grails-doc/latest/guide/GORM.html</a></p>
 <p>GORM Tutorial: Recipes for using GORM with Grails<br>
-<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>]]></description></item><item><title>XStream</title><link>https://blog.emecas.net/posts/2013-04-02-xstream/</link><pubDate>Tue, 02 Apr 2013 20:07:24 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-04-02-xstream/</guid><description><![CDATA[<p>XStream<br>
+<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item><item><title>XStream</title><link>https://blog.emecas.net/posts/2013-04-02-xstream/</link><pubDate>Tue, 02 Apr 2013 20:07:24 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-04-02-xstream/</guid><description><![CDATA[<p>XStream<br>
 XStream is a simple library to serialize objects to XML and back again.<br>
-<a href="http://xstream.codehaus.org/index.html" target="_blank" rel="noopener noreffer ">http://xstream.codehaus.org/index.html</a></p>]]></description></item></channel></rss>
+<a href="http://xstream.codehaus.org/index.html" target="_blank" rel="noopener noreffer ">http://xstream.codehaus.org/index.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/229c16ea4495a594fd812ebad411c08246fb7424" target="_blank" rel="noopener noreffer "><code>229c16e</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

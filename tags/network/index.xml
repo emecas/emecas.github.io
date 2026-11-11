@@ -10,17 +10,25 @@ with views:</p>
 <p>Table<br>
 Map<br>
 Stats</p>
-<p><a href="https://alternativeto.net/software/diaspora/about/" target="_blank" rel="noopener noreffer ">https://alternativeto.net/software/diaspora/about/</a></p>]]></description></item><item><title>Mininet</title><link>https://blog.emecas.net/posts/2018-09-12-mininet/</link><pubDate>Wed, 12 Sep 2018 16:27:10 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-12-mininet/</guid><description><![CDATA[<p>Mininet<br>
+<p><a href="https://alternativeto.net/software/diaspora/about/" target="_blank" rel="noopener noreffer ">https://alternativeto.net/software/diaspora/about/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/88f174652c04ea2d64a9a90dd66b8e9e3d509360" target="_blank" rel="noopener noreffer "><code>88f1746</code></a> in My-Notes.</em></p>]]></description></item><item><title>Mininet</title><link>https://blog.emecas.net/posts/2018-09-12-mininet/</link><pubDate>Wed, 12 Sep 2018 16:27:10 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-12-mininet/</guid><description><![CDATA[<p>Mininet<br>
 An Instant Virtual Network on your Laptop (or other PC)<br>
 <a href="http://mininet.org/" target="_blank" rel="noopener noreffer ">http://mininet.org/</a></p>
-<p>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command:</p>]]></description></item><item><title>Mastodon</title><link>https://blog.emecas.net/posts/2017-04-07-mastodon/</link><pubDate>Fri, 07 Apr 2017 14:25:53 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-07-mastodon/</guid><description><![CDATA[<p>Mastodon<br>
+<p>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command:</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3b91607d9ab09710c37caf4dbe4e9d4f31afa0c9" target="_blank" rel="noopener noreffer "><code>3b91607</code></a> in My-Notes.</em></p>]]></description></item><item><title>Mastodon</title><link>https://blog.emecas.net/posts/2017-04-07-mastodon/</link><pubDate>Fri, 07 Apr 2017 14:25:53 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-04-07-mastodon/</guid><description><![CDATA[<p>Mastodon<br>
 <a href="https://mastodon.social" target="_blank" rel="noopener noreffer ">https://mastodon.social</a><br>
 <a href="https://mastodon.social/about" target="_blank" rel="noopener noreffer ">https://mastodon.social/about</a><br>
 Mastodon is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust — whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the social network seamlessly.</p>
-<p>Github: <a href="https://github.com/tootsuite/mastodon" target="_blank" rel="noopener noreffer ">https://github.com/tootsuite/mastodon</a></p>]]></description></item><item><title>The Netty project</title><link>https://blog.emecas.net/posts/2015-07-09-the-netty-project/</link><pubDate>Thu, 09 Jul 2015 18:24:23 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-09-the-netty-project/</guid><description><![CDATA[<p>The Netty project<br>
+<p>Github: <a href="https://github.com/tootsuite/mastodon" target="_blank" rel="noopener noreffer ">https://github.com/tootsuite/mastodon</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/568298eb8deaba3ee0aeca1cede5be26faf25c66" target="_blank" rel="noopener noreffer "><code>568298e</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Netty project</title><link>https://blog.emecas.net/posts/2015-07-09-the-netty-project/</link><pubDate>Thu, 09 Jul 2015 18:24:23 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-09-the-netty-project/</guid><description><![CDATA[<p>The Netty project<br>
 <a href="http://netty.io/" target="_blank" rel="noopener noreffer ">http://netty.io/</a><br>
 Netty is an asynchronous event-driven network application framework<br>
-for rapid development of maintainable high performance protocol servers &amp; clients.</p>]]></description></item><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
+for rapid development of maintainable high performance protocol servers &amp; clients.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c3960b01c224180e93716b14a0e75f201a1731ee" target="_blank" rel="noopener noreffer "><code>c3960b0</code></a> in My-Notes.</em></p>]]></description></item><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
 <a href="http://sigmajs.org" target="_blank" rel="noopener noreffer ">http://sigmajs.org</a><br>
 Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.</p>
 <p>REF:<br>

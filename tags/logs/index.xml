@@ -21,7 +21,9 @@ The open standard for telemetry</p>
 <p>source = 	/var/log/httpd/access_log</p>
 <p>topic =	apache</p>
 <p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
-<p>request.method = POST</p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<p>request.method = POST</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
 <a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
 <p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
 <p>The Twelve Factors<br>
@@ -56,8 +58,12 @@ Version 3.3.37 (Final)	 January 1, 2011</p>
 <p>How to count lines of Java code using IntelliJ IDEA?<br>
 ref: SO <a href="http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea</a></p>
 <p>Command line -&gt;&gt;  find . -type f -name &lsquo;*.java&rsquo; | xargs cat | wc -l<br>
-Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
+Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a1352a5f36e98808d172fbb54d02563f39258d1a" target="_blank" rel="noopener noreffer "><code>a1352a5</code></a> in My-Notes.</em></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
 An app that extracts info from your android device and let you export it</p>
 <p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
 * WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>]]></description></item></channel></rss>
+<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b252078d3b5b847ab11c8d5facdd38140b1d3563" target="_blank" rel="noopener noreffer "><code>b252078</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

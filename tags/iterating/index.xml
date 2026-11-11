@@ -10,4 +10,6 @@ remove.append(ball)</p>
 ball_list.append(pos)<br>
 else:<br>
 for ball in remove:<br>
-ball_list.pop(ball_list.index(ball))</p>]]></description></item></channel></rss>
+ball_list.pop(ball_list.index(ball))</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/36dedb575ac68fb78fefc86e6d098a47e372f12a" target="_blank" rel="noopener noreffer "><code>36dedb5</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

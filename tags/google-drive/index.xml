@@ -3,4 +3,6 @@
 The purpose of this project is to provide an independent open source implementation of Google Drive client for GNU/Linux. It uses the Google Document List API to talk to the servers in Google. The code is written in standard C++.</p>
 <p>Related:<br>
 Backup script on Google Drive for Linux<br>
-<a href="http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/" target="_blank" rel="noopener noreffer ">http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/</a></p>]]></description></item></channel></rss>
+<a href="http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/" target="_blank" rel="noopener noreffer ">http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d50aa81002274c629fefcc41644c0e57cf82e1c6" target="_blank" rel="noopener noreffer "><code>d50aa81</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

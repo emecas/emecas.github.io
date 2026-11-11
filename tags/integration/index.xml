@@ -22,7 +22,9 @@ UI/Acceptance tests: use containerized web browsers, compatible with Selenium, f
 Comparing  : API Blueprint vs RAML vs Swagger<br>
 <a href="http://modeling-languages.com/modeling-web-api-comparing/" target="_blank" rel="noopener noreffer ">http://modeling-languages.com/modeling-web-api-comparing/</a></p>
 <p>Separating Unit from Integration tests in Java using Gradle<br>
-<a href="http://www.stuartingram.com/2016/09/15/separating-unit-from-integration-tests-in-java-using-gradle/" target="_blank" rel="noopener noreffer ">http://www.stuartingram.com/2016/09/15/separating-unit-from-integration-tests-in-java-using-gradle/</a></p>]]></description></item><item><title>GitBook</title><link>https://blog.emecas.net/posts/2017-08-02-gitbook/</link><pubDate>Wed, 02 Aug 2017 16:34:56 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-08-02-gitbook/</guid><description><![CDATA[<p>GitBook<br>
+<a href="http://www.stuartingram.com/2016/09/15/separating-unit-from-integration-tests-in-java-using-gradle/" target="_blank" rel="noopener noreffer ">http://www.stuartingram.com/2016/09/15/separating-unit-from-integration-tests-in-java-using-gradle/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/afa8f998bae1ec2bdf6e3b42351d53f413b357e8" target="_blank" rel="noopener noreffer "><code>afa8f99</code></a> in My-Notes.</em></p>]]></description></item><item><title>GitBook</title><link>https://blog.emecas.net/posts/2017-08-02-gitbook/</link><pubDate>Wed, 02 Aug 2017 16:34:56 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-08-02-gitbook/</guid><description><![CDATA[<p>GitBook<br>
 <a href="https://www.gitbook.com/about" target="_blank" rel="noopener noreffer ">https://www.gitbook.com/about</a></p>
 <p>GitBook was created mid 2014 with the vision of creating a modern and simple solution to documentation, digital writing and publishing.</p>
 <p>We&rsquo;ve started by building an open source format. The philosophy is to be simple to the point of elegance, removing distractions and concerns from content creators, so that they can write freely.</p>

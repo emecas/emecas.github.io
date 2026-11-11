@@ -9,4 +9,6 @@
 <p>OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)</p>]]></description></item><item><title>JSON EDITOR ONLINE</title><link>https://blog.emecas.net/posts/2016-04-21-json-editor-online/</link><pubDate>Thu, 21 Apr 2016 04:39:02 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-21-json-editor-online/</guid><description><![CDATA[<p>JSON Editor Online - Documentation<br>
 JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.<br>
 Supported browsers: Chrome, Firefox, Safari, Opera, Internet Explorer 8+.<br>
-<a href="http://jsoneditoronline.org" target="_blank" rel="noopener noreffer ">http://jsoneditoronline.org</a>.</p>]]></description></item></channel></rss>
+<a href="http://jsoneditoronline.org" target="_blank" rel="noopener noreffer ">http://jsoneditoronline.org</a>.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/65473661503179ca1ce55bdfec1d1bbf2155968c" target="_blank" rel="noopener noreffer "><code>6547366</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

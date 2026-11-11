@@ -17,7 +17,9 @@ Kubernetes Native, High Performance Object Storage</p>
 enables customers to build cloud-native data infrastructure for<br>
 machine learning, analytics and application data workloads.</p>
 <p>The defacto standard for Amazon S3 compatibility.</p>
-<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83cd25f395f96a5f8678b05a1ececbbd4cd47e7d" target="_blank" rel="noopener noreffer "><code>83cd25f</code></a> in My-Notes.</em></p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
 <a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
 Tilt Up and Get Stuff Done<br>
 Tilt manages local development instances for teams that deploy to Kubernetes.</p>

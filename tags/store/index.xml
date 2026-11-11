@@ -5,7 +5,9 @@ Open Time Store<br>
 Crux is an open source document database with bitemporal graph queries.<br>
 Java, Clojure and HTTP APIs are provided.<br>
 Ref: Introducing Crux JDBC<br>
-<a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>]]></description></item><item><title>Apache Druid</title><link>https://blog.emecas.net/posts/2018-09-21-apache-druid/</link><pubDate>Fri, 21 Sep 2018 13:01:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-21-apache-druid/</guid><description><![CDATA[<p>Apache Druid (incubating)<br>
+<a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item><item><title>Apache Druid</title><link>https://blog.emecas.net/posts/2018-09-21-apache-druid/</link><pubDate>Fri, 21 Sep 2018 13:01:08 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2018-09-21-apache-druid/</guid><description><![CDATA[<p>Apache Druid (incubating)<br>
 <a href="http://druid.io/" target="_blank" rel="noopener noreffer ">http://druid.io/</a><br>
 Apache Druid (incubating) is a high performance analytics data store for event-driven data.<br>
 GIT: <a href="https://github.com/apache/incubator-druid" target="_blank" rel="noopener noreffer ">https://github.com/apache/incubator-druid</a></p>

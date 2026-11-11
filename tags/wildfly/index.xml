@@ -36,7 +36,11 @@ WildFly is a flexible, lightweight, managed application runtime that helps you b
 &lt;/add-user&gt;<br>
 &lt;/configuration&gt;<br>
 &lt;/plugin&gt;<br>
-&lt;/plugins&gt;</p>]]></description></item><item><title>WildFly - a flexible, lightweight, managed application runtime that helps you build amazing applications</title><link>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</link><pubDate>Fri, 22 Dec 2017 11:39:02 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</guid><description><![CDATA[<p>WildFly<br>
+&lt;/plugins&gt;</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>WildFly - a flexible, lightweight, managed application runtime that helps you build amazing applications</title><link>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</link><pubDate>Fri, 22 Dec 2017 11:39:02 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</guid><description><![CDATA[<p>WildFly<br>
 <a href="http://wildfly.org/" target="_blank" rel="noopener noreffer ">http://wildfly.org/</a><br>
 WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.<br>
-repo: <a href="https://github.com/wildfly/wildfly" target="_blank" rel="noopener noreffer ">https://github.com/wildfly/wildfly</a></p>]]></description></item></channel></rss>
+repo: <a href="https://github.com/wildfly/wildfly" target="_blank" rel="noopener noreffer ">https://github.com/wildfly/wildfly</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e3accc29ea4f344d9295a68669bd4771aba67556" target="_blank" rel="noopener noreffer "><code>e3accc2</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -5,4 +5,6 @@ Summary</p>
 <p>MAJOR version when you make incompatible API changes,<br>
 MINOR version when you add functionality in a backwards compatible manner, and<br>
 PATCH version when you make backwards compatible bug fixes.</p>
-<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item></channel></rss>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

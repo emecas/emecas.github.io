@@ -10,4 +10,6 @@ yum clean all</p>
 <p>FROM registry.access.redhat.com/rhel7-atomic<br>
 RUN microdnf --enablerepo=rhel-7-server-rpms \\
 install java-1.8.0-openjdk-headless --nodocs ;\\
-microdnf clean all</p>]]></description></item></channel></rss>
+microdnf clean all</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

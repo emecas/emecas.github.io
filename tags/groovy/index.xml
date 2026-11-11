@@ -13,14 +13,18 @@ Conditional test execution<br>
 Data-driven tests<br>
 Mocking<br>
 Labeling and filtering test execution<br>
-Extending the test framework</p>]]></description></item><item><title>Spock Framework</title><link>https://blog.emecas.net/posts/2017-02-06-spock-framework/</link><pubDate>Mon, 06 Feb 2017 16:24:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-06-spock-framework/</guid><description><![CDATA[<p>Spock Framework<br>
+Extending the test framework</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/76d3a6ae17b0921e876b10adb93de4f8b0a1b88d" target="_blank" rel="noopener noreffer "><code>76d3a6a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spock Framework</title><link>https://blog.emecas.net/posts/2017-02-06-spock-framework/</link><pubDate>Mon, 06 Feb 2017 16:24:53 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-02-06-spock-framework/</guid><description><![CDATA[<p>Spock Framework<br>
 <a href="http://spockframework.org/" target="_blank" rel="noopener noreffer ">http://spockframework.org/</a><br>
 the enterprise ready specification framework</p>
 <p>Examples spockframework/spock-example<br>
 <a href="https://github.com/spockframework/spock-example" target="_blank" rel="noopener noreffer ">https://github.com/spockframework/spock-example</a></p>
 <p>Ref1:<br>
 Using Spock to test Groovy AND Java applications<br>
-<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
+<a href="https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/" target="_blank" rel="noopener noreffer ">https://zeroturnaround.com/rebellabs/using-spock-to-test-groovy-and-java-applications/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/61b013a90a70d1b6042a359d1638b118dc6b604d" target="_blank" rel="noopener noreffer "><code>61b013a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
 <p>1.	JSON approach</p>
 <p>Groovy. Write objects to file (json) and read them back<br>
 <a href="https://gist.github.com/keyle/723181f3a9a59a3f7652" target="_blank" rel="noopener noreffer ">https://gist.github.com/keyle/723181f3a9a59a3f7652</a></p>
@@ -36,7 +40,9 @@ Using Spock to test Groovy AND Java applications<br>
 <p>GORM is Grails&rsquo; object relational mapping (ORM) implementation.<br>
 <a href="https://grails.github.io/grails-doc/latest/guide/GORM.html" target="_blank" rel="noopener noreffer ">https://grails.github.io/grails-doc/latest/guide/GORM.html</a></p>
 <p>GORM Tutorial: Recipes for using GORM with Grails<br>
-<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>]]></description></item><item><title>Gradle</title><link>https://blog.emecas.net/posts/2014-04-11-gradle/</link><pubDate>Fri, 11 Apr 2014 13:40:38 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-11-gradle/</guid><description><![CDATA[<p>Gradle<br>
+<a href="http://timsporcic.github.io/GORM-Recipes/#" target="_blank" rel="noopener noreffer ">http://timsporcic.github.io/GORM-Recipes/#</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item><item><title>Gradle</title><link>https://blog.emecas.net/posts/2014-04-11-gradle/</link><pubDate>Fri, 11 Apr 2014 13:40:38 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-11-gradle/</guid><description><![CDATA[<p>Gradle<br>
 <a href="http://www.gradle.org/" target="_blank" rel="noopener noreffer ">http://www.gradle.org/</a></p>
 <p>Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.</p>
 <p>Gradle combines the power and flexibility of Ant with the dependency management and conventions of Maven into a more effective way to build. Powered by a Groovy DSL and packed with innovation, Gradle provides a declarative way to describe all kinds of builds through sensible defaults. Gradle is quickly becoming the build system of choice for many open source projects, leading edge enterprises and legacy automation challenges.</p>]]></description></item></channel></rss>

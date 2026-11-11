@@ -5,7 +5,9 @@ Open Time Store<br>
 Crux is an open source document database with bitemporal graph queries.<br>
 Java, Clojure and HTTP APIs are provided.<br>
 Ref: Introducing Crux JDBC<br>
-<a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>]]></description></item><item><title>track system ... plugin Stack O ... Joda TIme API .. Codeplex</title><link>https://blog.emecas.net/posts/2013-03-12-track-system-plugin-stack-o-joda-time-api-codeplex/</link><pubDate>Tue, 12 Mar 2013 12:03:49 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-12-track-system-plugin-stack-o-joda-time-api-codeplex/</guid><description><![CDATA[<p>Stack Overflow reputation display<br>
+<a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item><item><title>track system ... plugin Stack O ... Joda TIme API .. Codeplex</title><link>https://blog.emecas.net/posts/2013-03-12-track-system-plugin-stack-o-joda-time-api-codeplex/</link><pubDate>Tue, 12 Mar 2013 12:03:49 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-12-track-system-plugin-stack-o-joda-time-api-codeplex/</guid><description><![CDATA[<p>Stack Overflow reputation display<br>
 [Firefox status bar showing reputation score and badge counts] This add-on allows you to keep track of your reputation scores and badge count on Stack Overflow and many other related sites. Once the extension has established the details of your user accounts, your current score will be displayed in the statusbar and updated periodically. Optional sound effects will notify you of any changes.<br>
 <a href="http://www.twistedlip.org/extensions/sorepdisplay/" target="_blank" rel="noopener noreffer ">http://www.twistedlip.org/extensions/sorepdisplay/</a></p>
 <p>Joda Time - Java date and time API<br>

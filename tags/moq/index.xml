@@ -2,4 +2,6 @@
 <a href="https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/" target="_blank" rel="noopener noreffer ">https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/</a><br>
 In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.<br>
 Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
-If you aren’t familiar with dependency injection, please read this article first</p>]]></description></item></channel></rss>
+If you aren’t familiar with dependency injection, please read this article first</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b85b772384455b2bc1f660181a59fa56e782f9" target="_blank" rel="noopener noreffer "><code>d0b85b7</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

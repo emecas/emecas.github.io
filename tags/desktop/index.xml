@@ -34,7 +34,9 @@ application extensibility via plugins (implies modularity).</p>]]></description>
 Kast is Watch Parties Made Easy<br>
 Share movies, TV shows, games, and whatever you want with 100+ people.</p>
 <p>Mission</p>
-<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>]]></description></item><item><title>diagrams.net</title><link>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</link><pubDate>Tue, 21 Apr 2020 20:47:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</guid><description><![CDATA[<p>diagrams.net<br>
+<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/aab086aa72a97474cd53c8c306bff593ef62f276" target="_blank" rel="noopener noreffer "><code>aab086a</code></a> in My-Notes.</em></p>]]></description></item><item><title>diagrams.net</title><link>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</link><pubDate>Tue, 21 Apr 2020 20:47:01 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</guid><description><![CDATA[<p>diagrams.net<br>
 Diagram with anyone, anywhere.<br>
 diagrams.net is open source, online, desktop and container deployable diagramming software<br>
 <a href="https://app.diagrams.net/" target="_blank" rel="noopener noreffer ">https://app.diagrams.net/</a></p>
@@ -44,4 +46,6 @@ By  Jessie Frazelle<br>
 <a href="https://blog.jessfraz.com/post/docker-containers-on-the-desktop/" target="_blank" rel="noopener noreffer ">https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</a></p>
 <p>Main idea: &ldquo;I hate installing things on my host and the files getting everywhere. I wanted the ability to delete an app and know it is gone fully without some random file hanging around. This gave me that. Not only that, I can control how much CPU and Memory the app uses. Yes, the cpu/memory hungry chrome is now perfectly contained!</p>]]></description></item><item><title>Aurelia</title><link>https://blog.emecas.net/posts/2017-03-13-aurelia/</link><pubDate>Mon, 13 Mar 2017 15:07:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-13-aurelia/</guid><description><![CDATA[<p>Aurelia<br>
 <a href="http://aurelia.io/" target="_blank" rel="noopener noreffer ">http://aurelia.io/</a><br>
-Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.</p>]]></description></item></channel></rss>
+Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a400fdd46ccbf003cf7740ecfbd16ac936715a94" target="_blank" rel="noopener noreffer "><code>a400fdd</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

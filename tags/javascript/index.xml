@@ -5,7 +5,9 @@ Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" re
 The InboxSDK lets you build apps for Gmail.</p>
 <p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
 <p>Getting Started<br>
-<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
 Playwright enables reliable end-to-end testing for modern web apps.<br>
 <a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
 <p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
@@ -40,15 +42,21 @@ Behavior-Driven JavaScript<br>
 Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.<br>
 <a href="https://jasmine.github.io/tutorials/your_first_suite" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/tutorials/your_first_suite</a><br>
 Github: <a href="https://github.com/jasmine/jasmine.github.io" target="_blank" rel="noopener noreffer ">https://github.com/jasmine/jasmine.github.io</a></p>
-<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>]]></description></item><item><title>Dandelion free and Open Source Java framework aimed at making web development simpler in JVM-based environments</title><link>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</link><pubDate>Wed, 28 Jun 2017 17:26:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</guid><description><![CDATA[<p>Dandelion<br>
+<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fb857afbf2b673fd6dbf6c8023027cf177595a20" target="_blank" rel="noopener noreffer "><code>fb857af</code></a> in My-Notes.</em></p>]]></description></item><item><title>Dandelion free and Open Source Java framework aimed at making web development simpler in JVM-based environments</title><link>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</link><pubDate>Wed, 28 Jun 2017 17:26:09 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</guid><description><![CDATA[<p>Dandelion<br>
 <a href="http://dandelion.github.io/" target="_blank" rel="noopener noreffer ">http://dandelion.github.io/</a><br>
 Dandelion is a free and Open Source Java framework aimed at making web development simpler in JVM-based environments.<br>
 It helps to manipulate the web assets (JS, CSS) in different ways: assets organization in a bundle graph and classical optimizations like minification, compression or caching.<br>
 It also facilitates the integration of powerful JavaScript libraries thanks to a set of extensible components.</p>
 <p><a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>
-<p>Repos: <a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>]]></description></item><item><title>Aurelia</title><link>https://blog.emecas.net/posts/2017-03-13-aurelia/</link><pubDate>Mon, 13 Mar 2017 15:07:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-13-aurelia/</guid><description><![CDATA[<p>Aurelia<br>
+<p>Repos: <a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fac063e533c66ea6a9f07db08b283fbf56984ee0" target="_blank" rel="noopener noreffer "><code>fac063e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Aurelia</title><link>https://blog.emecas.net/posts/2017-03-13-aurelia/</link><pubDate>Mon, 13 Mar 2017 15:07:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-03-13-aurelia/</guid><description><![CDATA[<p>Aurelia<br>
 <a href="http://aurelia.io/" target="_blank" rel="noopener noreffer ">http://aurelia.io/</a><br>
-Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.</p>]]></description></item><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
+Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a400fdd46ccbf003cf7740ecfbd16ac936715a94" target="_blank" rel="noopener noreffer "><code>a400fdd</code></a> in My-Notes.</em></p>]]></description></item><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
 <a href="http://sigmajs.org" target="_blank" rel="noopener noreffer ">http://sigmajs.org</a><br>
 Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.</p>
 <p>REF:<br>
@@ -63,7 +71,11 @@ VIDEO: <a href="https://www.youtube.com/watch?feature=player_embedded&amp;v=gyF0
 <p>POPCORNJS<br>
 <a href="http://popcornjs.org/" target="_blank" rel="noopener noreffer ">http://popcornjs.org/</a><br>
 The HTML5 Media Framework<br>
-Popcorn.js is an HTML5 media framework written in JavaScript for filmmakers, web developers, and anyone who wants to create time-based interactive media on the web. Popcorn.js is part of Mozilla&rsquo;s Popcorn project.</p>]]></description></item><item><title>Clusterfck</title><link>https://blog.emecas.net/posts/2013-03-14-clusterfck/</link><pubDate>Thu, 14 Mar 2013 02:30:45 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-14-clusterfck/</guid><description><![CDATA[<p>Clusterfck</p>
+Popcorn.js is an HTML5 media framework written in JavaScript for filmmakers, web developers, and anyone who wants to create time-based interactive media on the web. Popcorn.js is part of Mozilla&rsquo;s Popcorn project.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f5fb5644228c105a9e55714de84b863cb0a4ad0b" target="_blank" rel="noopener noreffer "><code>f5fb564</code></a> in My-Notes.</em></p>]]></description></item><item><title>Clusterfck</title><link>https://blog.emecas.net/posts/2013-03-14-clusterfck/</link><pubDate>Thu, 14 Mar 2013 02:30:45 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-14-clusterfck/</guid><description><![CDATA[<p>Clusterfck</p>
 <p>JavaScript agglomerative hierarchical clustering<br>
 clusterfck is a JavaScript library for hierarchical clustering. Clustering is used to group similar items together. Hierarchical clustering in particular is used when a hierarchy of items is needed or when the number of clusters isn&rsquo;t known ahead of time. An example use, clustering similar colors based on their rgb values:<br>
-<a href="http://harthur.github.com/clusterfck/" target="_blank" rel="noopener noreffer ">http://harthur.github.com/clusterfck/</a></p>]]></description></item></channel></rss>
+<a href="http://harthur.github.com/clusterfck/" target="_blank" rel="noopener noreffer ">http://harthur.github.com/clusterfck/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/6bdcdade716c21ceb179f7317e68669bf31d3985" target="_blank" rel="noopener noreffer "><code>6bdcdad</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

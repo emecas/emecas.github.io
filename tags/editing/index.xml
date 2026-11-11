@@ -1,7 +1,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Editing - Tag - My Notes</title><link>https://blog.emecas.net/tags/editing/</link><description>Editing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 Jul 2015 17:41:10 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/editing/" rel="self" type="application/rss+xml"/><item><title>Visual Studio Code</title><link>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</link><pubDate>Thu, 09 Jul 2015 17:41:10 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</guid><description><![CDATA[<p>Visual Studio Code<br>
 Code Editing. Redefined.<br>
 Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.<br>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">https://code.visualstudio.com/</a></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2013-03-19-plunker/</link><pubDate>Tue, 19 Mar 2013 03:27:59 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-19-plunker/</guid><description><![CDATA[<p>Plunker<br>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">https://code.visualstudio.com/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/daa2ed932c425ff2366dae0f4a6ccac6bbf0bb6b" target="_blank" rel="noopener noreffer "><code>daa2ed9</code></a> in My-Notes.</em></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2013-03-19-plunker/</link><pubDate>Tue, 19 Mar 2013 03:27:59 +0100</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-03-19-plunker/</guid><description><![CDATA[<p>Plunker<br>
 The next generation of lightweight collaborative online editing.<br>
 <a href="http://plnkr.co" target="_blank" rel="noopener noreffer ">http://plnkr.co</a><br>
-<a href="https://github.com/filearts/plunker" target="_blank" rel="noopener noreffer ">https://github.com/filearts/plunker</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/filearts/plunker" target="_blank" rel="noopener noreffer ">https://github.com/filearts/plunker</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/12d26b07cc647330fa0cb3a2dab8110fc556d347" target="_blank" rel="noopener noreffer "><code>12d26b0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

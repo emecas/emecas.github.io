@@ -8,4 +8,6 @@ It is available as plugins for Maven and Gradle and as a Java library.</p>
 Gradle: See documentation for jib-gradle-plugin.<br>
 <a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-gradle-plugin</a><br>
 Jib Core: A general-purpose container-building library for Java.<br>
-<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/GoogleContainerTools/jib/blob/master/jib-core" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib/blob/master/jib-core</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7c473f3561ba9eadbb16b4a8e81c0fa516780a4" target="_blank" rel="noopener noreffer "><code>c7c473f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

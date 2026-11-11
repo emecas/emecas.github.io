@@ -4,12 +4,16 @@
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
 Generate easy-to-read web pages for your Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
 repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
 demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
-<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
 Playwright enables reliable end-to-end testing for modern web apps.<br>
 <a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
 <p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
@@ -34,10 +38,14 @@ Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
 <a href="https://plnkr.co" target="_blank" rel="noopener noreffer ">https://plnkr.co</a><br>
 Plunker is where you get stuff done<br>
-Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.</p>]]></description></item><item><title>Spark_java 2020</title><link>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</link><pubDate>Thu, 18 Jun 2020 18:26:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</guid><description><![CDATA[<p>spark 2020<br>
+Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/344d7ff3b3de9cc0af3413d52f32dac73c15aef3" target="_blank" rel="noopener noreffer "><code>344d7ff</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spark_java 2020</title><link>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</link><pubDate>Thu, 18 Jun 2020 18:26:45 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-06-18-spark-java-2020/</guid><description><![CDATA[<p>spark 2020<br>
 Spark - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort</p>
 <p><a href="http://sparkjava.com/tutorials/" target="_blank" rel="noopener noreffer ">http://sparkjava.com/tutorials/</a></p>
 <p>Java</p>
@@ -67,4 +75,6 @@ Javalin is just a few thousand lines of code on top of Jetty, and its performanc
 Kast is Watch Parties Made Easy<br>
 Share movies, TV shows, games, and whatever you want with 100+ people.</p>
 <p>Mission</p>
-<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>]]></description></item></channel></rss>
+<p>It is a fundamental human need to feel connected; share, engage, and build connections around what we experience. Our mission is to be the ecosystem that empowers people to share their experiences, engage and build relationships with like-minded people.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/aab086aa72a97474cd53c8c306bff593ef62f276" target="_blank" rel="noopener noreffer "><code>aab086a</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

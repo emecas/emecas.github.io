@@ -3,7 +3,11 @@
 Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods.<br>
 Model your application as resources and relationshipsand implement the repositories to access them.<br>
 This simplifies development and opens up many, powerful new possibilities</p>
-<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>]]></description></item><item><title>Tutorials Neo4 - 1:</title><link>https://blog.emecas.net/posts/2014-04-04-tutorials-neo4-1/</link><pubDate>Fri, 04 Apr 2014 11:25:29 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-04-tutorials-neo4-1/</guid><description><![CDATA[<p>Tutorials Neo4J<br>
+<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/50822b8ad10126e24aaacca08bf1fe8c648747df" target="_blank" rel="noopener noreffer "><code>50822b8</code></a> in My-Notes.</em></p>]]></description></item><item><title>Tutorials Neo4 - 1:</title><link>https://blog.emecas.net/posts/2014-04-04-tutorials-neo4-1/</link><pubDate>Fri, 04 Apr 2014 11:25:29 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2014-04-04-tutorials-neo4-1/</guid><description><![CDATA[<p>Tutorials Neo4J<br>
 1:<br>
 Neo4j: Making implicit relationships explicit &amp; bidirectional relationships<br>
-<a href="http://www.javacodegeeks.com/2013/10/neo4j-making-implicit-relationships-explicit-bidirectional-relationships.html" target="_blank" rel="noopener noreffer ">http://www.javacodegeeks.com/2013/10/neo4j-making-implicit-relationships-explicit-bidirectional-relationships.html</a></p>]]></description></item></channel></rss>
+<a href="http://www.javacodegeeks.com/2013/10/neo4j-making-implicit-relationships-explicit-bidirectional-relationships.html" target="_blank" rel="noopener noreffer ">http://www.javacodegeeks.com/2013/10/neo4j-making-implicit-relationships-explicit-bidirectional-relationships.html</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7d7bd438241ff66dd8099b7af144a2a51875f56a" target="_blank" rel="noopener noreffer "><code>7d7bd43</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

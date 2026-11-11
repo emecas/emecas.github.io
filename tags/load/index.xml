@@ -23,10 +23,14 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
 To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
+<p>Previously known as github.com/rakyll/boom.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
 <a href="https://gatling.io/" target="_blank" rel="noopener noreffer ">https://gatling.io/</a><br>
 Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>
 Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
 Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

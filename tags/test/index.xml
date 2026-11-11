@@ -15,7 +15,9 @@ public void test1() throws InterruptedException<br>
 public void test2() throws InterruptedException<br>
 {<br>
 &hellip;<br>
-&hellip;</p>]]></description></item><item><title>TCK tools and documentation</title><link>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</link><pubDate>Tue, 25 Aug 2020 21:42:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</guid><description><![CDATA[<p>TCK tools and documentation<br>
+&hellip;</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3741e5e23d4fdf2a70197b6b05e08b2e554fc80b" target="_blank" rel="noopener noreffer "><code>3741e5e</code></a> in My-Notes.</em></p>]]></description></item><item><title>TCK tools and documentation</title><link>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</link><pubDate>Tue, 25 Aug 2020 21:42:44 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</guid><description><![CDATA[<p>TCK tools and documentation<br>
 <a href="https://jcp.org/en/resources/tdk" target="_blank" rel="noopener noreffer ">https://jcp.org/en/resources/tdk</a></p>
 <p>Tools</p>
 <p>JavaTest/JT Harness<br>
@@ -64,7 +66,9 @@ Conditional test execution<br>
 Data-driven tests<br>
 Mocking<br>
 Labeling and filtering test execution<br>
-Extending the test framework</p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+Extending the test framework</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/76d3a6ae17b0921e876b10adb93de4f8b0a1b88d" target="_blank" rel="noopener noreffer "><code>76d3a6a</code></a> in My-Notes.</em></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
 <a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
 Python wrapper for the GitLab API</p>
 <p>python-gitlab is a Python package providing access to the GitLab server API.<br>
@@ -84,14 +88,20 @@ By James Shore<br>
 <p>- To add tests to legacy code<br>
 - To improve requirements code quality<br>
 - To improve non-functional quality<br>
-- (TDD reflexion) Here&rsquo;s the thing about TDD</p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+- (TDD reflexion) Here&rsquo;s the thing about TDD</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/659e7c7d2383a4d347fc8f85f12272e48ffbaadc" target="_blank" rel="noopener noreffer "><code>659e7c7</code></a> in My-Notes.</em></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
 <a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
 By: Kent Beck<br>
-Sep 28, 2018</p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
+Sep 28, 2018</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d4aaaaf7ebd2030f6376c8ac3942911eba7868d" target="_blank" rel="noopener noreffer "><code>0d4aaaa</code></a> in My-Notes.</em></p>]]></description></item><item><title>RAML (RESTful API Modeling Language)</title><link>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</link><pubDate>Tue, 18 Jul 2017 15:52:14 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-restful-api-modeling-language/</guid><description><![CDATA[<p>RAML (RESTful API Modeling Language)<br>
 <a href="https://raml.org/" target="_blank" rel="noopener noreffer ">https://raml.org/</a><br>
 The simplest way to design APIs<br>
 RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It&rsquo;s concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.</p>
 <p>REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation &ldquo;Architectural Styles and the Design of Network-based Software Architecture&rdquo; by Roy Fielding.</p>]]></description></item><item><title>Protractor</title><link>https://blog.emecas.net/posts/2017-06-26-protractor/</link><pubDate>Mon, 26 Jun 2017 09:57:17 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-26-protractor/</guid><description><![CDATA[<p>Protractor<br>
 <a href="http://www.protractortest.org/" target="_blank" rel="noopener noreffer ">http://www.protractortest.org/</a><br>
 Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.</p>
-<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>]]></description></item></channel></rss>
+<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a305ec8d19b3396be643e8390337dbd5c127f59d" target="_blank" rel="noopener noreffer "><code>a305ec8</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

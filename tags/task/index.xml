@@ -3,9 +3,13 @@
 <p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
 <p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
 <a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
-Tasks, boards &amp; notes for the command-line habitat</p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
+Tasks, boards &amp; notes for the command-line habitat</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
 <p>Windows PowerShell is Microsoft&rsquo;s task automation framework, consisting of a command-line shell and<br>
 associated scripting language built on .NET Framework.<br>
 PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both<br>
 local and remote Windows systems.</p>
-<p><a href="http://www.dimensionit.tv/powershell-quick-reference/" target="_blank" rel="noopener noreffer ">http://www.dimensionit.tv/powershell-quick-reference/</a></p>]]></description></item></channel></rss>
+<p><a href="http://www.dimensionit.tv/powershell-quick-reference/" target="_blank" rel="noopener noreffer ">http://www.dimensionit.tv/powershell-quick-reference/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cf7118ed3a5e8023499e3e1707977993dfe0dfc" target="_blank" rel="noopener noreffer "><code>2cf7118</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

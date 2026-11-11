@@ -2,4 +2,6 @@
 A collection of JUnit rules for testing code that uses java.lang.System.<br>
 Command-Line Applications - System.exit - System Properties - Security Managers<br>
 <a href="http://stefanbirkner.github.io/system-rules/" target="_blank" rel="noopener noreffer ">http://stefanbirkner.github.io/system-rules/</a><br>
-REF: <a href="http://stackoverflow.com/a/309427/833336" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/a/309427/833336</a></p>]]></description></item></channel></rss>
+REF: <a href="http://stackoverflow.com/a/309427/833336" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/a/309427/833336</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a857a61c61958574a71d52e96b51fe414925ce1d" target="_blank" rel="noopener noreffer "><code>a857a61</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

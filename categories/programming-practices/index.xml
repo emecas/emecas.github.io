@@ -42,10 +42,14 @@ Summary</p>
 <p>MAJOR version when you make incompatible API changes,<br>
 MINOR version when you add functionality in a backwards compatible manner, and<br>
 PATCH version when you make backwards compatible bug fixes.</p>
-<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>]]></description></item><item><title>Software Engineering Handbook</title><link>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</link><pubDate>Tue, 18 Feb 2020 18:55:32 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</guid><description><![CDATA[<p>Software Engineering Handbook<br>
+<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Software Engineering Handbook</title><link>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</link><pubDate>Tue, 18 Feb 2020 18:55:32 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</guid><description><![CDATA[<p>Software Engineering Handbook<br>
 <a href="https://software-engineering-handbook.com/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/</a><br>
 <a href="https://software-engineering-handbook.com/Handbook/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/Handbook/</a><br>
-github:<a href="https://github.com/uribench/software-engineering-handbook" target="_blank" rel="noopener noreffer ">https://github.com/uribench/software-engineering-handbook</a></p>]]></description></item><item><title>Primitive Obsession</title><link>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</link><pubDate>Sat, 09 Feb 2019 18:11:48 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</guid><description><![CDATA[<p>Primitive Obsession<br>
+github:<a href="https://github.com/uribench/software-engineering-handbook" target="_blank" rel="noopener noreffer ">https://github.com/uribench/software-engineering-handbook</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9120aab30a5c27589668303cf4c569b3ab1fb204" target="_blank" rel="noopener noreffer "><code>9120aab</code></a> in My-Notes.</em></p>]]></description></item><item><title>Primitive Obsession</title><link>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</link><pubDate>Sat, 09 Feb 2019 18:11:48 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</guid><description><![CDATA[<p>Primitive Obsession<br>
 <a href="https://www.devteams.at/2019/02/04/primitive-obsession.html" target="_blank" rel="noopener noreffer ">https://www.devteams.at/2019/02/04/primitive-obsession.html</a><br>
 by David Tanzer<br>
 <a href="https://www.devteams.at/" target="_blank" rel="noopener noreffer ">https://www.devteams.at/</a></p>
@@ -56,10 +60,14 @@ And I want to show you how code often becomes easier to understand and “nicer�
 by eliminating primitive data types - especially, but not only, from it’s public API.</p>]]></description></item><item><title>Objections Are Goals</title><link>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</link><pubDate>Tue, 29 Jan 2019 19:54:54 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</guid><description><![CDATA[<p>Objections Are Goals<br>
 <a href="https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069</a><br>
 By: Kent BeckF<br>
-Oct 9, 2018</p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+Oct 9, 2018</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/14638572f5df19888f9e6c0ca02641b70fff285f" target="_blank" rel="noopener noreffer "><code>1463857</code></a> in My-Notes.</em></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
 <a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
 By: Kent Beck<br>
-Sep 28, 2018</p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
+Sep 28, 2018</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d4aaaaf7ebd2030f6376c8ac3942911eba7868d" target="_blank" rel="noopener noreffer "><code>0d4aaaa</code></a> in My-Notes.</em></p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
 <a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
 Here&rsquo;s how you can truly master Kata.</p>
 <p>We Learn Best by Doing:<br>
@@ -70,4 +78,6 @@ Git repo: <a href="https://github.com/eclipse/eclipse-collections-kata" target="
 <a href="https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD" target="_blank" rel="noopener noreffer ">https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD</a><br>
 By Alexander Stepanov<br>
 A9 Videos<br>
-Published on Apr 22, 2013</p>]]></description></item></channel></rss>
+Published on Apr 22, 2013</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0dc08da016adad81c7702d459960e8b2d1bd25a7" target="_blank" rel="noopener noreffer "><code>0dc08da</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

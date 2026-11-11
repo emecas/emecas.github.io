@@ -5,12 +5,18 @@ Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" re
 The InboxSDK lets you build apps for Gmail.</p>
 <p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
 <p>Getting Started<br>
-<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
 Text-mode interface for git<br>
 <a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
 What is Tig?</p>
 <p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
-<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>]]></description></item><item><title>Protractor</title><link>https://blog.emecas.net/posts/2017-06-26-protractor/</link><pubDate>Mon, 26 Jun 2017 09:57:17 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-26-protractor/</guid><description><![CDATA[<p>Protractor<br>
+<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/afb52a1c60c23f7015432f0f1c20c6c3f15a098a" target="_blank" rel="noopener noreffer "><code>afb52a1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Protractor</title><link>https://blog.emecas.net/posts/2017-06-26-protractor/</link><pubDate>Mon, 26 Jun 2017 09:57:17 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2017-06-26-protractor/</guid><description><![CDATA[<p>Protractor<br>
 <a href="http://www.protractortest.org/" target="_blank" rel="noopener noreffer ">http://www.protractortest.org/</a><br>
 Protractor is an end-to-end test framework for Angular and AngularJS applications. Protractor runs tests against your application running in a real browser, interacting with it as a user would.</p>
-<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>]]></description></item></channel></rss>
+<p>repo: <a href="https://github.com/angular/protractor" target="_blank" rel="noopener noreffer ">https://github.com/angular/protractor</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a305ec8d19b3396be643e8390337dbd5c127f59d" target="_blank" rel="noopener noreffer "><code>a305ec8</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

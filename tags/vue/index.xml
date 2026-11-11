@@ -1,3 +1,5 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Vue - Tag - My Notes</title><link>https://blog.emecas.net/tags/vue/</link><description>Vue - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Mar 2020 01:29:02 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/vue/" rel="self" type="application/rss+xml"/><item><title>Apache Weex</title><link>https://blog.emecas.net/posts/2020-03-15-apache-weex/</link><pubDate>Sun, 15 Mar 2020 01:29:02 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-15-apache-weex/</guid><description><![CDATA[<p>Apache Weex<br>
 Weex is a framework for building performant mobile apps with modern web technology.<br>
-<a href="https://weex.apache.org/" target="_blank" rel="noopener noreffer ">https://weex.apache.org/</a></p>]]></description></item></channel></rss>
+<a href="https://weex.apache.org/" target="_blank" rel="noopener noreffer ">https://weex.apache.org/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/86bb018ca7a220f3b2911add20ba4ba18e7216a9" target="_blank" rel="noopener noreffer "><code>86bb018</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -33,7 +33,9 @@ yum clean all</p>
 <p>FROM registry.access.redhat.com/rhel7-atomic<br>
 RUN microdnf --enablerepo=rhel-7-server-rpms \\
 install java-1.8.0-openjdk-headless --nodocs ;\\
-microdnf clean all</p>]]></description></item><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
+microdnf clean all</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
 WildFly Full<br>
 <a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
 WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
@@ -65,7 +67,9 @@ WildFly is a flexible, lightweight, managed application runtime that helps you b
 &lt;/add-user&gt;<br>
 &lt;/configuration&gt;<br>
 &lt;/plugin&gt;<br>
-&lt;/plugins&gt;</p>]]></description></item><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
+&lt;/plugins&gt;</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>AWS Cloud Development Kit - AWS CDK</title><link>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</link><pubDate>Tue, 31 Mar 2020 19:06:57 -0400</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-03-31-aws-cloud-development-kit-aws-cdk/</guid><description><![CDATA[<p>AWS Cloud Development Kit - AWS CDK<br>
 <a href="https://cdkworkshop.com/" target="_blank" rel="noopener noreffer ">https://cdkworkshop.com/</a><br>
 The AWS CDK is a new software development framework from AWS with the sole purpose of making it fun<br>
 and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
@@ -81,11 +85,15 @@ Tilt is super fast to set up for greenfield projects, but it really shines when 
 <a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
 Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
 <a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
-<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
+<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
 <a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a><br>
 Build and run Docker containers leveraging NVIDIA GPUs<br>
 The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
-<a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
 <a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
 Python wrapper for the GitLab API</p>
 <p>python-gitlab is a Python package providing access to the GitLab server API.<br>

@@ -3,4 +3,6 @@
 Autonomous transactions allow you to leave the context of the calling transaction,<br>
 perform an independant transaction, and return to the calling transaction without affecting it&rsquo;s state.<br>
 The autonomous transaction has no link to the calling transaction,<br>
-so only commited data can be shared by both transactions.</p>]]></description></item></channel></rss>
+so only commited data can be shared by both transactions.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cda164afd2950bc2feaa380c00f85c33a24c6946" target="_blank" rel="noopener noreffer "><code>cda164a</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

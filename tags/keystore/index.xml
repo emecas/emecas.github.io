@@ -2,4 +2,6 @@
 <a href="https://www.thomasvitale.com/https-spring-boot-ssl-certificate/" target="_blank" rel="noopener noreffer ">https://www.thomasvitale.com/https-spring-boot-ssl-certificate/</a><br>
 Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate and configuring SSL in Spring Boot.<br>
 Whether you&rsquo;re going to generate a self-signed certificate or you have already got one by a CA,<br>
-I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>]]></description></item></channel></rss>
+I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb732917ebe04fe2ff33cafaf4fa27b411231a2b" target="_blank" rel="noopener noreffer "><code>cb73291</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

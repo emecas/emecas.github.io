@@ -3,10 +3,16 @@
 Autonomous transactions allow you to leave the context of the calling transaction,<br>
 perform an independant transaction, and return to the calling transaction without affecting it&rsquo;s state.<br>
 The autonomous transaction has no link to the calling transaction,<br>
-so only commited data can be shared by both transactions.</p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
+so only commited data can be shared by both transactions.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cda164afd2950bc2feaa380c00f85c33a24c6946" target="_blank" rel="noopener noreffer "><code>cda164a</code></a> in My-Notes.</em></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
 <a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
 By: Kent Beck<br>
-Sep 28, 2018</p>]]></description></item><item><title>How to Write a Git Commit Message</title><link>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</link><pubDate>Fri, 25 Jan 2019 13:28:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</guid><description><![CDATA[<p>How to Write a Git Commit Message<br>
+Sep 28, 2018</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d4aaaaf7ebd2030f6376c8ac3942911eba7868d" target="_blank" rel="noopener noreffer "><code>0d4aaaa</code></a> in My-Notes.</em></p>]]></description></item><item><title>How to Write a Git Commit Message</title><link>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</link><pubDate>Fri, 25 Jan 2019 13:28:34 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</guid><description><![CDATA[<p>How to Write a Git Commit Message<br>
 <a href="https://chris.beams.io/posts/git-commit/" target="_blank" rel="noopener noreffer ">https://chris.beams.io/posts/git-commit/</a><br>
 Introduction: Why good commit messages matter<br>
-By Chris Beams</p>]]></description></item></channel></rss>
+By Chris Beams</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/378b16fb7fd842677dc9af4ab6073d681b16f6c1" target="_blank" rel="noopener noreffer "><code>378b16f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

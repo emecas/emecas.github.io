@@ -1,3 +1,5 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Guake - Tag - My Notes</title><link>https://blog.emecas.net/tags/guake/</link><description>Guake - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 27 Feb 2020 18:50:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/guake/" rel="self" type="application/rss+xml"/><item><title>guake</title><link>https://blog.emecas.net/posts/2020-02-27-guake/</link><pubDate>Thu, 27 Feb 2020 18:50:49 -0500</pubDate><author>xxxx</author><guid>https://blog.emecas.net/posts/2020-02-27-guake/</guid><description><![CDATA[<p>Drop-down terminal for GNOME<br>
 <a href="http://guake-project.org" target="_blank" rel="noopener noreffer ">http://guake-project.org</a><br>
-<a href="https://github.com/Guake/guake" target="_blank" rel="noopener noreffer ">https://github.com/Guake/guake</a></p>]]></description></item></channel></rss>
+<a href="https://github.com/Guake/guake" target="_blank" rel="noopener noreffer ">https://github.com/Guake/guake</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b0c9acc64d846385c72e61fc83c03bd7c3895fb" target="_blank" rel="noopener noreffer "><code>1b0c9ac</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
