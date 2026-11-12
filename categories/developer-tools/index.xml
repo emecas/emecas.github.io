@@ -1,9 +1,26 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 17:14:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Aug 2026 15:47:21 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>mattpocock/skills</title><link>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</link><pubDate>Sun, 16 Aug 2026 15:47:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</guid><description><![CDATA[<p>mattpocock/skills<br>
+Skills for Real Engineers. Straight from my .agents directory.<br>
+Shell repository by mattpocock, created in 2026, with 321,085 stars and 26,920 forks. License: MIT. Starred on 2026-08-16.<br>
+Homepage: <a href="https://aihero.dev/skills" target="_blank" rel="noopener noreffer ">https://aihero.dev/skills</a><br>
+<a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreffer ">https://github.com/mattpocock/skills</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-16: <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreffer ">mattpocock/skills</a>.</em></p>]]></description></item><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
 <a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">https://mise.jdx.dev/</a><br>
 Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
 <p>Everything in its place, before you code.<br>
 In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.<br>
-mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
+simple terminal UI for git commands<br>
+Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
+<a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item><item><title>nanoapi-io/napi</title><link>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</link><pubDate>Wed, 30 Oct 2024 02:02:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</guid><description><![CDATA[<p>nanoapi-io/napi<br>
+Software architecture tooling for the AI age<br>
+TypeScript repository by nanoapi-io, created in 2022, with 324 stars and 13 forks. Starred on 2024-10-30.<br>
+Homepage: <a href="https://nanoapi.io" target="_blank" rel="noopener noreffer ">https://nanoapi.io</a><br>
+<a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">https://github.com/nanoapi-io/napi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-30: <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">nanoapi-io/napi</a>.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
 <a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
 Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
 <p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
@@ -43,30 +60,15 @@ Code quality done right</p>
 <p>* 2,500+ code checks<br>
 Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
 <p>* Third-party license audit<br>
-Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
-<a href="https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap" target="_blank" rel="noopener noreffer ">https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap</a><br>
-ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>TypedDevs/bashunit</title><link>https://blog.emecas.net/posts/2023-12-08-typeddevs-bashunit/</link><pubDate>Fri, 08 Dec 2023 21:36:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-12-08-typeddevs-bashunit/</guid><description><![CDATA[<p>TypedDevs/bashunit<br>
+A simple yet powerfull testing library for bash scripts.<br>
+Shell repository by TypedDevs, created in 2023, with 441 stars and 59 forks. License: MIT. Starred on 2023-12-08.<br>
+Homepage: <a href="https://bashunit.com/" target="_blank" rel="noopener noreffer ">https://bashunit.com/</a><br>
+<a href="https://github.com/TypedDevs/bashunit" target="_blank" rel="noopener noreffer ">https://github.com/TypedDevs/bashunit</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/82ef19fc5e2c59f50a8967fe8447a1c5a4eac304" target="_blank" rel="noopener noreffer "><code>82ef19f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Eclipse Theia</title><link>https://blog.emecas.net/posts/2021-01-20-eclipse-theia/</link><pubDate>Wed, 20 Jan 2021 23:40:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-20-eclipse-theia/</guid><description><![CDATA[<p>Eclipse Theia<br>
-<a href="https://theia-ide.org/" target="_blank" rel="noopener noreffer ">https://theia-ide.org/</a><br>
-Cloud &amp; Desktop IDE Platform<br>
-Eclipse Theia is an extensible platform to develop multi-language Cloud &amp; Desktop IDEs with state-of-the-art web technologies.</p>
-<p>Repo: <a href="https://github.com/eclipse-theia/theia" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-theia/theia</a></p>
-<p>Cloud &amp; Desktop</p>
-<p>Not sure whether you need a web or desktop version or both?</p>
-<p>With Theia you can develop one IDE and run it in browsers or native desktop application from a single source.</p>
-<p>Vendor Neutral</p>
-<p>The Theia project is hosted at the Eclipse Foundation, a not-for-profit corporation, and is developed by a diverse community.</p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
-<a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
-web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>
+<p><em>Source: starred on GitHub on 2023-12-08: <a href="https://github.com/TypedDevs/bashunit" target="_blank" rel="noopener noreffer ">TypedDevs/bashunit</a>.</em></p>]]></description></item><item><title>jherr/create-mf-app</title><link>https://blog.emecas.net/posts/2023-11-23-jherr-create-mf-app/</link><pubDate>Thu, 23 Nov 2023 12:34:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-23-jherr-create-mf-app/</guid><description><![CDATA[<p>jherr/create-mf-app<br>
+CLI app to create Module Federation applications<br>
+TypeScript repository by jherr, created in 2021, with 783 stars and 89 forks. License: MIT. Starred on 2023-11-23.<br>
+<a href="https://github.com/jherr/create-mf-app" target="_blank" rel="noopener noreffer ">https://github.com/jherr/create-mf-app</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/486dfbcb10d3f0f89bb8d43e3c10d1c6dcdd8921" target="_blank" rel="noopener noreffer "><code>486dfbc</code></a> in My-Notes.</em></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
-<a href="https://plnkr.co" target="_blank" rel="noopener noreffer ">https://plnkr.co</a><br>
-Plunker is where you get stuff done<br>
-Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/344d7ff3b3de9cc0af3413d52f32dac73c15aef3" target="_blank" rel="noopener noreffer "><code>344d7ff</code></a> in My-Notes.</em></p>]]></description></item><item><title>DBeaver not showing dbms_output</title><link>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</link><pubDate>Thu, 04 Jun 2020 17:12:31 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</guid><description><![CDATA[<p>DBeaver not showing dbms_output<br>
-(Ctrl+Shift+O)<br>
-Ref:<a href="https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0a208e9fcad923995de08bc0dba1a65876fd09c8" target="_blank" rel="noopener noreffer "><code>0a208e9</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2023-11-23: <a href="https://github.com/jherr/create-mf-app" target="_blank" rel="noopener noreffer ">jherr/create-mf-app</a>.</em></p>]]></description></item></channel></rss>

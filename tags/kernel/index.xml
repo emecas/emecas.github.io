@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kernel - Tag - My Notes</title><link>https://blog.emecas.net/tags/kernel/</link><description>Kernel - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 26 Dec 2017 15:03:12 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kernel/" rel="self" type="application/rss+xml"/><item><title>oracle/ktf</title><link>https://blog.emecas.net/posts/2017-12-26-oracle-ktf/</link><pubDate>Tue, 26 Dec 2017 15:03:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-26-oracle-ktf/</guid><description><![CDATA[<p>oracle/ktf<br>
+Kernel Test Framework - a unit test framework for the Linux kernel<br>
+Shell repository by oracle, created in 2017, with 96 stars and 36 forks. Archived by its owner. Starred on 2017-12-26.<br>
+<a href="https://github.com/oracle/ktf" target="_blank" rel="noopener noreffer ">https://github.com/oracle/ktf</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-26: <a href="https://github.com/oracle/ktf" target="_blank" rel="noopener noreffer ">oracle/ktf</a>.</em></p>]]></description></item></channel></rss>

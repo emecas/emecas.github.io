@@ -10,7 +10,35 @@ Apache Superset is an open-source modern data exploration and visualization plat
 • Semantic layer for SQL data transformations<br>
 • Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
 • Virtual datasets for ad-hoc data exploration<br>
-• Access to new functionalities through feature flags</p>]]></description></item><item><title>OpenRefine</title><link>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</link><pubDate>Sun, 31 Jul 2022 16:11:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</guid><description><![CDATA[<p>OpenRefine<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>firecrawl/firecrawl</title><link>https://blog.emecas.net/posts/2025-07-04-firecrawl-firecrawl/</link><pubDate>Fri, 04 Jul 2025 16:33:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-07-04-firecrawl-firecrawl/</guid><description><![CDATA[<p>firecrawl/firecrawl<br>
+Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥<br>
+TypeScript repository by firecrawl, created in 2024, with 200,597 stars and 10,550 forks. License: AGPL-3.0. Starred on 2025-07-04.<br>
+Homepage: <a href="https://firecrawl.dev" target="_blank" rel="noopener noreffer ">https://firecrawl.dev</a><br>
+<a href="https://github.com/firecrawl/firecrawl" target="_blank" rel="noopener noreffer ">https://github.com/firecrawl/firecrawl</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-07-04: <a href="https://github.com/firecrawl/firecrawl" target="_blank" rel="noopener noreffer ">firecrawl/firecrawl</a>.</em></p>]]></description></item><item><title>Waikato/moa</title><link>https://blog.emecas.net/posts/2024-09-29-waikato-moa/</link><pubDate>Sun, 29 Sep 2024 18:18:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-29-waikato-moa/</guid><description><![CDATA[<p>Waikato/moa<br>
+MOA is an open source framework for Big Data stream mining. It includes a collection of machine learning algorithms (classification, regression, clustering, outlier detection, concept drift detection and recommender systems) and tools for evaluation.<br>
+Java repository by Waikato, created in 2014, with 671 stars and 370 forks. License: GPL-3.0. Starred on 2024-09-29.<br>
+Homepage: <a href="http://moa.cms.waikato.ac.nz/" target="_blank" rel="noopener noreffer ">http://moa.cms.waikato.ac.nz/</a><br>
+<a href="https://github.com/Waikato/moa" target="_blank" rel="noopener noreffer ">https://github.com/Waikato/moa</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-09-29: <a href="https://github.com/Waikato/moa" target="_blank" rel="noopener noreffer ">Waikato/moa</a>.</em></p>]]></description></item><item><title>nsadawi/ML-DataEng-Pipelines</title><link>https://blog.emecas.net/posts/2024-05-21-nsadawi-ml-dataeng-pipelines/</link><pubDate>Tue, 21 May 2024 16:19:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-21-nsadawi-ml-dataeng-pipelines/</guid><description><![CDATA[<p>nsadawi/ML-DataEng-Pipelines<br>
+To show the usefulness of data engineering and ML pipelines.<br>
+Jupyter Notebook repository by nsadawi, created in 2022, with 61 stars and 66 forks. Starred on 2024-05-21.<br>
+<a href="https://github.com/nsadawi/ML-DataEng-Pipelines" target="_blank" rel="noopener noreffer ">https://github.com/nsadawi/ML-DataEng-Pipelines</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-21: <a href="https://github.com/nsadawi/ML-DataEng-Pipelines" target="_blank" rel="noopener noreffer ">nsadawi/ML-DataEng-Pipelines</a>.</em></p>]]></description></item><item><title>code-for-charlottesville/LAJC-expungement</title><link>https://blog.emecas.net/posts/2024-03-24-code-for-charlottesville-lajc-expungement/</link><pubDate>Sun, 24 Mar 2024 20:14:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-24-code-for-charlottesville-lajc-expungement/</guid><description><![CDATA[<p>code-for-charlottesville/LAJC-expungement<br>
+Data and analysis to support expanding criminal record expungement eligibility in Virginia<br>
+HTML repository by code-for-charlottesville, created in 2021, with 5 stars and 1 forks. Starred on 2024-03-24.<br>
+<a href="https://github.com/code-for-charlottesville/LAJC-expungement" target="_blank" rel="noopener noreffer ">https://github.com/code-for-charlottesville/LAJC-expungement</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-03-24: <a href="https://github.com/code-for-charlottesville/LAJC-expungement" target="_blank" rel="noopener noreffer ">code-for-charlottesville/LAJC-expungement</a>.</em></p>]]></description></item><item><title>simonw/datasette</title><link>https://blog.emecas.net/posts/2023-06-04-simonw-datasette/</link><pubDate>Sun, 04 Jun 2023 19:23:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-04-simonw-datasette/</guid><description><![CDATA[<p>simonw/datasette<br>
+An open source multi-tool for exploring and publishing data<br>
+Python repository by simonw, created in 2017, with 11,568 stars and 961 forks. License: Apache-2.0. Starred on 2023-06-04.<br>
+Homepage: <a href="https://datasette.io" target="_blank" rel="noopener noreffer ">https://datasette.io</a><br>
+<a href="https://github.com/simonw/datasette" target="_blank" rel="noopener noreffer ">https://github.com/simonw/datasette</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-04: <a href="https://github.com/simonw/datasette" target="_blank" rel="noopener noreffer ">simonw/datasette</a>.</em></p>]]></description></item><item><title>OpenRefine</title><link>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</link><pubDate>Sun, 31 Jul 2022 16:11:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</guid><description><![CDATA[<p>OpenRefine<br>
 <a href="https://openrefine.org/" target="_blank" rel="noopener noreffer ">https://openrefine.org/</a></p>
 <p><a href="https://github.com/OpenRefine/OpenRefine" target="_blank" rel="noopener noreffer ">https://github.com/OpenRefine/OpenRefine</a></p>
 <p>OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.</p>
@@ -18,83 +46,16 @@ Apache Superset is an open-source modern data exploration and visualization plat
 <a href="https://openrefine.org/" target="_blank" rel="noopener noreffer ">https://openrefine.org/</a></p>
 <p><a href="https://github.com/OpenRefine/OpenRefine" target="_blank" rel="noopener noreffer ">https://github.com/OpenRefine/OpenRefine</a></p>
 <p>OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.</p>
-<p>OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)</p>]]></description></item><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
-<a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
-Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
-<p>Title:<br>
-Standard for Learning Metadata</p>
-<p>Scope:<br>
-This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
-This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
-This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
-This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>Apache Empire-db</title><link>https://blog.emecas.net/posts/2020-05-14-apache-empire-db/</link><pubDate>Thu, 14 May 2020 19:47:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-apache-empire-db/</guid><description><![CDATA[<p>Apache Empire-db<br>
-Apache Empire-db is a relational database abstraction layer and data persistence component that allows developers to take a much more SQL-centric approach in application development than traditional Object-relational mapping frameworks (ORM). By providing a unique type-safe object orientated command API Empire-db allows building highly efficient SQL-statements that take full advantage of all database features while eliminating the need for error-prone string operations and literals. This, togehter with DBMS independent record and metadata managment leads to an unprecedented level of ease-of-use and compile-time-safety.<br>
-<a href="https://empire-db.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://empire-db.apache.org/index.html</a></p>]]></description></item><item><title>GISAID</title><link>https://blog.emecas.net/posts/2020-05-05-gisaid/</link><pubDate>Tue, 05 May 2020 23:36:28 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-05-gisaid/</guid><description><![CDATA[<p>Global Initiative for Sharing All Influenza Data<br>
-<a href="http://www.gisaid.org" target="_blank" rel="noopener noreffer ">http://www.gisaid.org</a><br>
-Mision:<br>
-Enabling rapid and open access to epidemic and pandemic virus data</p>
-<p>The GISAID Initiative promotes the rapid sharing of data from all influenza viruses and the coronavirus causing COVID-19. This includes genetic sequence and related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how viruses evolve and spread during epidemics and pandemics.</p>]]></description></item><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
-<a href="https://github.com/DiUS/java-faker" target="_blank" rel="noopener noreffer ">https://github.com/DiUS/java-faker</a><br>
-Brings the popular ruby faker gem to Java<br>
-JavaFaker is a library that can be used to generate a wide array of real-looking data from addresses to popular culture references.</p>
-<p>maven:<br>
-&lt;dependency&gt;<br>
-&lt;groupId&gt;com.github.javafaker&lt;/groupId&gt;<br>
-&lt;artifactId&gt;javafaker&lt;/artifactId&gt;<br>
-&lt;version&gt;1.0.2&lt;/version&gt;<br>
-&lt;/dependency&gt;</p>
-<p>gradle:<br>
-dependencies {<br>
-implementation &lsquo;com.github.javafaker:javafaker:1.0.2&rsquo;<br>
-}</p>
-<p>Java code<br>
-Faker faker = new Faker();</p>
-<p>String name = faker.name().fullName(); // Miss Samanta Schmidt<br>
-String firstName = faker.name().firstName(); // Emory<br>
-String lastName = faker.name().lastName(); // Barton</p>]]></description></item><item><title>go-covid</title><link>https://blog.emecas.net/posts/2020-03-20-go-covid/</link><pubDate>Fri, 20 Mar 2020 17:07:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-20-go-covid/</guid><description><![CDATA[<p>go-covid<br>
-Go Package to get information regarding the novel corona virus provided by Johns Hopkins university<br>
-<a href="https://ahmednafies.github.io/go-covid/" target="_blank" rel="noopener noreffer ">https://ahmednafies.github.io/go-covid/</a><br>
-<a href="https://github.com/ahmednafies/go-covid" target="_blank" rel="noopener noreffer ">https://github.com/ahmednafies/go-covid</a></p>
-<p>Get All Data<br>
-data := covid.GetData()<br>
-fmt.Println(data)</p>
-<p>Get Status By Country Name<br>
-data := covid.GetCountryByName(&ldquo;italy&rdquo;)</p>
-<p>List Countries<br>
-covid.ListCountries()</p>
-<p>Get Status by Country ID<br>
-data := covid.GetCountryById(113)</p>
-<p>Get Total Active Cases<br>
-active := covid.GetTotalActive()</p>
-<p>Get Total Confirmed Cases<br>
-confirmed := covid.GetTotalConfirmed()</p>
-<p>Get Total Recovered Cases<br>
-recovered := covid.GetTotalRecovered()</p>
-<p>Get Total Deaths<br>
-deaths := covid.GetTotalDeaths()</p>]]></description></item><item><title>Dataflow Model</title><link>https://blog.emecas.net/posts/2020-01-26-dataflow-model/</link><pubDate>Sun, 26 Jan 2020 19:23:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-26-dataflow-model/</guid><description><![CDATA[<p>The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing<br>
-<a href="https://research.google/pubs/pub43864/" target="_blank" rel="noopener noreffer ">https://research.google/pubs/pub43864/</a><br>
-<a href="http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf" target="_blank" rel="noopener noreffer ">http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf</a><br>
-Ref: <a href="https://www.se-radio.net/2016/10/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/10/</a></p>
+<p>OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)</p>]]></description></item><item><title>apache/superset</title><link>https://blog.emecas.net/posts/2021-04-14-apache-superset/</link><pubDate>Wed, 14 Apr 2021 00:26:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-04-14-apache-superset/</guid><description><![CDATA[<p>apache/superset<br>
+Apache Superset is a Data Visualization and Data Exploration Platform<br>
+Python repository by apache, created in 2015, with 75,470 stars and 18,605 forks. License: Apache-2.0. Starred on 2021-04-14.<br>
+Homepage: <a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
+<a href="https://github.com/apache/superset" target="_blank" rel="noopener noreffer ">https://github.com/apache/superset</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e84f726a54aebc65b278ec87b955616eb7d1530e" target="_blank" rel="noopener noreffer "><code>e84f726</code></a> in My-Notes.</em></p>]]></description></item><item><title>Apache NiFi</title><link>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</link><pubDate>Fri, 02 Aug 2019 16:59:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</guid><description><![CDATA[<p>Apache NiFi<br>
-<a href="https://nifi.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://nifi.apache.org/index.html</a><br>
-<a href="https://gitbox.apache.org/repos/asf?p=nifi.git" target="_blank" rel="noopener noreffer ">https://gitbox.apache.org/repos/asf?p=nifi.git</a></p>
-<p>An easy to use, powerful, and reliable system to process and distribute data.</p>
-<p>Features</p>
-<p>Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. Some of the high-level capabilities and objectives of Apache NiFi include:</p>
-<p>Web-based user interface<br>
-Seamless experience between design, control, feedback, and monitoring<br>
-Highly configurable<br>
-Loss tolerant vs guaranteed delivery<br>
-Low latency vs high throughput<br>
-Dynamic prioritization<br>
-Flow can be modified at runtime<br>
-Back pressure<br>
-Data Provenance<br>
-Track dataflow from beginning to end<br>
-Designed for extension<br>
-Build your own processors and more<br>
-Enables rapid development and effective testing<br>
-Secure<br>
-SSL, SSH, HTTPS, encrypted content, etc&hellip;<br>
-Multi-tenant authorization and internal authorization/policy management</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2021-04-14: <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreffer ">apache/superset</a>.</em></p>]]></description></item><item><title>csvconf/csvconf.com</title><link>https://blog.emecas.net/posts/2021-03-08-csvconf-csvconf-com/</link><pubDate>Mon, 08 Mar 2021 23:47:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-03-08-csvconf-csvconf-com/</guid><description><![CDATA[<p>csvconf/csvconf.com<br>
+A community conference for data makers everywhere, again!<br>
+JavaScript repository by csvconf, created in 2013, with 93 stars and 48 forks. License: MIT. Starred on 2021-03-08.<br>
+Homepage: <a href="https://csvconf.com" target="_blank" rel="noopener noreffer ">https://csvconf.com</a><br>
+<a href="https://github.com/csvconf/csvconf.com" target="_blank" rel="noopener noreffer ">https://github.com/csvconf/csvconf.com</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-03-08: <a href="https://github.com/csvconf/csvconf.com" target="_blank" rel="noopener noreffer ">csvconf/csvconf.com</a>.</em></p>]]></description></item></channel></rss>

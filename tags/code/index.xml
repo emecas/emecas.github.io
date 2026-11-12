@@ -1,77 +1,57 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Code - Tag - My Notes</title><link>https://blog.emecas.net/tags/code/</link><description>Code - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Feb 2024 10:15:29 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/code/" rel="self" type="application/rss+xml"/><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Code - Tag - My Notes</title><link>https://blog.emecas.net/tags/code/</link><description>Code - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Aug 2026 18:55:00 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/code/" rel="self" type="application/rss+xml"/><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
+Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
+Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
+<a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">https://github.com/aaif-goose/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-31: <a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">aaif-goose/goose</a>.</em></p>]]></description></item><item><title>fastapi/fastapi</title><link>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</link><pubDate>Mon, 24 Aug 2026 20:13:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</guid><description><![CDATA[<p>fastapi/fastapi<br>
+FastAPI framework, high performance, easy to learn, fast to code, ready for production<br>
+Python repository by fastapi, created in 2018, with 104,633 stars and 10,214 forks. License: MIT. Starred on 2026-08-24.<br>
+Homepage: <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
+<a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">https://github.com/fastapi/fastapi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-24: <a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">fastapi/fastapi</a>.</em></p>]]></description></item><item><title>ed-donner/choose_llm</title><link>https://blog.emecas.net/posts/2024-12-06-ed-donner-choose-llm/</link><pubDate>Fri, 06 Dec 2024 17:07:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-12-06-ed-donner-choose-llm/</guid><description><![CDATA[<p>ed-donner/choose_llm<br>
+Companion code to my class Choosing the Right LLM<br>
+Jupyter Notebook repository by ed-donner, created in 2024, with 83 stars and 88 forks. License: MIT. Starred on 2024-12-06.<br>
+<a href="https://github.com/ed-donner/choose_llm" target="_blank" rel="noopener noreffer ">https://github.com/ed-donner/choose_llm</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-12-06: <a href="https://github.com/ed-donner/choose_llm" target="_blank" rel="noopener noreffer ">ed-donner/choose_llm</a>.</em></p>]]></description></item><item><title>haruiz/geminiworkshop</title><link>https://blog.emecas.net/posts/2024-09-22-haruiz-geminiworkshop/</link><pubDate>Sun, 22 Sep 2024 01:25:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-22-haruiz-geminiworkshop/</guid><description><![CDATA[<p>haruiz/geminiworkshop<br>
+This repository contains the code for a workshop on Generative AI using Gemini.<br>
+Jupyter Notebook repository by haruiz, created in 2024, with 11 stars and 3 forks. Starred on 2024-09-22.<br>
+<a href="https://github.com/haruiz/geminiworkshop" target="_blank" rel="noopener noreffer ">https://github.com/haruiz/geminiworkshop</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-09-22: <a href="https://github.com/haruiz/geminiworkshop" target="_blank" rel="noopener noreffer ">haruiz/geminiworkshop</a>.</em></p>]]></description></item><item><title>ToolJet/ToolJet</title><link>https://blog.emecas.net/posts/2024-05-27-tooljet-tooljet/</link><pubDate>Mon, 27 May 2024 17:15:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-tooljet-tooljet/</guid><description><![CDATA[<p>ToolJet/ToolJet<br>
+Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀<br>
+HTML repository by ToolJet, created in 2021, with 41,219 stars and 5,507 forks. License: AGPL-3.0. Starred on 2024-05-27.<br>
+Homepage: <a href="https://tooljet.com" target="_blank" rel="noopener noreffer ">https://tooljet.com</a><br>
+<a href="https://github.com/ToolJet/ToolJet" target="_blank" rel="noopener noreffer ">https://github.com/ToolJet/ToolJet</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/ToolJet/ToolJet" target="_blank" rel="noopener noreffer ">ToolJet/ToolJet</a>.</em></p>]]></description></item><item><title>kousen/java_upgrade</title><link>https://blog.emecas.net/posts/2024-05-22-kousen-java-upgrade/</link><pubDate>Wed, 22 May 2024 15:00:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-22-kousen-java-upgrade/</guid><description><![CDATA[<p>kousen/java_upgrade<br>
+Code for Java upgrade workshop<br>
+Java repository by kousen, created in 2016, with 164 stars and 192 forks. License: MIT. Starred on 2024-05-22.<br>
+<a href="https://github.com/kousen/java_upgrade" target="_blank" rel="noopener noreffer ">https://github.com/kousen/java_upgrade</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-22: <a href="https://github.com/kousen/java_upgrade" target="_blank" rel="noopener noreffer ">kousen/java_upgrade</a>.</em></p>]]></description></item><item><title>norvig/paip-lisp</title><link>https://blog.emecas.net/posts/2024-04-06-norvig-paip-lisp/</link><pubDate>Sat, 06 Apr 2024 20:19:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-06-norvig-paip-lisp/</guid><description><![CDATA[<p>norvig/paip-lisp<br>
+Lisp code for the textbook &ldquo;Paradigms of Artificial Intelligence Programming&rdquo;<br>
+Common Lisp repository by norvig, created in 2018, with 7,524 stars and 720 forks. License: MIT. Starred on 2024-04-06.<br>
+<a href="https://github.com/norvig/paip-lisp" target="_blank" rel="noopener noreffer ">https://github.com/norvig/paip-lisp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-04-06: <a href="https://github.com/norvig/paip-lisp" target="_blank" rel="noopener noreffer ">norvig/paip-lisp</a>.</em></p>]]></description></item><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
 <a href="https://www.jetbrains.com/qodana/" target="_blank" rel="noopener noreffer ">https://www.jetbrains.com/qodana/</a><br>
 Code quality done right</p>
 <p>Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.</p>
 <p>* 2,500+ code checks<br>
 Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
 <p>* Third-party license audit<br>
-Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
-<a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
-Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
-<p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
-<p>Flavors:</p>
-<p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
-- p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
-- Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
-- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
-@paperswithcode<br>
-<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
-Our mission</p>
-<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
-<p>We believe this is best done together with the community and powered by automation.</p>
-<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>mscottford/clean-code-by-example</title><link>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</link><pubDate>Wed, 21 Jun 2023 15:01:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</guid><description><![CDATA[<p>mscottford/clean-code-by-example<br>
+Example code and exercises used in the O&rsquo;Reilly course, Clean Code by Example<br>
+C# repository by mscottford, created in 2022, with 24 stars and 12 forks. Starred on 2023-06-21.<br>
+<a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">https://github.com/mscottford/clean-code-by-example</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/37c127a777e4d494edaf1c0b597b97c94774a6b6" target="_blank" rel="noopener noreffer "><code>37c127a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Black - The uncompromising Python code formatter</title><link>https://blog.emecas.net/posts/2019-02-13-black-the-uncompromising-python-code-formatter/</link><pubDate>Wed, 13 Feb 2019 15:48:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-13-black-the-uncompromising-python-code-formatter/</guid><description><![CDATA[<p>Black - The uncompromising Python code formatter<br>
-<a href="https://black.readthedocs.io/en/stable/" target="_blank" rel="noopener noreffer ">https://black.readthedocs.io/en/stable/</a><br>
-<a href="https://github.com/ambv/black" target="_blank" rel="noopener noreffer ">https://github.com/ambv/black</a></p>
+<p><em>Source: starred on GitHub on 2023-06-21: <a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">mscottford/clean-code-by-example</a>.</em></p>]]></description></item><item><title>emilybache/GildedRose-Refactoring-Kata</title><link>https://blog.emecas.net/posts/2023-06-16-emilybache-gildedrose-refactoring-kata/</link><pubDate>Fri, 16 Jun 2023 13:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-16-emilybache-gildedrose-refactoring-kata/</guid><description><![CDATA[<p>emilybache/GildedRose-Refactoring-Kata<br>
+Starting code for the GildedRose Refactoring Kata in many programming languages.<br>
+XSLT repository by emilybache, created in 2013, with 4,322 stars and 6,159 forks. License: MIT. Starred on 2023-06-16.<br>
+Homepage: <a href="https://youtu.be/Mt4XpGxigT4" target="_blank" rel="noopener noreffer ">https://youtu.be/Mt4XpGxigT4</a><br>
+<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" target="_blank" rel="noopener noreffer ">https://github.com/emilybache/GildedRose-Refactoring-Kata</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/53c632e3a8aad26c1bc8f89416297217b4183732" target="_blank" rel="noopener noreffer "><code>53c632e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
-By James Shore<br>
-01 Feb, 2019</p>
-<p>- To add tests to legacy code<br>
-- To improve requirements code quality<br>
-- To improve non-functional quality<br>
-- (TDD reflexion) Here&rsquo;s the thing about TDD</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/659e7c7d2383a4d347fc8f85f12272e48ffbaadc" target="_blank" rel="noopener noreffer "><code>659e7c7</code></a> in My-Notes.</em></p>]]></description></item><item><title>Neural Ordinary Differential Equations</title><link>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</link><pubDate>Fri, 21 Dec 2018 10:48:53 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-21-neural-ordinary-differential-equations/</guid><description><![CDATA[<p>Neural Ordinary Differential Equations<br>
-Paper <a href="https://arxiv.org/abs/1806.07366" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1806.07366</a><br>
-Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud<br>
-(Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))<br>
-Post: <a href="https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/" target="_blank" rel="noopener noreffer ">https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/</a><br>
-reddit comments: <a href="https://reddit.com/comments/a65v5r" target="_blank" rel="noopener noreffer ">https://reddit.com/comments/a65v5r</a></p>
-<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
-And we&rsquo;ve written a follow-up paper applying this to generative density modeling:<br>
-Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cff11f0fcc7ddd107baf966c239282637af7a684" target="_blank" rel="noopener noreffer "><code>cff11f0</code></a> in My-Notes.</em></p>]]></description></item><item><title>coala : provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use</title><link>https://blog.emecas.net/posts/2017-06-21-coala-provides-a-unified-command-line-interface-for-linting/</link><pubDate>Wed, 21 Jun 2017 10:00:35 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-21-coala-provides-a-unified-command-line-interface-for-linting/</guid><description><![CDATA[<p>Coala<br>
-<a href="https://coala.io" target="_blank" rel="noopener noreffer ">https://coala.io</a><br>
-coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use. <a href="https://coala.io/" target="_blank" rel="noopener noreffer ">https://coala.io/</a></p>
-<p>coala is a language independent analysis toolkit. It empowers developers to create rules which a project&rsquo;s code should conform to. coala takes care of showing these issues to users in a friendly manner, is versatile and can be used in any environment. Patches to automatically fix code will be managed too.</p>]]></description></item><item><title>GeekCode</title><link>https://blog.emecas.net/posts/2015-07-15-geekcode/</link><pubDate>Wed, 15 Jul 2015 15:23:41 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-07-15-geekcode/</guid><description><![CDATA[<p>The Code of the Geeks v3.12<br>
-<a href="http://www.geekcode.com/geek.html" target="_blank" rel="noopener noreffer ">http://www.geekcode.com/geek.html</a><br>
-Sample:</p>
-<p>GeekCodeBlock<br>
-<a href="http://www.geekcode.com/" target="_blank" rel="noopener noreffer ">http://www.geekcode.com/</a><br>
-<a href="http://www.geekcode.com/geek.html" target="_blank" rel="noopener noreffer ">http://www.geekcode.com/geek.html</a></p>
-<p>-----BEGIN GEEK CODE BLOCK-----<br>
-Version: 3.1</p>
-<p>GCS$ d- s+++ a C+++ UL++$ P+ L+++ E++ W++ N-<br>
-PS++ PE- K- w-- Y+ t5 X+ R- tv-- b++ DI++<br>
-D+ G e+++ r+++ z+++<br>
-------END GEEK CODE BLOCK------</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/24db6ec0cbb71ae8cc64928926fcbf235bb90a8b" target="_blank" rel="noopener noreffer "><code>24db6ec</code></a> in My-Notes.</em></p>]]></description></item><item><title>Visual Studio Code</title><link>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</link><pubDate>Thu, 09 Jul 2015 17:41:10 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-07-09-visual-studio-code/</guid><description><![CDATA[<p>Visual Studio Code<br>
-Code Editing. Redefined.<br>
-Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.<br>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">https://code.visualstudio.com/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/daa2ed932c425ff2366dae0f4a6ccac6bbf0bb6b" target="_blank" rel="noopener noreffer "><code>daa2ed9</code></a> in My-Notes.</em></p>]]></description></item><item><title>SonarQube - “Sonar”</title><link>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</link><pubDate>Wed, 08 Jul 2015 12:49:09 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</guid><description><![CDATA[<p>Web Framework Benchmarks<br>
-Introduction<br>
-This is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The test implementations are largely community-contributed and all source is available at the GitHub repository.<br>
-<a href="http://www.techempower.com/benchmarks/#section=intro&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=intro&hw=peak&test=plaintext</a><br>
-<a href="http://www.techempower.com/benchmarks/#section=data-r10&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=data-r10&hw=peak&test=plaintext</a></p>
-<p>SonarQube™ software (previously known as “Sonar”) is an open source project.<br>
-Download and install your own copy. Version: 5.1.1 (Jun 5, 2015) distributed under license LGPL v3.<br>
-All in one<br>
-SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:<br>
-Comments, Coding Rules, Architecture &amp; Design, Duplications, Unit Tests, Potential Bug, Complexity<br>
-<a href="http://www.sonarqube.org/" target="_blank" rel="noopener noreffer ">http://www.sonarqube.org/</a></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2023-06-16: <a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" target="_blank" rel="noopener noreffer ">emilybache/GildedRose-Refactoring-Kata</a>.</em></p>]]></description></item></channel></rss>

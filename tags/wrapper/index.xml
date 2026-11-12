@@ -9,7 +9,19 @@ It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
 <p>How to use</p>
 <p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
 <p>or run it directly from the upstream image:</p>
-<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>python-gitlab/python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-13-python-gitlab-python-gitlab/</link><pubDate>Thu, 13 Feb 2020 00:49:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-python-gitlab-python-gitlab/</guid><description><![CDATA[<p>python-gitlab/python-gitlab<br>
+A python wrapper for the GitLab API.<br>
+Python repository by python-gitlab, created in 2013, with 2,482 stars and 682 forks. Starred on 2020-02-13.<br>
+Homepage: <a href="https://python-gitlab.readthedocs.io" target="_blank" rel="noopener noreffer ">https://python-gitlab.readthedocs.io</a><br>
+<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-13: <a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">python-gitlab/python-gitlab</a>.</em></p>]]></description></item><item><title>jupiter-tools/mvc-requester</title><link>https://blog.emecas.net/posts/2019-02-14-jupiter-tools-mvc-requester/</link><pubDate>Thu, 14 Feb 2019 23:24:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-14-jupiter-tools-mvc-requester/</guid><description><![CDATA[<p>jupiter-tools/mvc-requester<br>
+Wrapper over the MockMvc to write tests of REST API in Spring.<br>
+Java repository by jupiter-tools, created in 2019, with 2 stars and 0 forks. Starred on 2019-02-14.<br>
+Homepage: <a href="http://jupiter-tools.com" target="_blank" rel="noopener noreffer ">http://jupiter-tools.com</a><br>
+<a href="https://github.com/jupiter-tools/mvc-requester" target="_blank" rel="noopener noreffer ">https://github.com/jupiter-tools/mvc-requester</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-02-14: <a href="https://github.com/jupiter-tools/mvc-requester" target="_blank" rel="noopener noreffer ">jupiter-tools/mvc-requester</a>.</em></p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
 <a href="https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/" target="_blank" rel="noopener noreffer ">https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/</a><br>
 The Gradle wrapper is a self-contained Gradle runner and distribution that&rsquo;s typically built into your Gradle project. It&rsquo;s bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.</p>
 <p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item></channel></rss>

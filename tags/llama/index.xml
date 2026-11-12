@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Llama - Tag - My Notes</title><link>https://blog.emecas.net/tags/llama/</link><description>Llama - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 18:38:45 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/llama/" rel="self" type="application/rss+xml"/><item><title>mukel/llama3.java</title><link>https://blog.emecas.net/posts/2024-10-17-mukel-llama3-java/</link><pubDate>Thu, 17 Oct 2024 18:38:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-mukel-llama3-java/</guid><description><![CDATA[<p>mukel/llama3.java<br>
+Llama 3+ inference in pure Java<br>
+Java repository by mukel, created in 2024, with 817 stars and 95 forks. License: MIT. Starred on 2024-10-17.<br>
+<a href="https://github.com/mukel/llama3.java" target="_blank" rel="noopener noreffer ">https://github.com/mukel/llama3.java</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-17: <a href="https://github.com/mukel/llama3.java" target="_blank" rel="noopener noreffer ">mukel/llama3.java</a>.</em></p>]]></description></item></channel></rss>

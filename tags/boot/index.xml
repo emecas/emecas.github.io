@@ -1,0 +1,51 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Boot - Tag - My Notes</title><link>https://blog.emecas.net/tags/boot/</link><description>Boot - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Jun 2024 14:29:49 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/boot/" rel="self" type="application/rss+xml"/><item><title>kousen/spring-and-spring-boot</title><link>https://blog.emecas.net/posts/2024-06-11-kousen-spring-and-spring-boot/</link><pubDate>Tue, 11 Jun 2024 14:29:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-11-kousen-spring-and-spring-boot/</guid><description><![CDATA[<p>kousen/spring-and-spring-boot<br>
+Lab solutions for Spring and Spring Boot course<br>
+Java repository by kousen, created in 2017, with 306 stars and 257 forks. License: MIT. Starred on 2024-06-11.<br>
+<a href="https://github.com/kousen/spring-and-spring-boot" target="_blank" rel="noopener noreffer ">https://github.com/kousen/spring-and-spring-boot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/kousen/spring-and-spring-boot" target="_blank" rel="noopener noreffer ">kousen/spring-and-spring-boot</a>.</em></p>]]></description></item><item><title>apache/dubbo-spring-boot-project</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</link><pubDate>Wed, 22 Jan 2020 03:44:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</guid><description><![CDATA[<p>apache/dubbo-spring-boot-project<br>
+Spring Boot Project for Apache Dubbo<br>
+Java repository by apache, created in 2018, with 5,371 stars and 1,842 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org</a><br>
+<a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo-spring-boot-project</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">apache/dubbo-spring-boot-project</a>.</em></p>]]></description></item><item><title>dsyer/spring-boot-features</title><link>https://blog.emecas.net/posts/2019-11-01-dsyer-spring-boot-features/</link><pubDate>Fri, 01 Nov 2019 19:57:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-11-01-dsyer-spring-boot-features/</guid><description><![CDATA[<p>dsyer/spring-boot-features<br>
+Java repository by dsyer, created in 2019, with 5 stars and 3 forks. Starred on 2019-11-01.<br>
+<a href="https://github.com/dsyer/spring-boot-features" target="_blank" rel="noopener noreffer ">https://github.com/dsyer/spring-boot-features</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-11-01: <a href="https://github.com/dsyer/spring-boot-features" target="_blank" rel="noopener noreffer ">dsyer/spring-boot-features</a>.</em></p>]]></description></item><item><title>M3lkior/spring-keycloak-tutorials</title><link>https://blog.emecas.net/posts/2019-03-14-m3lkior-spring-keycloak-tutorials/</link><pubDate>Thu, 14 Mar 2019 12:23:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-m3lkior-spring-keycloak-tutorials/</guid><description><![CDATA[<p>M3lkior/spring-keycloak-tutorials<br>
+Tutorials about Keycloak and Spring Boot / Security configurations<br>
+Java repository by M3lkior, created in 2017, with 3 stars and 1 forks. Starred on 2019-03-14.<br>
+<a href="https://github.com/M3lkior/spring-keycloak-tutorials" target="_blank" rel="noopener noreffer ">https://github.com/M3lkior/spring-keycloak-tutorials</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/M3lkior/spring-keycloak-tutorials" target="_blank" rel="noopener noreffer ">M3lkior/spring-keycloak-tutorials</a>.</em></p>]]></description></item><item><title>ivangfr/springboot-keycloak-openldap</title><link>https://blog.emecas.net/posts/2019-03-14-ivangfr-springboot-keycloak-openldap/</link><pubDate>Thu, 14 Mar 2019 12:23:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-ivangfr-springboot-keycloak-openldap/</guid><description><![CDATA[<p>ivangfr/springboot-keycloak-openldap<br>
+The goal of this project is to create a simple Spring Boot REST API, called simple-service, and secure it with Keycloak. Furthermore, the API users will be loaded into Keycloak from OpenLDAP server.<br>
+Java repository by ivangfr, created in 2018, with 174 stars and 70 forks. License: MIT. Starred on 2019-03-14.<br>
+<a href="https://github.com/ivangfr/springboot-keycloak-openldap" target="_blank" rel="noopener noreffer ">https://github.com/ivangfr/springboot-keycloak-openldap</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/ivangfr/springboot-keycloak-openldap" target="_blank" rel="noopener noreffer ">ivangfr/springboot-keycloak-openldap</a>.</em></p>]]></description></item><item><title>apache/causeway</title><link>https://blog.emecas.net/posts/2019-02-11-apache-causeway/</link><pubDate>Mon, 11 Feb 2019 19:16:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-apache-causeway/</guid><description><![CDATA[<p>apache/causeway<br>
+Use Apache Causeway™ to rapidly develop domain-driven apps or modular monoliths in Java, on top of the Spring Boot platform. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp, GraphQL or RESTful API. For prototyping or production.<br>
+Java repository by apache, created in 2012, with 908 stars and 315 forks. License: Apache-2.0. Starred on 2019-02-11.<br>
+Homepage: <a href="https://causeway.apache.org/" target="_blank" rel="noopener noreffer ">https://causeway.apache.org/</a><br>
+<a href="https://github.com/apache/causeway" target="_blank" rel="noopener noreffer ">https://github.com/apache/causeway</a></p>]]></description></item><item><title>xeraa/microservice-monitoring</title><link>https://blog.emecas.net/posts/2018-05-29-xeraa-microservice-monitoring/</link><pubDate>Tue, 29 May 2018 18:30:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-05-29-xeraa-microservice-monitoring/</guid><description><![CDATA[<p>xeraa/microservice-monitoring<br>
+Monitor your Spring Boot application with the Elastic Stack all around<br>
+Java repository by xeraa, created in 2017, with 132 stars and 39 forks. License: MIT. Archived by its owner. Starred on 2018-05-29.<br>
+<a href="https://github.com/xeraa/microservice-monitoring" target="_blank" rel="noopener noreffer ">https://github.com/xeraa/microservice-monitoring</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-05-29: <a href="https://github.com/xeraa/microservice-monitoring" target="_blank" rel="noopener noreffer ">xeraa/microservice-monitoring</a>.</em></p>]]></description></item><item><title>eugenp/tutorials</title><link>https://blog.emecas.net/posts/2017-09-26-eugenp-tutorials/</link><pubDate>Tue, 26 Sep 2017 21:19:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-09-26-eugenp-tutorials/</guid><description><![CDATA[<p>eugenp/tutorials<br>
+Getting Started with Spring Boot 3:<br>
+Java repository by eugenp, created in 2013, with 37,308 stars and 53,066 forks. License: MIT. Starred on 2017-09-26.<br>
+Homepage: <a href="https://bit.ly/github-ls" target="_blank" rel="noopener noreffer ">https://bit.ly/github-ls</a><br>
+<a href="https://github.com/eugenp/tutorials" target="_blank" rel="noopener noreffer ">https://github.com/eugenp/tutorials</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-09-26: <a href="https://github.com/eugenp/tutorials" target="_blank" rel="noopener noreffer ">eugenp/tutorials</a>.</em></p>]]></description></item><item><title>singram/spring-boot-multitenant</title><link>https://blog.emecas.net/posts/2017-08-17-singram-spring-boot-multitenant/</link><pubDate>Thu, 17 Aug 2017 17:56:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-08-17-singram-spring-boot-multitenant/</guid><description><![CDATA[<p>singram/spring-boot-multitenant<br>
+Multi tenancy example using spring boot<br>
+Java repository by singram, created in 2016, with 31 stars and 22 forks. License: Apache-2.0. Starred on 2017-08-17.<br>
+<a href="https://github.com/singram/spring-boot-multitenant" target="_blank" rel="noopener noreffer ">https://github.com/singram/spring-boot-multitenant</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-08-17: <a href="https://github.com/singram/spring-boot-multitenant" target="_blank" rel="noopener noreffer ">singram/spring-boot-multitenant</a>.</em></p>]]></description></item><item><title>codecentric/spring-boot-admin</title><link>https://blog.emecas.net/posts/2017-04-20-codecentric-spring-boot-admin/</link><pubDate>Thu, 20 Apr 2017 20:09:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-20-codecentric-spring-boot-admin/</guid><description><![CDATA[<p>codecentric/spring-boot-admin<br>
+Admin UI for administration of spring boot applications<br>
+Java repository by codecentric, created in 2014, with 12,853 stars and 3,154 forks. License: Apache-2.0. Starred on 2017-04-20.<br>
+<a href="https://github.com/codecentric/spring-boot-admin" target="_blank" rel="noopener noreffer ">https://github.com/codecentric/spring-boot-admin</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-04-20: <a href="https://github.com/codecentric/spring-boot-admin" target="_blank" rel="noopener noreffer ">codecentric/spring-boot-admin</a>.</em></p>]]></description></item></channel></rss>

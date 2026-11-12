@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Prometheus - Tag - My Notes</title><link>https://blog.emecas.net/tags/prometheus/</link><description>Prometheus - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 Jul 2020 19:38:22 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/prometheus/" rel="self" type="application/rss+xml"/><item><title>prometheus/prometheus</title><link>https://blog.emecas.net/posts/2020-07-11-prometheus-prometheus/</link><pubDate>Sat, 11 Jul 2020 19:38:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-11-prometheus-prometheus/</guid><description><![CDATA[<p>prometheus/prometheus<br>
+The Prometheus monitoring system and time series database.<br>
+Go repository by prometheus, created in 2012, with 67,625 stars and 11,019 forks. License: Apache-2.0. Starred on 2020-07-11.<br>
+Homepage: <a href="https://prometheus.io/" target="_blank" rel="noopener noreffer ">https://prometheus.io/</a><br>
+<a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">https://github.com/prometheus/prometheus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">prometheus/prometheus</a>.</em></p>]]></description></item></channel></rss>

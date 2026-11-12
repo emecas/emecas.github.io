@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Shenyu - Tag - My Notes</title><link>https://blog.emecas.net/tags/shenyu/</link><description>Shenyu - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 Jan 2021 05:42:48 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/shenyu/" rel="self" type="application/rss+xml"/><item><title>apache/shenyu</title><link>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</link><pubDate>Sat, 16 Jan 2021 05:42:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</guid><description><![CDATA[<p>apache/shenyu<br>
+Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+Java repository by apache, created in 2018, with 8,919 stars and 3,111 forks. License: Apache-2.0. Starred on 2021-01-16.<br>
+Homepage: <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a><br>
+<a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-16: <a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">apache/shenyu</a>.</em></p>]]></description></item></channel></rss>

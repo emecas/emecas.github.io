@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Svelte - Tag - My Notes</title><link>https://blog.emecas.net/tags/svelte/</link><description>Svelte - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Oct 2020 03:43:17 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/svelte/" rel="self" type="application/rss+xml"/><item><title>TanStack/query</title><link>https://blog.emecas.net/posts/2020-10-23-tanstack-query/</link><pubDate>Fri, 23 Oct 2020 03:43:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-23-tanstack-query/</guid><description><![CDATA[<p>TanStack/query<br>
+🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.<br>
+TypeScript repository by TanStack, created in 2019, with 50,558 stars and 4,223 forks. License: MIT. Starred on 2020-10-23.<br>
+Homepage: <a href="https://tanstack.com/query" target="_blank" rel="noopener noreffer ">https://tanstack.com/query</a><br>
+<a href="https://github.com/TanStack/query" target="_blank" rel="noopener noreffer ">https://github.com/TanStack/query</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-23: <a href="https://github.com/TanStack/query" target="_blank" rel="noopener noreffer ">TanStack/query</a>.</em></p>]]></description></item></channel></rss>

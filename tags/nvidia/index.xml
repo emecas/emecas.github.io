@@ -4,4 +4,9 @@ Build and run Docker containers leveraging NVIDIA GPUs<br>
 The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
 <a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>NVIDIA/nvidia-docker</title><link>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</link><pubDate>Sat, 29 Feb 2020 05:17:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</guid><description><![CDATA[<p>NVIDIA/nvidia-docker<br>
+Build and run Docker containers leveraging NVIDIA GPUs<br>
+Repository by NVIDIA, created in 2015, with 17,622 stars and 2,052 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-02-29.<br>
+<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">NVIDIA/nvidia-docker</a>.</em></p>]]></description></item></channel></rss>

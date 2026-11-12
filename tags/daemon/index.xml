@@ -3,4 +3,10 @@ Got permission denied while trying to connect to the Docker daemon socket at uni
 Solution: <a href="https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/" target="_blank" rel="noopener noreffer ">https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/</a><br>
 &gt; sudo usermod -a -G docker $USER</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e34b4b6ff79eb4af0a2f631cda4f6b51157fa6b4" target="_blank" rel="noopener noreffer "><code>e34b4b6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e34b4b6ff79eb4af0a2f631cda4f6b51157fa6b4" target="_blank" rel="noopener noreffer "><code>e34b4b6</code></a> in My-Notes.</em></p>]]></description></item><item><title>Bumblebee-Project/Bumblebee</title><link>https://blog.emecas.net/posts/2017-12-31-bumblebee-project-bumblebee/</link><pubDate>Sun, 31 Dec 2017 21:43:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-31-bumblebee-project-bumblebee/</guid><description><![CDATA[<p>Bumblebee-Project/Bumblebee<br>
+Bumblebee daemon and client rewritten in C<br>
+C repository by Bumblebee-Project, created in 2011, with 1,296 stars and 140 forks. License: GPL-3.0. Starred on 2017-12-31.<br>
+Homepage: <a href="http://www.bumblebee-project.org/" target="_blank" rel="noopener noreffer ">http://www.bumblebee-project.org/</a><br>
+<a href="https://github.com/Bumblebee-Project/Bumblebee" target="_blank" rel="noopener noreffer ">https://github.com/Bumblebee-Project/Bumblebee</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-31: <a href="https://github.com/Bumblebee-Project/Bumblebee" target="_blank" rel="noopener noreffer ">Bumblebee-Project/Bumblebee</a>.</em></p>]]></description></item></channel></rss>

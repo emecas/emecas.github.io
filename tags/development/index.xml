@@ -1,8 +1,36 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Development - Tag - My Notes</title><link>https://blog.emecas.net/tags/development/</link><description>Development - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 21 Sep 2020 12:35:13 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/development/" rel="self" type="application/rss+xml"/><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Development - Tag - My Notes</title><link>https://blog.emecas.net/tags/development/</link><description>Development - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Jun 2025 03:37:04 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/development/" rel="self" type="application/rss+xml"/><item><title>romenrg/evergreen-skills-developers</title><link>https://blog.emecas.net/posts/2025-06-17-romenrg-evergreen-skills-developers/</link><pubDate>Tue, 17 Jun 2025 03:37:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-17-romenrg-evergreen-skills-developers/</guid><description><![CDATA[<p>romenrg/evergreen-skills-developers<br>
+List of evergreen skills, based on software development best practices &amp; cross-framework principles, that should serve as a fair assessment of skilled software engineers / developers<br>
+Repository by romenrg, created in 2018, with 2,282 stars and 142 forks. License: MIT. Starred on 2025-06-17.<br>
+Homepage: <a href="https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer/" target="_blank" rel="noopener noreffer ">https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer/</a><br>
+<a href="https://github.com/romenrg/evergreen-skills-developers" target="_blank" rel="noopener noreffer ">https://github.com/romenrg/evergreen-skills-developers</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-06-17: <a href="https://github.com/romenrg/evergreen-skills-developers" target="_blank" rel="noopener noreffer ">romenrg/evergreen-skills-developers</a>.</em></p>]]></description></item><item><title>Soypete/WebServices-in-3-weeks</title><link>https://blog.emecas.net/posts/2024-06-03-soypete-webservices-in-3-weeks/</link><pubDate>Mon, 03 Jun 2024 16:02:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-03-soypete-webservices-in-3-weeks/</guid><description><![CDATA[<p>Soypete/WebServices-in-3-weeks<br>
+Made for the O&rsquo;Reilly media course: Go for Web Development in 3 Weeks-A Guide for Building Robust Web Apps<br>
+Go repository by Soypete, created in 2023, with 27 stars and 10 forks. Starred on 2024-06-03.<br>
+<a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">https://github.com/Soypete/WebServices-in-3-weeks</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-03: <a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">Soypete/WebServices-in-3-weeks</a>.</em></p>]]></description></item><item><title>meedan/check</title><link>https://blog.emecas.net/posts/2020-10-03-meedan-check/</link><pubDate>Sat, 03 Oct 2020 11:28:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-03-meedan-check/</guid><description><![CDATA[<p>meedan/check<br>
+Development environment for Meedan Check, a collaborative media annotation platform<br>
+Shell repository by meedan, created in 2016, with 131 stars and 53 forks. License: MIT. Starred on 2020-10-03.<br>
+Homepage: <a href="https://meedan.com/check" target="_blank" rel="noopener noreffer ">https://meedan.com/check</a><br>
+<a href="https://github.com/meedan/check" target="_blank" rel="noopener noreffer ">https://github.com/meedan/check</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/meedan/check" target="_blank" rel="noopener noreffer ">meedan/check</a>.</em></p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
 <a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
 web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/486dfbcb10d3f0f89bb8d43e3c10d1c6dcdd8921" target="_blank" rel="noopener noreffer "><code>486dfbc</code></a> in My-Notes.</em></p>]]></description></item><item><title>Jonathan Stark Podcasts</title><link>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</link><pubDate>Fri, 24 Apr 2020 15:25:31 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</guid><description><![CDATA[<p>Jonathan Stark Podcasts<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/486dfbcb10d3f0f89bb8d43e3c10d1c6dcdd8921" target="_blank" rel="noopener noreffer "><code>486dfbc</code></a> in My-Notes.</em></p>]]></description></item><item><title>openjdk/jdk</title><link>https://blog.emecas.net/posts/2020-09-06-openjdk-jdk/</link><pubDate>Sun, 06 Sep 2020 19:41:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-openjdk-jdk/</guid><description><![CDATA[<p>openjdk/jdk<br>
+JDK main-line development <a href="https://openjdk.org/projects/jdk" target="_blank" rel="noopener noreffer ">https://openjdk.org/projects/jdk</a><br>
+Java repository by openjdk, created in 2018, with 23,513 stars and 6,601 forks. License: GPL-2.0. Starred on 2020-09-06.<br>
+<a href="https://github.com/openjdk/jdk" target="_blank" rel="noopener noreffer ">https://github.com/openjdk/jdk</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/openjdk/jdk" target="_blank" rel="noopener noreffer ">openjdk/jdk</a>.</em></p>]]></description></item><item><title>hoppscotch/hoppscotch</title><link>https://blog.emecas.net/posts/2020-09-04-hoppscotch-hoppscotch/</link><pubDate>Fri, 04 Sep 2020 09:40:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-04-hoppscotch-hoppscotch/</guid><description><![CDATA[<p>hoppscotch/hoppscotch<br>
+Open-Source API Development Ecosystem • <a href="https://hoppscotch.io" target="_blank" rel="noopener noreffer ">https://hoppscotch.io</a> • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternative to Postman, Insomnia<br>
+TypeScript repository by hoppscotch, created in 2019, with 80,773 stars and 6,233 forks. License: MIT. Starred on 2020-09-04.<br>
+Homepage: <a href="https://hoppscotch.io" target="_blank" rel="noopener noreffer ">https://hoppscotch.io</a><br>
+<a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener noreffer ">https://github.com/hoppscotch/hoppscotch</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-04: <a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener noreffer ">hoppscotch/hoppscotch</a>.</em></p>]]></description></item><item><title>Jonathan Stark Podcasts</title><link>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</link><pubDate>Fri, 24 Apr 2020 15:25:31 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-24-jonathan-stark-podcasts/</guid><description><![CDATA[<p>Jonathan Stark Podcasts<br>
 <a href="https://www.jonathanstark.com" target="_blank" rel="noopener noreffer ">https://www.jonathanstark.com</a><br>
 Freelancers’ Show: <a href="https://devchat.tv/freelancers/" target="_blank" rel="noopener noreffer ">https://devchat.tv/freelancers/</a><br>
 Terrifying Robot Dog podcast : <a href="https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog" target="_blank" rel="noopener noreffer ">https://www.stitcher.com/podcast/jonathan-stark-and-kelli-shaver/terrifying-robot-dog</a><br>
@@ -22,132 +50,10 @@ Tilt Up and Get Stuff Done<br>
 Tilt manages local development instances for teams that deploy to Kubernetes.</p>
 <p>Transition easily from any setup<br>
 Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
-(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>Threat Modeling</title><link>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</link><pubDate>Wed, 27 Mar 2019 20:49:48 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-27-threat-modeling/</guid><description><![CDATA[<p>Threat Modeling</p>
-<p><a href="https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling" target="_blank" rel="noopener noreffer ">https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling</a></p>
-<p>Threat modeling is a core element of the Microsoft Security Development Lifecycle (SDL). It’s an engineering technique you can use to help you identify threats, attacks, vulnerabilities, and countermeasures that could affect your application. You can use threat modeling to shape your application&rsquo;s design, meet your company&rsquo;s security objectives, and reduce risk.</p>
-<p>There are five major threat modeling steps:<br>
-Defining security requirements.<br>
-Creating an application diagram.<br>
-Identifying threats.<br>
-Mitigating threats.<br>
-Validating that threats have been mitigated.<br>
-Threat modeling should be part of your routine development lifecycle, enabling you to progressively refine your threat model and further reduce risk.</p>]]></description></item><item><title>Primitive Obsession</title><link>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</link><pubDate>Sat, 09 Feb 2019 18:11:48 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</guid><description><![CDATA[<p>Primitive Obsession<br>
-<a href="https://www.devteams.at/2019/02/04/primitive-obsession.html" target="_blank" rel="noopener noreffer ">https://www.devteams.at/2019/02/04/primitive-obsession.html</a><br>
-by David Tanzer<br>
-<a href="https://www.devteams.at/" target="_blank" rel="noopener noreffer ">https://www.devteams.at/</a></p>
-<p>Did you ever see some piece of code that uses primitive data types, like Strings or integers,<br>
-in it’s public API? I am sure you have, because most code is written like that.</p>
-<p>But that can cause problems. Today, I want to talk about a code smell called “Primitive Obsession”.<br>
-And I want to show you how code often becomes easier to understand and “nicer”<br>
-by eliminating primitive data types - especially, but not only, from it’s public API.</p>]]></description></item><item><title>Android Dev Podcast</title><link>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</link><pubDate>Fri, 08 Feb 2019 15:01:54 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</guid><description><![CDATA[<p>Android Dev Podcast<br>
-<a href="https://androiddevpodcast.com/" target="_blank" rel="noopener noreffer ">https://androiddevpodcast.com/</a><br>
-Podcast sobre Android en Español 🇲🇽🇵🇪🇨🇱🇬🇹🇸🇻🇩🇴🇨🇷 🇦🇷🇧🇴🇨🇴🇪🇸<br>
-<a href="https://twitter.com/androiddevlat" target="_blank" rel="noopener noreffer ">https://twitter.com/androiddevlat</a></p>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>xtdb/xtdb</title><link>https://blog.emecas.net/posts/2020-02-09-xtdb-xtdb/</link><pubDate>Sun, 09 Feb 2020 00:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-xtdb-xtdb/</guid><description><![CDATA[<p>xtdb/xtdb<br>
+An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt<br>
+Clojure repository by xtdb, created in 2018, with 3,098 stars and 198 forks. License: MPL-2.0. Starred on 2020-02-09.<br>
+Homepage: <a href="https://xtdb.com" target="_blank" rel="noopener noreffer ">https://xtdb.com</a><br>
+<a href="https://github.com/xtdb/xtdb" target="_blank" rel="noopener noreffer ">https://github.com/xtdb/xtdb</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/8fc7404c0790572d56daa23dd2c1bb3fafa4518f" target="_blank" rel="noopener noreffer "><code>8fc7404</code></a> in My-Notes.</em></p>]]></description></item><item><title>Mininet</title><link>https://blog.emecas.net/posts/2018-09-12-mininet/</link><pubDate>Wed, 12 Sep 2018 16:27:10 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-12-mininet/</guid><description><![CDATA[<p>Mininet<br>
-An Instant Virtual Network on your Laptop (or other PC)<br>
-<a href="http://mininet.org/" target="_blank" rel="noopener noreffer ">http://mininet.org/</a></p>
-<p>Mininet creates a realistic virtual network, running real kernel, switch and application code, on a single machine (VM, cloud or native), in seconds, with a single command:</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3b91607d9ab09710c37caf4dbe4e9d4f31afa0c9" target="_blank" rel="noopener noreffer "><code>3b91607</code></a> in My-Notes.</em></p>]]></description></item><item><title>List of Software Development Philosophies</title><link>https://blog.emecas.net/posts/2018-09-05-list-of-software-development-philosophies/</link><pubDate>Wed, 05 Sep 2018 16:09:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-05-list-of-software-development-philosophies/</guid><description><![CDATA[<p>List of Software Development Philosophies<br>
-<a href="https://en.wikipedia.org/wiki/List_of_software_development_philosophies" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/List_of_software_development_philosophies</a><br>
-This is a list of approaches, styles, and philosophies in software development not included in the category tree of software development philosophies. It contains also software development processes, software development methodologies and single practices, principles and laws.</p>
-<p>Contents</p>
-<p>1 Software development philosophies<br>
-2 Programming paradigms<br>
-3 Software development methodologies<br>
-4 Software development processes<br>
-5 See also<br>
-6 References</p>
-<p>Programming principles<br>
-Abstraction principle (computer programming)<br>
-Black box<br>
-Code reuse<br>
-Cohesion (computer science)<br>
-Command–query separation<br>
-Composition over inheritance<br>
-Coupling (computer programming)<br>
-Defensive programming<br>
-Dependency inversion principle<br>
-Deutsch limit<br>
-Discoverability<br>
-Don&rsquo;t repeat yourself<br>
-Fail-fast<br>
-GRASP (object-oriented design)<br>
-If it ain&rsquo;t broke, don&rsquo;t fix it<br>
-Information hiding<br>
-Interface segregation principle<br>
-Inversion of control<br>
-KISS principle<br>
-Law of Demeter<br>
-Liskov substitution principle<br>
-Loose coupling<br>
-Ninety-ninety rule<br>
-Offensive programming<br>
-Open–closed principle<br>
-Principle of least astonishment<br>
-Pristine Sources<br>
-Separation of concerns<br>
-Separation of mechanism and policy<br>
-Single responsibility principle<br>
-SOLID<br>
-Uniform access principle<br>
-Worse is better<br>
-You aren&rsquo;t gonna need it<br>
-Zen of Python<br>
-Zero one infinity rule<br>
-List of software development philosophies<br>
-Acceptance test–driven development<br>
-After the Software Wars<br>
-Agile Manifesto<br>
-Agile software development<br>
-Pull-based agile coaching<br>
-Behavior-driven development<br>
-Best practice<br>
-The Cathedral and the Bazaar<br>
-Comment programming<br>
-Composition filters<br>
-Cowboy coding<br>
-Design-driven development<br>
-Domain-driven design<br>
-Extreme programming<br>
-Fibonacci scale (agile)<br>
-Formal methods<br>
-Homesteading the Noosphere<br>
-Integration competency center<br>
-Iterative and incremental development<br>
-Kanban (development)<br>
-KISS principle<br>
-Lean integration<br>
-Lean software development<br>
-Lightweight methodology<br>
-The Magic Cauldron (essay)<br>
-Mayo-Smith pyramid<br>
-Micro-innovation<br>
-Minimalism (computing)<br>
-Open–closed principle<br>
-Planning poker<br>
-PM Declaration of Interdependence<br>
-Release early, release often<br>
-Retrenchment (computing)<br>
-Rule of least power<br>
-Scaled agile framework<br>
-Secure by design<br>
-Specification by example<br>
-Test double<br>
-Continuous test-driven development<br>
-Test-driven development<br>
-There&rsquo;s more than one way to do it<br>
-Transformation Priority Premise<br>
-Unix philosophy<br>
-Waterfall model<br>
-Worse is better<br>
-You aren&rsquo;t gonna need it</p>]]></description></item><item><title>Dandelion free and Open Source Java framework aimed at making web development simpler in JVM-based environments</title><link>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</link><pubDate>Wed, 28 Jun 2017 17:26:09 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-28-dandelion-free-and-open-source-java-framework-aimed-at-makin/</guid><description><![CDATA[<p>Dandelion<br>
-<a href="http://dandelion.github.io/" target="_blank" rel="noopener noreffer ">http://dandelion.github.io/</a><br>
-Dandelion is a free and Open Source Java framework aimed at making web development simpler in JVM-based environments.<br>
-It helps to manipulate the web assets (JS, CSS) in different ways: assets organization in a bundle graph and classical optimizations like minification, compression or caching.<br>
-It also facilitates the integration of powerful JavaScript libraries thanks to a set of extensible components.</p>
-<p><a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>
-<p>Repos: <a href="https://github.com/dandelion" target="_blank" rel="noopener noreffer ">https://github.com/dandelion</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fac063e533c66ea6a9f07db08b283fbf56984ee0" target="_blank" rel="noopener noreffer "><code>fac063e</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-02-09: <a href="https://github.com/xtdb/xtdb" target="_blank" rel="noopener noreffer ">xtdb/xtdb</a>.</em></p>]]></description></item></channel></rss>

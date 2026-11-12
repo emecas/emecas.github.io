@@ -11,7 +11,11 @@ The open standard for telemetry</p>
 This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
 using both built-in and custom metrics with Helidon MP.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/68433d5c990d5c431bbd80e3d2ab4d872a17272d" target="_blank" rel="noopener noreffer "><code>68433d5</code></a> in My-Notes.</em></p>]]></description></item><item><title>JDepend</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend/</link><pubDate>Tue, 05 Mar 2019 11:14:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend/</guid><description><![CDATA[<p>JDepend<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/68433d5c990d5c431bbd80e3d2ab4d872a17272d" target="_blank" rel="noopener noreffer "><code>68433d5</code></a> in My-Notes.</em></p>]]></description></item><item><title>smallrye/smallrye-metrics</title><link>https://blog.emecas.net/posts/2019-08-18-smallrye-smallrye-metrics/</link><pubDate>Sun, 18 Aug 2019 02:21:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-18-smallrye-smallrye-metrics/</guid><description><![CDATA[<p>smallrye/smallrye-metrics<br>
+Java repository by smallrye, created in 2018, with 42 stars and 35 forks. License: Apache-2.0. Archived by its owner. Starred on 2019-08-18.<br>
+<a href="https://github.com/smallrye/smallrye-metrics" target="_blank" rel="noopener noreffer ">https://github.com/smallrye/smallrye-metrics</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-08-18: <a href="https://github.com/smallrye/smallrye-metrics" target="_blank" rel="noopener noreffer ">smallrye/smallrye-metrics</a>.</em></p>]]></description></item><item><title>JDepend</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend/</link><pubDate>Tue, 05 Mar 2019 11:14:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend/</guid><description><![CDATA[<p>JDepend<br>
 <a href="https://github.com/clarkware/jdepend" target="_blank" rel="noopener noreffer ">https://github.com/clarkware/jdepend</a><br>
 A Java package dependency analyzer that generates design quality metrics.</p>
 <hr>
@@ -40,7 +44,13 @@ REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streami
 icalendar.vim : Syntax file for icalendar files<br>
 <a href="http://www.vim.org/scripts/script.php?script_id=1519" target="_blank" rel="noopener noreffer ">http://www.vim.org/scripts/script.php?script_id=1519</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/32f4a6e8dd249c7b8629c767b6df4b2c063a66c6" target="_blank" rel="noopener noreffer "><code>32f4a6e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3</title><link>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</link><pubDate>Thu, 13 Jun 2013 15:55:32 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</guid><description><![CDATA[<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/32f4a6e8dd249c7b8629c767b6df4b2c063a66c6" target="_blank" rel="noopener noreffer "><code>32f4a6e</code></a> in My-Notes.</em></p>]]></description></item><item><title>bcicen/ctop</title><link>https://blog.emecas.net/posts/2017-03-15-bcicen-ctop/</link><pubDate>Wed, 15 Mar 2017 14:38:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-15-bcicen-ctop/</guid><description><![CDATA[<p>bcicen/ctop<br>
+Top-like interface for container metrics<br>
+Go repository by bcicen, created in 2016, with 17,851 stars and 594 forks. License: MIT. Starred on 2017-03-15.<br>
+Homepage: <a href="https://ctop.sh" target="_blank" rel="noopener noreffer ">https://ctop.sh</a><br>
+<a href="https://github.com/bcicen/ctop" target="_blank" rel="noopener noreffer ">https://github.com/bcicen/ctop</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-03-15: <a href="https://github.com/bcicen/ctop" target="_blank" rel="noopener noreffer ">bcicen/ctop</a>.</em></p>]]></description></item><item><title>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3</title><link>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</link><pubDate>Thu, 13 Jun 2013 15:55:32 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</guid><description><![CDATA[<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
 <a href="http://almossawi.com/firefox/" target="_blank" rel="noopener noreffer ">http://almossawi.com/firefox/</a><br>
 LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed</p>
 <hr>

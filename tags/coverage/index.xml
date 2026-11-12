@@ -5,7 +5,13 @@ Code quality done right</p>
 <p>* 2,500+ code checks<br>
 Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
 <p>* Third-party license audit<br>
-Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>chefspec/chefspec</title><link>https://blog.emecas.net/posts/2020-10-16-chefspec-chefspec/</link><pubDate>Fri, 16 Oct 2020 20:27:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-16-chefspec-chefspec/</guid><description><![CDATA[<p>chefspec/chefspec<br>
+Write RSpec examples and generate coverage reports for Chef recipes!<br>
+Ruby repository by chefspec, created in 2011, with 820 stars and 331 forks. License: MIT. Starred on 2020-10-16.<br>
+Homepage: <a href="https://chefspec.github.io/chefspec/" target="_blank" rel="noopener noreffer ">https://chefspec.github.io/chefspec/</a><br>
+<a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">https://github.com/chefspec/chefspec</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
 By James Shore<br>
 01 Feb, 2019</p>
 <p>- To add tests to legacy code<br>

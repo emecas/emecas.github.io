@@ -4,7 +4,12 @@ In my demonstration of the Dependency Injection design pattern, I manually creat
 Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
 If you aren’t familiar with dependency injection, please read this article first</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b85b772384455b2bc1f660181a59fa56e782f9" target="_blank" rel="noopener noreffer "><code>d0b85b7</code></a> in My-Notes.</em></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b85b772384455b2bc1f660181a59fa56e782f9" target="_blank" rel="noopener noreffer "><code>d0b85b7</code></a> in My-Notes.</em></p>]]></description></item><item><title>kostaskougios/cloning</title><link>https://blog.emecas.net/posts/2018-08-22-kostaskougios-cloning/</link><pubDate>Wed, 22 Aug 2018 20:06:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-08-22-kostaskougios-cloning/</guid><description><![CDATA[<p>kostaskougios/cloning<br>
+deep clone java objects<br>
+Java repository by kostaskougios, created in 2015, with 612 stars and 117 forks. Starred on 2018-08-22.<br>
+<a href="https://github.com/kostaskougios/cloning" target="_blank" rel="noopener noreffer ">https://github.com/kostaskougios/cloning</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-08-22: <a href="https://github.com/kostaskougios/cloning" target="_blank" rel="noopener noreffer ">kostaskougios/cloning</a>.</em></p>]]></description></item><item><title>Groovy Saving Objects Stuff</title><link>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</link><pubDate>Tue, 26 Apr 2016 04:46:56 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-04-26-groovy-saving-objects-stuff/</guid><description><![CDATA[<p>Groovy Saving Objects Stuff</p>
 <p>1.	JSON approach</p>
 <p>Groovy. Write objects to file (json) and read them back<br>
 <a href="https://gist.github.com/keyle/723181f3a9a59a3f7652" target="_blank" rel="noopener noreffer ">https://gist.github.com/keyle/723181f3a9a59a3f7652</a></p>

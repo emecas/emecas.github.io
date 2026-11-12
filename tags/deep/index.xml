@@ -1,0 +1,40 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Deep - Tag - My Notes</title><link>https://blog.emecas.net/tags/deep/</link><description>Deep - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 04 Nov 2020 02:41:55 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/deep/" rel="self" type="application/rss+xml"/><item><title>deepjavalibrary/djl</title><link>https://blog.emecas.net/posts/2020-11-04-deepjavalibrary-djl/</link><pubDate>Wed, 04 Nov 2020 02:41:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-04-deepjavalibrary-djl/</guid><description><![CDATA[<p>deepjavalibrary/djl<br>
+An Engine-Agnostic Deep Learning Framework in Java<br>
+Java repository by deepjavalibrary, created in 2019, with 4,861 stars and 761 forks. License: Apache-2.0. Starred on 2020-11-04.<br>
+Homepage: <a href="https://djl.ai" target="_blank" rel="noopener noreffer ">https://djl.ai</a><br>
+<a href="https://github.com/deepjavalibrary/djl" target="_blank" rel="noopener noreffer ">https://github.com/deepjavalibrary/djl</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-04: <a href="https://github.com/deepjavalibrary/djl" target="_blank" rel="noopener noreffer ">deepjavalibrary/djl</a>.</em></p>]]></description></item><item><title>facebookarchive/caffe2</title><link>https://blog.emecas.net/posts/2020-11-01-facebookarchive-caffe2/</link><pubDate>Sun, 01 Nov 2020 01:14:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-facebookarchive-caffe2/</guid><description><![CDATA[<p>facebookarchive/caffe2<br>
+Caffe2 is a lightweight, modular, and scalable deep learning framework.<br>
+Shell repository by facebookarchive, created in 2015, with 8,369 stars and 1,895 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-11-01.<br>
+Homepage: <a href="https://caffe2.ai" target="_blank" rel="noopener noreffer ">https://caffe2.ai</a><br>
+<a href="https://github.com/facebookarchive/caffe2" target="_blank" rel="noopener noreffer ">https://github.com/facebookarchive/caffe2</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/facebookarchive/caffe2" target="_blank" rel="noopener noreffer ">facebookarchive/caffe2</a>.</em></p>]]></description></item><item><title>toxtli/awesome-machine-learning-jupyter-notebooks-for-colab</title><link>https://blog.emecas.net/posts/2020-03-18-toxtli-awesome-machine-learning-jupyter-notebooks-for-colab/</link><pubDate>Wed, 18 Mar 2020 15:10:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-toxtli-awesome-machine-learning-jupyter-notebooks-for-colab/</guid><description><![CDATA[<p>toxtli/awesome-machine-learning-jupyter-notebooks-for-colab<br>
+A curated list of Machine Learning and Deep Learning tutorials in Jupyter Notebook format ready to run in Google Colaboratory<br>
+Jupyter Notebook repository by toxtli, created in 2019, with 326 stars and 78 forks. Starred on 2020-03-18.<br>
+Homepage: <a href="http://www.carlostoxtli.com/#colab-awesome" target="_blank" rel="noopener noreffer ">http://www.carlostoxtli.com/#colab-awesome</a><br>
+<a href="https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab" target="_blank" rel="noopener noreffer ">https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-18: <a href="https://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab" target="_blank" rel="noopener noreffer ">toxtli/awesome-machine-learning-jupyter-notebooks-for-colab</a>.</em></p>]]></description></item><item><title>deeplearning4j/deeplearning4j</title><link>https://blog.emecas.net/posts/2019-01-24-deeplearning4j-deeplearning4j/</link><pubDate>Thu, 24 Jan 2019 20:03:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-24-deeplearning4j-deeplearning4j/</guid><description><![CDATA[<p>deeplearning4j/deeplearning4j<br>
+Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn&hellip;<br>
+Java repository by deeplearning4j, created in 2013, with 14,278 stars and 3,817 forks. License: Apache-2.0. Starred on 2019-01-24.<br>
+Homepage: <a href="http://deeplearning4j.konduit.ai" target="_blank" rel="noopener noreffer ">http://deeplearning4j.konduit.ai</a><br>
+<a href="https://github.com/deeplearning4j/deeplearning4j" target="_blank" rel="noopener noreffer ">https://github.com/deeplearning4j/deeplearning4j</a></p>]]></description></item><item><title>kostaskougios/cloning</title><link>https://blog.emecas.net/posts/2018-08-22-kostaskougios-cloning/</link><pubDate>Wed, 22 Aug 2018 20:06:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-08-22-kostaskougios-cloning/</guid><description><![CDATA[<p>kostaskougios/cloning<br>
+deep clone java objects<br>
+Java repository by kostaskougios, created in 2015, with 612 stars and 117 forks. Starred on 2018-08-22.<br>
+<a href="https://github.com/kostaskougios/cloning" target="_blank" rel="noopener noreffer ">https://github.com/kostaskougios/cloning</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-08-22: <a href="https://github.com/kostaskougios/cloning" target="_blank" rel="noopener noreffer ">kostaskougios/cloning</a>.</em></p>]]></description></item><item><title>BVLC/caffe</title><link>https://blog.emecas.net/posts/2016-07-05-bvlc-caffe/</link><pubDate>Tue, 05 Jul 2016 20:02:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-07-05-bvlc-caffe/</guid><description><![CDATA[<p>BVLC/caffe<br>
+Caffe: a fast open framework for deep learning.<br>
+C++ repository by BVLC, created in 2013, with 34,555 stars and 18,374 forks. Starred on 2016-07-05.<br>
+Homepage: <a href="http://caffe.berkeleyvision.org/" target="_blank" rel="noopener noreffer ">http://caffe.berkeleyvision.org/</a><br>
+<a href="https://github.com/BVLC/caffe" target="_blank" rel="noopener noreffer ">https://github.com/BVLC/caffe</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-07-05: <a href="https://github.com/BVLC/caffe" target="_blank" rel="noopener noreffer ">BVLC/caffe</a>.</em></p>]]></description></item><item><title>floydhub/dl-docker</title><link>https://blog.emecas.net/posts/2016-06-21-floydhub-dl-docker/</link><pubDate>Tue, 21 Jun 2016 09:00:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-06-21-floydhub-dl-docker/</guid><description><![CDATA[<p>floydhub/dl-docker<br>
+An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)<br>
+Python repository by floydhub, created in 2016, with 3,856 stars and 798 forks. Starred on 2016-06-21.<br>
+Homepage: <a href="https://www.floydhub.com" target="_blank" rel="noopener noreffer ">https://www.floydhub.com</a><br>
+<a href="https://github.com/floydhub/dl-docker" target="_blank" rel="noopener noreffer ">https://github.com/floydhub/dl-docker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-06-21: <a href="https://github.com/floydhub/dl-docker" target="_blank" rel="noopener noreffer ">floydhub/dl-docker</a>.</em></p>]]></description></item></channel></rss>

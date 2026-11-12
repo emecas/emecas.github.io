@@ -5,7 +5,19 @@ Code quality done right</p>
 <p>* 2,500+ code checks<br>
 Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
 <p>* Third-party license audit<br>
-Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>JDepend Plugin</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</link><pubDate>Tue, 05 Mar 2019 11:15:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</guid><description><![CDATA[<p>The JDepend Plugin<br>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>DXHeroes/dx-scanner</title><link>https://blog.emecas.net/posts/2020-10-03-dxheroes-dx-scanner/</link><pubDate>Sat, 03 Oct 2020 12:39:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-03-dxheroes-dx-scanner/</guid><description><![CDATA[<p>DXHeroes/dx-scanner<br>
+CLI tool that allows you to measure quality of a team work and an app based on your source code.<br>
+TypeScript repository by DXHeroes, created in 2019, with 84 stars and 45 forks. License: MIT. Archived by its owner. Starred on 2020-10-03.<br>
+Homepage: <a href="https://dxscanner.io" target="_blank" rel="noopener noreffer ">https://dxscanner.io</a><br>
+<a href="https://github.com/DXHeroes/dx-scanner" target="_blank" rel="noopener noreffer ">https://github.com/DXHeroes/dx-scanner</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/DXHeroes/dx-scanner" target="_blank" rel="noopener noreffer ">DXHeroes/dx-scanner</a>.</em></p>]]></description></item><item><title>analysis-tools-dev/static-analysis</title><link>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-static-analysis/</link><pubDate>Tue, 18 Feb 2020 11:17:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-static-analysis/</guid><description><![CDATA[<p>analysis-tools-dev/static-analysis<br>
+⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.<br>
+Rust repository by analysis-tools-dev, created in 2015, with 14,883 stars and 1,525 forks. License: MIT. Starred on 2020-02-18.<br>
+Homepage: <a href="https://analysis-tools.dev" target="_blank" rel="noopener noreffer ">https://analysis-tools.dev</a><br>
+<a href="https://github.com/analysis-tools-dev/static-analysis" target="_blank" rel="noopener noreffer ">https://github.com/analysis-tools-dev/static-analysis</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-18: <a href="https://github.com/analysis-tools-dev/static-analysis" target="_blank" rel="noopener noreffer ">analysis-tools-dev/static-analysis</a>.</em></p>]]></description></item><item><title>JDepend Plugin</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</link><pubDate>Tue, 05 Mar 2019 11:15:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</guid><description><![CDATA[<p>The JDepend Plugin<br>
 <a href="https://docs.gradle.org/current/userguide/jdepend_plugin.html" target="_blank" rel="noopener noreffer ">https://docs.gradle.org/current/userguide/jdepend_plugin.html</a><br>
 The JDepend plugin performs quality checks on your project’s source files using JDepend and generates reports from these check</p>
 <hr>

@@ -4,4 +4,9 @@ Build and run Docker containers leveraging NVIDIA GPUs<br>
 The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
 <a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>rtqichen/torchdiffeq</title><link>https://blog.emecas.net/posts/2018-12-17-rtqichen-torchdiffeq/</link><pubDate>Mon, 17 Dec 2018 15:39:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-17-rtqichen-torchdiffeq/</guid><description><![CDATA[<p>rtqichen/torchdiffeq<br>
+Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.<br>
+Python repository by rtqichen, created in 2018, with 6,493 stars and 1,003 forks. License: MIT. Starred on 2018-12-17.<br>
+<a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-12-17: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">rtqichen/torchdiffeq</a>.</em></p>]]></description></item></channel></rss>

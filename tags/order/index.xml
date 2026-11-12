@@ -17,4 +17,9 @@ public void test2() throws InterruptedException<br>
 &hellip;<br>
 &hellip;</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3741e5e23d4fdf2a70197b6b05e08b2e554fc80b" target="_blank" rel="noopener noreffer "><code>3741e5e</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3741e5e23d4fdf2a70197b6b05e08b2e554fc80b" target="_blank" rel="noopener noreffer "><code>3741e5e</code></a> in My-Notes.</em></p>]]></description></item><item><title>berndruecker/flowing-retail</title><link>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</link><pubDate>Tue, 27 Oct 2020 12:12:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</guid><description><![CDATA[<p>berndruecker/flowing-retail<br>
+Sample application demonstrating an order fulfillment system decomposed into multiple independant components (e.g. microservices). Showing concrete implementation alternatives using e.g. Java, Spring Boot, Apache Kafka, Camunda, Zeebe, &hellip;<br>
+Java repository by berndruecker, created in 2017, with 1,332 stars and 470 forks. License: Apache-2.0. Starred on 2020-10-27.<br>
+<a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">https://github.com/berndruecker/flowing-retail</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-27: <a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">berndruecker/flowing-retail</a>.</em></p>]]></description></item></channel></rss>

@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Market - Tag - My Notes</title><link>https://blog.emecas.net/tags/market/</link><description>Market - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Apr 2024 01:00:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/market/" rel="self" type="application/rss+xml"/><item><title>ctubio/Krypto-trading-bot</title><link>https://blog.emecas.net/posts/2024-04-17-ctubio-krypto-trading-bot/</link><pubDate>Wed, 17 Apr 2024 01:00:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-17-ctubio-krypto-trading-bot/</guid><description><![CDATA[<p>ctubio/Krypto-trading-bot<br>
+Self-hosted crypto trading bot (automated high frequency market making) written in C++<br>
+C++ repository by ctubio, created in 2017, with 3,735 stars and 828 forks. Starred on 2024-04-17.<br>
+Homepage: <a href="https://127.0.0.1:3000" target="_blank" rel="noopener noreffer ">https://127.0.0.1:3000</a><br>
+<a href="https://github.com/ctubio/Krypto-trading-bot" target="_blank" rel="noopener noreffer ">https://github.com/ctubio/Krypto-trading-bot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-04-17: <a href="https://github.com/ctubio/Krypto-trading-bot" target="_blank" rel="noopener noreffer ">ctubio/Krypto-trading-bot</a>.</em></p>]]></description></item><item><title>ranaroussi/yfinance</title><link>https://blog.emecas.net/posts/2020-08-24-ranaroussi-yfinance/</link><pubDate>Mon, 24 Aug 2020 12:59:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-24-ranaroussi-yfinance/</guid><description><![CDATA[<p>ranaroussi/yfinance<br>
+Download market data from Yahoo! Finance&rsquo;s API<br>
+Python repository by ranaroussi, created in 2017, with 25,887 stars and 3,491 forks. License: Apache-2.0. Starred on 2020-08-24.<br>
+Homepage: <a href="https://ranaroussi.github.io/yfinance" target="_blank" rel="noopener noreffer ">https://ranaroussi.github.io/yfinance</a><br>
+<a href="https://github.com/ranaroussi/yfinance" target="_blank" rel="noopener noreffer ">https://github.com/ranaroussi/yfinance</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-24: <a href="https://github.com/ranaroussi/yfinance" target="_blank" rel="noopener noreffer ">ranaroussi/yfinance</a>.</em></p>]]></description></item></channel></rss>

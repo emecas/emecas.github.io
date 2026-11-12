@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Light - Tag - My Notes</title><link>https://blog.emecas.net/tags/light/</link><description>Light - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 11 Jun 2021 10:06:57 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/light/" rel="self" type="application/rss+xml"/><item><title>Huayra</title><link>https://blog.emecas.net/posts/2021-06-11-huayra/</link><pubDate>Fri, 11 Jun 2021 10:06:57 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-11-huayra/</guid><description><![CDATA[<p>Huayra<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Light - Tag - My Notes</title><link>https://blog.emecas.net/tags/light/</link><description>Light - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:15:10 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/light/" rel="self" type="application/rss+xml"/><item><title>floci-io/floci</title><link>https://blog.emecas.net/posts/2026-03-31-floci-io-floci/</link><pubDate>Tue, 31 Mar 2026 00:15:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-31-floci-io-floci/</guid><description><![CDATA[<p>floci-io/floci<br>
+Light, fluffy, and always free - The AWS Local Emulator alternative<br>
+Java repository by floci-io, created in 2026, with 31,292 stars and 3,427 forks. License: MIT. Starred on 2026-03-31.<br>
+Homepage: <a href="https://floci.io/floci/" target="_blank" rel="noopener noreffer ">https://floci.io/floci/</a><br>
+<a href="https://github.com/floci-io/floci" target="_blank" rel="noopener noreffer ">https://github.com/floci-io/floci</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-03-31: <a href="https://github.com/floci-io/floci" target="_blank" rel="noopener noreffer ">floci-io/floci</a>.</em></p>]]></description></item><item><title>Huayra</title><link>https://blog.emecas.net/posts/2021-06-11-huayra/</link><pubDate>Fri, 11 Jun 2021 10:06:57 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-11-huayra/</guid><description><![CDATA[<p>Huayra<br>
 <a href="https://huayra.educar.gob.ar/" target="_blank" rel="noopener noreffer ">https://huayra.educar.gob.ar/</a><br>
 Huayra GNU/Linux es el primer sistema operativo libre desarrollado por el Estado Nacional que incluye una selección de software ideal para el trabajo en clase y mucho más. Con un escritorio liviano y ágil, realiza un uso óptimo de recursos y es seguro, sin necesidad de antivirus.</p>
 <p>FAQs: <a href="https://huayra.educar.gob.ar/preguntas-frecuentes/" target="_blank" rel="noopener noreffer ">https://huayra.educar.gob.ar/preguntas-frecuentes/</a></p>
@@ -19,4 +25,10 @@ A light JAX-RS+CDI+JSON server!</p>
 <p>Meecrowave Core</p>
 <p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
 <p>Meecrowave JPA</p>
-<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item></channel></rss>
+<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>monitoror/monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror-monitoror/</link><pubDate>Sat, 07 Mar 2020 04:49:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror-monitoror/</guid><description><![CDATA[<p>monitoror/monitoror<br>
+Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
+Go repository by monitoror, created in 2019, with 4,396 stars and 194 forks. License: MIT. Starred on 2020-03-07.<br>
+Homepage: <a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
+<a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-07: <a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">monitoror/monitoror</a>.</em></p>]]></description></item></channel></rss>

@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Payara - Tag - My Notes</title><link>https://blog.emecas.net/tags/payara/</link><description>Payara - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Feb 2021 20:44:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/payara/" rel="self" type="application/rss+xml"/><item><title>fturizo/ConferenceDemo</title><link>https://blog.emecas.net/posts/2021-02-17-fturizo-conferencedemo/</link><pubDate>Wed, 17 Feb 2021 20:44:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-fturizo-conferencedemo/</guid><description><![CDATA[<p>fturizo/ConferenceDemo<br>
+Sample demo project to showcase use of Jakarta EE and Eclipse MicroProfile using Payara Micro and Testcontainers for testing<br>
+Java repository by fturizo, created in 2018, with 6 stars and 6 forks. Starred on 2021-02-17.<br>
+<a href="https://github.com/fturizo/ConferenceDemo" target="_blank" rel="noopener noreffer ">https://github.com/fturizo/ConferenceDemo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/fturizo/ConferenceDemo" target="_blank" rel="noopener noreffer ">fturizo/ConferenceDemo</a>.</em></p>]]></description></item><item><title>payara/Payara-Examples</title><link>https://blog.emecas.net/posts/2020-09-30-payara-payara-examples/</link><pubDate>Wed, 30 Sep 2020 10:32:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-30-payara-payara-examples/</guid><description><![CDATA[<p>payara/Payara-Examples<br>
+Repository for Example Code to demonstrate Payara specific features<br>
+Java repository by payara, created in 2015, with 147 stars and 168 forks. Starred on 2020-09-30.<br>
+<a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara-Examples</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">payara/Payara-Examples</a>.</em></p>]]></description></item><item><title>payara/Payara</title><link>https://blog.emecas.net/posts/2020-09-30-payara-payara/</link><pubDate>Wed, 30 Sep 2020 10:31:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-30-payara-payara/</guid><description><![CDATA[<p>payara/Payara<br>
+Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE (Jakarta EE) and MicroProfile applications in any environment: on premise, in the cloud or hybrid.<br>
+Java repository by payara, created in 2014, with 923 stars and 322 forks. Starred on 2020-09-30.<br>
+Homepage: <a href="http://www.payara.fish" target="_blank" rel="noopener noreffer ">http://www.payara.fish</a><br>
+<a href="https://github.com/payara/Payara" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara" target="_blank" rel="noopener noreffer ">payara/Payara</a>.</em></p>]]></description></item></channel></rss>

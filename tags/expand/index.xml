@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Expand - Tag - My Notes</title><link>https://blog.emecas.net/tags/expand/</link><description>Expand - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Feb 2020 11:03:30 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/expand/" rel="self" type="application/rss+xml"/><item><title>linkedin/concurrentli</title><link>https://blog.emecas.net/posts/2020-02-20-linkedin-concurrentli/</link><pubDate>Thu, 20 Feb 2020 11:03:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-20-linkedin-concurrentli/</guid><description><![CDATA[<p>linkedin/concurrentli<br>
+Classes for multithreading that expand on java.util.concurrent, adding convenience, efficiency and new tools to multithreaded Java programs<br>
+Java repository by linkedin, created in 2017, with 48 stars and 8 forks. License: BSD-2-Clause. Starred on 2020-02-20.<br>
+<a href="https://github.com/linkedin/concurrentli" target="_blank" rel="noopener noreffer ">https://github.com/linkedin/concurrentli</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-20: <a href="https://github.com/linkedin/concurrentli" target="_blank" rel="noopener noreffer ">linkedin/concurrentli</a>.</em></p>]]></description></item></channel></rss>

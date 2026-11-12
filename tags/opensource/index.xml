@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OpenSOurce - Tag - My Notes</title><link>https://blog.emecas.net/tags/opensource/</link><description>OpenSOurce - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Jun 2021 11:48:37 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/opensource/" rel="self" type="application/rss+xml"/><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>OpenSOurce - Tag - My Notes</title><link>https://blog.emecas.net/tags/opensource/</link><description>OpenSOurce - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Nov 2025 00:22:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/opensource/" rel="self" type="application/rss+xml"/><item><title>usebruno/bruno</title><link>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</link><pubDate>Mon, 10 Nov 2025 00:22:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</guid><description><![CDATA[<p>usebruno/bruno<br>
+Opensource IDE For Exploring and Testing API&rsquo;s (lightweight alternative to Postman/Insomnia)<br>
+JavaScript repository by usebruno, created in 2022, with 48,334 stars and 3,094 forks. License: MIT. Starred on 2025-11-10.<br>
+Homepage: <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreffer ">https://www.usebruno.com/</a><br>
+<a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreffer ">https://github.com/usebruno/bruno</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-11-10: <a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreffer ">usebruno/bruno</a>.</em></p>]]></description></item><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
 a highly automated and intuitive digital audio workstation<br>
 <a href="https://www.zrythm.org/en/index.html" target="_blank" rel="noopener noreffer ">https://www.zrythm.org/en/index.html</a></p>
 <p>Sources:<br>
@@ -97,24 +103,4 @@ Get the open source version of the most widely used API testing tool in the worl
 Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
 Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>go-covid</title><link>https://blog.emecas.net/posts/2020-03-20-go-covid/</link><pubDate>Fri, 20 Mar 2020 17:07:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-20-go-covid/</guid><description><![CDATA[<p>go-covid<br>
-Go Package to get information regarding the novel corona virus provided by Johns Hopkins university<br>
-<a href="https://ahmednafies.github.io/go-covid/" target="_blank" rel="noopener noreffer ">https://ahmednafies.github.io/go-covid/</a><br>
-<a href="https://github.com/ahmednafies/go-covid" target="_blank" rel="noopener noreffer ">https://github.com/ahmednafies/go-covid</a></p>
-<p>Get All Data<br>
-data := covid.GetData()<br>
-fmt.Println(data)</p>
-<p>Get Status By Country Name<br>
-data := covid.GetCountryByName(&ldquo;italy&rdquo;)</p>
-<p>List Countries<br>
-covid.ListCountries()</p>
-<p>Get Status by Country ID<br>
-data := covid.GetCountryById(113)</p>
-<p>Get Total Active Cases<br>
-active := covid.GetTotalActive()</p>
-<p>Get Total Confirmed Cases<br>
-confirmed := covid.GetTotalConfirmed()</p>
-<p>Get Total Recovered Cases<br>
-recovered := covid.GetTotalRecovered()</p>
-<p>Get Total Deaths<br>
-deaths := covid.GetTotalDeaths()</p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

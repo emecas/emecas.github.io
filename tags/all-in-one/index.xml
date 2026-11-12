@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All-in-One - Tag - My Notes</title><link>https://blog.emecas.net/tags/all-in-one/</link><description>All-in-One - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 21 Jun 2016 09:00:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/all-in-one/" rel="self" type="application/rss+xml"/><item><title>floydhub/dl-docker</title><link>https://blog.emecas.net/posts/2016-06-21-floydhub-dl-docker/</link><pubDate>Tue, 21 Jun 2016 09:00:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-06-21-floydhub-dl-docker/</guid><description><![CDATA[<p>floydhub/dl-docker<br>
+An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)<br>
+Python repository by floydhub, created in 2016, with 3,856 stars and 798 forks. Starred on 2016-06-21.<br>
+Homepage: <a href="https://www.floydhub.com" target="_blank" rel="noopener noreffer ">https://www.floydhub.com</a><br>
+<a href="https://github.com/floydhub/dl-docker" target="_blank" rel="noopener noreffer ">https://github.com/floydhub/dl-docker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-06-21: <a href="https://github.com/floydhub/dl-docker" target="_blank" rel="noopener noreffer ">floydhub/dl-docker</a>.</em></p>]]></description></item></channel></rss>

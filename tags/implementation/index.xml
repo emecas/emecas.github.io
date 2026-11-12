@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Implementation - Tag - My Notes</title><link>https://blog.emecas.net/tags/implementation/</link><description>Implementation - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2020 17:45:58 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/implementation/" rel="self" type="application/rss+xml"/><item><title>Eclipse Krazo</title><link>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</link><pubDate>Tue, 25 Feb 2020 17:45:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</guid><description><![CDATA[<p>Eclipse Krazo<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Implementation - Tag - My Notes</title><link>https://blog.emecas.net/tags/implementation/</link><description>Implementation - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Aug 2020 02:04:06 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/implementation/" rel="self" type="application/rss+xml"/><item><title>graphql-java/graphql-java</title><link>https://blog.emecas.net/posts/2020-08-16-graphql-java-graphql-java/</link><pubDate>Sun, 16 Aug 2020 02:04:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-16-graphql-java-graphql-java/</guid><description><![CDATA[<p>graphql-java/graphql-java<br>
+GraphQL Java implementation<br>
+Java repository by graphql-java, created in 2015, with 6,220 stars and 1,151 forks. License: MIT. Starred on 2020-08-16.<br>
+Homepage: <a href="https://graphql-java.com" target="_blank" rel="noopener noreffer ">https://graphql-java.com</a><br>
+<a href="https://github.com/graphql-java/graphql-java" target="_blank" rel="noopener noreffer ">https://github.com/graphql-java/graphql-java</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-16: <a href="https://github.com/graphql-java/graphql-java" target="_blank" rel="noopener noreffer ">graphql-java/graphql-java</a>.</em></p>]]></description></item><item><title>Eclipse Krazo</title><link>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</link><pubDate>Tue, 25 Feb 2020 17:45:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-25-eclipse-krazo/</guid><description><![CDATA[<p>Eclipse Krazo<br>
 <a href="https://projects.eclipse.org/proposals/eclipse-krazo" target="_blank" rel="noopener noreffer ">https://projects.eclipse.org/proposals/eclipse-krazo</a><br>
 <a href="https://github.com/eclipse-ee4j/krazo" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/krazo</a><br>
 <a href="https://projects.eclipse.org/projects/ee4j.krazo" target="_blank" rel="noopener noreffer ">https://projects.eclipse.org/projects/ee4j.krazo</a><br>
@@ -10,4 +16,31 @@ Related links:<br>
 <a href="https://www.mvc-spec.org/" target="_blank" rel="noopener noreffer ">https://www.mvc-spec.org/</a><br>
 <a href="https://jcp.org/en/jsr/detail?id=371" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=371</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1806f0f39973df9ff1a23517860dbbcf1ec819d1" target="_blank" rel="noopener noreffer "><code>1806f0f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1806f0f39973df9ff1a23517860dbbcf1ec819d1" target="_blank" rel="noopener noreffer "><code>1806f0f</code></a> in My-Notes.</em></p>]]></description></item><item><title>smallrye/smallrye-graphql</title><link>https://blog.emecas.net/posts/2020-02-19-smallrye-smallrye-graphql/</link><pubDate>Wed, 19 Feb 2020 05:41:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-19-smallrye-smallrye-graphql/</guid><description><![CDATA[<p>smallrye/smallrye-graphql<br>
+Implementation for MicroProfile GraphQL<br>
+Java repository by smallrye, created in 2019, with 177 stars and 98 forks. License: Apache-2.0. Starred on 2020-02-19.<br>
+<a href="https://github.com/smallrye/smallrye-graphql" target="_blank" rel="noopener noreffer ">https://github.com/smallrye/smallrye-graphql</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-19: <a href="https://github.com/smallrye/smallrye-graphql" target="_blank" rel="noopener noreffer ">smallrye/smallrye-graphql</a>.</em></p>]]></description></item><item><title>codidact/core</title><link>https://blog.emecas.net/posts/2020-01-27-codidact-core/</link><pubDate>Mon, 27 Jan 2020 16:19:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-27-codidact-core/</guid><description><![CDATA[<p>codidact/core<br>
+The core Codidact Q&amp;A software implementation<br>
+C# repository by codidact, created in 2019, with 260 stars and 21 forks. License: AGPL-3.0. Archived by its owner. Starred on 2020-01-27.<br>
+<a href="https://github.com/codidact/core" target="_blank" rel="noopener noreffer ">https://github.com/codidact/core</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-27: <a href="https://github.com/codidact/core" target="_blank" rel="noopener noreffer ">codidact/core</a>.</em></p>]]></description></item><item><title>apache/dubbo</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</link><pubDate>Wed, 22 Jan 2020 03:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</guid><description><![CDATA[<p>apache/dubbo<br>
+The java implementation of Apache Dubbo. An RPC and microservice framework.<br>
+Java repository by apache, created in 2012, with 41,579 stars and 26,306 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org/" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org/</a><br>
+<a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">apache/dubbo</a>.</em></p>]]></description></item><item><title>micropython/micropython</title><link>https://blog.emecas.net/posts/2019-09-16-micropython-micropython/</link><pubDate>Mon, 16 Sep 2019 23:17:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-16-micropython-micropython/</guid><description><![CDATA[<p>micropython/micropython<br>
+MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems<br>
+C repository by micropython, created in 2013, with 22,188 stars and 9,052 forks. Starred on 2019-09-16.<br>
+Homepage: <a href="https://micropython.org" target="_blank" rel="noopener noreffer ">https://micropython.org</a><br>
+<a href="https://github.com/micropython/micropython" target="_blank" rel="noopener noreffer ">https://github.com/micropython/micropython</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-16: <a href="https://github.com/micropython/micropython" target="_blank" rel="noopener noreffer ">micropython/micropython</a>.</em></p>]]></description></item><item><title>fujitsu/launcher</title><link>https://blog.emecas.net/posts/2019-04-09-fujitsu-launcher/</link><pubDate>Tue, 09 Apr 2019 19:14:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-09-fujitsu-launcher/</guid><description><![CDATA[<p>fujitsu/launcher<br>
+Launcher - MicroProfile implementation<br>
+Java repository by fujitsu, created in 2017, with 49 stars and 13 forks. License: EPL-2.0. Starred on 2019-04-09.<br>
+<a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-09: <a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">fujitsu/launcher</a>.</em></p>]]></description></item></channel></rss>

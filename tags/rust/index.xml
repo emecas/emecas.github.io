@@ -1,4 +1,32 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rust - Tag - My Notes</title><link>https://blog.emecas.net/tags/rust/</link><description>Rust - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Oct 2024 13:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rust/" rel="self" type="application/rss+xml"/><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rust - Tag - My Notes</title><link>https://blog.emecas.net/tags/rust/</link><description>Rust - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Oct 2026 01:29:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rust/" rel="self" type="application/rss+xml"/><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
+Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.<br>
+Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks. License: MIT. Starred on 2026-10-10.<br>
+Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
+<a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">https://github.com/fabio-rovai/open-ontologies</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-10-10: <a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">fabio-rovai/open-ontologies</a>.</em></p>]]></description></item><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
+Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
+Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
+<a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">https://github.com/aaif-goose/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-31: <a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">aaif-goose/goose</a>.</em></p>]]></description></item><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
+SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.<br>
+Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
+<a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item><item><title>perstarkse/minne</title><link>https://blog.emecas.net/posts/2026-03-15-perstarkse-minne/</link><pubDate>Sun, 15 Mar 2026 18:16:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-15-perstarkse-minne/</guid><description><![CDATA[<p>perstarkse/minne<br>
+Minne, a read-it-later &amp; personal knowledge management solution<br>
+Rust repository by perstarkse, created in 2025, with 266 stars and 11 forks. License: AGPL-3.0. Starred on 2026-03-15.<br>
+<a href="https://github.com/perstarkse/minne" target="_blank" rel="noopener noreffer ">https://github.com/perstarkse/minne</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-03-15: <a href="https://github.com/perstarkse/minne" target="_blank" rel="noopener noreffer ">perstarkse/minne</a>.</em></p>]]></description></item><item><title>Automattic/harper</title><link>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</link><pubDate>Sat, 21 Jun 2025 01:39:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</guid><description><![CDATA[<p>Automattic/harper<br>
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered<br>
+Rust repository by Automattic, created in 2023, with 17,575 stars and 815 forks. License: Apache-2.0. Starred on 2025-06-21.<br>
+Homepage: <a href="https://writewithharper.com" target="_blank" rel="noopener noreffer ">https://writewithharper.com</a><br>
+<a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">https://github.com/Automattic/harper</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">Automattic/harper</a>.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
 <a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
 Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
 <p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
@@ -17,7 +45,13 @@ Successfully verified installer hash<br>
 Starting package install&hellip;<br>
 Path environment variable modified; restart your shell to use the new value.<br>
 Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
+Successfully installed</p>]]></description></item><item><title>starship/starship</title><link>https://blog.emecas.net/posts/2021-01-12-starship-starship/</link><pubDate>Tue, 12 Jan 2021 13:43:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-12-starship-starship/</guid><description><![CDATA[<p>starship/starship<br>
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!<br>
+Rust repository by starship, created in 2019, with 60,686 stars and 2,843 forks. License: ISC. Starred on 2021-01-12.<br>
+Homepage: <a href="https://starship.rs" target="_blank" rel="noopener noreffer ">https://starship.rs</a><br>
+<a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">https://github.com/starship/starship</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-12: <a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">starship/starship</a>.</em></p>]]></description></item><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
 <a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
 <a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
 <a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
@@ -30,10 +64,15 @@ Standard esmodules<br>
 TypeScript, JSX and TSX dialects supported</p>
 <p>How</p>
 <p>AWS Lambda (and friends) by way of OpenJS Architect<br>
-Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item><item><title>Rust</title><link>https://blog.emecas.net/posts/2018-10-03-rust/</link><pubDate>Wed, 03 Oct 2018 20:46:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-03-rust/</guid><description><![CDATA[<p>Rust (programming language)<br>
-<a href="https://www.rust-lang.org/en-US/" target="_blank" rel="noopener noreffer ">https://www.rust-lang.org/en-US/</a><br>
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.<br>
-<a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Rust_(programming_language)</a><br>
-<a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreffer ">https://github.com/rust-lang/rust</a></p>
+Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item><item><title>bee-san/Ciphey</title><link>https://blog.emecas.net/posts/2020-09-06-bee-san-ciphey/</link><pubDate>Sun, 06 Sep 2020 19:40:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-bee-san-ciphey/</guid><description><![CDATA[<p>bee-san/Ciphey<br>
+⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡<br>
+Rust repository by bee-san, created in 2019, with 21,754 stars and 1,447 forks. License: MIT. Starred on 2020-09-06.<br>
+<a href="https://github.com/bee-san/Ciphey" target="_blank" rel="noopener noreffer ">https://github.com/bee-san/Ciphey</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b667f9bb8608b85b8976a31b5c32c4e1beb2ac7" target="_blank" rel="noopener noreffer "><code>1b667f9</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/bee-san/Ciphey" target="_blank" rel="noopener noreffer ">bee-san/Ciphey</a>.</em></p>]]></description></item><item><title>allthemusicllc/atm-cli</title><link>https://blog.emecas.net/posts/2020-03-07-allthemusicllc-atm-cli/</link><pubDate>Sat, 07 Mar 2020 04:59:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-allthemusicllc-atm-cli/</guid><description><![CDATA[<p>allthemusicllc/atm-cli<br>
+Command line tool for generating and working with MIDI files.<br>
+Rust repository by allthemusicllc, created in 2019, with 1,416 stars and 105 forks. Starred on 2020-03-07.<br>
+Homepage: <a href="http://allthemusic.info" target="_blank" rel="noopener noreffer ">http://allthemusic.info</a><br>
+<a href="https://github.com/allthemusicllc/atm-cli" target="_blank" rel="noopener noreffer ">https://github.com/allthemusicllc/atm-cli</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-07: <a href="https://github.com/allthemusicllc/atm-cli" target="_blank" rel="noopener noreffer ">allthemusicllc/atm-cli</a>.</em></p>]]></description></item></channel></rss>

@@ -1,10 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Performance - Tag - My Notes</title><link>https://blog.emecas.net/tags/performance/</link><description>Performance - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 19 May 2020 19:52:56 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/performance/" rel="self" type="application/rss+xml"/><item><title>HyperSQL - hsqldb</title><link>https://blog.emecas.net/posts/2020-05-19-hypersql-hsqldb/</link><pubDate>Tue, 19 May 2020 19:52:56 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-19-hypersql-hsqldb/</guid><description><![CDATA[<p>HyperSQL<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Performance - Tag - My Notes</title><link>https://blog.emecas.net/tags/performance/</link><description>Performance - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Aug 2026 20:13:40 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/performance/" rel="self" type="application/rss+xml"/><item><title>fastapi/fastapi</title><link>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</link><pubDate>Mon, 24 Aug 2026 20:13:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</guid><description><![CDATA[<p>fastapi/fastapi<br>
+FastAPI framework, high performance, easy to learn, fast to code, ready for production<br>
+Python repository by fastapi, created in 2018, with 104,633 stars and 10,214 forks. License: MIT. Starred on 2026-08-24.<br>
+Homepage: <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
+<a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">https://github.com/fastapi/fastapi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-24: <a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">fastapi/fastapi</a>.</em></p>]]></description></item><item><title>ben-manes/caffeine</title><link>https://blog.emecas.net/posts/2020-11-01-ben-manes-caffeine/</link><pubDate>Sun, 01 Nov 2020 01:17:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-ben-manes-caffeine/</guid><description><![CDATA[<p>ben-manes/caffeine<br>
+A high performance caching library for Java<br>
+Java repository by ben-manes, created in 2014, with 17,941 stars and 1,721 forks. License: Apache-2.0. Starred on 2020-11-01.<br>
+<a href="https://github.com/ben-manes/caffeine" target="_blank" rel="noopener noreffer ">https://github.com/ben-manes/caffeine</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/ben-manes/caffeine" target="_blank" rel="noopener noreffer ">ben-manes/caffeine</a>.</em></p>]]></description></item><item><title>HyperSQL - hsqldb</title><link>https://blog.emecas.net/posts/2020-05-19-hypersql-hsqldb/</link><pubDate>Tue, 19 May 2020 19:52:56 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-19-hypersql-hsqldb/</guid><description><![CDATA[<p>HyperSQL<br>
 <a href="http://hsqldb.org/" target="_blank" rel="noopener noreffer ">http://hsqldb.org/</a><br>
 HSQLDB - 100% Java Database</p>
 <p>HSQLDB is a mature product. Versions released in recent years have enhanced reliability and performance.</p>
 <p>Version 2.5.0 followed the 2.4.x releases with improvements in all areas and better support for new Java versions.</p>
 <p>Background</p>
-<p>HyperSQL is developed and published by the The HSQL Development Group. The group was formed in 2001 and has released several major new versions of the database over the years.</p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
+<p>HyperSQL is developed and published by the The HSQL Development Group. The group was formed in 2001 and has released several major new versions of the database over the years.</p>]]></description></item><item><title>apache/druid</title><link>https://blog.emecas.net/posts/2018-09-20-apache-druid/</link><pubDate>Thu, 20 Sep 2018 17:28:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-20-apache-druid/</guid><description><![CDATA[<p>apache/druid<br>
+Apache Druid: a high performance real-time analytics database.<br>
+Java repository by apache, created in 2012, with 14,097 stars and 3,816 forks. License: Apache-2.0. Starred on 2018-09-20.<br>
+Homepage: <a href="https://druid.apache.org/" target="_blank" rel="noopener noreffer ">https://druid.apache.org/</a><br>
+<a href="https://github.com/apache/druid" target="_blank" rel="noopener noreffer ">https://github.com/apache/druid</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-09-20: <a href="https://github.com/apache/druid" target="_blank" rel="noopener noreffer ">apache/druid</a>.</em></p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
 rocksdb.org<br>
 RocksDB is an embeddable persistent key-value store for fast storage.<br>
 Repo: <a href="https://github.com/facebook/rocksdb/" target="_blank" rel="noopener noreffer ">https://github.com/facebook/rocksdb/</a></p>

@@ -1,105 +1,56 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Languages - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-languages/</link><description>Programming Languages - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Aug 2022 21:08:52 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-languages/" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
-<a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
-Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
-<p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
-<p>Flavors:</p>
-<p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
-- p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
-- Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
-- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>go-covid</title><link>https://blog.emecas.net/posts/2020-03-20-go-covid/</link><pubDate>Fri, 20 Mar 2020 17:07:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-20-go-covid/</guid><description><![CDATA[<p>go-covid<br>
-Go Package to get information regarding the novel corona virus provided by Johns Hopkins university<br>
-<a href="https://ahmednafies.github.io/go-covid/" target="_blank" rel="noopener noreffer ">https://ahmednafies.github.io/go-covid/</a><br>
-<a href="https://github.com/ahmednafies/go-covid" target="_blank" rel="noopener noreffer ">https://github.com/ahmednafies/go-covid</a></p>
-<p>Get All Data<br>
-data := covid.GetData()<br>
-fmt.Println(data)</p>
-<p>Get Status By Country Name<br>
-data := covid.GetCountryByName(&ldquo;italy&rdquo;)</p>
-<p>List Countries<br>
-covid.ListCountries()</p>
-<p>Get Status by Country ID<br>
-data := covid.GetCountryById(113)</p>
-<p>Get Total Active Cases<br>
-active := covid.GetTotalActive()</p>
-<p>Get Total Confirmed Cases<br>
-confirmed := covid.GetTotalConfirmed()</p>
-<p>Get Total Recovered Cases<br>
-recovered := covid.GetTotalRecovered()</p>
-<p>Get Total Deaths<br>
-deaths := covid.GetTotalDeaths()</p>]]></description></item><item><title>Creating Mock Objects for C# Unit Tests, using Moq</title><link>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</link><pubDate>Sat, 23 Feb 2019 12:28:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</guid><description><![CDATA[<p>Creating Mock Objects for C# Unit Tests, using Moq<br>
-<a href="https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/" target="_blank" rel="noopener noreffer ">https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/</a><br>
-In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.<br>
-Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
-If you aren’t familiar with dependency injection, please read this article first</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Languages - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-languages/</link><description>Programming Languages - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Oct 2026 01:29:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-languages/" rel="self" type="application/rss+xml"/><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
+Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.<br>
+Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks. License: MIT. Starred on 2026-10-10.<br>
+Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
+<a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">https://github.com/fabio-rovai/open-ontologies</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b85b772384455b2bc1f660181a59fa56e782f9" target="_blank" rel="noopener noreffer "><code>d0b85b7</code></a> in My-Notes.</em></p>]]></description></item><item><title>xunit</title><link>https://blog.emecas.net/posts/2019-02-19-xunit/</link><pubDate>Tue, 19 Feb 2019 10:19:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-19-xunit/</guid><description><![CDATA[<p>xUnit.net<br>
-<a href="https://xunit.github.io/" target="_blank" rel="noopener noreffer ">https://xunit.github.io/</a><br>
-xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework. Written by the original inventor of NUnit v2, xUnit.net is the latest technology for unit testing C#, F#, VB.NET and other .NET languages. xUnit.net works with ReSharper, CodeRush, TestDriven.NET and Xamarin. It is part of the .NET Foundation, and operates under their code of conduct. It is licensed under Apache 2 (an OSI approved license).</p>]]></description></item><item><title>Deep Dive into Microsoft Configuration</title><link>https://blog.emecas.net/posts/2019-01-31-deep-dive-into-microsoft-configuration/</link><pubDate>Thu, 31 Jan 2019 12:16:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-31-deep-dive-into-microsoft-configuration/</guid><description><![CDATA[<p>Deep Dive into Microsoft Configuration<br>
-By Travis Illig<br>
-June 20, 2018<br>
-REF: <a href="https://stackoverflow.com/a/909712/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/909712/833336</a><br>
-Ref: <a href="https://github.com/aspnet/Configuration" target="_blank" rel="noopener noreffer ">https://github.com/aspnet/Configuration</a><br>
-Ref: <a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&amp;tabs=basicconfiguration" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-2.1&tabs=basicconfiguration</a></p>
+<p><em>Source: starred on GitHub on 2026-10-10: <a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">fabio-rovai/open-ontologies</a>.</em></p>]]></description></item><item><title>thangchung/clean-architecture-dotnet</title><link>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</link><pubDate>Mon, 14 Sep 2026 13:59:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</guid><description><![CDATA[<p>thangchung/clean-architecture-dotnet<br>
+🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻<br>
+C# repository by thangchung, created in 2021, with 1,363 stars and 288 forks. License: MIT. Starred on 2026-09-14.<br>
+<a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">https://github.com/thangchung/clean-architecture-dotnet</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/680733600eac73c7fd87f64a4a34b3e26f1e9b4e" target="_blank" rel="noopener noreffer "><code>6807336</code></a> in My-Notes.</em></p>]]></description></item><item><title>OCaml</title><link>https://blog.emecas.net/posts/2018-10-04-ocaml/</link><pubDate>Thu, 04 Oct 2018 17:14:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-04-ocaml/</guid><description><![CDATA[<p>OCaml<br>
-<a href="https://ocaml.org/" target="_blank" rel="noopener noreffer ">https://ocaml.org/</a><br>
-OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles<br>
-<a href="https://en.wikipedia.org/wiki/OCaml" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/OCaml</a></p>
+<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">thangchung/clean-architecture-dotnet</a>.</em></p>]]></description></item><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
+Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
+Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
+<a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">https://github.com/aaif-goose/goose</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ce94ecc140a9886858464fb1f252ef9d69c58af" target="_blank" rel="noopener noreffer "><code>0ce94ec</code></a> in My-Notes.</em></p>]]></description></item><item><title>Rust</title><link>https://blog.emecas.net/posts/2018-10-03-rust/</link><pubDate>Wed, 03 Oct 2018 20:46:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-03-rust/</guid><description><![CDATA[<p>Rust (programming language)<br>
-<a href="https://www.rust-lang.org/en-US/" target="_blank" rel="noopener noreffer ">https://www.rust-lang.org/en-US/</a><br>
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.<br>
-<a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Rust_(programming_language)</a><br>
-<a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreffer ">https://github.com/rust-lang/rust</a></p>
+<p><em>Source: starred on GitHub on 2026-08-31: <a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">aaif-goose/goose</a>.</em></p>]]></description></item><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
+SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.<br>
+Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
+<a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b667f9bb8608b85b8976a31b5c32c4e1beb2ac7" target="_blank" rel="noopener noreffer "><code>1b667f9</code></a> in My-Notes.</em></p>]]></description></item><item><title>Haskell</title><link>https://blog.emecas.net/posts/2018-10-02-haskell/</link><pubDate>Tue, 02 Oct 2018 13:12:30 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-02-haskell/</guid><description><![CDATA[<p>Haskell<br>
-An advanced, purely functional programming language<br>
-<a href="https://www.haskell.org/" target="_blank" rel="noopener noreffer ">https://www.haskell.org/</a><br>
-<a href="https://en.wikipedia.org/wiki/Haskell_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Haskell_(programming_language)</a></p>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item><item><title>taskdroid/taskdroid</title><link>https://blog.emecas.net/posts/2026-04-19-taskdroid-taskdroid/</link><pubDate>Sun, 19 Apr 2026 20:56:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-19-taskdroid-taskdroid/</guid><description><![CDATA[<p>taskdroid/taskdroid<br>
+Android frontend for Taskwarrior<br>
+Dart repository by taskdroid, created in 2026, with 27 stars and 2 forks. License: GPL-3.0. Starred on 2026-04-19.<br>
+<a href="https://github.com/taskdroid/taskdroid" target="_blank" rel="noopener noreffer ">https://github.com/taskdroid/taskdroid</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ef47015cf113ce9eb656f0d7db1de02c055cea7" target="_blank" rel="noopener noreffer "><code>0ef4701</code></a> in My-Notes.</em></p>]]></description></item><item><title>QuickCheck</title><link>https://blog.emecas.net/posts/2018-09-20-quickcheck/</link><pubDate>Thu, 20 Sep 2018 14:13:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-20-quickcheck/</guid><description><![CDATA[<p>QuickCheck<br>
-<a href="http://www.cse.chalmers.se/~rjmh/QuickCheck/" target="_blank" rel="noopener noreffer ">http://www.cse.chalmers.se/~rjmh/QuickCheck/</a><br>
-QuickCheck is a tool for testing Haskell programs automatically. The programmer provides a specification of the program,<br>
-in the form of properties which functions should satisfy, and QuickCheck then tests that the properties hold in a large number<br>
-of randomly generated cases. Specifications are expressed in Haskell, using combinators defined in the QuickCheck library.<br>
-QuickCheck provides combinators to define properties, observe the distribution of test data, and define test data generators.</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
-<a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
-<p>Version	.NET Framework	Visual Studio	Important Features<br>
-C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>
-Basic features<br>
-C# 2.0	.NET Framework 2.0	Visual Studio 2005<br>
-Generics<br>
-Partial types<br>
-Anonymous methods<br>
-Iterators<br>
-Nullable types<br>
-Private setters (properties)<br>
-Method group conversions (delegates)<br>
-Covariance and Contra-variance<br>
-Static classes<br>
-C# 3.0	.NET Framework 3.0\3.5	Visual Studio 2008<br>
-Implicitly typed local variables<br>
-Object and collection initializers<br>
-Auto-Implemented properties<br>
-Anonymous types<br>
-Extension methods<br>
-Query expressions<br>
-Lambda expressions<br>
-Expression trees<br>
-Partial Methods<br>
-C# 4.0	.NET Framework 4.0	Visual Studio 2010<br>
-Dynamic binding (late binding)<br>
-Named and optional arguments<br>
-Generic co- and contravariance<br>
-Embedded interop types<br>
-C# 5.0	.NET Framework 4.5	Visual Studio 2012/2013<br>
-Async features<br>
-Caller information<br>
-C# 6.0	.NET Framework 4.6	Visual Studio 2013/2015<br>
-Expression Bodied Methods<br>
-Auto-property initializer<br>
-nameof Expression<br>
-Primary constructor<br>
-Await in catch block<br>
-Exception Filter<br>
-String Interpolation</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-04-19: <a href="https://github.com/taskdroid/taskdroid" target="_blank" rel="noopener noreffer ">taskdroid/taskdroid</a>.</em></p>]]></description></item><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
+simple terminal UI for git commands<br>
+Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
+<a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item><item><title>perstarkse/minne</title><link>https://blog.emecas.net/posts/2026-03-15-perstarkse-minne/</link><pubDate>Sun, 15 Mar 2026 18:16:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-15-perstarkse-minne/</guid><description><![CDATA[<p>perstarkse/minne<br>
+Minne, a read-it-later &amp; personal knowledge management solution<br>
+Rust repository by perstarkse, created in 2025, with 266 stars and 11 forks. License: AGPL-3.0. Starred on 2026-03-15.<br>
+<a href="https://github.com/perstarkse/minne" target="_blank" rel="noopener noreffer ">https://github.com/perstarkse/minne</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-03-15: <a href="https://github.com/perstarkse/minne" target="_blank" rel="noopener noreffer ">perstarkse/minne</a>.</em></p>]]></description></item><item><title>kanboard/kanboard</title><link>https://blog.emecas.net/posts/2026-02-19-kanboard-kanboard/</link><pubDate>Thu, 19 Feb 2026 04:28:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-19-kanboard-kanboard/</guid><description><![CDATA[<p>kanboard/kanboard<br>
+Kanban project management software<br>
+PHP repository by kanboard, created in 2014, with 9,953 stars and 2,024 forks. License: MIT. Starred on 2026-02-19.<br>
+Homepage: <a href="https://kanboard.org" target="_blank" rel="noopener noreffer ">https://kanboard.org</a><br>
+<a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">https://github.com/kanboard/kanboard</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-02-19: <a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">kanboard/kanboard</a>.</em></p>]]></description></item><item><title>Automattic/harper</title><link>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</link><pubDate>Sat, 21 Jun 2025 01:39:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</guid><description><![CDATA[<p>Automattic/harper<br>
+Offline, privacy-first grammar checker. Fast, open-source, Rust-powered<br>
+Rust repository by Automattic, created in 2023, with 17,575 stars and 815 forks. License: Apache-2.0. Starred on 2025-06-21.<br>
+Homepage: <a href="https://writewithharper.com" target="_blank" rel="noopener noreffer ">https://writewithharper.com</a><br>
+<a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">https://github.com/Automattic/harper</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">Automattic/harper</a>.</em></p>]]></description></item><item><title>nektos/act</title><link>https://blog.emecas.net/posts/2025-05-19-nektos-act/</link><pubDate>Mon, 19 May 2025 19:47:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-19-nektos-act/</guid><description><![CDATA[<p>nektos/act<br>
+Run your GitHub Actions locally 🚀<br>
+Go repository by nektos, created in 2019, with 72,640 stars and 2,119 forks. License: MIT. Starred on 2025-05-19.<br>
+Homepage: <a href="https://nektosact.com" target="_blank" rel="noopener noreffer ">https://nektosact.com</a><br>
+<a href="https://github.com/nektos/act" target="_blank" rel="noopener noreffer ">https://github.com/nektos/act</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-05-19: <a href="https://github.com/nektos/act" target="_blank" rel="noopener noreffer ">nektos/act</a>.</em></p>]]></description></item></channel></rss>

@@ -10,4 +10,28 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item></channel></rss>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>yugabyte/yugabyte-db</title><link>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</link><pubDate>Wed, 11 Sep 2019 11:02:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</guid><description><![CDATA[<p>yugabyte/yugabyte-db<br>
+YugabyteDB - the cloud native distributed SQL database for mission-critical applications.<br>
+C repository by yugabyte, created in 2017, with 10,659 stars and 1,472 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.yugabyte.com" target="_blank" rel="noopener noreffer ">https://www.yugabyte.com</a><br>
+<a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">https://github.com/yugabyte/yugabyte-db</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">yugabyte/yugabyte-db</a>.</em></p>]]></description></item><item><title>nats-io/nats-server</title><link>https://blog.emecas.net/posts/2019-06-11-nats-io-nats-server/</link><pubDate>Tue, 11 Jun 2019 20:11:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-11-nats-io-nats-server/</guid><description><![CDATA[<p>nats-io/nats-server<br>
+High-Performance server for NATS.io, the cloud and edge native messaging system.<br>
+Go repository by nats-io, created in 2012, with 21,030 stars and 2,034 forks. License: Apache-2.0. Starred on 2019-06-11.<br>
+Homepage: <a href="https://nats.io" target="_blank" rel="noopener noreffer ">https://nats.io</a><br>
+<a href="https://github.com/nats-io/nats-server" target="_blank" rel="noopener noreffer ">https://github.com/nats-io/nats-server</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-06-11: <a href="https://github.com/nats-io/nats-server" target="_blank" rel="noopener noreffer ">nats-io/nats-server</a>.</em></p>]]></description></item><item><title>arangodb/arangodb</title><link>https://blog.emecas.net/posts/2019-01-31-arangodb-arangodb/</link><pubDate>Thu, 31 Jan 2019 04:17:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-31-arangodb-arangodb/</guid><description><![CDATA[<p>arangodb/arangodb<br>
+🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.<br>
+C++ repository by arangodb, created in 2011, with 14,297 stars and 988 forks. Starred on 2019-01-31.<br>
+Homepage: <a href="https://www.arangodb.com" target="_blank" rel="noopener noreffer ">https://www.arangodb.com</a><br>
+<a href="https://github.com/arangodb/arangodb" target="_blank" rel="noopener noreffer ">https://github.com/arangodb/arangodb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-01-31: <a href="https://github.com/arangodb/arangodb" target="_blank" rel="noopener noreffer ">arangodb/arangodb</a>.</em></p>]]></description></item><item><title>oracle/graal</title><link>https://blog.emecas.net/posts/2018-12-07-oracle-graal/</link><pubDate>Fri, 07 Dec 2018 11:48:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-07-oracle-graal/</guid><description><![CDATA[<p>oracle/graal<br>
+GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀<br>
+Java repository by oracle, created in 2016, with 21,747 stars and 1,838 forks. Starred on 2018-12-07.<br>
+Homepage: <a href="https://www.graalvm.org" target="_blank" rel="noopener noreffer ">https://www.graalvm.org</a><br>
+<a href="https://github.com/oracle/graal" target="_blank" rel="noopener noreffer ">https://github.com/oracle/graal</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-12-07: <a href="https://github.com/oracle/graal" target="_blank" rel="noopener noreffer ">oracle/graal</a>.</em></p>]]></description></item></channel></rss>

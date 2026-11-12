@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Robotics - Tag - My Notes</title><link>https://blog.emecas.net/tags/robotics/</link><description>Robotics - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 26 Oct 2020 07:20:53 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/robotics/" rel="self" type="application/rss+xml"/><item><title>commaai/openpilot</title><link>https://blog.emecas.net/posts/2020-10-26-commaai-openpilot/</link><pubDate>Mon, 26 Oct 2020 07:20:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-26-commaai-openpilot/</guid><description><![CDATA[<p>commaai/openpilot<br>
+openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.<br>
+Python repository by commaai, created in 2016, with 64,105 stars and 11,390 forks. License: MIT. Starred on 2020-10-26.<br>
+Homepage: <a href="https://comma.ai/openpilot" target="_blank" rel="noopener noreffer ">https://comma.ai/openpilot</a><br>
+<a href="https://github.com/commaai/openpilot" target="_blank" rel="noopener noreffer ">https://github.com/commaai/openpilot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-26: <a href="https://github.com/commaai/openpilot" target="_blank" rel="noopener noreffer ">commaai/openpilot</a>.</em></p>]]></description></item></channel></rss>

@@ -3,7 +3,13 @@ A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlight
 <a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
 <a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item><item><title>postgres/postgres</title><link>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</link><pubDate>Wed, 11 Sep 2019 11:00:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</guid><description><![CDATA[<p>postgres/postgres<br>
+Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&rsquo;t work with pull requests on github. To contribute, please see <a href="https://wiki.postgresql.org/wiki/Submitting_a_Patch" target="_blank" rel="noopener noreffer ">https://wiki.postgresql.org/wiki/Submitting_a_Patch</a><br>
+C repository by postgres, created in 2010, with 22,782 stars and 6,103 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreffer ">https://www.postgresql.org/</a><br>
+<a href="https://github.com/postgres/postgres" target="_blank" rel="noopener noreffer ">https://github.com/postgres/postgres</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/postgres/postgres" target="_blank" rel="noopener noreffer ">postgres/postgres</a>.</em></p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
 <a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
 Tasks, boards &amp; notes for the command-line habitat</p>
 <hr>

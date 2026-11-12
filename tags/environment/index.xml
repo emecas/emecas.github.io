@@ -1,10 +1,33 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Environment - Tag - My Notes</title><link>https://blog.emecas.net/tags/environment/</link><description>Environment - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 22 Jan 2020 12:10:12 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/environment/" rel="self" type="application/rss+xml"/><item><title>jEnv</title><link>https://blog.emecas.net/posts/2020-01-22-jenv/</link><pubDate>Wed, 22 Jan 2020 12:10:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-jenv/</guid><description><![CDATA[<p>jEnv<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Environment - Tag - My Notes</title><link>https://blog.emecas.net/tags/environment/</link><description>Environment - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Oct 2020 11:28:26 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/environment/" rel="self" type="application/rss+xml"/><item><title>meedan/check</title><link>https://blog.emecas.net/posts/2020-10-03-meedan-check/</link><pubDate>Sat, 03 Oct 2020 11:28:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-03-meedan-check/</guid><description><![CDATA[<p>meedan/check<br>
+Development environment for Meedan Check, a collaborative media annotation platform<br>
+Shell repository by meedan, created in 2016, with 131 stars and 53 forks. License: MIT. Starred on 2020-10-03.<br>
+Homepage: <a href="https://meedan.com/check" target="_blank" rel="noopener noreffer ">https://meedan.com/check</a><br>
+<a href="https://github.com/meedan/check" target="_blank" rel="noopener noreffer ">https://github.com/meedan/check</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/meedan/check" target="_blank" rel="noopener noreffer ">meedan/check</a>.</em></p>]]></description></item><item><title>jEnv</title><link>https://blog.emecas.net/posts/2020-01-22-jenv/</link><pubDate>Wed, 22 Jan 2020 12:10:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-jenv/</guid><description><![CDATA[<p>jEnv<br>
 Manage your Java environment<br>
 <a href="http://www.jenv.be/" target="_blank" rel="noopener noreffer ">http://www.jenv.be/</a><br>
 Github: <a href="https://github.com/jenv/jenv" target="_blank" rel="noopener noreffer ">https://github.com/jenv/jenv</a><br>
 Ref: <a href="https://stackoverflow.com/a/45336908/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/45336908/833336</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3a9b644dcbe5d9dd35428aaa24cb746831175f10" target="_blank" rel="noopener noreffer "><code>3a9b644</code></a> in My-Notes.</em></p>]]></description></item><item><title>ORION PROJECT ECLIPSE</title><link>https://blog.emecas.net/posts/2016-04-21-orion-project-eclipse/</link><pubDate>Thu, 21 Apr 2016 04:39:36 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-04-21-orion-project-eclipse/</guid><description><![CDATA[<p>ORION<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3a9b644dcbe5d9dd35428aaa24cb746831175f10" target="_blank" rel="noopener noreffer "><code>3a9b644</code></a> in My-Notes.</em></p>]]></description></item><item><title>jenv/jenv</title><link>https://blog.emecas.net/posts/2020-01-21-jenv-jenv/</link><pubDate>Tue, 21 Jan 2020 19:58:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-21-jenv-jenv/</guid><description><![CDATA[<p>jenv/jenv<br>
+Manage your Java environment<br>
+Shell repository by jenv, created in 2013, with 6,684 stars and 395 forks. License: MIT. Starred on 2020-01-21.<br>
+Homepage: <a href="http://www.jenv.be" target="_blank" rel="noopener noreffer ">http://www.jenv.be</a><br>
+<a href="https://github.com/jenv/jenv" target="_blank" rel="noopener noreffer ">https://github.com/jenv/jenv</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-21: <a href="https://github.com/jenv/jenv" target="_blank" rel="noopener noreffer ">jenv/jenv</a>.</em></p>]]></description></item><item><title>redeclipse/base</title><link>https://blog.emecas.net/posts/2020-01-07-redeclipse-base/</link><pubDate>Tue, 07 Jan 2020 05:50:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-07-redeclipse-base/</guid><description><![CDATA[<p>redeclipse/base<br>
+Base environment for Red Eclipse and associated source files.<br>
+C repository by redeclipse, created in 2015, with 545 stars and 122 forks. Starred on 2020-01-07.<br>
+Homepage: <a href="https://redeclipse.net/" target="_blank" rel="noopener noreffer ">https://redeclipse.net/</a><br>
+<a href="https://github.com/redeclipse/base" target="_blank" rel="noopener noreffer ">https://github.com/redeclipse/base</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-07: <a href="https://github.com/redeclipse/base" target="_blank" rel="noopener noreffer ">redeclipse/base</a>.</em></p>]]></description></item><item><title>tonybaloney/retox</title><link>https://blog.emecas.net/posts/2017-12-23-tonybaloney-retox/</link><pubDate>Sat, 23 Dec 2017 11:39:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-23-tonybaloney-retox/</guid><description><![CDATA[<p>tonybaloney/retox<br>
+For running a local continuous testing environment with tox<br>
+Python repository by tonybaloney, created in 2017, with 75 stars and 2 forks. License: MIT. Archived by its owner. Starred on 2017-12-23.<br>
+<a href="https://github.com/tonybaloney/retox" target="_blank" rel="noopener noreffer ">https://github.com/tonybaloney/retox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-23: <a href="https://github.com/tonybaloney/retox" target="_blank" rel="noopener noreffer ">tonybaloney/retox</a>.</em></p>]]></description></item><item><title>ORION PROJECT ECLIPSE</title><link>https://blog.emecas.net/posts/2016-04-21-orion-project-eclipse/</link><pubDate>Thu, 21 Apr 2016 04:39:36 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-04-21-orion-project-eclipse/</guid><description><![CDATA[<p>ORION<br>
 <a href="https://orionhub.org/" target="_blank" rel="noopener noreffer ">https://orionhub.org/</a><br>
 A modern, open source software development environment that runs in the cloud.</p>
 <hr>

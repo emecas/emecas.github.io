@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ffjord - Tag - My Notes</title><link>https://blog.emecas.net/tags/ffjord/</link><description>Ffjord - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 17 Dec 2018 19:59:02 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ffjord/" rel="self" type="application/rss+xml"/><item><title>rtqichen/ffjord</title><link>https://blog.emecas.net/posts/2018-12-17-rtqichen-ffjord/</link><pubDate>Mon, 17 Dec 2018 19:59:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-17-rtqichen-ffjord/</guid><description><![CDATA[<p>rtqichen/ffjord<br>
+code for &ldquo;FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models&rdquo;.<br>
+Python repository by rtqichen, created in 2018, with 671 stars and 140 forks. License: MIT. Starred on 2018-12-17.<br>
+Homepage: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a><br>
+<a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-12-17: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">rtqichen/ffjord</a>.</em></p>]]></description></item></channel></rss>

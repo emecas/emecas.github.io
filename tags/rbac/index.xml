@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rbac - Tag - My Notes</title><link>https://blog.emecas.net/tags/rbac/</link><description>Rbac - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 22 Sep 2018 09:59:41 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rbac/" rel="self" type="application/rss+xml"/><item><title>apache/casbin-jcasbin</title><link>https://blog.emecas.net/posts/2018-09-22-apache-casbin-jcasbin/</link><pubDate>Sat, 22 Sep 2018 09:59:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-22-apache-casbin-jcasbin/</guid><description><![CDATA[<p>apache/casbin-jcasbin<br>
+An authorization library that supports access control models like ACL, RBAC, ABAC in Java<br>
+Java repository by apache, created in 2017, with 2,652 stars and 491 forks. License: Apache-2.0. Starred on 2018-09-22.<br>
+Homepage: <a href="https://casbin.org" target="_blank" rel="noopener noreffer ">https://casbin.org</a><br>
+<a href="https://github.com/apache/casbin-jcasbin" target="_blank" rel="noopener noreffer ">https://github.com/apache/casbin-jcasbin</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-09-22: <a href="https://github.com/apache/casbin-jcasbin" target="_blank" rel="noopener noreffer ">apache/casbin-jcasbin</a>.</em></p>]]></description></item></channel></rss>

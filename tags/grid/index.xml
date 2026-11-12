@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Grid - Tag - My Notes</title><link>https://blog.emecas.net/tags/grid/</link><description>Grid - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Jun 2017 00:21:34 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/grid/" rel="self" type="application/rss+xml"/><item><title>SeleniumHQ/docker-selenium</title><link>https://blog.emecas.net/posts/2017-06-15-seleniumhq-docker-selenium/</link><pubDate>Thu, 15 Jun 2017 00:21:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-15-seleniumhq-docker-selenium/</guid><description><![CDATA[<p>SeleniumHQ/docker-selenium<br>
+Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale<br>
+Go repository by SeleniumHQ, created in 2014, with 8,662 stars and 2,535 forks. Starred on 2017-06-15.<br>
+Homepage: <a href="http://www.selenium.dev/docker-selenium/" target="_blank" rel="noopener noreffer ">http://www.selenium.dev/docker-selenium/</a><br>
+<a href="https://github.com/SeleniumHQ/docker-selenium" target="_blank" rel="noopener noreffer ">https://github.com/SeleniumHQ/docker-selenium</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-15: <a href="https://github.com/SeleniumHQ/docker-selenium" target="_blank" rel="noopener noreffer ">SeleniumHQ/docker-selenium</a>.</em></p>]]></description></item></channel></rss>

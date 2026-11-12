@@ -1,4 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Api - Tag - My Notes</title><link>https://blog.emecas.net/tags/api/</link><description>Api - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Feb 2025 23:49:33 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/api/" rel="self" type="application/rss+xml"/><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Api - Tag - My Notes</title><link>https://blog.emecas.net/tags/api/</link><description>Api - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Nov 2025 00:22:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/api/" rel="self" type="application/rss+xml"/><item><title>usebruno/bruno</title><link>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</link><pubDate>Mon, 10 Nov 2025 00:22:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</guid><description><![CDATA[<p>usebruno/bruno<br>
+Opensource IDE For Exploring and Testing API&rsquo;s (lightweight alternative to Postman/Insomnia)<br>
+JavaScript repository by usebruno, created in 2022, with 48,334 stars and 3,094 forks. License: MIT. Starred on 2025-11-10.<br>
+Homepage: <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreffer ">https://www.usebruno.com/</a><br>
+<a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreffer ">https://github.com/usebruno/bruno</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-11-10: <a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreffer ">usebruno/bruno</a>.</em></p>]]></description></item><item><title>microsoft/restler-fuzzer</title><link>https://blog.emecas.net/posts/2025-05-25-microsoft-restler-fuzzer/</link><pubDate>Sun, 25 May 2025 01:17:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-25-microsoft-restler-fuzzer/</guid><description><![CDATA[<p>microsoft/restler-fuzzer<br>
+RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.<br>
+Python repository by microsoft, created in 2020, with 2,969 stars and 331 forks. License: MIT. Starred on 2025-05-25.<br>
+<a href="https://github.com/microsoft/restler-fuzzer" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/restler-fuzzer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-05-25: <a href="https://github.com/microsoft/restler-fuzzer" target="_blank" rel="noopener noreffer ">microsoft/restler-fuzzer</a>.</em></p>]]></description></item><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
 Java native API Gateway for service proxy, protocol conversion and API governance.<br>
 <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
 <p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
@@ -10,7 +21,13 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
+API Documentation Browser<br>
+Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
+Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-03-02: <a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">freeCodeCamp/devdocs</a>.</em></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
 Generate beautiful API documentation from OpenAPI</p>
 <p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
 <p>By default Redoc offers a three-panel, responsive layout:</p>
@@ -27,62 +44,27 @@ The InboxSDK lets you build apps for Gmail.</p>
 <p>Getting Started<br>
 <a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>postgresql in-memory</title><link>https://blog.emecas.net/posts/2020-07-27-postgresql-in-memory/</link><pubDate>Mon, 27 Jul 2020 20:56:10 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-27-postgresql-in-memory/</guid><description><![CDATA[<p>Approaches to Achieve in-Memory Table Storage with PostgreSQL Pluggable API<br>
-<a href="https://www.highgo.ca/2020/07/24/approaches-to-achieve-in-memory-table-storage-with-postgresql-pluggable-api" target="_blank" rel="noopener noreffer ">https://www.highgo.ca/2020/07/24/approaches-to-achieve-in-memory-table-storage-with-postgresql-pluggable-api</a><br>
-1. Introduction<br>
-Recently, I have had an opportunity to perform some in-depth feasibility study in-memory table using PostgreSQL’s pluggable storage API. The pluggable storage API was introduced Since PostgreSQL v12 and it allowed custom table storage Access Methods (AM for short) to be developed. Some famous examples include zheap from EDB, which aims to store a much more simplified tuple structure to achieve vacuum free storage and zedstore from Greenplum to utilize columnar storage. But they do not utilize in-memory storage and still interacts with existing buffer manager to persist data to disk.<br>
-Yes, it would be nice to have in-memory tables if they would perform faster. It would definitely be a very interesting challenge if we could achieve an in-memory table storage engine and design it in a way that will give serious performance advantages using the existing pluggable storage API architecture.<br>
-Developing a custom storage AM is no easy task and it requires a very deep understanding on how the current PostgreSQL storage engine works before we are able to improve it. In addition to redefining the tuple structure and custom algorithms to store and retrieve, it is also possible to define our own in-memory based storage module to handle the insertion and retrieval of tuple instead of utilizing the same buffer manager routines like what heap, zheap and zedstore access methods are using.<br>
-In this blog, I will briefly talk about the capability of pluggable storage API and share some progress on our in-memory table analysis</p>]]></description></item><item><title>Swagger 2</title><link>https://blog.emecas.net/posts/2020-06-25-swagger-2/</link><pubDate>Thu, 25 Jun 2020 15:38:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-25-swagger-2/</guid><description><![CDATA[<p>Setting Up Swagger 2 with a Spring REST API<br>
-<a href="https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api</a><br>
-Nowadays, front-end and back-end components often separate a web application. Usually, we expose APIs as a back-end component for the front-end component or third-party app integrations.</p>
-<p>In such a scenario, it is essential to have proper specifications for the back-end APIs. At the same time, the API documentation should be informative, readable, and easy to follow.</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>tomitribe/jamira</title><link>https://blog.emecas.net/posts/2021-04-27-tomitribe-jamira/</link><pubDate>Tue, 27 Apr 2021 16:27:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-04-27-tomitribe-jamira/</guid><description><![CDATA[<p>tomitribe/jamira<br>
+Command-line API for Atlassian JIRA using the Tomitribe CREST library<br>
+Java repository by tomitribe, created in 2021, with 13 stars and 4 forks. License: Apache-2.0. Starred on 2021-04-27.<br>
+<a href="https://github.com/tomitribe/jamira" target="_blank" rel="noopener noreffer ">https://github.com/tomitribe/jamira</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9d1d48d3e87f6c21cbf1d2848259d536603156bb" target="_blank" rel="noopener noreffer "><code>9d1d48d</code></a> in My-Notes.</em></p>]]></description></item><item><title>SoapUI</title><link>https://blog.emecas.net/posts/2020-06-22-soapui/</link><pubDate>Mon, 22 Jun 2020 19:36:20 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-22-soapui/</guid><description><![CDATA[<p>SoapUI<br>
-<a href="https://www.soapui.org/" target="_blank" rel="noopener noreffer ">https://www.soapui.org/</a><br>
-Build Better | Test Smarter<br>
-The Most Advanced REST, SOAP and GraphQL<br>
-API Testing Tool in the World<br>
-Get the open source version of the most widely used API testing tool in the world. Read about the latest release</p>
-<p>github: <a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">https://github.com/SmartBear/soapui</a></p>
+<p><em>Source: starred on GitHub on 2021-04-27: <a href="https://github.com/tomitribe/jamira" target="_blank" rel="noopener noreffer ">tomitribe/jamira</a>.</em></p>]]></description></item><item><title>openmrs/openmrs-core</title><link>https://blog.emecas.net/posts/2021-02-02-openmrs-openmrs-core/</link><pubDate>Tue, 02 Feb 2021 10:47:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-02-openmrs-openmrs-core/</guid><description><![CDATA[<p>openmrs/openmrs-core<br>
+OpenMRS API and web application code<br>
+Java repository by openmrs, created in 2012, with 1,988 stars and 4,472 forks. Starred on 2021-02-02.<br>
+Homepage: <a href="http://openmrs.org" target="_blank" rel="noopener noreffer ">http://openmrs.org</a><br>
+<a href="https://github.com/openmrs/openmrs-core" target="_blank" rel="noopener noreffer ">https://github.com/openmrs/openmrs-core</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fe1ac6b775142c661820cd1a9fd4d4efaa92a514" target="_blank" rel="noopener noreffer "><code>fe1ac6b</code></a> in My-Notes.</em></p>]]></description></item><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
-<a href="https://jcp.org/en/jsr/detail?id=377" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=377</a><br>
-<a href="http://jsr377.github.io/site/" target="_blank" rel="noopener noreffer ">http://jsr377.github.io/site/</a></p>
-<p>The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features</p>
-<p>dependency injection via JSR330.<br>
-common application structure.<br>
-application life-cycle.<br>
-localized resources.<br>
-resource injection.<br>
-localized configuration.<br>
-decouple state from UI (binding).<br>
-persistence session state (preferences).<br>
-action management.<br>
-component life-cycle.<br>
-light-weight event bus.<br>
-honor threading concerns (specific to UI toolkit).<br>
-application extensibility via plugins (implies modularity).</p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
-<a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
-The Software Development Kit Manager</p>
-<p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
-<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>Apache Empire-db</title><link>https://blog.emecas.net/posts/2020-05-14-apache-empire-db/</link><pubDate>Thu, 14 May 2020 19:47:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-apache-empire-db/</guid><description><![CDATA[<p>Apache Empire-db<br>
-Apache Empire-db is a relational database abstraction layer and data persistence component that allows developers to take a much more SQL-centric approach in application development than traditional Object-relational mapping frameworks (ORM). By providing a unique type-safe object orientated command API Empire-db allows building highly efficient SQL-statements that take full advantage of all database features while eliminating the need for error-prone string operations and literals. This, togehter with DBMS independent record and metadata managment leads to an unprecedented level of ease-of-use and compile-time-safety.<br>
-<a href="https://empire-db.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://empire-db.apache.org/index.html</a></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
-Command line client for Trello<br>
-<a href="https://github.com/mheap/trello-cli" target="_blank" rel="noopener noreffer ">https://github.com/mheap/trello-cli</a></p>
-<p>Supported API commands</p>
-<p>trello-cli currently supports the following commands:</p>
-<p>add-board          Adds a new board with the specified name<br>
-add-card           Add a card to a board<br>
-add-list           Adds a new list to the spcified board with the specified name<br>
-assigned-to-me     Show cards that are currently assigned to you<br>
-close-board        Closes those board(s) where the specified text occurs in their name<br>
-delete-card        Remove a card from a board<br>
-move-all-cards     Move all cards from one list to another<br>
-refresh            Refresh all your board/list names<br>
-show-boards        Show the list of cached boards<br>
-show-cards         Show the cards on a list<br>
-show-labels        Show labels defined on a board<br>
-show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
-show-lists         Show the list of cached lists</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2021-02-02: <a href="https://github.com/openmrs/openmrs-core" target="_blank" rel="noopener noreffer ">openmrs/openmrs-core</a>.</em></p>]]></description></item><item><title>apache/shenyu</title><link>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</link><pubDate>Sat, 16 Jan 2021 05:42:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</guid><description><![CDATA[<p>apache/shenyu<br>
+Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+Java repository by apache, created in 2018, with 8,919 stars and 3,111 forks. License: Apache-2.0. Starred on 2021-01-16.<br>
+Homepage: <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a><br>
+<a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-16: <a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">apache/shenyu</a>.</em></p>]]></description></item><item><title>hoppscotch/hoppscotch</title><link>https://blog.emecas.net/posts/2020-09-04-hoppscotch-hoppscotch/</link><pubDate>Fri, 04 Sep 2020 09:40:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-04-hoppscotch-hoppscotch/</guid><description><![CDATA[<p>hoppscotch/hoppscotch<br>
+Open-Source API Development Ecosystem • <a href="https://hoppscotch.io" target="_blank" rel="noopener noreffer ">https://hoppscotch.io</a> • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternative to Postman, Insomnia<br>
+TypeScript repository by hoppscotch, created in 2019, with 80,773 stars and 6,233 forks. License: MIT. Starred on 2020-09-04.<br>
+Homepage: <a href="https://hoppscotch.io" target="_blank" rel="noopener noreffer ">https://hoppscotch.io</a><br>
+<a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener noreffer ">https://github.com/hoppscotch/hoppscotch</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-04: <a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener noreffer ">hoppscotch/hoppscotch</a>.</em></p>]]></description></item></channel></rss>

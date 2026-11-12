@@ -1,5 +1,43 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Terminal - Tag - My Notes</title><link>https://blog.emecas.net/tags/terminal/</link><description>Terminal - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 27 Feb 2020 18:50:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/terminal/" rel="self" type="application/rss+xml"/><item><title>guake</title><link>https://blog.emecas.net/posts/2020-02-27-guake/</link><pubDate>Thu, 27 Feb 2020 18:50:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-27-guake/</guid><description><![CDATA[<p>Drop-down terminal for GNOME<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Terminal - Tag - My Notes</title><link>https://blog.emecas.net/tags/terminal/</link><description>Terminal - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Apr 2026 11:02:51 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/terminal/" rel="self" type="application/rss+xml"/><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
+simple terminal UI for git commands<br>
+Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
+<a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item><item><title>ConEmu/ConEmu</title><link>https://blog.emecas.net/posts/2021-08-27-conemu-conemu/</link><pubDate>Fri, 27 Aug 2021 18:09:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-08-27-conemu-conemu/</guid><description><![CDATA[<p>ConEmu/ConEmu<br>
+ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more<br>
+C++ repository by ConEmu, created in 2011, with 9,286 stars and 628 forks. License: BSD-3-Clause. Starred on 2021-08-27.<br>
+Homepage: <a href="https://conemu.github.io/" target="_blank" rel="noopener noreffer ">https://conemu.github.io/</a><br>
+<a href="https://github.com/ConEmu/ConEmu" target="_blank" rel="noopener noreffer ">https://github.com/ConEmu/ConEmu</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-08-27: <a href="https://github.com/ConEmu/ConEmu" target="_blank" rel="noopener noreffer ">ConEmu/ConEmu</a>.</em></p>]]></description></item><item><title>GitSquared/edex-ui</title><link>https://blog.emecas.net/posts/2020-07-08-gitsquared-edex-ui/</link><pubDate>Wed, 08 Jul 2020 01:52:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-08-gitsquared-edex-ui/</guid><description><![CDATA[<p>GitSquared/edex-ui<br>
+A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.<br>
+JavaScript repository by GitSquared, created in 2017, with 45,039 stars and 3,227 forks. License: GPL-3.0. Archived by its owner. Starred on 2020-07-08.<br>
+<a href="https://github.com/GitSquared/edex-ui" target="_blank" rel="noopener noreffer ">https://github.com/GitSquared/edex-ui</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-07-08: <a href="https://github.com/GitSquared/edex-ui" target="_blank" rel="noopener noreffer ">GitSquared/edex-ui</a>.</em></p>]]></description></item><item><title>guake</title><link>https://blog.emecas.net/posts/2020-02-27-guake/</link><pubDate>Thu, 27 Feb 2020 18:50:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-27-guake/</guid><description><![CDATA[<p>Drop-down terminal for GNOME<br>
 <a href="http://guake-project.org" target="_blank" rel="noopener noreffer ">http://guake-project.org</a><br>
 <a href="https://github.com/Guake/guake" target="_blank" rel="noopener noreffer ">https://github.com/Guake/guake</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b0c9acc64d846385c72e61fc83c03bd7c3895fb" target="_blank" rel="noopener noreffer "><code>1b0c9ac</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b0c9acc64d846385c72e61fc83c03bd7c3895fb" target="_blank" rel="noopener noreffer "><code>1b0c9ac</code></a> in My-Notes.</em></p>]]></description></item><item><title>termux/termux-app</title><link>https://blog.emecas.net/posts/2020-02-20-termux-termux-app/</link><pubDate>Thu, 20 Feb 2020 12:12:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-20-termux-termux-app/</guid><description><![CDATA[<p>termux/termux-app<br>
+Termux - a terminal emulator application for Android OS extendible by variety of packages.<br>
+Java repository by termux, created in 2015, with 64,580 stars and 8,273 forks. Starred on 2020-02-20.<br>
+Homepage: <a href="https://f-droid.org/en/packages/com.termux" target="_blank" rel="noopener noreffer ">https://f-droid.org/en/packages/com.termux</a><br>
+<a href="https://github.com/termux/termux-app" target="_blank" rel="noopener noreffer ">https://github.com/termux/termux-app</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-20: <a href="https://github.com/termux/termux-app" target="_blank" rel="noopener noreffer ">termux/termux-app</a>.</em></p>]]></description></item><item><title>Guake/guake</title><link>https://blog.emecas.net/posts/2020-02-13-guake-guake/</link><pubDate>Thu, 13 Feb 2020 23:35:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-guake-guake/</guid><description><![CDATA[<p>Guake/guake<br>
+Drop-down terminal for GNOME<br>
+Python repository by Guake, created in 2012, with 4,668 stars and 607 forks. License: GPL-2.0. Starred on 2020-02-13.<br>
+Homepage: <a href="https://guake.github.io" target="_blank" rel="noopener noreffer ">https://guake.github.io</a><br>
+<a href="https://github.com/Guake/guake" target="_blank" rel="noopener noreffer ">https://github.com/Guake/guake</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-13: <a href="https://github.com/Guake/guake" target="_blank" rel="noopener noreffer ">Guake/guake</a>.</em></p>]]></description></item><item><title>orakaro/rainbowstream</title><link>https://blog.emecas.net/posts/2019-02-17-orakaro-rainbowstream/</link><pubDate>Sun, 17 Feb 2019 00:05:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-17-orakaro-rainbowstream/</guid><description><![CDATA[<p>orakaro/rainbowstream<br>
+A smart and nice Twitter client on terminal written in Python.<br>
+Python repository by orakaro, created in 2014, with 3,524 stars and 251 forks. License: MIT. Starred on 2019-02-17.<br>
+<a href="https://github.com/orakaro/rainbowstream" target="_blank" rel="noopener noreffer ">https://github.com/orakaro/rainbowstream</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-02-17: <a href="https://github.com/orakaro/rainbowstream" target="_blank" rel="noopener noreffer ">orakaro/rainbowstream</a>.</em></p>]]></description></item><item><title>notwaldorf/tiny-care-terminal</title><link>https://blog.emecas.net/posts/2017-04-18-notwaldorf-tiny-care-terminal/</link><pubDate>Tue, 18 Apr 2017 14:41:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-18-notwaldorf-tiny-care-terminal/</guid><description><![CDATA[<p>notwaldorf/tiny-care-terminal<br>
+💖💻 A little dashboard that tries to take care of you when you&rsquo;re using your terminal.<br>
+JavaScript repository by notwaldorf, created in 2017, with 5,977 stars and 236 forks. License: MIT. Starred on 2017-04-18.<br>
+<a href="https://github.com/notwaldorf/tiny-care-terminal" target="_blank" rel="noopener noreffer ">https://github.com/notwaldorf/tiny-care-terminal</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-04-18: <a href="https://github.com/notwaldorf/tiny-care-terminal" target="_blank" rel="noopener noreffer ">notwaldorf/tiny-care-terminal</a>.</em></p>]]></description></item></channel></rss>

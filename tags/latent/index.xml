@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Latent - Tag - My Notes</title><link>https://blog.emecas.net/tags/latent/</link><description>Latent - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Feb 2020 11:00:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/latent/" rel="self" type="application/rss+xml"/><item><title>YuliaRubanova/latent_ode</title><link>https://blog.emecas.net/posts/2020-02-24-yuliarubanova-latent-ode/</link><pubDate>Mon, 24 Feb 2020 11:00:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-yuliarubanova-latent-ode/</guid><description><![CDATA[<p>YuliaRubanova/latent_ode<br>
+Code for &ldquo;Latent ODEs for Irregularly-Sampled Time Series&rdquo; paper<br>
+Python repository by YuliaRubanova, created in 2019, with 601 stars and 135 forks. License: MIT. Starred on 2020-02-24.<br>
+<a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-24: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">YuliaRubanova/latent_ode</a>.</em></p>]]></description></item><item><title>google-research/dreamer</title><link>https://blog.emecas.net/posts/2020-02-14-google-research-dreamer/</link><pubDate>Fri, 14 Feb 2020 03:50:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-google-research-dreamer/</guid><description><![CDATA[<p>google-research/dreamer<br>
+Dream to Control: Learning Behaviors by Latent Imagination<br>
+Python repository by google-research, created in 2019, with 749 stars and 85 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-02-14.<br>
+Homepage: <a href="https://danijar.com/dreamer" target="_blank" rel="noopener noreffer ">https://danijar.com/dreamer</a><br>
+<a href="https://github.com/google-research/dreamer" target="_blank" rel="noopener noreffer ">https://github.com/google-research/dreamer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-14: <a href="https://github.com/google-research/dreamer" target="_blank" rel="noopener noreffer ">google-research/dreamer</a>.</em></p>]]></description></item></channel></rss>

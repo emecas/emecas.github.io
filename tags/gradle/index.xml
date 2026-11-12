@@ -32,7 +32,17 @@ A light JAX-RS+CDI+JSON server!</p>
 <p>Meecrowave Core</p>
 <p>Core component is the backbone of Meecrowave. It is based on Tomcat embedded for Servlet container, CXF for JAX-RS, OpenWebBeans for CDI and Log4j2 for the logging.</p>
 <p>Meecrowave JPA</p>
-<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
+<p>Meecrowave JPA provides a thin layer on top of JPA to make it easier to use JPA without requiring to use a full container like JavaEE or Spring. It is just a CDI extension.</p>]]></description></item><item><title>unbroken-dome/gradle-testsets-plugin</title><link>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</link><pubDate>Thu, 30 Apr 2020 20:03:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</guid><description><![CDATA[<p>unbroken-dome/gradle-testsets-plugin<br>
+A plugin for the Gradle build system that allows specifying test sets (like integration or acceptance tests).<br>
+Kotlin repository by unbroken-dome, created in 2015, with 233 stars and 49 forks. License: MIT. Starred on 2020-04-30.<br>
+<a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">https://github.com/unbroken-dome/gradle-testsets-plugin</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-04-30: <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">unbroken-dome/gradle-testsets-plugin</a>.</em></p>]]></description></item><item><title>MicroShed/boost</title><link>https://blog.emecas.net/posts/2019-04-16-microshed-boost/</link><pubDate>Tue, 16 Apr 2019 18:45:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-16-microshed-boost/</guid><description><![CDATA[<p>MicroShed/boost<br>
+Boost Maven and Gradle plugins for MicroProfile development<br>
+Java repository by MicroShed, created in 2018, with 27 stars and 13 forks. License: EPL-1.0. Archived by its owner. Starred on 2019-04-16.<br>
+<a href="https://github.com/MicroShed/boost" target="_blank" rel="noopener noreffer ">https://github.com/MicroShed/boost</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-16: <a href="https://github.com/MicroShed/boost" target="_blank" rel="noopener noreffer ">MicroShed/boost</a>.</em></p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
 <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
 <p>Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -<br>
 and without deep mastery of Docker best-practices.<br>

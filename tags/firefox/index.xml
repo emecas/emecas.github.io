@@ -6,7 +6,30 @@ Playwright enables reliable end-to-end testing for modern web apps.<br>
 <p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
 Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
 Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
-Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3</title><link>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</link><pubDate>Thu, 13 Jun 2013 15:55:32 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</guid><description><![CDATA[<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>mozilla/send</title><link>https://blog.emecas.net/posts/2019-03-14-mozilla-send/</link><pubDate>Thu, 14 Mar 2019 12:00:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-mozilla-send/</guid><description><![CDATA[<p>mozilla/send<br>
+Simple, private file sharing from the makers of Firefox<br>
+FreeMarker repository by mozilla, created in 2017, with 13,239 stars and 1,624 forks. License: MPL-2.0. Archived by its owner. Starred on 2019-03-14.<br>
+Homepage: <a href="https://send.firefox.com" target="_blank" rel="noopener noreffer ">https://send.firefox.com</a><br>
+<a href="https://github.com/mozilla/send" target="_blank" rel="noopener noreffer ">https://github.com/mozilla/send</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/mozilla/send" target="_blank" rel="noopener noreffer ">mozilla/send</a>.</em></p>]]></description></item><item><title>SeleniumHQ/docker-selenium</title><link>https://blog.emecas.net/posts/2017-06-15-seleniumhq-docker-selenium/</link><pubDate>Thu, 15 Jun 2017 00:21:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-15-seleniumhq-docker-selenium/</guid><description><![CDATA[<p>SeleniumHQ/docker-selenium<br>
+Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale<br>
+Go repository by SeleniumHQ, created in 2014, with 8,662 stars and 2,535 forks. Starred on 2017-06-15.<br>
+Homepage: <a href="http://www.selenium.dev/docker-selenium/" target="_blank" rel="noopener noreffer ">http://www.selenium.dev/docker-selenium/</a><br>
+<a href="https://github.com/SeleniumHQ/docker-selenium" target="_blank" rel="noopener noreffer ">https://github.com/SeleniumHQ/docker-selenium</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-15: <a href="https://github.com/SeleniumHQ/docker-selenium" target="_blank" rel="noopener noreffer ">SeleniumHQ/docker-selenium</a>.</em></p>]]></description></item><item><title>pfn/passifox</title><link>https://blog.emecas.net/posts/2017-06-08-pfn-passifox/</link><pubDate>Thu, 08 Jun 2017 16:27:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-08-pfn-passifox/</guid><description><![CDATA[<p>pfn/passifox<br>
+Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)<br>
+JavaScript repository by pfn, created in 2010, with 895 stars and 178 forks. License: GPL-3.0. Starred on 2017-06-08.<br>
+<a href="https://github.com/pfn/passifox" target="_blank" rel="noopener noreffer ">https://github.com/pfn/passifox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-08: <a href="https://github.com/pfn/passifox" target="_blank" rel="noopener noreffer ">pfn/passifox</a>.</em></p>]]></description></item><item><title>kkapsner/CanvasBlocker</title><link>https://blog.emecas.net/posts/2017-02-25-kkapsner-canvasblocker/</link><pubDate>Sat, 25 Feb 2017 00:46:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-25-kkapsner-canvasblocker/</guid><description><![CDATA[<p>kkapsner/CanvasBlocker<br>
+A Firefox extension to protect from being fingerprinted.<br>
+JavaScript repository by kkapsner, created in 2014, with 1,531 stars and 95 forks. License: MPL-2.0. Starred on 2017-02-25.<br>
+Homepage: <a href="https://canvasblocker.kkapsner.de" target="_blank" rel="noopener noreffer ">https://canvasblocker.kkapsner.de</a><br>
+<a href="https://github.com/kkapsner/CanvasBlocker" target="_blank" rel="noopener noreffer ">https://github.com/kkapsner/CanvasBlocker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-02-25: <a href="https://github.com/kkapsner/CanvasBlocker" target="_blank" rel="noopener noreffer ">kkapsner/CanvasBlocker</a>.</em></p>]]></description></item><item><title>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3</title><link>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</link><pubDate>Thu, 13 Jun 2013 15:55:32 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-13-infographics-software-metrics-of-firefox-19-vs-firefox-20-us/</guid><description><![CDATA[<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
 <a href="http://almossawi.com/firefox/" target="_blank" rel="noopener noreffer ">http://almossawi.com/firefox/</a><br>
 LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed</p>
 <hr>

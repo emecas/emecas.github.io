@@ -1,14 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Documentation and Diagrams - Category - My Notes</title><link>https://blog.emecas.net/categories/documentation-and-diagrams/</link><description>Documentation and Diagrams - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Apr 2026 19:19:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/documentation-and-diagrams/" rel="self" type="application/rss+xml"/><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
 <a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
 <p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
-<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>KindleModding/kindlemodding.github.io</title><link>https://blog.emecas.net/posts/2026-04-10-kindlemodding-kindlemodding-github-io/</link><pubDate>Fri, 10 Apr 2026 17:09:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-10-kindlemodding-kindlemodding-github-io/</guid><description><![CDATA[<p>KindleModding/kindlemodding.github.io<br>
+Technical Kindle documentation and jailbreaking guides<br>
+HTML repository by KindleModding, created in 2023, with 486 stars and 80 forks. Starred on 2026-04-10.<br>
+Homepage: <a href="https://kindlemodding.org/" target="_blank" rel="noopener noreffer ">https://kindlemodding.org/</a><br>
+<a href="https://github.com/KindleModding/kindlemodding.github.io" target="_blank" rel="noopener noreffer ">https://github.com/KindleModding/kindlemodding.github.io</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-10: <a href="https://github.com/KindleModding/kindlemodding.github.io" target="_blank" rel="noopener noreffer ">KindleModding/kindlemodding.github.io</a>.</em></p>]]></description></item><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
 <a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
 <p>An open-source scientific and technical publishing system</p>
 <p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
 Create dynamic content with Python, R, Julia, and Observable.<br>
 Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
 Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
-Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>mermaid-js/mermaid-cli</title><link>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</link><pubDate>Sat, 05 Oct 2024 00:15:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</guid><description><![CDATA[<p>mermaid-js/mermaid-cli<br>
+Command line tool for the Mermaid library<br>
+JavaScript repository by mermaid-js, created in 2020, with 5,161 stars and 396 forks. License: MIT. Starred on 2024-10-05.<br>
+<a href="https://github.com/mermaid-js/mermaid-cli" target="_blank" rel="noopener noreffer ">https://github.com/mermaid-js/mermaid-cli</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-05: <a href="https://github.com/mermaid-js/mermaid-cli" target="_blank" rel="noopener noreffer ">mermaid-js/mermaid-cli</a>.</em></p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
 Generate easy-to-read web pages for your Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
 repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
@@ -37,7 +48,13 @@ File name conventions for ADRs<br>
 Suggestions for writing good ADRs<br>
 ADR example templates<br>
 Teamwork advice for ADRs<br>
-For more information</p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+For more information</p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
+API Documentation Browser<br>
+Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
+Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-03-02: <a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">freeCodeCamp/devdocs</a>.</em></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
 Generate beautiful API documentation from OpenAPI</p>
 <p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
 <p>By default Redoc offers a three-panel, responsive layout:</p>
@@ -45,79 +62,10 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>miro</title><link>https://blog.emecas.net/posts/2021-01-03-miro/</link><pubDate>Sun, 03 Jan 2021 19:16:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-03-miro/</guid><description><![CDATA[<p>miro<br>
-<a href="https://miro.com/" target="_blank" rel="noopener noreffer ">https://miro.com/</a><br>
-The online collaborative whiteboard platform to bring teams together, anytime, anywhere.</p>
-<p>Use Cases</p>
-<p>Meetings and Workshops<br>
-Agile Workflows<br>
-Brainstorming &amp; Ideation<br>
-Mapping &amp; Diagramming<br>
-UX &amp; Design Thinking<br>
-Strategy &amp; Planning<br>
-Concept Mapping<br>
-Mind Mapping</p>
-<p>By Team</p>
-<p>Agile<br>
-Development<br>
-Product<br>
-Project Management<br>
-Sales<br>
-UX</p>
-<p>Integrations</p>
-<p>Voting Plugin<br>
-by Miro<br>
-Vote on ideas with a distributed team.</p>
-<p>Countdown Timer<br>
-by Miro<br>
-Timebox your team activities.</p>
-<p>Clusterizer<br>
-by Refractive Strategy<br>
-Affinity-cluster your tagged stickies and cards in one click</p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
-<a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
-Get everyone on the same page with Markdown<br>
-Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
-<p>Effective team collaboration<br>
-Flexible permissioning</p>
-<p>Transcend beyond space and time<br>
-Blazing fast real-time collaboration breaks the space between members. Change notification keeps everyone posted.<br>
-Sharing is caring<br>
-Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.<br>
-Keep your secret (while sharing it)<br>
-Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>excalidraw</title><link>https://blog.emecas.net/posts/2020-10-24-excalidraw/</link><pubDate>Sat, 24 Oct 2020 17:59:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-24-excalidraw/</guid><description><![CDATA[<p>excalidraw<br>
-<a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
-Virtual whiteboard for sketching hand-drawn like diagrams.<br>
-Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
-repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>jekyll/jekyll</title><link>https://blog.emecas.net/posts/2022-07-24-jekyll-jekyll/</link><pubDate>Sun, 24 Jul 2022 00:10:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-24-jekyll-jekyll/</guid><description><![CDATA[<p>jekyll/jekyll<br>
+:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby<br>
+Ruby repository by jekyll, created in 2008, with 51,762 stars and 10,299 forks. License: MIT. Starred on 2022-07-24.<br>
+Homepage: <a href="https://jekyllrb.com" target="_blank" rel="noopener noreffer ">https://jekyllrb.com</a><br>
+<a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreffer ">https://github.com/jekyll/jekyll</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7362c09fb3e7fbfafb2978b9bbd1abfb2431843" target="_blank" rel="noopener noreffer "><code>c7362c0</code></a> in My-Notes.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
-<p>POM:</p>
-<p>&lt;plugin&gt;<br>
-&lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>
-&lt;artifactId&gt;maven-javadoc-plugin&lt;/artifactId&gt;<br>
-&lt;version&gt;3.2.0&lt;/version&gt;<br>
-&lt;executions&gt;<br>
-&lt;execution&gt;<br>
-&lt;id&gt;attach-javadocs&lt;/id&gt;<br>
-&lt;goals&gt;<br>
-&lt;goal&gt;jar&lt;/goal&gt;<br>
-&lt;/goals&gt;<br>
-&lt;configuration&gt;<br>
-&lt;doclet&gt;nl.talsmasoftware.umldoclet.UMLDoclet&lt;/doclet&gt;<br>
-&lt;docletArtifact&gt;<br>
-&lt;groupId&gt;nl.talsmasoftware&lt;/groupId&gt;<br>
-&lt;artifactId&gt;umldoclet&lt;/artifactId&gt;<br>
-&lt;version&gt;2.0.9&lt;/version&gt;<br>
-&lt;/docletArtifact&gt;<br>
-&lt;/configuration&gt;<br>
-&lt;/execution&gt;<br>
-&lt;/executions&gt;<br>
-&lt;/plugin&gt;</p>
-<p>Other Ref: <a href="https://plantuml.com/doclet" target="_blank" rel="noopener noreffer ">https://plantuml.com/doclet</a></p>
-<p>UMLDoclet<br>
-<a href="https://github.com/talsma-ict/umldoclet" target="_blank" rel="noopener noreffer ">https://github.com/talsma-ict/umldoclet</a></p>
-<p>An open source doclet is now available on github..</p>
-<p>It&rsquo;s also available in Maven central for easy inclusion in any java projects.</p>
-<p>Usage:</p>
-<p>Declare the nl.talsmasoftware.umldoclet.UMLDoclet class to be used by javadoc (will by default also delegate to Standard doclet, so all-in-one).<br>
-All customizable options will become documented on the github page before the 1.0.0 release.</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2022-07-24: <a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreffer ">jekyll/jekyll</a>.</em></p>]]></description></item></channel></rss>

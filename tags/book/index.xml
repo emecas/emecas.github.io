@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Book - Tag - My Notes</title><link>https://blog.emecas.net/tags/book/</link><description>Book - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2020 09:24:33 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/book/" rel="self" type="application/rss+xml"/><item><title>The Art of Computer Programming</title><link>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</link><pubDate>Mon, 20 Apr 2020 09:24:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</guid><description><![CDATA[<p>The Art of Computer Programming<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Book - Tag - My Notes</title><link>https://blog.emecas.net/tags/book/</link><description>Book - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Aug 2026 23:10:40 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/book/" rel="self" type="application/rss+xml"/><item><title>liquidslr/system-design-notes</title><link>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</link><pubDate>Tue, 11 Aug 2026 23:10:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</guid><description><![CDATA[<p>liquidslr/system-design-notes<br>
+Notes of the book System Desgin Interview - An Insider&rsquo;s Guide<br>
+Repository by liquidslr, created in 2024, with 28,159 stars and 5,267 forks. Starred on 2026-08-11.<br>
+Homepage: <a href="https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu" target="_blank" rel="noopener noreffer ">https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu</a><br>
+<a href="https://github.com/liquidslr/system-design-notes" target="_blank" rel="noopener noreffer ">https://github.com/liquidslr/system-design-notes</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-11: <a href="https://github.com/liquidslr/system-design-notes" target="_blank" rel="noopener noreffer ">liquidslr/system-design-notes</a>.</em></p>]]></description></item><item><title>The Art of Computer Programming</title><link>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</link><pubDate>Mon, 20 Apr 2020 09:24:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</guid><description><![CDATA[<p>The Art of Computer Programming<br>
 <a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html" target="_blank" rel="noopener noreffer ">https://www-cs-faculty.stanford.edu/~knuth/taocp.html</a></p>
 <p>&gt;&gt; The bible of all fundamental algorithms and the work that taught many of today’s software developers<br>
 &gt;&gt; most of what they know about computer programming.<br>
@@ -21,7 +27,28 @@ ISBN-13: 978-0932633026<br>
 ISBN-10: 9780932633026<br>
 Ref: from <a href="https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cdfec637e467e3a4c5fdee03382c935508a23a0" target="_blank" rel="noopener noreffer "><code>2cdfec6</code></a> in My-Notes.</em></p>]]></description></item><item><title>Domain Driven Design</title><link>https://blog.emecas.net/posts/2017-04-24-domain-driven-design/</link><pubDate>Mon, 24 Apr 2017 08:58:07 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-24-domain-driven-design/</guid><description><![CDATA[<p>Book: Domain Driven Design<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cdfec637e467e3a4c5fdee03382c935508a23a0" target="_blank" rel="noopener noreffer "><code>2cdfec6</code></a> in My-Notes.</em></p>]]></description></item><item><title>kousen/kotlin-cookbook</title><link>https://blog.emecas.net/posts/2019-11-03-kousen-kotlin-cookbook/</link><pubDate>Sun, 03 Nov 2019 14:04:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-11-03-kousen-kotlin-cookbook/</guid><description><![CDATA[<p>kousen/kotlin-cookbook<br>
+Code from the book _Kotlin Cookbook_, published by O&rsquo;Reilly Media in 2019, <a href="http://shop.oreilly.com/product/0636920224327.do" target="_blank" rel="noopener noreffer ">http://shop.oreilly.com/product/0636920224327.do</a><br>
+Kotlin repository by kousen, created in 2018, with 227 stars and 86 forks. Starred on 2019-11-03.<br>
+<a href="https://github.com/kousen/kotlin-cookbook" target="_blank" rel="noopener noreffer ">https://github.com/kousen/kotlin-cookbook</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-11-03: <a href="https://github.com/kousen/kotlin-cookbook" target="_blank" rel="noopener noreffer ">kousen/kotlin-cookbook</a>.</em></p>]]></description></item><item><title>kousen/java_8_recipes</title><link>https://blog.emecas.net/posts/2019-04-11-kousen-java-8-recipes/</link><pubDate>Thu, 11 Apr 2019 14:19:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-11-kousen-java-8-recipes/</guid><description><![CDATA[<p>kousen/java_8_recipes<br>
+Source code for Modern Java Recipes book from O&rsquo;Reilly<br>
+Java repository by kousen, created in 2016, with 394 stars and 286 forks. Starred on 2019-04-11.<br>
+Homepage: <a href="http://shop.oreilly.com/product/0636920056669.do" target="_blank" rel="noopener noreffer ">http://shop.oreilly.com/product/0636920056669.do</a><br>
+<a href="https://github.com/kousen/java_8_recipes" target="_blank" rel="noopener noreffer ">https://github.com/kousen/java_8_recipes</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-11: <a href="https://github.com/kousen/java_8_recipes" target="_blank" rel="noopener noreffer ">kousen/java_8_recipes</a>.</em></p>]]></description></item><item><title>vladmihalcea/high-performance-java-persistence</title><link>https://blog.emecas.net/posts/2018-05-29-vladmihalcea-high-performance-java-persistence/</link><pubDate>Tue, 29 May 2018 18:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-05-29-vladmihalcea-high-performance-java-persistence/</guid><description><![CDATA[<p>vladmihalcea/high-performance-java-persistence<br>
+The High-Performance Java Persistence book and video course code examples<br>
+Java repository by vladmihalcea, created in 2015, with 1,505 stars and 520 forks. License: Apache-2.0. Starred on 2018-05-29.<br>
+<a href="https://github.com/vladmihalcea/high-performance-java-persistence" target="_blank" rel="noopener noreffer ">https://github.com/vladmihalcea/high-performance-java-persistence</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-05-29: <a href="https://github.com/vladmihalcea/high-performance-java-persistence" target="_blank" rel="noopener noreffer ">vladmihalcea/high-performance-java-persistence</a>.</em></p>]]></description></item><item><title>bethrobson/Head-First-Design-Patterns</title><link>https://blog.emecas.net/posts/2018-01-05-bethrobson-head-first-design-patterns/</link><pubDate>Fri, 05 Jan 2018 21:40:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-05-bethrobson-head-first-design-patterns/</guid><description><![CDATA[<p>bethrobson/Head-First-Design-Patterns<br>
+Code for Head First Design Patterns book (2020)<br>
+Java repository by bethrobson, created in 2014, with 3,266 stars and 1,924 forks. Starred on 2018-01-05.<br>
+<a href="https://github.com/bethrobson/Head-First-Design-Patterns" target="_blank" rel="noopener noreffer ">https://github.com/bethrobson/Head-First-Design-Patterns</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-01-05: <a href="https://github.com/bethrobson/Head-First-Design-Patterns" target="_blank" rel="noopener noreffer ">bethrobson/Head-First-Design-Patterns</a>.</em></p>]]></description></item><item><title>Domain Driven Design</title><link>https://blog.emecas.net/posts/2017-04-24-domain-driven-design/</link><pubDate>Mon, 24 Apr 2017 08:58:07 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-24-domain-driven-design/</guid><description><![CDATA[<p>Book: Domain Driven Design<br>
 By Eric Evans<br>
 <a href="https://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC" target="_blank" rel="noopener noreffer ">https://books.google.com/books/about/Domain_driven_Design.html?id=7dlaMs0SECsC</a></p>
 <hr>
@@ -30,22 +57,4 @@ By Eric Evans<br>
 InTechOpen is the world&rsquo;s largest Science, Technology and Medicine Open Access book publisher.</p>
 <p>With a goal to provide free online access to research since 2004, InTechOpen has published 2,843 books and 46,488 scientific works by 97,577 international scientists.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7b1eca1ea87e02c5f536bedd7204b25c7668355a" target="_blank" rel="noopener noreffer "><code>7b1eca1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Bitcoin Resources</title><link>https://blog.emecas.net/posts/2013-11-22-bitcoin-resources/</link><pubDate>Fri, 22 Nov 2013 16:41:32 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-22-bitcoin-resources/</guid><description><![CDATA[<p>Bitcoin Resources</p>
-<p>Oficial Site<br>
-<a href="http://bitcoin.org" target="_blank" rel="noopener noreffer ">http://bitcoin.org</a><br>
-Sitio Oficial en español<br>
-<a href="http://bitcoin.org/es/" target="_blank" rel="noopener noreffer ">http://bitcoin.org/es/</a></p>
-<p>Otro sitio en español<br>
-<a href="http://elbitcoin.org" target="_blank" rel="noopener noreffer ">http://elbitcoin.org</a></p>
-<p>Libro en español<br>
-Bitcoin: La moneda del futuro - Qué es, cómo funciona y por qué cambiará el mundo<br>
-<a href="https://www.coindl.com/page/item/249" target="_blank" rel="noopener noreffer ">https://www.coindl.com/page/item/249</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f4596c7e1113a6b93250899ebff173277a95c4e2" target="_blank" rel="noopener noreffer "><code>f4596c7</code></a> in My-Notes.</em></p>]]></description></item><item><title>GIT official web site</title><link>https://blog.emecas.net/posts/2013-03-15-git-official-web-site/</link><pubDate>Fri, 15 Mar 2013 22:01:50 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-15-git-official-web-site/</guid><description><![CDATA[<p><a href="http://stackoverflow.com/questions/15399520/a-hierarchical-clustering-in-php-or-javascript" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/15399520/a-hierarchical-clustering-in-php-or-javascript</a></p>
-<p>GIT official web site<br>
-web<br>
-<a href="http://git-scm.com/about" target="_blank" rel="noopener noreffer ">http://git-scm.com/about</a><br>
-book<br>
-<a href="http://git-scm.com/book" target="_blank" rel="noopener noreffer ">http://git-scm.com/book</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f0419207713546196862036588ca623758929d2c" target="_blank" rel="noopener noreffer "><code>f041920</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7b1eca1ea87e02c5f536bedd7204b25c7668355a" target="_blank" rel="noopener noreffer "><code>7b1eca1</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

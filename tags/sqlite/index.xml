@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>SQLite - Tag - My Notes</title><link>https://blog.emecas.net/tags/sqlite/</link><description>SQLite - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Apr 2020 19:08:57 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/sqlite/" rel="self" type="application/rss+xml"/><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>SQLite - Tag - My Notes</title><link>https://blog.emecas.net/tags/sqlite/</link><description>SQLite - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Nov 2022 18:05:29 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/sqlite/" rel="self" type="application/rss+xml"/><item><title>thevahidal/soul</title><link>https://blog.emecas.net/posts/2022-11-02-thevahidal-soul/</link><pubDate>Wed, 02 Nov 2022 18:05:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-11-02-thevahidal-soul/</guid><description><![CDATA[<p>thevahidal/soul<br>
+🕉 Soul | Automatic SQLite RESTful and realtime API server | Build CRUD APIs in minutes!<br>
+JavaScript repository by thevahidal, created in 2022, with 1,676 stars and 59 forks. License: MIT. Starred on 2022-11-02.<br>
+Homepage: <a href="https://thevahidal.github.io/soul/" target="_blank" rel="noopener noreffer ">https://thevahidal.github.io/soul/</a><br>
+<a href="https://github.com/thevahidal/soul" target="_blank" rel="noopener noreffer ">https://github.com/thevahidal/soul</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-11-02: <a href="https://github.com/thevahidal/soul" target="_blank" rel="noopener noreffer ">thevahidal/soul</a>.</em></p>]]></description></item><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
 A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlighting<br>
 <a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
 <a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
@@ -8,4 +14,10 @@ A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlight
 Yokadi is a command line oriented, sqlite powered, todo-list.<br>
 <a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb0b665b7bdf8539f3fd400c2fed569a5cf6fd7d" target="_blank" rel="noopener noreffer "><code>cb0b665</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb0b665b7bdf8539f3fd400c2fed569a5cf6fd7d" target="_blank" rel="noopener noreffer "><code>cb0b665</code></a> in My-Notes.</em></p>]]></description></item><item><title>agateau/yokadi</title><link>https://blog.emecas.net/posts/2019-05-14-agateau-yokadi/</link><pubDate>Tue, 14 May 2019 02:14:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-agateau-yokadi/</guid><description><![CDATA[<p>agateau/yokadi<br>
+Command line oriented, sqlite powered, todo list<br>
+Python repository by agateau, created in 2008, with 136 stars and 19 forks. License: GPL-3.0. Starred on 2019-05-14.<br>
+Homepage: <a href="http://yokadi.github.io" target="_blank" rel="noopener noreffer ">http://yokadi.github.io</a><br>
+<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-14: <a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">agateau/yokadi</a>.</em></p>]]></description></item></channel></rss>

@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Suite - Tag - My Notes</title><link>https://blog.emecas.net/tags/suite/</link><description>Suite - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Sep 2022 00:42:14 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/suite/" rel="self" type="application/rss+xml"/><item><title>primefaces/primefaces</title><link>https://blog.emecas.net/posts/2022-09-15-primefaces-primefaces/</link><pubDate>Thu, 15 Sep 2022 00:42:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-15-primefaces-primefaces/</guid><description><![CDATA[<p>primefaces/primefaces<br>
+Ultimate Component Suite for Jakarta Faces<br>
+Java repository by primefaces, created in 2015, with 1,946 stars and 802 forks. License: MIT. Starred on 2022-09-15.<br>
+Homepage: <a href="http://www.primefaces.org" target="_blank" rel="noopener noreffer ">http://www.primefaces.org</a><br>
+<a href="https://github.com/primefaces/primefaces" target="_blank" rel="noopener noreffer ">https://github.com/primefaces/primefaces</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-09-15: <a href="https://github.com/primefaces/primefaces" target="_blank" rel="noopener noreffer ">primefaces/primefaces</a>.</em></p>]]></description></item><item><title>kiegroup/jbpm</title><link>https://blog.emecas.net/posts/2021-03-01-kiegroup-jbpm/</link><pubDate>Mon, 01 Mar 2021 23:24:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-03-01-kiegroup-jbpm/</guid><description><![CDATA[<p>kiegroup/jbpm<br>
+a Business Process Management (BPM) Suite<br>
+Java repository by kiegroup, created in 2010, with 1,742 stars and 1,206 forks. Starred on 2021-03-01.<br>
+Homepage: <a href="http://www.jbpm.org" target="_blank" rel="noopener noreffer ">http://www.jbpm.org</a><br>
+<a href="https://github.com/kiegroup/jbpm" target="_blank" rel="noopener noreffer ">https://github.com/kiegroup/jbpm</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-03-01: <a href="https://github.com/kiegroup/jbpm" target="_blank" rel="noopener noreffer ">kiegroup/jbpm</a>.</em></p>]]></description></item><item><title>zserge/awfice</title><link>https://blog.emecas.net/posts/2020-10-17-zserge-awfice/</link><pubDate>Sat, 17 Oct 2020 00:42:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-17-zserge-awfice/</guid><description><![CDATA[<p>zserge/awfice<br>
+The world smallest office suite<br>
+HTML repository by zserge, created in 2020, with 3,620 stars and 157 forks. License: MIT. Starred on 2020-10-17.<br>
+<a href="https://github.com/zserge/awfice" target="_blank" rel="noopener noreffer ">https://github.com/zserge/awfice</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-17: <a href="https://github.com/zserge/awfice" target="_blank" rel="noopener noreffer ">zserge/awfice</a>.</em></p>]]></description></item><item><title>deeplearning4j/deeplearning4j</title><link>https://blog.emecas.net/posts/2019-01-24-deeplearning4j-deeplearning4j/</link><pubDate>Thu, 24 Jan 2019 20:03:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-24-deeplearning4j-deeplearning4j/</guid><description><![CDATA[<p>deeplearning4j/deeplearning4j<br>
+Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn&hellip;<br>
+Java repository by deeplearning4j, created in 2013, with 14,278 stars and 3,817 forks. License: Apache-2.0. Starred on 2019-01-24.<br>
+Homepage: <a href="http://deeplearning4j.konduit.ai" target="_blank" rel="noopener noreffer ">http://deeplearning4j.konduit.ai</a><br>
+<a href="https://github.com/deeplearning4j/deeplearning4j" target="_blank" rel="noopener noreffer ">https://github.com/deeplearning4j/deeplearning4j</a></p>]]></description></item></channel></rss>

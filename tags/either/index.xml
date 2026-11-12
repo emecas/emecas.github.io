@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Either - Tag - My Notes</title><link>https://blog.emecas.net/tags/either/</link><description>Either - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 13 Feb 2020 01:06:05 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/either/" rel="self" type="application/rss+xml"/><item><title>IQAndreas/github-issues-import</title><link>https://blog.emecas.net/posts/2020-02-13-iqandreas-github-issues-import/</link><pubDate>Thu, 13 Feb 2020 01:06:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-iqandreas-github-issues-import/</guid><description><![CDATA[<p>IQAndreas/github-issues-import<br>
+Python script to import issues from one repository into another, either one at a time or all of them at once.<br>
+Python repository by IQAndreas, created in 2013, with 429 stars and 171 forks. License: MIT. Starred on 2020-02-13.<br>
+Homepage: <a href="http://www.iqandreas.com/github-issues-import/" target="_blank" rel="noopener noreffer ">http://www.iqandreas.com/github-issues-import/</a><br>
+<a href="https://github.com/IQAndreas/github-issues-import" target="_blank" rel="noopener noreffer ">https://github.com/IQAndreas/github-issues-import</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-13: <a href="https://github.com/IQAndreas/github-issues-import" target="_blank" rel="noopener noreffer ">IQAndreas/github-issues-import</a>.</em></p>]]></description></item></channel></rss>

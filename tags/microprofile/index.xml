@@ -1,47 +1,52 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Microprofile - Tag - My Notes</title><link>https://blog.emecas.net/tags/microprofile/</link><description>Microprofile - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 10 May 2020 21:19:55 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/microprofile/" rel="self" type="application/rss+xml"/><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Microprofile - Tag - My Notes</title><link>https://blog.emecas.net/tags/microprofile/</link><description>Microprofile - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Jun 2023 15:07:30 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/microprofile/" rel="self" type="application/rss+xml"/><item><title>microprofile/microprofile-jwt-auth</title><link>https://blog.emecas.net/posts/2023-06-15-microprofile-microprofile-jwt-auth/</link><pubDate>Thu, 15 Jun 2023 15:07:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-15-microprofile-microprofile-jwt-auth/</guid><description><![CDATA[<p>microprofile/microprofile-jwt-auth<br>
+Java repository by microprofile, created in 2017, with 114 stars and 57 forks. License: Apache-2.0. Starred on 2023-06-15.<br>
+<a href="https://github.com/microprofile/microprofile-jwt-auth" target="_blank" rel="noopener noreffer ">https://github.com/microprofile/microprofile-jwt-auth</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-15: <a href="https://github.com/microprofile/microprofile-jwt-auth" target="_blank" rel="noopener noreffer ">microprofile/microprofile-jwt-auth</a>.</em></p>]]></description></item><item><title>fturizo/ConferenceDemo</title><link>https://blog.emecas.net/posts/2021-02-17-fturizo-conferencedemo/</link><pubDate>Wed, 17 Feb 2021 20:44:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-fturizo-conferencedemo/</guid><description><![CDATA[<p>fturizo/ConferenceDemo<br>
+Sample demo project to showcase use of Jakarta EE and Eclipse MicroProfile using Payara Micro and Testcontainers for testing<br>
+Java repository by fturizo, created in 2018, with 6 stars and 6 forks. Starred on 2021-02-17.<br>
+<a href="https://github.com/fturizo/ConferenceDemo" target="_blank" rel="noopener noreffer ">https://github.com/fturizo/ConferenceDemo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/fturizo/ConferenceDemo" target="_blank" rel="noopener noreffer ">fturizo/ConferenceDemo</a>.</em></p>]]></description></item><item><title>m-reza-rahman/jakartaee-kubernetes</title><link>https://blog.emecas.net/posts/2021-02-17-m-reza-rahman-jakartaee-kubernetes/</link><pubDate>Wed, 17 Feb 2021 19:37:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-m-reza-rahman-jakartaee-kubernetes/</guid><description><![CDATA[<p>m-reza-rahman/jakartaee-kubernetes<br>
+Effective Kubernetes for Java/Jakarta EE and MicroProfile Developers<br>
+Java repository by m-reza-rahman, created in 2019, with 43 stars and 10 forks. License: MIT. Starred on 2021-02-17.<br>
+<a href="https://github.com/m-reza-rahman/jakartaee-kubernetes" target="_blank" rel="noopener noreffer ">https://github.com/m-reza-rahman/jakartaee-kubernetes</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/m-reza-rahman/jakartaee-kubernetes" target="_blank" rel="noopener noreffer ">m-reza-rahman/jakartaee-kubernetes</a>.</em></p>]]></description></item><item><title>microprofile/microprofile-context-propagation</title><link>https://blog.emecas.net/posts/2020-11-01-microprofile-microprofile-context-propagation/</link><pubDate>Sun, 01 Nov 2020 12:33:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-microprofile-microprofile-context-propagation/</guid><description><![CDATA[<p>microprofile/microprofile-context-propagation<br>
+Java repository by microprofile, created in 2018, with 37 stars and 22 forks. License: Apache-2.0. Starred on 2020-11-01.<br>
+<a href="https://github.com/microprofile/microprofile-context-propagation" target="_blank" rel="noopener noreffer ">https://github.com/microprofile/microprofile-context-propagation</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/microprofile/microprofile-context-propagation" target="_blank" rel="noopener noreffer ">microprofile/microprofile-context-propagation</a>.</em></p>]]></description></item><item><title>MicroShed/microshed-testing</title><link>https://blog.emecas.net/posts/2020-10-19-microshed-microshed-testing/</link><pubDate>Mon, 19 Oct 2020 01:42:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-19-microshed-microshed-testing/</guid><description><![CDATA[<p>MicroShed/microshed-testing<br>
+A test framework for black-box testing MicroProfile and Jakarta EE applications<br>
+Java repository by MicroShed, created in 2019, with 68 stars and 25 forks. License: Apache-2.0. Starred on 2020-10-19.<br>
+Homepage: <a href="https://microshed.org/microshed-testing/" target="_blank" rel="noopener noreffer ">https://microshed.org/microshed-testing/</a><br>
+<a href="https://github.com/MicroShed/microshed-testing" target="_blank" rel="noopener noreffer ">https://github.com/MicroShed/microshed-testing</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-19: <a href="https://github.com/MicroShed/microshed-testing" target="_blank" rel="noopener noreffer ">MicroShed/microshed-testing</a>.</em></p>]]></description></item><item><title>microprofile/microprofile-starter</title><link>https://blog.emecas.net/posts/2020-10-13-microprofile-microprofile-starter/</link><pubDate>Tue, 13 Oct 2020 04:13:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-microprofile-microprofile-starter/</guid><description><![CDATA[<p>microprofile/microprofile-starter<br>
+MicroProfile project generator source code<br>
+Java repository by microprofile, created in 2018, with 78 stars and 49 forks. License: Apache-2.0. Starred on 2020-10-13.<br>
+<a href="https://github.com/microprofile/microprofile-starter" target="_blank" rel="noopener noreffer ">https://github.com/microprofile/microprofile-starter</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/microprofile/microprofile-starter" target="_blank" rel="noopener noreffer ">microprofile/microprofile-starter</a>.</em></p>]]></description></item><item><title>payara/Payara</title><link>https://blog.emecas.net/posts/2020-09-30-payara-payara/</link><pubDate>Wed, 30 Sep 2020 10:31:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-30-payara-payara/</guid><description><![CDATA[<p>payara/Payara<br>
+Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE (Jakarta EE) and MicroProfile applications in any environment: on premise, in the cloud or hybrid.<br>
+Java repository by payara, created in 2014, with 923 stars and 322 forks. Starred on 2020-09-30.<br>
+Homepage: <a href="http://www.payara.fish" target="_blank" rel="noopener noreffer ">http://www.payara.fish</a><br>
+<a href="https://github.com/payara/Payara" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara" target="_blank" rel="noopener noreffer ">payara/Payara</a>.</em></p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
 <a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
 Evolution of Enterprise Java -  Optimised for microservice architectures<br>
 Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
 examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
 <p>Mature<br>
-Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
-<a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
-This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
-using both built-in and custom metrics with Helidon MP.</p>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>smallrye/smallrye-graphql</title><link>https://blog.emecas.net/posts/2020-02-19-smallrye-smallrye-graphql/</link><pubDate>Wed, 19 Feb 2020 05:41:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-19-smallrye-smallrye-graphql/</guid><description><![CDATA[<p>smallrye/smallrye-graphql<br>
+Implementation for MicroProfile GraphQL<br>
+Java repository by smallrye, created in 2019, with 177 stars and 98 forks. License: Apache-2.0. Starred on 2020-02-19.<br>
+<a href="https://github.com/smallrye/smallrye-graphql" target="_blank" rel="noopener noreffer ">https://github.com/smallrye/smallrye-graphql</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/68433d5c990d5c431bbd80e3d2ab4d872a17272d" target="_blank" rel="noopener noreffer "><code>68433d5</code></a> in My-Notes.</em></p>]]></description></item><item><title>Microprofile and JPA</title><link>https://blog.emecas.net/posts/2019-04-25-microprofile-and-jpa/</link><pubDate>Thu, 25 Apr 2019 17:34:10 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-25-microprofile-and-jpa/</guid><description><![CDATA[<p>Microprofile and JPA Links</p>
-<p><a href="https://stackoverflow.com/questions/52117613/microprofile-config-custom-configsource-using-jpa" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/52117613/microprofile-config-custom-configsource-using-jpa</a><br>
-<a href="https://thorntail.io/downloads/" target="_blank" rel="noopener noreffer ">https://thorntail.io/downloads/</a><br>
-<a href="https://readlearncode.com/java-ee/eclipse-microprofile-5-things-you-need-to-know/" target="_blank" rel="noopener noreffer ">https://readlearncode.com/java-ee/eclipse-microprofile-5-things-you-need-to-know/</a><br>
-<a href="https://github.com/eclipse/microprofile-sandbox" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/microprofile-sandbox</a><br>
-<a href="https://developer.ibm.com/tutorials/write-a-simple-microprofile-application-2/" target="_blank" rel="noopener noreffer ">https://developer.ibm.com/tutorials/write-a-simple-microprofile-application-2/</a><br>
-<a href="https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application-2-adding-persistence/" target="_blank" rel="noopener noreffer ">https://developer.ibm.com/wasdev/docs/writing-simple-microprofile-application-2-adding-persistence/</a><br>
-<a href="https://thoughts-on-java.org/java-ee-micro-profile-optimizing-java-ee-microservices/" target="_blank" rel="noopener noreffer ">https://thoughts-on-java.org/java-ee-micro-profile-optimizing-java-ee-microservices/</a><br>
-<a href="https://github.com/payara/Payara/issues/1283" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara/issues/1283</a><br>
-<a href="https://github.com/oracle/helidon/issues/205" target="_blank" rel="noopener noreffer ">https://github.com/oracle/helidon/issues/205</a></p>
+<p><em>Source: starred on GitHub on 2020-02-19: <a href="https://github.com/smallrye/smallrye-graphql" target="_blank" rel="noopener noreffer ">smallrye/smallrye-graphql</a>.</em></p>]]></description></item><item><title>jclingan/working</title><link>https://blog.emecas.net/posts/2020-01-24-jclingan-working/</link><pubDate>Fri, 24 Jan 2020 17:27:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-24-jclingan-working/</guid><description><![CDATA[<p>jclingan/working<br>
+Working directory for O&rsquo;Reilly Eclipse MicroProfile Live Training<br>
+HTML repository by jclingan, created in 2020, with 1 stars and 1 forks. Starred on 2020-01-24.<br>
+<a href="https://github.com/jclingan/working" target="_blank" rel="noopener noreffer ">https://github.com/jclingan/working</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d9ad9773e17e4f816b8a43c15949ea5f999c62f8" target="_blank" rel="noopener noreffer "><code>d9ad977</code></a> in My-Notes.</em></p>]]></description></item><item><title>SmallRye</title><link>https://blog.emecas.net/posts/2019-04-22-smallrye/</link><pubDate>Mon, 22 Apr 2019 11:20:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-22-smallrye/</guid><description><![CDATA[<p>SmallRye<br>
-<a href="https://smallrye.io/" target="_blank" rel="noopener noreffer ">https://smallrye.io/</a><br>
-Community driven implementations of Eclipse MicroProfile.<br>
-<a href="https://github.com/smallrye" target="_blank" rel="noopener noreffer ">https://github.com/smallrye</a><br>
-<a href="https://smallrye.io/projects/overview" target="_blank" rel="noopener noreffer ">https://smallrye.io/projects/overview</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b431338e26f95b4215187658524bd94890e6b6a2" target="_blank" rel="noopener noreffer "><code>b431338</code></a> in My-Notes.</em></p>]]></description></item><item><title>Launcher</title><link>https://blog.emecas.net/posts/2019-04-21-launcher/</link><pubDate>Sun, 21 Apr 2019 16:14:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-21-launcher/</guid><description><![CDATA[<p>Launcher - MicroProfile implementation</p>
-<p><a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a></p>
-<p>Launcher is one of MicroProfile implementations. Launcher 1.0 is conformed to MicroProfile 1.1 which includes CDI 1.2, JSON-P 1.0, JAX-RS 2.0 and MicroProfile Config 1.0 API. For the details of MicroProfile, please refer MicroProfile.</p>
-<p>In addition that, Launcher provides the feature to create a portable uber(fat) jar. For the details, please refer Usage.</p>
-<p><a href="https://github.com/fujitsu/launcher/releases" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher/releases</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d6c0b6b04a2d4e4b28e14ea63d296faddc189e27" target="_blank" rel="noopener noreffer "><code>d6c0b6b</code></a> in My-Notes.</em></p>]]></description></item><item><title>Open Liberty</title><link>https://blog.emecas.net/posts/2019-04-21-open-liberty/</link><pubDate>Sun, 21 Apr 2019 15:47:22 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-21-open-liberty/</guid><description><![CDATA[<p>Open Liberty<br>
-<a href="https://openliberty.io" target="_blank" rel="noopener noreffer ">https://openliberty.io</a><br>
-Open Liberty is a highly composable, fast to start, dynamic application server runtime environment</p>
-<p>an IBM open source product</p>
-<p>© Copyright IBM Corp. 2017, 2019</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fa971306120a33717cf286e4436bdd80d9dbc3b4" target="_blank" rel="noopener noreffer "><code>fa97130</code></a> in My-Notes.</em></p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
-Lightweight. Fast. Crafted for Microservices.<br>
-<a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
-Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
-<p>Simple and fast<br>
-Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.<br>
-border_clear</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-01-24: <a href="https://github.com/jclingan/working" target="_blank" rel="noopener noreffer ">jclingan/working</a>.</em></p>]]></description></item></channel></rss>

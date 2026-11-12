@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Weak - Tag - My Notes</title><link>https://blog.emecas.net/tags/weak/</link><description>Weak - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Oct 2023 16:48:05 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/weak/" rel="self" type="application/rss+xml"/><item><title>openai/whisper</title><link>https://blog.emecas.net/posts/2023-10-18-openai-whisper/</link><pubDate>Wed, 18 Oct 2023 16:48:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-10-18-openai-whisper/</guid><description><![CDATA[<p>openai/whisper<br>
+Robust Speech Recognition via Large-Scale Weak Supervision<br>
+Python repository by openai, created in 2022, with 112,383 stars and 13,605 forks. License: MIT. Starred on 2023-10-18.<br>
+<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-10-18: <a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">openai/whisper</a>.</em></p>]]></description></item></channel></rss>

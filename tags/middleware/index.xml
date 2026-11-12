@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Middleware - Tag - My Notes</title><link>https://blog.emecas.net/tags/middleware/</link><description>Middleware - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Sep 2020 10:31:42 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/middleware/" rel="self" type="application/rss+xml"/><item><title>payara/Payara</title><link>https://blog.emecas.net/posts/2020-09-30-payara-payara/</link><pubDate>Wed, 30 Sep 2020 10:31:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-30-payara-payara/</guid><description><![CDATA[<p>payara/Payara<br>
+Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE (Jakarta EE) and MicroProfile applications in any environment: on premise, in the cloud or hybrid.<br>
+Java repository by payara, created in 2014, with 923 stars and 322 forks. Starred on 2020-09-30.<br>
+Homepage: <a href="http://www.payara.fish" target="_blank" rel="noopener noreffer ">http://www.payara.fish</a><br>
+<a href="https://github.com/payara/Payara" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara" target="_blank" rel="noopener noreffer ">payara/Payara</a>.</em></p>]]></description></item></channel></rss>

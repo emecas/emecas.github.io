@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mockmvc - Tag - My Notes</title><link>https://blog.emecas.net/tags/mockmvc/</link><description>Mockmvc - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Feb 2019 23:24:14 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mockmvc/" rel="self" type="application/rss+xml"/><item><title>jupiter-tools/mvc-requester</title><link>https://blog.emecas.net/posts/2019-02-14-jupiter-tools-mvc-requester/</link><pubDate>Thu, 14 Feb 2019 23:24:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-14-jupiter-tools-mvc-requester/</guid><description><![CDATA[<p>jupiter-tools/mvc-requester<br>
+Wrapper over the MockMvc to write tests of REST API in Spring.<br>
+Java repository by jupiter-tools, created in 2019, with 2 stars and 0 forks. Starred on 2019-02-14.<br>
+Homepage: <a href="http://jupiter-tools.com" target="_blank" rel="noopener noreffer ">http://jupiter-tools.com</a><br>
+<a href="https://github.com/jupiter-tools/mvc-requester" target="_blank" rel="noopener noreffer ">https://github.com/jupiter-tools/mvc-requester</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-02-14: <a href="https://github.com/jupiter-tools/mvc-requester" target="_blank" rel="noopener noreffer ">jupiter-tools/mvc-requester</a>.</em></p>]]></description></item></channel></rss>

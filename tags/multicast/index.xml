@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Multicast - Tag - My Notes</title><link>https://blog.emecas.net/tags/multicast/</link><description>Multicast - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Aug 2026 19:55:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/multicast/" rel="self" type="application/rss+xml"/><item><title>aeron-io/aeron</title><link>https://blog.emecas.net/posts/2026-08-24-aeron-io-aeron/</link><pubDate>Mon, 24 Aug 2026 19:55:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-aeron-io-aeron/</guid><description><![CDATA[<p>aeron-io/aeron<br>
+Efficient reliable UDP unicast, UDP multicast, and IPC message transport<br>
+Java repository by aeron-io, created in 2014, with 8,961 stars and 1,116 forks. License: Apache-2.0. Starred on 2026-08-24.<br>
+Homepage: <a href="https://aeron.io" target="_blank" rel="noopener noreffer ">https://aeron.io</a><br>
+<a href="https://github.com/aeron-io/aeron" target="_blank" rel="noopener noreffer ">https://github.com/aeron-io/aeron</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-24: <a href="https://github.com/aeron-io/aeron" target="_blank" rel="noopener noreffer ">aeron-io/aeron</a>.</em></p>]]></description></item></channel></rss>

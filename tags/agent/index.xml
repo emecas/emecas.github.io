@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Agent - Tag - My Notes</title><link>https://blog.emecas.net/tags/agent/</link><description>Agent - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Aug 2026 18:55:00 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/agent/" rel="self" type="application/rss+xml"/><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
+Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
+Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
+<a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">https://github.com/aaif-goose/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-31: <a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">aaif-goose/goose</a>.</em></p>]]></description></item><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
+SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.<br>
+Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
+<a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item></channel></rss>

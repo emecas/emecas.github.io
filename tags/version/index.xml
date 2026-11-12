@@ -1,4 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Version - Tag - My Notes</title><link>https://blog.emecas.net/tags/version/</link><description>Version - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/version/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Version - Tag - My Notes</title><link>https://blog.emecas.net/tags/version/</link><description>Version - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Sep 2026 17:33:17 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/version/" rel="self" type="application/rss+xml"/><item><title>ClawRunr/JavaClaw</title><link>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</link><pubDate>Tue, 15 Sep 2026 17:33:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</guid><description><![CDATA[<p>ClawRunr/JavaClaw<br>
+JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr<br>
+Java repository by ClawRunr, created in 2026, with 759 stars and 169 forks. License: LGPL-3.0. Starred on 2026-09-15.<br>
+Homepage: <a href="https://javaclaw.io/" target="_blank" rel="noopener noreffer ">https://javaclaw.io/</a><br>
+<a href="https://github.com/ClawRunr/JavaClaw" target="_blank" rel="noopener noreffer ">https://github.com/ClawRunr/JavaClaw</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-09-15: <a href="https://github.com/ClawRunr/JavaClaw" target="_blank" rel="noopener noreffer ">ClawRunr/JavaClaw</a>.</em></p>]]></description></item><item><title>joelparkerhenderson/git-commit-message</title><link>https://blog.emecas.net/posts/2024-06-01-joelparkerhenderson-git-commit-message/</link><pubDate>Sat, 01 Jun 2024 15:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-01-joelparkerhenderson-git-commit-message/</guid><description><![CDATA[<p>joelparkerhenderson/git-commit-message<br>
+Git commit message: how to write a great git commit message and commit template for version control<br>
+Repository by joelparkerhenderson, created in 2017, with 1,305 stars and 122 forks. Starred on 2024-06-01.<br>
+<a href="https://github.com/joelparkerhenderson/git-commit-message" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/git-commit-message</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-01: <a href="https://github.com/joelparkerhenderson/git-commit-message" target="_blank" rel="noopener noreffer ">joelparkerhenderson/git-commit-message</a>.</em></p>]]></description></item><item><title>ystyle/jvms</title><link>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</link><pubDate>Wed, 26 Jul 2023 15:44:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</guid><description><![CDATA[<p>ystyle/jvms<br>
+JDK Version Manager (JVMS) for Windows<br>
+Go repository by ystyle, created in 2015, with 1,040 stars and 108 forks. License: MIT. Starred on 2023-07-26.<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-07-26: <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">ystyle/jvms</a>.</em></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
 <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
 <p>NAME:<br>
 jvms - JDK Version Manager (JVMS) for Windows</p>
@@ -14,7 +30,17 @@ switch, s   Switch to use the specified version.<br>
 remove, rm  Remove a specific version.<br>
 rls         Show a list of versions available for download.<br>
 proxy       Set a proxy to use for downloads.<br>
-help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>jeonghopark/SketchSynthVideo-Simple</title><link>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</link><pubDate>Mon, 26 Oct 2020 21:18:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</guid><description><![CDATA[<p>jeonghopark/SketchSynthVideo-Simple<br>
+A video version of SketchSynth.<br>
+C++ repository by jeonghopark, created in 2020, with 55 stars and 5 forks. License: MIT. Starred on 2020-10-26.<br>
+<a href="https://github.com/jeonghopark/SketchSynthVideo-Simple" target="_blank" rel="noopener noreffer ">https://github.com/jeonghopark/SketchSynthVideo-Simple</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-26: <a href="https://github.com/jeonghopark/SketchSynthVideo-Simple" target="_blank" rel="noopener noreffer ">jeonghopark/SketchSynthVideo-Simple</a>.</em></p>]]></description></item><item><title>ninoabbate/docker-morgue</title><link>https://blog.emecas.net/posts/2020-09-16-ninoabbate-docker-morgue/</link><pubDate>Wed, 16 Sep 2020 12:14:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-16-ninoabbate-docker-morgue/</guid><description><![CDATA[<p>ninoabbate/docker-morgue<br>
+A dockerized version of Morgue by Etsy<br>
+ApacheConf repository by ninoabbate, created in 2016, with 9 stars and 7 forks. License: GPL-2.0. Starred on 2020-09-16.<br>
+<a href="https://github.com/ninoabbate/docker-morgue" target="_blank" rel="noopener noreffer ">https://github.com/ninoabbate/docker-morgue</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-16: <a href="https://github.com/ninoabbate/docker-morgue" target="_blank" rel="noopener noreffer ">ninoabbate/docker-morgue</a>.</em></p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
 <a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
 Summary</p>
 <p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
@@ -23,7 +49,12 @@ MINOR version when you add functionality in a backwards compatible manner, and<b
 PATCH version when you make backwards compatible bug fixes.</p>
 <p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>rokudev/videoplayer-channel</title><link>https://blog.emecas.net/posts/2019-04-08-rokudev-videoplayer-channel/</link><pubDate>Mon, 08 Apr 2019 16:48:31 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-08-rokudev-videoplayer-channel/</guid><description><![CDATA[<p>rokudev/videoplayer-channel<br>
+SceneGraph version of the SDK1 VideoPlayer Channel<br>
+Brightscript repository by rokudev, created in 2016, with 27 stars and 12 forks. Archived by its owner. Starred on 2019-04-08.<br>
+<a href="https://github.com/rokudev/videoplayer-channel" target="_blank" rel="noopener noreffer ">https://github.com/rokudev/videoplayer-channel</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-08: <a href="https://github.com/rokudev/videoplayer-channel" target="_blank" rel="noopener noreffer ">rokudev/videoplayer-channel</a>.</em></p>]]></description></item><item><title>Update the Gradle wrapper</title><link>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</link><pubDate>Tue, 11 Dec 2018 19:49:31 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-11-update-the-gradle-wrapper/</guid><description><![CDATA[<p>How to properly update the Gradle wrapper<br>
 <a href="https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/" target="_blank" rel="noopener noreffer ">https://blog.nishtahir.com/2018/04/15/how-to-properly-update-the-gradle-wrapper/</a><br>
 The Gradle wrapper is a self-contained Gradle runner and distribution that&rsquo;s typically built into your Gradle project. It&rsquo;s bundled into the project is to guarantee that all developers working on the project have a similar build environment. This means that updating the Gradle wrapper is effectively bumping up the Gradle version for the entire team.</p>
 <p>./gradlew wrapper --gradle-version 4.6 --distribution-type bin</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
@@ -66,8 +97,4 @@ nameof Expression<br>
 Primary constructor<br>
 Await in catch block<br>
 Exception Filter<br>
-String Interpolation</p>]]></description></item><item><title>Advantages of monolithic version control</title><link>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</link><pubDate>Mon, 13 Feb 2017 14:48:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</guid><description><![CDATA[<p>Advantages of monolithic version control<br>
-By Dan Luu may 2015<br>
-<a href="http://danluu.com/monorepo/" target="_blank" rel="noopener noreffer ">http://danluu.com/monorepo/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1000e12df9f012ccc2c58b8d2b80f40b90efca53" target="_blank" rel="noopener noreffer "><code>1000e12</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+String Interpolation</p>]]></description></item></channel></rss>

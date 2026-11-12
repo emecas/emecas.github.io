@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Testing - Tag - My Notes</title><link>https://blog.emecas.net/tags/testing/</link><description>Testing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/testing/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Testing - Tag - My Notes</title><link>https://blog.emecas.net/tags/testing/</link><description>Testing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Nov 2025 00:22:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/testing/" rel="self" type="application/rss+xml"/><item><title>usebruno/bruno</title><link>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</link><pubDate>Mon, 10 Nov 2025 00:22:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</guid><description><![CDATA[<p>usebruno/bruno<br>
+Opensource IDE For Exploring and Testing API&rsquo;s (lightweight alternative to Postman/Insomnia)<br>
+JavaScript repository by usebruno, created in 2022, with 48,334 stars and 3,094 forks. License: MIT. Starred on 2025-11-10.<br>
+Homepage: <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreffer ">https://www.usebruno.com/</a><br>
+<a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreffer ">https://github.com/usebruno/bruno</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-11-10: <a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreffer ">usebruno/bruno</a>.</em></p>]]></description></item><item><title>alumnium-hq/alumnium</title><link>https://blog.emecas.net/posts/2025-05-20-alumnium-hq-alumnium/</link><pubDate>Tue, 20 May 2025 03:41:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-20-alumnium-hq-alumnium/</guid><description><![CDATA[<p>alumnium-hq/alumnium<br>
+End-to-End Testing Harness<br>
+TypeScript repository by alumnium-hq, created in 2024, with 1,022 stars and 103 forks. License: MIT. Starred on 2025-05-20.<br>
+Homepage: <a href="https://alumnium.ai" target="_blank" rel="noopener noreffer ">https://alumnium.ai</a><br>
+<a href="https://github.com/alumnium-hq/alumnium" target="_blank" rel="noopener noreffer ">https://github.com/alumnium-hq/alumnium</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-05-20: <a href="https://github.com/alumnium-hq/alumnium" target="_blank" rel="noopener noreffer ">alumnium-hq/alumnium</a>.</em></p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
 <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
 <p>hey is a tiny program that sends some load to a web application.</p>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
@@ -6,7 +18,25 @@
 To preserve the name for its original owner, we renamed this project to hey.</p>
 <p>Previously known as github.com/rakyll/boom.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>utPLSQL/utPLSQL</title><link>https://blog.emecas.net/posts/2024-04-04-utplsql-utplsql/</link><pubDate>Thu, 04 Apr 2024 16:13:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-04-utplsql-utplsql/</guid><description><![CDATA[<p>utPLSQL/utPLSQL<br>
+Testing Framework for PL/SQL<br>
+PLSQL repository by utPLSQL, created in 2016, with 623 stars and 190 forks. License: Apache-2.0. Starred on 2024-04-04.<br>
+Homepage: <a href="https://www.utplsql.org/" target="_blank" rel="noopener noreffer ">https://www.utplsql.org/</a><br>
+<a href="https://github.com/utPLSQL/utPLSQL" target="_blank" rel="noopener noreffer ">https://github.com/utPLSQL/utPLSQL</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-04-04: <a href="https://github.com/utPLSQL/utPLSQL" target="_blank" rel="noopener noreffer ">utPLSQL/utPLSQL</a>.</em></p>]]></description></item><item><title>TypedDevs/bashunit</title><link>https://blog.emecas.net/posts/2023-12-08-typeddevs-bashunit/</link><pubDate>Fri, 08 Dec 2023 21:36:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-12-08-typeddevs-bashunit/</guid><description><![CDATA[<p>TypedDevs/bashunit<br>
+A simple yet powerfull testing library for bash scripts.<br>
+Shell repository by TypedDevs, created in 2023, with 441 stars and 59 forks. License: MIT. Starred on 2023-12-08.<br>
+Homepage: <a href="https://bashunit.com/" target="_blank" rel="noopener noreffer ">https://bashunit.com/</a><br>
+<a href="https://github.com/TypedDevs/bashunit" target="_blank" rel="noopener noreffer ">https://github.com/TypedDevs/bashunit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-12-08: <a href="https://github.com/TypedDevs/bashunit" target="_blank" rel="noopener noreffer ">TypedDevs/bashunit</a>.</em></p>]]></description></item><item><title>1N3/Sn1per</title><link>https://blog.emecas.net/posts/2022-08-11-1n3-sn1per/</link><pubDate>Thu, 11 Aug 2022 16:44:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-11-1n3-sn1per/</guid><description><![CDATA[<p>1N3/Sn1per<br>
+Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.<br>
+Shell repository by 1N3, created in 2015, with 11,532 stars and 2,218 forks. Starred on 2022-08-11.<br>
+Homepage: <a href="https://sn1persecurity.com" target="_blank" rel="noopener noreffer ">https://sn1persecurity.com</a><br>
+<a href="https://github.com/1N3/Sn1per" target="_blank" rel="noopener noreffer ">https://github.com/1N3/Sn1per</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-08-11: <a href="https://github.com/1N3/Sn1per" target="_blank" rel="noopener noreffer ">1N3/Sn1per</a>.</em></p>]]></description></item><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
 <a href="https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26" target="_blank" rel="noopener noreffer ">https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26</a></p>
 <p>import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;<br>
 import org.junit.jupiter.api.Order;</p>
@@ -33,72 +63,16 @@ Playwright enables reliable end-to-end testing for modern web apps.<br>
 <p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
 Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
 Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
-Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
-<a href="https://gatling.io/" target="_blank" rel="noopener noreffer ">https://gatling.io/</a><br>
-Async Scala-Akka-Netty based Load Test Tool<br>
-Gatling is a powerful open-source load testing solution.<br>
-Gatling is designed for continuous load testing and integrates with your development pipeline.<br>
-Gatling includes a web recorder and colorful reports.<br>
-<a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>cypress-io/cypress</title><link>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</link><pubDate>Sun, 13 Dec 2020 00:02:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</guid><description><![CDATA[<p>cypress-io/cypress<br>
+Fast, easy and reliable testing for anything that runs in a browser.<br>
+TypeScript repository by cypress-io, created in 2015, with 51,024 stars and 3,593 forks. License: MIT. Starred on 2020-12-13.<br>
+Homepage: <a href="https://cypress.io" target="_blank" rel="noopener noreffer ">https://cypress.io</a><br>
+<a href="https://github.com/cypress-io/cypress" target="_blank" rel="noopener noreffer ">https://github.com/cypress-io/cypress</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Jasmine</title><link>https://blog.emecas.net/posts/2020-06-26-jasmine/</link><pubDate>Fri, 26 Jun 2020 18:56:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-26-jasmine/</guid><description><![CDATA[<p>Jasmine<br>
-Behavior-Driven JavaScript<br>
-<a href="https://jasmine.github.io/index.html" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/index.html</a><br>
-Jasmine is a behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript frameworks. It does not require a DOM. And it has a clean, obvious syntax so that you can easily write tests.<br>
-<a href="https://jasmine.github.io/tutorials/your_first_suite" target="_blank" rel="noopener noreffer ">https://jasmine.github.io/tutorials/your_first_suite</a><br>
-Github: <a href="https://github.com/jasmine/jasmine.github.io" target="_blank" rel="noopener noreffer ">https://github.com/jasmine/jasmine.github.io</a></p>
-<p>REF: <a href="https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/" target="_blank" rel="noopener noreffer ">https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/</a></p>
+<p><em>Source: starred on GitHub on 2020-12-13: <a href="https://github.com/cypress-io/cypress" target="_blank" rel="noopener noreffer ">cypress-io/cypress</a>.</em></p>]]></description></item><item><title>MicroShed/microshed-testing</title><link>https://blog.emecas.net/posts/2020-10-19-microshed-microshed-testing/</link><pubDate>Mon, 19 Oct 2020 01:42:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-19-microshed-microshed-testing/</guid><description><![CDATA[<p>MicroShed/microshed-testing<br>
+A test framework for black-box testing MicroProfile and Jakarta EE applications<br>
+Java repository by MicroShed, created in 2019, with 68 stars and 25 forks. License: Apache-2.0. Starred on 2020-10-19.<br>
+Homepage: <a href="https://microshed.org/microshed-testing/" target="_blank" rel="noopener noreffer ">https://microshed.org/microshed-testing/</a><br>
+<a href="https://github.com/MicroShed/microshed-testing" target="_blank" rel="noopener noreffer ">https://github.com/MicroShed/microshed-testing</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fb857afbf2b673fd6dbf6c8023027cf177595a20" target="_blank" rel="noopener noreffer "><code>fb857af</code></a> in My-Notes.</em></p>]]></description></item><item><title>SoapUI</title><link>https://blog.emecas.net/posts/2020-06-22-soapui/</link><pubDate>Mon, 22 Jun 2020 19:36:20 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-22-soapui/</guid><description><![CDATA[<p>SoapUI<br>
-<a href="https://www.soapui.org/" target="_blank" rel="noopener noreffer ">https://www.soapui.org/</a><br>
-Build Better | Test Smarter<br>
-The Most Advanced REST, SOAP and GraphQL<br>
-API Testing Tool in the World<br>
-Get the open source version of the most widely used API testing tool in the world. Read about the latest release</p>
-<p>github: <a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">https://github.com/SmartBear/soapui</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fe1ac6b775142c661820cd1a9fd4d4efaa92a514" target="_blank" rel="noopener noreffer "><code>fe1ac6b</code></a> in My-Notes.</em></p>]]></description></item><item><title>DbUnit</title><link>https://blog.emecas.net/posts/2020-06-10-dbunit/</link><pubDate>Wed, 10 Jun 2020 18:48:29 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-10-dbunit/</guid><description><![CDATA[<p>DbUnit<br>
-<a href="http://www.dbunit.org/" target="_blank" rel="noopener noreffer ">http://www.dbunit.org/</a><br>
-DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven projects that, among other things, puts your database into a known state between test runs. This is an excellent way to avoid the myriad of problems that can occur when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage.</p>
-<p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item><item><title>Testcontainers</title><link>https://blog.emecas.net/posts/2019-03-26-testcontainers/</link><pubDate>Tue, 26 Mar 2019 20:43:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-26-testcontainers/</guid><description><![CDATA[<p>Testcontainers<br>
-Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.<br>
-<a href="https://www.testcontainers.org/" target="_blank" rel="noopener noreffer ">https://www.testcontainers.org/</a><br>
-Testcontainers make the following kinds of tests easier:</p>
-<p>Data access layer integration tests: use a containerized instance of a MySQL, PostgreSQL or Oracle database to test your data access layer code for complete compatibility, but without requiring complex setup on developers&rsquo; machines and safe in the knowledge that your tests will always start with a known DB state. Any other database type that can be containerized can also be used.<br>
-Application integration tests: for running your application in a short-lived test mode with dependencies, such as databases, message queues or web servers.<br>
-UI/Acceptance tests: use containerized web browsers, compatible with Selenium, for conducting automated UI tests. Each test can get a fresh instance of the browser, with no browser state, plugin variations or automated browser upgrades to worry about. And you get a video recording of each test session, or just each session where tests failed.</p>]]></description></item><item><title>Guru99</title><link>https://blog.emecas.net/posts/2019-03-03-guru99/</link><pubDate>Sun, 03 Mar 2019 19:36:24 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-03-guru99/</guid><description><![CDATA[<p>Guru99<br>
-<a href="https://www.guru99.com/" target="_blank" rel="noopener noreffer ">https://www.guru99.com/</a></p>
-<p>Guru99 is totally new kind of learning experience.</p>
-<p>Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.</p>
-<p>Inside, you will find tons of video tutorials</p>
-<p>All provided FREE!!!</p>
-<p>Testing</p>
-<p>Software Testing<br>
-QTP (Quick Test Professional)<br>
-Selenium<br>
-Mobile App Testing<br>
-Cucumber Testing<br>
-SoapUI<br>
-Agile Testing<br>
-JUnit<br>
-RPA</p>
-<p>Live Projects</p>
-<p>Live Testing Project<br>
-Live Selenium Project<br>
-Live Ecommerce Project<br>
-Live UFT Testing<br>
-Live HP ALM Exercise<br>
-Live Mobile Testing<br>
-Live Security Testing<br>
-Live PHP Project<br>
-Live Scrum(Agile) Testing<br>
-Live Insurance Testing<br>
-Live Payment Gateway<br>
-Live Telecom<br>
-Live Java Project</p>]]></description></item><item><title>Creating Mock Objects for C# Unit Tests, using Moq</title><link>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</link><pubDate>Sat, 23 Feb 2019 12:28:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</guid><description><![CDATA[<p>Creating Mock Objects for C# Unit Tests, using Moq<br>
-<a href="https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/" target="_blank" rel="noopener noreffer ">https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/</a><br>
-In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.<br>
-Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
-If you aren’t familiar with dependency injection, please read this article first</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b85b772384455b2bc1f660181a59fa56e782f9" target="_blank" rel="noopener noreffer "><code>d0b85b7</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-10-19: <a href="https://github.com/MicroShed/microshed-testing" target="_blank" rel="noopener noreffer ">MicroShed/microshed-testing</a>.</em></p>]]></description></item></channel></rss>

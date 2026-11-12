@@ -1,4 +1,25 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Productivity and Apps - Category - My Notes</title><link>https://blog.emecas.net/categories/productivity-and-apps/</link><description>Productivity and Apps - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 19:16:23 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/productivity-and-apps/" rel="self" type="application/rss+xml"/><item><title>miro</title><link>https://blog.emecas.net/posts/2021-01-03-miro/</link><pubDate>Sun, 03 Jan 2021 19:16:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-03-miro/</guid><description><![CDATA[<p>miro<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Productivity and Apps - Category - My Notes</title><link>https://blog.emecas.net/categories/productivity-and-apps/</link><description>Productivity and Apps - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Mar 2026 14:19:50 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/productivity-and-apps/" rel="self" type="application/rss+xml"/><item><title>tehtbl/awesome-note-taking</title><link>https://blog.emecas.net/posts/2026-03-15-tehtbl-awesome-note-taking/</link><pubDate>Sun, 15 Mar 2026 14:19:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-15-tehtbl-awesome-note-taking/</guid><description><![CDATA[<p>tehtbl/awesome-note-taking<br>
+A curated list of 100+ awesome note-taking apps, PKM tools &amp; knowledge management software — open source and proprietary. Updated regularly.<br>
+Repository by tehtbl, created in 2020, with 1,023 stars and 176 forks. License: CC0-1.0. Starred on 2026-03-15.<br>
+<a href="https://github.com/tehtbl/awesome-note-taking" target="_blank" rel="noopener noreffer ">https://github.com/tehtbl/awesome-note-taking</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-03-15: <a href="https://github.com/tehtbl/awesome-note-taking" target="_blank" rel="noopener noreffer ">tehtbl/awesome-note-taking</a>.</em></p>]]></description></item><item><title>kanboard/kanboard</title><link>https://blog.emecas.net/posts/2026-02-19-kanboard-kanboard/</link><pubDate>Thu, 19 Feb 2026 04:28:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-19-kanboard-kanboard/</guid><description><![CDATA[<p>kanboard/kanboard<br>
+Kanban project management software<br>
+PHP repository by kanboard, created in 2014, with 9,953 stars and 2,024 forks. License: MIT. Starred on 2026-02-19.<br>
+Homepage: <a href="https://kanboard.org" target="_blank" rel="noopener noreffer ">https://kanboard.org</a><br>
+<a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">https://github.com/kanboard/kanboard</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-02-19: <a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">kanboard/kanboard</a>.</em></p>]]></description></item><item><title>freeCodeCamp/chapter</title><link>https://blog.emecas.net/posts/2023-02-10-freecodecamp-chapter/</link><pubDate>Fri, 10 Feb 2023 01:25:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-02-10-freecodecamp-chapter/</guid><description><![CDATA[<p>freeCodeCamp/chapter<br>
+A self-hosted event management tool for nonprofits<br>
+TypeScript repository by freeCodeCamp, created in 2019, with 1,919 stars and 351 forks. License: BSD-3-Clause. Archived by its owner. Starred on 2023-02-10.<br>
+<a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/chapter</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-02-10: <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">freeCodeCamp/chapter</a>.</em></p>]]></description></item><item><title>megadose/holehe</title><link>https://blog.emecas.net/posts/2022-07-25-megadose-holehe/</link><pubDate>Mon, 25 Jul 2022 02:17:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-25-megadose-holehe/</guid><description><![CDATA[<p>megadose/holehe<br>
+holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.<br>
+Python repository by megadose, created in 2020, with 15,608 stars and 2,026 forks. License: GPL-3.0. Starred on 2022-07-25.<br>
+<a href="https://github.com/megadose/holehe" target="_blank" rel="noopener noreffer ">https://github.com/megadose/holehe</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-07-25: <a href="https://github.com/megadose/holehe" target="_blank" rel="noopener noreffer ">megadose/holehe</a>.</em></p>]]></description></item><item><title>miro</title><link>https://blog.emecas.net/posts/2021-01-03-miro/</link><pubDate>Sun, 03 Jan 2021 19:16:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-03-miro/</guid><description><![CDATA[<p>miro<br>
 <a href="https://miro.com/" target="_blank" rel="noopener noreffer ">https://miro.com/</a><br>
 The online collaborative whiteboard platform to bring teams together, anytime, anywhere.</p>
 <p>Use Cases</p>
@@ -37,7 +58,13 @@ Blazing fast real-time collaboration breaks the space between members. Change no
 Sharing is caring<br>
 Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.<br>
 Keep your secret (while sharing it)<br>
-Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
+Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>DXHeroes/knowledge-base-content</title><link>https://blog.emecas.net/posts/2020-10-03-dxheroes-knowledge-base-content/</link><pubDate>Sat, 03 Oct 2020 12:38:44 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-03-dxheroes-knowledge-base-content/</guid><description><![CDATA[<p>DXHeroes/knowledge-base-content<br>
+Open-source knowledge base covering topics about developer experience.<br>
+TypeScript repository by DXHeroes, created in 2019, with 154 stars and 74 forks. Starred on 2020-10-03.<br>
+Homepage: <a href="https://developerexperience.io" target="_blank" rel="noopener noreffer ">https://developerexperience.io</a><br>
+<a href="https://github.com/DXHeroes/knowledge-base-content" target="_blank" rel="noopener noreffer ">https://github.com/DXHeroes/knowledge-base-content</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/DXHeroes/knowledge-base-content" target="_blank" rel="noopener noreffer ">DXHeroes/knowledge-base-content</a>.</em></p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
 <a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a><br>
 calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
@@ -55,51 +82,4 @@ A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlight
 <a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
 <a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
-Command line client for Trello<br>
-<a href="https://github.com/mheap/trello-cli" target="_blank" rel="noopener noreffer ">https://github.com/mheap/trello-cli</a></p>
-<p>Supported API commands</p>
-<p>trello-cli currently supports the following commands:</p>
-<p>add-board          Adds a new board with the specified name<br>
-add-card           Add a card to a board<br>
-add-list           Adds a new list to the spcified board with the specified name<br>
-assigned-to-me     Show cards that are currently assigned to you<br>
-close-board        Closes those board(s) where the specified text occurs in their name<br>
-delete-card        Remove a card from a board<br>
-move-all-cards     Move all cards from one list to another<br>
-refresh            Refresh all your board/list names<br>
-show-boards        Show the list of cached boards<br>
-show-cards         Show the cards on a list<br>
-show-labels        Show labels defined on a board<br>
-show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
-show-lists         Show the list of cached lists</p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
-is a free and open source software for healthcare data management.</p>
-<p>The organization web page:<br>
-<a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
-<p>contribution section:<br>
-<a href="https://www.open-hospital.org/en/contribute-actively/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/contribute-actively/</a></p>
-<p>The git repo:<br>
-<a href="https://github.com/informatici/openhospital" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital</a><br>
-This repository is used to build its portable releases.</p>
-<p>Other repos:<br>
-<a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
-<a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
-<a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
-<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f262870586c0479dda30a4f580eb343a4cde0c74" target="_blank" rel="noopener noreffer "><code>f262870</code></a> in My-Notes.</em></p>]]></description></item><item><title>Tasks</title><link>https://blog.emecas.net/posts/2020-02-28-tasks/</link><pubDate>Fri, 28 Feb 2020 20:00:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-28-tasks/</guid><description><![CDATA[<p>Tasks<br>
-<a href="https://tasks.org/" target="_blank" rel="noopener noreffer ">https://tasks.org/</a><br>
-Astrid To-Do List Clone<br>
-Bringing Astrid Tasks back from the dead <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>
-github <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">https://github.com/tasks/tasks</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c99e4accd82a8505e18d28cd43ac162c71bcad4f" target="_blank" rel="noopener noreffer "><code>c99e4ac</code></a> in My-Notes.</em></p>]]></description></item><item><title>taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-taskbook/</link><pubDate>Tue, 14 May 2019 15:57:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-taskbook/</guid><description><![CDATA[<p>taskbook<br>
-<a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
-Tasks, boards &amp; notes for the command-line habitat</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item><item><title>yokadi</title><link>https://blog.emecas.net/posts/2019-05-13-yokadi/</link><pubDate>Mon, 13 May 2019 22:52:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-13-yokadi/</guid><description><![CDATA[<p>yokadi<br>
-<a href="http://yokadi.github.io/" target="_blank" rel="noopener noreffer ">http://yokadi.github.io/</a><br>
-Yokadi is a command line oriented, sqlite powered, todo-list.<br>
-<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb0b665b7bdf8539f3fd400c2fed569a5cf6fd7d" target="_blank" rel="noopener noreffer "><code>cb0b665</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

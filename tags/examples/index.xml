@@ -26,7 +26,28 @@ File name conventions for ADRs<br>
 Suggestions for writing good ADRs<br>
 ADR example templates<br>
 Teamwork advice for ADRs<br>
-For more information</p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
+For more information</p>]]></description></item><item><title>mariadb-developers/reactive-programming-java-examples</title><link>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</link><pubDate>Tue, 13 Sep 2022 15:49:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</guid><description><![CDATA[<p>mariadb-developers/reactive-programming-java-examples<br>
+Reactive examples with Java, Project Reactor, and R2DBC<br>
+Java repository by mariadb-developers, created in 2022, with 9 stars and 1 forks. License: MIT. Starred on 2022-09-13.<br>
+<a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">https://github.com/mariadb-developers/reactive-programming-java-examples</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-09-13: <a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">mariadb-developers/reactive-programming-java-examples</a>.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
+This repository contains all the source code examples from my LiveLessons course on &ldquo;Java Concurrent Programming&rdquo; and my various LiveTraining courses, as described at <a href="http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning" target="_blank" rel="noopener noreffer ">http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning</a>.<br>
+Java repository by douglascraigschmidt, created in 2014, with 614 stars and 657 forks. Starred on 2021-05-27.<br>
+<a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">https://github.com/douglascraigschmidt/LiveLessons</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-05-27: <a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">douglascraigschmidt/LiveLessons</a>.</em></p>]]></description></item><item><title>IcebergIdeas/refactor-code-and-career</title><link>https://blog.emecas.net/posts/2020-11-19-icebergideas-refactor-code-and-career/</link><pubDate>Thu, 19 Nov 2020 18:24:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-19-icebergideas-refactor-code-and-career/</guid><description><![CDATA[<p>IcebergIdeas/refactor-code-and-career<br>
+Examples for Pearson Live Training<br>
+Python repository by IcebergIdeas, created in 2020, with 5 stars and 4 forks. License: MIT. Starred on 2020-11-19.<br>
+<a href="https://github.com/IcebergIdeas/refactor-code-and-career" target="_blank" rel="noopener noreffer ">https://github.com/IcebergIdeas/refactor-code-and-career</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-19: <a href="https://github.com/IcebergIdeas/refactor-code-and-career" target="_blank" rel="noopener noreffer ">IcebergIdeas/refactor-code-and-career</a>.</em></p>]]></description></item><item><title>chefspec/chefspec</title><link>https://blog.emecas.net/posts/2020-10-16-chefspec-chefspec/</link><pubDate>Fri, 16 Oct 2020 20:27:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-16-chefspec-chefspec/</guid><description><![CDATA[<p>chefspec/chefspec<br>
+Write RSpec examples and generate coverage reports for Chef recipes!<br>
+Ruby repository by chefspec, created in 2011, with 820 stars and 331 forks. License: MIT. Starred on 2020-10-16.<br>
+Homepage: <a href="https://chefspec.github.io/chefspec/" target="_blank" rel="noopener noreffer ">https://chefspec.github.io/chefspec/</a><br>
+<a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">https://github.com/chefspec/chefspec</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
 <a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
 HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
 <p>CURL Call:<br>
@@ -90,30 +111,4 @@ When_AgeLessThan18_Expect_isAdultAsFalse<br>
 When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
 When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
 7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
-Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>react-burger-menu</title><link>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</link><pubDate>Tue, 28 Apr 2020 18:33:09 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-28-react-burger-menu/</guid><description><![CDATA[<p>react-burger-menu<br>
-An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations<br>
-<a href="https://github.com/negomi/react-burger-menu" target="_blank" rel="noopener noreffer ">https://github.com/negomi/react-burger-menu</a><br>
-<a href="http://negomi.github.io/react-burger-menu/" target="_blank" rel="noopener noreffer ">http://negomi.github.io/react-burger-menu/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/dff4ca57ad9e7205b3ece21b33421384f835f88a" target="_blank" rel="noopener noreffer "><code>dff4ca5</code></a> in My-Notes.</em></p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
-<a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
-This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
-using both built-in and custom metrics with Helidon MP.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/68433d5c990d5c431bbd80e3d2ab4d872a17272d" target="_blank" rel="noopener noreffer "><code>68433d5</code></a> in My-Notes.</em></p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
-<a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
-<p>So, what is Scrapbook Page? To put it simply,<br>
-it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
-No need to create any temperory classes (like I did in the previous para).<br>
-You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
-You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>OpenShift Cheat Sheet</title><link>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</link><pubDate>Mon, 11 Feb 2019 11:59:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-openshift-cheat-sheet/</guid><description><![CDATA[<p>OpenShift Cheat Sheet<br>
-<a href="http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf" target="_blank" rel="noopener noreffer ">http://design.jboss.org/redhatdeveloper/marketing/openshift_cheatsheet/cheatsheet/images/openshift_cheat_sheet_r1v1.pdf</a><br>
-Content<br>
-1. What is OpenShift?. . . . . . . . . . . . . . . . . . . 1<br>
-2. Cheat sheet guide. . . . . . . . . . . . . . . . . . . . 1<br>
-3. Command overview. . . . . . . . . . . . . . . . . . 2<br>
-4. Simple build and deploy overview. . . . . 4<br>
-5. Simple routing overview. . . . . . . . . . . . . 4<br>
-6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5<br>
-7. Additional operations. . . . . . . . . . . . . . . 10<br>
-8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item></channel></rss>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item></channel></rss>

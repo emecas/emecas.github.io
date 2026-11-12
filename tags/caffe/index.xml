@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Caffe - Tag - My Notes</title><link>https://blog.emecas.net/tags/caffe/</link><description>Caffe - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Nov 2020 01:19:56 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/caffe/" rel="self" type="application/rss+xml"/><item><title>happynear/caffe-windows</title><link>https://blog.emecas.net/posts/2020-11-01-happynear-caffe-windows/</link><pubDate>Sun, 01 Nov 2020 01:19:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-happynear-caffe-windows/</guid><description><![CDATA[<p>happynear/caffe-windows<br>
+Configure Caffe in one hour for Windows users.<br>
+C++ repository by happynear, created in 2015, with 1,310 stars and 637 forks. Starred on 2020-11-01.<br>
+<a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">https://github.com/happynear/caffe-windows</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">happynear/caffe-windows</a>.</em></p>]]></description></item><item><title>BVLC/caffe</title><link>https://blog.emecas.net/posts/2016-07-05-bvlc-caffe/</link><pubDate>Tue, 05 Jul 2016 20:02:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-07-05-bvlc-caffe/</guid><description><![CDATA[<p>BVLC/caffe<br>
+Caffe: a fast open framework for deep learning.<br>
+C++ repository by BVLC, created in 2013, with 34,555 stars and 18,374 forks. Starred on 2016-07-05.<br>
+Homepage: <a href="http://caffe.berkeleyvision.org/" target="_blank" rel="noopener noreffer ">http://caffe.berkeleyvision.org/</a><br>
+<a href="https://github.com/BVLC/caffe" target="_blank" rel="noopener noreffer ">https://github.com/BVLC/caffe</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-07-05: <a href="https://github.com/BVLC/caffe" target="_blank" rel="noopener noreffer ">BVLC/caffe</a>.</em></p>]]></description></item></channel></rss>

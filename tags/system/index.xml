@@ -1,13 +1,58 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>System - Tag - My Notes</title><link>https://blog.emecas.net/tags/system/</link><description>System - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 04 Jan 2017 13:33:59 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/system/" rel="self" type="application/rss+xml"/><item><title>PRINCIPLES OF CHAOS ENGINEERING</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>PRINCIPLES OF CHAOS ENGINEERING<br>
-principlesofchaos.org<br>
-Chaos Engineering is the discipline of experimenting on a distributed system<br>
-in order to build confidence in the system’s capability<br>
-to withstand turbulent conditions in production</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>System - Tag - My Notes</title><link>https://blog.emecas.net/tags/system/</link><description>System - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 09 Oct 2026 02:16:27 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/system/" rel="self" type="application/rss+xml"/><item><title>paperless-ngx/paperless-ngx</title><link>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</link><pubDate>Fri, 09 Oct 2026 02:16:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</guid><description><![CDATA[<p>paperless-ngx/paperless-ngx<br>
+A community-supported supercharged document management system: scan, index and archive all your documents<br>
+Python repository by paperless-ngx, created in 2022, with 47,991 stars and 3,373 forks. License: GPL-3.0. Starred on 2026-10-09.<br>
+Homepage: <a href="http://docs.paperless-ngx.com/" target="_blank" rel="noopener noreffer ">http://docs.paperless-ngx.com/</a><br>
+<a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">https://github.com/paperless-ngx/paperless-ngx</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9c7716efdd174f5ec05f83d6aef027a7985b14a1" target="_blank" rel="noopener noreffer "><code>9c7716e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
-An app that extracts info from your android device and let you export it</p>
-<p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
-* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>
+<p><em>Source: starred on GitHub on 2026-10-09: <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">paperless-ngx/paperless-ngx</a>.</em></p>]]></description></item><item><title>liquidslr/system-design-notes</title><link>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</link><pubDate>Tue, 11 Aug 2026 23:10:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</guid><description><![CDATA[<p>liquidslr/system-design-notes<br>
+Notes of the book System Desgin Interview - An Insider&rsquo;s Guide<br>
+Repository by liquidslr, created in 2024, with 28,159 stars and 5,267 forks. Starred on 2026-08-11.<br>
+Homepage: <a href="https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu" target="_blank" rel="noopener noreffer ">https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu</a><br>
+<a href="https://github.com/liquidslr/system-design-notes" target="_blank" rel="noopener noreffer ">https://github.com/liquidslr/system-design-notes</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b252078d3b5b847ab11c8d5facdd38140b1d3563" target="_blank" rel="noopener noreffer "><code>b252078</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-08-11: <a href="https://github.com/liquidslr/system-design-notes" target="_blank" rel="noopener noreffer ">liquidslr/system-design-notes</a>.</em></p>]]></description></item><item><title>duckdb/duckdb</title><link>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</link><pubDate>Thu, 08 Jun 2023 11:27:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</guid><description><![CDATA[<p>duckdb/duckdb<br>
+DuckDB is a high-performance analytical database system<br>
+C++ repository by duckdb, created in 2018, with 42,978 stars and 4,184 forks. License: MIT. Starred on 2023-06-08.<br>
+Homepage: <a href="http://www.duckdb.org" target="_blank" rel="noopener noreffer ">http://www.duckdb.org</a><br>
+<a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">https://github.com/duckdb/duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-08: <a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">duckdb/duckdb</a>.</em></p>]]></description></item><item><title>pantsbuild/pants</title><link>https://blog.emecas.net/posts/2022-02-20-pantsbuild-pants/</link><pubDate>Sun, 20 Feb 2022 20:08:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-02-20-pantsbuild-pants/</guid><description><![CDATA[<p>pantsbuild/pants<br>
+The Pants Build System<br>
+Python repository by pantsbuild, created in 2012, with 3,857 stars and 732 forks. License: Apache-2.0. Starred on 2022-02-20.<br>
+Homepage: <a href="https://www.pantsbuild.org" target="_blank" rel="noopener noreffer ">https://www.pantsbuild.org</a><br>
+<a href="https://github.com/pantsbuild/pants" target="_blank" rel="noopener noreffer ">https://github.com/pantsbuild/pants</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-02-20: <a href="https://github.com/pantsbuild/pants" target="_blank" rel="noopener noreffer ">pantsbuild/pants</a>.</em></p>]]></description></item><item><title>berndruecker/flowing-retail</title><link>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</link><pubDate>Tue, 27 Oct 2020 12:12:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</guid><description><![CDATA[<p>berndruecker/flowing-retail<br>
+Sample application demonstrating an order fulfillment system decomposed into multiple independant components (e.g. microservices). Showing concrete implementation alternatives using e.g. Java, Spring Boot, Apache Kafka, Camunda, Zeebe, &hellip;<br>
+Java repository by berndruecker, created in 2017, with 1,332 stars and 470 forks. License: Apache-2.0. Starred on 2020-10-27.<br>
+<a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">https://github.com/berndruecker/flowing-retail</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-27: <a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">berndruecker/flowing-retail</a>.</em></p>]]></description></item><item><title>PowerShell/PowerShell</title><link>https://blog.emecas.net/posts/2020-09-12-powershell-powershell/</link><pubDate>Sat, 12 Sep 2020 23:44:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-12-powershell-powershell/</guid><description><![CDATA[<p>PowerShell/PowerShell<br>
+PowerShell for every system!<br>
+C# repository by PowerShell, created in 2016, with 56,098 stars and 8,533 forks. License: MIT. Starred on 2020-09-12.<br>
+Homepage: <a href="https://microsoft.com/PowerShell" target="_blank" rel="noopener noreffer ">https://microsoft.com/PowerShell</a><br>
+<a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noopener noreffer ">https://github.com/PowerShell/PowerShell</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-12: <a href="https://github.com/PowerShell/PowerShell" target="_blank" rel="noopener noreffer ">PowerShell/PowerShell</a>.</em></p>]]></description></item><item><title>prometheus/prometheus</title><link>https://blog.emecas.net/posts/2020-07-11-prometheus-prometheus/</link><pubDate>Sat, 11 Jul 2020 19:38:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-11-prometheus-prometheus/</guid><description><![CDATA[<p>prometheus/prometheus<br>
+The Prometheus monitoring system and time series database.<br>
+Go repository by prometheus, created in 2012, with 67,625 stars and 11,019 forks. License: Apache-2.0. Starred on 2020-07-11.<br>
+Homepage: <a href="https://prometheus.io/" target="_blank" rel="noopener noreffer ">https://prometheus.io/</a><br>
+<a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">https://github.com/prometheus/prometheus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">prometheus/prometheus</a>.</em></p>]]></description></item><item><title>donnemartin/system-design-primer</title><link>https://blog.emecas.net/posts/2020-06-14-donnemartin-system-design-primer/</link><pubDate>Sun, 14 Jun 2020 15:36:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-14-donnemartin-system-design-primer/</guid><description><![CDATA[<p>donnemartin/system-design-primer<br>
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.<br>
+Python repository by donnemartin, created in 2017, with 377,596 stars and 59,264 forks. Starred on 2020-06-14.<br>
+<a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreffer ">https://github.com/donnemartin/system-design-primer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-06-14: <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreffer ">donnemartin/system-design-primer</a>.</em></p>]]></description></item><item><title>unbroken-dome/gradle-testsets-plugin</title><link>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</link><pubDate>Thu, 30 Apr 2020 20:03:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</guid><description><![CDATA[<p>unbroken-dome/gradle-testsets-plugin<br>
+A plugin for the Gradle build system that allows specifying test sets (like integration or acceptance tests).<br>
+Kotlin repository by unbroken-dome, created in 2015, with 233 stars and 49 forks. License: MIT. Starred on 2020-04-30.<br>
+<a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">https://github.com/unbroken-dome/gradle-testsets-plugin</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-04-30: <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">unbroken-dome/gradle-testsets-plugin</a>.</em></p>]]></description></item><item><title>SerenityOS/serenity</title><link>https://blog.emecas.net/posts/2020-03-16-serenityos-serenity/</link><pubDate>Mon, 16 Mar 2020 10:20:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-16-serenityos-serenity/</guid><description><![CDATA[<p>SerenityOS/serenity<br>
+The Serenity Operating System 🐞<br>
+C++ repository by SerenityOS, created in 2018, with 33,961 stars and 3,493 forks. License: BSD-2-Clause. Starred on 2020-03-16.<br>
+Homepage: <a href="https://serenityos.org" target="_blank" rel="noopener noreffer ">https://serenityos.org</a><br>
+<a href="https://github.com/SerenityOS/serenity" target="_blank" rel="noopener noreffer ">https://github.com/SerenityOS/serenity</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-16: <a href="https://github.com/SerenityOS/serenity" target="_blank" rel="noopener noreffer ">SerenityOS/serenity</a>.</em></p>]]></description></item></channel></rss>

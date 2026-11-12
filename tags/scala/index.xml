@@ -6,7 +6,28 @@ Gatling is designed for continuous load testing and integrates with your develop
 Gatling includes a web recorder and colorful reports.<br>
 <a href="https://github.com/gatling/gatling" target="_blank" rel="noopener noreffer ">https://github.com/gatling/gatling</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/db0711d6e7dbb08c9157969c8c449ce3ad08c75d" target="_blank" rel="noopener noreffer "><code>db0711d</code></a> in My-Notes.</em></p>]]></description></item><item><title>milessabin/shapeless</title><link>https://blog.emecas.net/posts/2019-03-26-milessabin-shapeless/</link><pubDate>Tue, 26 Mar 2019 17:29:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-26-milessabin-shapeless/</guid><description><![CDATA[<p>milessabin/shapeless<br>
+Generic programming for Scala<br>
+Scala repository by milessabin, created in 2011, with 3,400 stars and 519 forks. License: Apache-2.0. Starred on 2019-03-26.<br>
+<a href="https://github.com/milessabin/shapeless" target="_blank" rel="noopener noreffer ">https://github.com/milessabin/shapeless</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/milessabin/shapeless" target="_blank" rel="noopener noreffer ">milessabin/shapeless</a>.</em></p>]]></description></item><item><title>kovacshuni/koauth</title><link>https://blog.emecas.net/posts/2019-03-14-kovacshuni-koauth/</link><pubDate>Thu, 14 Mar 2019 12:22:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-kovacshuni-koauth/</guid><description><![CDATA[<p>kovacshuni/koauth<br>
+:closed_lock_with_key: OAuth 1.0a provider and consumer library for Scala &amp; Java, storage independent/pluggable, async/reactive, designed to be used within a completely RESTful API.<br>
+Scala repository by kovacshuni, created in 2014, with 37 stars and 12 forks. License: Apache-2.0. Starred on 2019-03-14.<br>
+<a href="https://github.com/kovacshuni/koauth" target="_blank" rel="noopener noreffer ">https://github.com/kovacshuni/koauth</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/kovacshuni/koauth" target="_blank" rel="noopener noreffer ">kovacshuni/koauth</a>.</em></p>]]></description></item><item><title>qubole/spark-on-lambda</title><link>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</link><pubDate>Fri, 29 Dec 2017 15:25:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</guid><description><![CDATA[<p>qubole/spark-on-lambda<br>
+Apache Spark on AWS Lambda<br>
+Scala repository by qubole, created in 2017, with 158 stars and 31 forks. License: Apache-2.0. Starred on 2017-12-29.<br>
+<a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">https://github.com/qubole/spark-on-lambda</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-29: <a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">qubole/spark-on-lambda</a>.</em></p>]]></description></item><item><title>apache/spark</title><link>https://blog.emecas.net/posts/2017-06-07-apache-spark/</link><pubDate>Wed, 07 Jun 2017 17:52:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-07-apache-spark/</guid><description><![CDATA[<p>apache/spark<br>
+Apache Spark - A unified analytics engine for large-scale data processing<br>
+Scala repository by apache, created in 2014, with 44,466 stars and 29,593 forks. License: Apache-2.0. Starred on 2017-06-07.<br>
+Homepage: <a href="https://spark.apache.org/" target="_blank" rel="noopener noreffer ">https://spark.apache.org/</a><br>
+<a href="https://github.com/apache/spark" target="_blank" rel="noopener noreffer ">https://github.com/apache/spark</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-07: <a href="https://github.com/apache/spark" target="_blank" rel="noopener noreffer ">apache/spark</a>.</em></p>]]></description></item><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
 <a href="https://decisionstats.com/2014/04/15/installing-scala-on-centos/" target="_blank" rel="noopener noreffer ">https://decisionstats.com/2014/04/15/installing-scala-on-centos/</a></p>
 <p>wget <a href="http://www.scala-lang.org/files/archive/scala-2.10.1.tgz" target="_blank" rel="noopener noreffer ">http://www.scala-lang.org/files/archive/scala-2.10.1.tgz</a><br>
 tar xvf scala-2.10.1.tgz<br>
@@ -15,4 +36,25 @@ sudo ln -s /usr/lib/scala-2.10.1 /usr/lib/scala<br>
 export PATH=$PATH:/usr/lib/scala/bin<br>
 scala -version</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55625ca409b85bf74569555ad86770aa304b5f95" target="_blank" rel="noopener noreffer "><code>55625ca</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/55625ca409b85bf74569555ad86770aa304b5f95" target="_blank" rel="noopener noreffer "><code>55625ca</code></a> in My-Notes.</em></p>]]></description></item><item><title>BIDData/BIDMach</title><link>https://blog.emecas.net/posts/2017-03-01-biddata-bidmach/</link><pubDate>Wed, 01 Mar 2017 17:00:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-01-biddata-bidmach/</guid><description><![CDATA[<p>BIDData/BIDMach<br>
+CPU and GPU-accelerated Machine Learning Library<br>
+Scala repository by BIDData, created in 2012, with 916 stars and 169 forks. License: BSD-3-Clause. Starred on 2017-03-01.<br>
+<a href="https://github.com/BIDData/BIDMach" target="_blank" rel="noopener noreffer ">https://github.com/BIDData/BIDMach</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-03-01: <a href="https://github.com/BIDData/BIDMach" target="_blank" rel="noopener noreffer ">BIDData/BIDMach</a>.</em></p>]]></description></item><item><title>dhinojosa/scala_beyond_basics_2017-12-13</title><link>https://blog.emecas.net/posts/2016-12-30-dhinojosa-scala-beyond-basics-2017-12-13/</link><pubDate>Fri, 30 Dec 2016 16:47:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-30-dhinojosa-scala-beyond-basics-2017-12-13/</guid><description><![CDATA[<p>dhinojosa/scala_beyond_basics_2017-12-13<br>
+Scala Beyond The Basics Project for O&rsquo;Reilly Training<br>
+Scala repository by dhinojosa, created in 2016, with 6 stars and 5 forks. Starred on 2016-12-30.<br>
+<a href="https://github.com/dhinojosa/scala_beyond_basics_2017-12-13" target="_blank" rel="noopener noreffer ">https://github.com/dhinojosa/scala_beyond_basics_2017-12-13</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-12-30: <a href="https://github.com/dhinojosa/scala_beyond_basics_2017-12-13" target="_blank" rel="noopener noreffer ">dhinojosa/scala_beyond_basics_2017-12-13</a>.</em></p>]]></description></item><item><title>twitter/scala_school2</title><link>https://blog.emecas.net/posts/2016-12-12-twitter-scala-school2/</link><pubDate>Mon, 12 Dec 2016 15:47:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-12-twitter-scala-school2/</guid><description><![CDATA[<p>twitter/scala_school2<br>
+Scala School 2<br>
+Scala repository by twitter, created in 2013, with 340 stars and 74 forks. License: Apache-2.0. Starred on 2016-12-12.<br>
+<a href="https://github.com/twitter/scala_school2" target="_blank" rel="noopener noreffer ">https://github.com/twitter/scala_school2</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-12-12: <a href="https://github.com/twitter/scala_school2" target="_blank" rel="noopener noreffer ">twitter/scala_school2</a>.</em></p>]]></description></item><item><title>scala-exercises/scala-exercises</title><link>https://blog.emecas.net/posts/2015-04-25-scala-exercises-scala-exercises/</link><pubDate>Sat, 25 Apr 2015 03:38:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-04-25-scala-exercises-scala-exercises/</guid><description><![CDATA[<p>scala-exercises/scala-exercises<br>
+The easy way to learn Scala.<br>
+Scala repository by scala-exercises, created in 2014, with 2,649 stars and 534 forks. License: Apache-2.0. Starred on 2015-04-25.<br>
+Homepage: <a href="https://www.scala-exercises.org" target="_blank" rel="noopener noreffer ">https://www.scala-exercises.org</a><br>
+<a href="https://github.com/scala-exercises/scala-exercises" target="_blank" rel="noopener noreffer ">https://github.com/scala-exercises/scala-exercises</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2015-04-25: <a href="https://github.com/scala-exercises/scala-exercises" target="_blank" rel="noopener noreffer ">scala-exercises/scala-exercises</a>.</em></p>]]></description></item></channel></rss>

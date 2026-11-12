@@ -25,7 +25,12 @@ When_AgeLessThan18_Expect_isAdultAsFalse<br>
 When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
 When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
 7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
-Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>Creating Mock Objects for C# Unit Tests, using Moq</title><link>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</link><pubDate>Sat, 23 Feb 2019 12:28:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</guid><description><![CDATA[<p>Creating Mock Objects for C# Unit Tests, using Moq<br>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>kbilsted/StatePrinter</title><link>https://blog.emecas.net/posts/2019-05-29-kbilsted-stateprinter/</link><pubDate>Wed, 29 May 2019 17:06:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-29-kbilsted-stateprinter/</guid><description><![CDATA[<p>kbilsted/StatePrinter<br>
+Automating unit testing and ToString() coding<br>
+C# repository by kbilsted, created in 2014, with 94 stars and 31 forks. License: Apache-2.0. Starred on 2019-05-29.<br>
+<a href="https://github.com/kbilsted/StatePrinter" target="_blank" rel="noopener noreffer ">https://github.com/kbilsted/StatePrinter</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-29: <a href="https://github.com/kbilsted/StatePrinter" target="_blank" rel="noopener noreffer ">kbilsted/StatePrinter</a>.</em></p>]]></description></item><item><title>Creating Mock Objects for C# Unit Tests, using Moq</title><link>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</link><pubDate>Sat, 23 Feb 2019 12:28:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-23-creating-mock-objects-for-c-unit-tests-using-moq/</guid><description><![CDATA[<p>Creating Mock Objects for C# Unit Tests, using Moq<br>
 <a href="https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/" target="_blank" rel="noopener noreffer ">https://scottlilly.com/creating-mock-objects-for-c-unit-tests-using-moq/</a><br>
 In my demonstration of the Dependency Injection design pattern, I manually created a mock object. This let me perform unit tests without needing to access a database.<br>
 Here is how you can use the Moq library, to eliminate writing the code for manual mock classes.<br>
@@ -44,7 +49,12 @@ By James Shore<br>
 - To improve non-functional quality<br>
 - (TDD reflexion) Here&rsquo;s the thing about TDD</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/659e7c7d2383a4d347fc8f85f12272e48ffbaadc" target="_blank" rel="noopener noreffer "><code>659e7c7</code></a> in My-Notes.</em></p>]]></description></item><item><title>Separating Unit from Integration tests in Java using Gradle</title><link>https://blog.emecas.net/posts/2017-08-17-separating-unit-from-integration-tests-in-java-using-gradle/</link><pubDate>Thu, 17 Aug 2017 13:34:03 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-08-17-separating-unit-from-integration-tests-in-java-using-gradle/</guid><description><![CDATA[<p>Modeling Web APIs: your best choices<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/659e7c7d2383a4d347fc8f85f12272e48ffbaadc" target="_blank" rel="noopener noreffer "><code>659e7c7</code></a> in My-Notes.</em></p>]]></description></item><item><title>oracle/ktf</title><link>https://blog.emecas.net/posts/2017-12-26-oracle-ktf/</link><pubDate>Tue, 26 Dec 2017 15:03:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-26-oracle-ktf/</guid><description><![CDATA[<p>oracle/ktf<br>
+Kernel Test Framework - a unit test framework for the Linux kernel<br>
+Shell repository by oracle, created in 2017, with 96 stars and 36 forks. Archived by its owner. Starred on 2017-12-26.<br>
+<a href="https://github.com/oracle/ktf" target="_blank" rel="noopener noreffer ">https://github.com/oracle/ktf</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-26: <a href="https://github.com/oracle/ktf" target="_blank" rel="noopener noreffer ">oracle/ktf</a>.</em></p>]]></description></item><item><title>Separating Unit from Integration tests in Java using Gradle</title><link>https://blog.emecas.net/posts/2017-08-17-separating-unit-from-integration-tests-in-java-using-gradle/</link><pubDate>Thu, 17 Aug 2017 13:34:03 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-08-17-separating-unit-from-integration-tests-in-java-using-gradle/</guid><description><![CDATA[<p>Modeling Web APIs: your best choices<br>
 Comparing  : API Blueprint vs RAML vs Swagger<br>
 <a href="http://modeling-languages.com/modeling-web-api-comparing/" target="_blank" rel="noopener noreffer ">http://modeling-languages.com/modeling-web-api-comparing/</a></p>
 <p>Separating Unit from Integration tests in Java using Gradle<br>

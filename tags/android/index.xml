@@ -1,4 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Android - Tag - My Notes</title><link>https://blog.emecas.net/tags/android/</link><description>Android - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Aug 2022 21:08:52 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/android/" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Android - Tag - My Notes</title><link>https://blog.emecas.net/tags/android/</link><description>Android - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 19 Apr 2026 20:56:06 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/android/" rel="self" type="application/rss+xml"/><item><title>taskdroid/taskdroid</title><link>https://blog.emecas.net/posts/2026-04-19-taskdroid-taskdroid/</link><pubDate>Sun, 19 Apr 2026 20:56:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-19-taskdroid-taskdroid/</guid><description><![CDATA[<p>taskdroid/taskdroid<br>
+Android frontend for Taskwarrior<br>
+Dart repository by taskdroid, created in 2026, with 27 stars and 2 forks. License: GPL-3.0. Starred on 2026-04-19.<br>
+<a href="https://github.com/taskdroid/taskdroid" target="_blank" rel="noopener noreffer ">https://github.com/taskdroid/taskdroid</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-19: <a href="https://github.com/taskdroid/taskdroid" target="_blank" rel="noopener noreffer ">taskdroid/taskdroid</a>.</em></p>]]></description></item><item><title>moezbhatti/qksms</title><link>https://blog.emecas.net/posts/2023-11-06-moezbhatti-qksms/</link><pubDate>Mon, 06 Nov 2023 23:12:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-06-moezbhatti-qksms/</guid><description><![CDATA[<p>moezbhatti/qksms<br>
+The most beautiful SMS messenger for Android<br>
+Kotlin repository by moezbhatti, created in 2015, with 4,599 stars and 1,066 forks. License: GPL-3.0. Starred on 2023-11-06.<br>
+Homepage: <a href="https://qklabs.com/download" target="_blank" rel="noopener noreffer ">https://qklabs.com/download</a><br>
+<a href="https://github.com/moezbhatti/qksms" target="_blank" rel="noopener noreffer ">https://github.com/moezbhatti/qksms</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-11-06: <a href="https://github.com/moezbhatti/qksms" target="_blank" rel="noopener noreffer ">moezbhatti/qksms</a>.</em></p>]]></description></item><item><title>FFDA/SourCherry</title><link>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</link><pubDate>Sun, 24 Sep 2023 16:36:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</guid><description><![CDATA[<p>FFDA/SourCherry<br>
+Android app to open CherryTree databases<br>
+Java repository by FFDA, created in 2022, with 120 stars and 5 forks. License: GPL-3.0. Starred on 2023-09-24.<br>
+<a href="https://github.com/FFDA/SourCherry" target="_blank" rel="noopener noreffer ">https://github.com/FFDA/SourCherry</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-09-24: <a href="https://github.com/FFDA/SourCherry" target="_blank" rel="noopener noreffer ">FFDA/SourCherry</a>.</em></p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
 <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
 Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
 <p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
@@ -6,7 +22,23 @@ Processing is a flexible software sketchbook and a language for learning how to 
 <p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
 - p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
 - Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
-- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>Kast</title><link>https://blog.emecas.net/posts/2020-05-13-kast/</link><pubDate>Wed, 13 May 2020 16:41:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-13-kast/</guid><description><![CDATA[<p>Kast<br>
+- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>zxing/zxing</title><link>https://blog.emecas.net/posts/2022-02-15-zxing-zxing/</link><pubDate>Tue, 15 Feb 2022 03:42:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-02-15-zxing-zxing/</guid><description><![CDATA[<p>zxing/zxing<br>
+ZXing (&ldquo;Zebra Crossing&rdquo;) barcode scanning library for Java, Android<br>
+Java repository by zxing, created in 2011, with 34,191 stars and 9,431 forks. License: Apache-2.0. Starred on 2022-02-15.<br>
+<a href="https://github.com/zxing/zxing" target="_blank" rel="noopener noreffer ">https://github.com/zxing/zxing</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-02-15: <a href="https://github.com/zxing/zxing" target="_blank" rel="noopener noreffer ">zxing/zxing</a>.</em></p>]]></description></item><item><title>DrKLO/Telegram</title><link>https://blog.emecas.net/posts/2021-08-02-drklo-telegram/</link><pubDate>Mon, 02 Aug 2021 02:24:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-08-02-drklo-telegram/</guid><description><![CDATA[<p>DrKLO/Telegram<br>
+Telegram for Android source<br>
+Java repository by DrKLO, created in 2013, with 30,253 stars and 10,515 forks. License: GPL-2.0. Starred on 2021-08-02.<br>
+<a href="https://github.com/DrKLO/Telegram" target="_blank" rel="noopener noreffer ">https://github.com/DrKLO/Telegram</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-08-02: <a href="https://github.com/DrKLO/Telegram" target="_blank" rel="noopener noreffer ">DrKLO/Telegram</a>.</em></p>]]></description></item><item><title>Docile-Alligator/Infinity-For-Reddit</title><link>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</link><pubDate>Tue, 12 Jan 2021 13:43:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</guid><description><![CDATA[<p>Docile-Alligator/Infinity-For-Reddit<br>
+A Reddit client for Android<br>
+Java repository by Docile-Alligator, created in 2018, with 5,543 stars and 538 forks. License: AGPL-3.0. Starred on 2021-01-12.<br>
+Homepage: <a href="https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus</a><br>
+<a href="https://github.com/Docile-Alligator/Infinity-For-Reddit" target="_blank" rel="noopener noreffer ">https://github.com/Docile-Alligator/Infinity-For-Reddit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-12: <a href="https://github.com/Docile-Alligator/Infinity-For-Reddit" target="_blank" rel="noopener noreffer ">Docile-Alligator/Infinity-For-Reddit</a>.</em></p>]]></description></item><item><title>Kast</title><link>https://blog.emecas.net/posts/2020-05-13-kast/</link><pubDate>Wed, 13 May 2020 16:41:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-13-kast/</guid><description><![CDATA[<p>Kast<br>
 <a href="https://kast.gg" target="_blank" rel="noopener noreffer ">https://kast.gg</a><br>
 Kast is Watch Parties Made Easy<br>
 Share movies, TV shows, games, and whatever you want with 100+ people.</p>
@@ -23,34 +55,4 @@ Astrid To-Do List Clone<br>
 Bringing Astrid Tasks back from the dead <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>
 github <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">https://github.com/tasks/tasks</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c99e4accd82a8505e18d28cd43ac162c71bcad4f" target="_blank" rel="noopener noreffer "><code>c99e4ac</code></a> in My-Notes.</em></p>]]></description></item><item><title>Android Dev Podcast</title><link>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</link><pubDate>Fri, 08 Feb 2019 15:01:54 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-08-android-dev-podcast/</guid><description><![CDATA[<p>Android Dev Podcast<br>
-<a href="https://androiddevpodcast.com/" target="_blank" rel="noopener noreffer ">https://androiddevpodcast.com/</a><br>
-Podcast sobre Android en Español 🇲🇽🇵🇪🇨🇱🇬🇹🇸🇻🇩🇴🇨🇷 🇦🇷🇧🇴🇨🇴🇪🇸<br>
-<a href="https://twitter.com/androiddevlat" target="_blank" rel="noopener noreffer ">https://twitter.com/androiddevlat</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/8fc7404c0790572d56daa23dd2c1bb3fafa4518f" target="_blank" rel="noopener noreffer "><code>8fc7404</code></a> in My-Notes.</em></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2018-11-07-note/</link><pubDate>Wed, 07 Nov 2018 17:18:11 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-11-07-note/</guid><description><![CDATA[<p>Multiplatform Project: iOS and Android<br>
-<a href="https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html" target="_blank" rel="noopener noreffer ">https://kotlinlang.org/docs/tutorials/native/mpp-ios-android.html</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cfef31edc0287e65ebdd0e558c32cc16c094020" target="_blank" rel="noopener noreffer "><code>2cfef31</code></a> in My-Notes.</em></p>]]></description></item><item><title>LineageOS</title><link>https://blog.emecas.net/posts/2017-05-30-lineageos/</link><pubDate>Tue, 30 May 2017 15:11:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-30-lineageos/</guid><description><![CDATA[<p>Lineage<br>
-LineageOS will be a continuation of what CyanogenMod was.<br>
-Created by LineageOS Project<br>
-<a href="https://www.lineageos.org/about/" target="_blank" rel="noopener noreffer ">https://www.lineageos.org/about/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9eaa1720689e80b2a7984b9755ec8bf675ec5a30" target="_blank" rel="noopener noreffer "><code>9eaa172</code></a> in My-Notes.</em></p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
-An app that extracts info from your android device and let you export it</p>
-<p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
-* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b252078d3b5b847ab11c8d5facdd38140b1d3563" target="_blank" rel="noopener noreffer "><code>b252078</code></a> in My-Notes.</em></p>]]></description></item><item><title>Fiscalidad'Javascripters ---- JavaCV</title><link>https://blog.emecas.net/posts/2013-12-01-fiscalidad-javascripters-javacv/</link><pubDate>Sun, 01 Dec 2013 10:32:15 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-12-01-fiscalidad-javascripters-javacv/</guid><description><![CDATA[<p>Fiscalidad para Javascripters<br>
-<a href="http://www.appson.es/Singles/MadridJS.php" target="_blank" rel="noopener noreffer ">http://www.appson.es/Singles/MadridJS.php</a></p>
-<p>JavaCV<br>
-<a href="https://code.google.com/p/javacv/" target="_blank" rel="noopener noreffer ">https://code.google.com/p/javacv/</a><br>
-JavaCV first provides wrappers to commonly used libraries by researchers in the field of computer vision: OpenCV, FFmpeg, libdc1394, PGR FlyCapture, OpenKinect, videoInput, and ARToolKitPlus. The classes found under the com.googlecode.javacv.cpp package namespace expose their complete APIs. Moreover, utility classes make their functionality easier to use on the Java platform, including Android.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f0d7250eb894119e4daa520f57478d43e8b4923d" target="_blank" rel="noopener noreffer "><code>f0d7250</code></a> in My-Notes.</em></p>]]></description></item><item><title>Xtend is a flexible and expressive dialect of Java</title><link>https://blog.emecas.net/posts/2013-11-24-xtend-is-a-flexible-and-expressive-dialect-of-java/</link><pubDate>Sun, 24 Nov 2013 16:21:09 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-24-xtend-is-a-flexible-and-expressive-dialect-of-java/</guid><description><![CDATA[<p>Xtend<br>
-<a href="http://www.eclipse.org/xtend/index.html" target="_blank" rel="noopener noreffer ">http://www.eclipse.org/xtend/index.html</a><br>
-Xtend is a flexible and expressive dialect of Java, which compiles into readable Java 5 compatible source code. You can use any existing Java library seamlessly. The compiled output is readable and pretty-printed, and tends to run as fast as the equivalent handwritten Java code.</p>
-<p>Get productive and write beautiful code with powerful macros, lambdas, operator overloading and many more modern language features.</p>
-<p>Android Development<br>
-Xtend works great on Android, as it doesn&rsquo;t produce additional runtime overhead. The very thin lib and the advanced support for code generation are increasing productivity while helping to keep your Android apps small.</p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c99e4accd82a8505e18d28cd43ac162c71bcad4f" target="_blank" rel="noopener noreffer "><code>c99e4ac</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

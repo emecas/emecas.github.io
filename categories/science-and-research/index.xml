@@ -1,4 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Science and Research - Category - My Notes</title><link>https://blog.emecas.net/categories/science-and-research/</link><description>Science and Research - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 01 Aug 2022 09:53:17 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/science-and-research/" rel="self" type="application/rss+xml"/><item><title>Metacreation: Lab for Creative AI</title><link>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</link><pubDate>Mon, 01 Aug 2022 09:53:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</guid><description><![CDATA[<p>Metacreation: Lab for Creative AI<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Science and Research - Category - My Notes</title><link>https://blog.emecas.net/categories/science-and-research/</link><description>Science and Research - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Oct 2026 01:29:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/science-and-research/" rel="self" type="application/rss+xml"/><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
+Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.<br>
+Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks. License: MIT. Starred on 2026-10-10.<br>
+Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
+<a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">https://github.com/fabio-rovai/open-ontologies</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-10-10: <a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">fabio-rovai/open-ontologies</a>.</em></p>]]></description></item><item><title>hackforla/internship</title><link>https://blog.emecas.net/posts/2024-05-05-hackforla-internship/</link><pubDate>Sun, 05 May 2024 19:52:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-05-hackforla-internship/</guid><description><![CDATA[<p>hackforla/internship<br>
+The Internship project provides an opportunity for students to work on open source projects in the fields of software, product development, project management, and UI/UX research and design at LA’s fastest growing Civic Tech non-profit organization during their summer.<br>
+CSS repository by hackforla, created in 2021, with 20 stars and 6 forks. License: GPL-2.0. Starred on 2024-05-05.<br>
+<a href="https://github.com/hackforla/internship" target="_blank" rel="noopener noreffer ">https://github.com/hackforla/internship</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-05: <a href="https://github.com/hackforla/internship" target="_blank" rel="noopener noreffer ">hackforla/internship</a>.</em></p>]]></description></item><item><title>Metacreation: Lab for Creative AI</title><link>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</link><pubDate>Mon, 01 Aug 2022 09:53:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</guid><description><![CDATA[<p>Metacreation: Lab for Creative AI<br>
 <a href="https://metacreation.net/" target="_blank" rel="noopener noreffer ">https://metacreation.net/</a></p>
 <p>Driven by collaborations involving scientists, experts in artificial intelligence, cognitive sciences, designers, and artists, the Metacreation Lab for Creative AI is at the forefront of the development of generative systems, whether these are embedded in interactive experiences or automating workflows integrated into cutting-edge creative software.</p>
 <p>Generative Systems</p>
@@ -47,30 +58,10 @@ Generation</p>]]></description></item><item><title>GISAID</title><link>https://b
 <a href="http://www.gisaid.org" target="_blank" rel="noopener noreffer ">http://www.gisaid.org</a><br>
 Mision:<br>
 Enabling rapid and open access to epidemic and pandemic virus data</p>
-<p>The GISAID Initiative promotes the rapid sharing of data from all influenza viruses and the coronavirus causing COVID-19. This includes genetic sequence and related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how viruses evolve and spread during epidemics and pandemics.</p>]]></description></item><item><title>Qiskit</title><link>https://blog.emecas.net/posts/2020-03-23-qiskit/</link><pubDate>Mon, 23 Mar 2020 21:30:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-23-qiskit/</guid><description><![CDATA[<p>Qiskit<br>
-<a href="https://qiskit.org/" target="_blank" rel="noopener noreffer ">https://qiskit.org/</a><br>
-<a href="https://github.com/Qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit</a><br>
-An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.</p>
-<p><a href="https://github.com/Qiskit/qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit/qiskit</a><br>
-Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.<br>
-Qiskit is made up elements that each work together to enable quantum computing. This is a simple meta-package to install the elements of Qiskit altogether.</p>
-<p>The four elements of Qiskit are the essential parts that give Qiskit its power<br>
-Qiskit Terra <a href="https://qiskit.org/terra" target="_blank" rel="noopener noreffer ">https://qiskit.org/terra</a><br>
-Qiskit Aer   <a href="https://qiskit.org/aer" target="_blank" rel="noopener noreffer ">https://qiskit.org/aer</a><br>
-Qiskit Ignis <a href="https://qiskit.org/ignis" target="_blank" rel="noopener noreffer ">https://qiskit.org/ignis</a><br>
-Qiskit Aqua  <a href="https://qiskit.org/aqua" target="_blank" rel="noopener noreffer ">https://qiskit.org/aqua</a></p>]]></description></item><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
-@paperswithcode<br>
-<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
-Our mission</p>
-<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
-<p>We believe this is best done together with the community and powered by automation.</p>
-<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>
+<p>The GISAID Initiative promotes the rapid sharing of data from all influenza viruses and the coronavirus causing COVID-19. This includes genetic sequence and related clinical and epidemiological data associated with human viruses, and geographical as well as species-specific data associated with avian and other animal viruses, to help researchers understand how viruses evolve and spread during epidemics and pandemics.</p>]]></description></item><item><title>papers-we-love/papers-we-love</title><link>https://blog.emecas.net/posts/2020-03-29-papers-we-love-papers-we-love/</link><pubDate>Sun, 29 Mar 2020 20:30:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-29-papers-we-love-papers-we-love/</guid><description><![CDATA[<p>papers-we-love/papers-we-love<br>
+Papers from the computer science community to read and discuss.<br>
+Shell repository by papers-we-love, created in 2013, with 111,404 stars and 6,482 forks. Starred on 2020-03-29.<br>
+Homepage: <a href="http://paperswelove.org/" target="_blank" rel="noopener noreffer ">http://paperswelove.org/</a><br>
+<a href="https://github.com/papers-we-love/papers-we-love" target="_blank" rel="noopener noreffer ">https://github.com/papers-we-love/papers-we-love</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/37c127a777e4d494edaf1c0b597b97c94774a6b6" target="_blank" rel="noopener noreffer "><code>37c127a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Electronic Proceedings of the NIPS</title><link>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</link><pubDate>Mon, 24 Feb 2020 18:14:05 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</guid><description><![CDATA[<p>Electronic Proceedings of the Neural Information Processing Systems Conference<br>
-<a href="https://papers.nips.cc/" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/</a><br>
-Neural Ordinary Differential Equations<br>
-Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations</a><br>
-github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
-application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-03-29: <a href="https://github.com/papers-we-love/papers-we-love" target="_blank" rel="noopener noreffer ">papers-we-love/papers-we-love</a>.</em></p>]]></description></item></channel></rss>

@@ -32,7 +32,13 @@ WildFly is a flexible, lightweight, managed application runtime that helps you b
 &lt;/plugin&gt;<br>
 &lt;/plugins&gt;</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>saltstack/salt</title><link>https://blog.emecas.net/posts/2020-01-27-saltstack-salt/</link><pubDate>Mon, 27 Jan 2020 19:03:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-27-saltstack-salt/</guid><description><![CDATA[<p>saltstack/salt<br>
+Software to automate the management and configuration of infrastructure and applications at scale.<br>
+Python repository by saltstack, created in 2011, with 15,752 stars and 5,613 forks. License: Apache-2.0. Starred on 2020-01-27.<br>
+Homepage: <a href="https://docs.saltproject.io/salt/install-guide/en/latest/" target="_blank" rel="noopener noreffer ">https://docs.saltproject.io/salt/install-guide/en/latest/</a><br>
+<a href="https://github.com/saltstack/salt" target="_blank" rel="noopener noreffer ">https://github.com/saltstack/salt</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-27: <a href="https://github.com/saltstack/salt" target="_blank" rel="noopener noreffer ">saltstack/salt</a>.</em></p>]]></description></item><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
 <a href="https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/" target="_blank" rel="noopener noreffer ">https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/</a><br>
 By<br>
 Zoltan Altfatter</p>

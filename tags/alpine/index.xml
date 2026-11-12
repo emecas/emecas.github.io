@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Alpine - Tag - My Notes</title><link>https://blog.emecas.net/tags/alpine/</link><description>Alpine - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 26 Mar 2020 01:03:32 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/alpine/" rel="self" type="application/rss+xml"/><item><title>jfloff/alpine-python</title><link>https://blog.emecas.net/posts/2020-03-26-jfloff-alpine-python/</link><pubDate>Thu, 26 Mar 2020 01:03:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-26-jfloff-alpine-python/</guid><description><![CDATA[<p>jfloff/alpine-python<br>
+A small, more complete, Python Docker image based on Alpine Linux.<br>
+Dockerfile repository by jfloff, created in 2015, with 483 stars and 96 forks. License: MIT. Starred on 2020-03-26.<br>
+<a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">https://github.com/jfloff/alpine-python</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-26: <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">jfloff/alpine-python</a>.</em></p>]]></description></item></channel></rss>

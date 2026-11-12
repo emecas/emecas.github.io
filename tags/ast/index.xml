@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ast - Tag - My Notes</title><link>https://blog.emecas.net/tags/ast/</link><description>Ast - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 07 Oct 2019 20:58:50 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ast/" rel="self" type="application/rss+xml"/><item><title>INRIA/spoon</title><link>https://blog.emecas.net/posts/2019-10-07-inria-spoon/</link><pubDate>Mon, 07 Oct 2019 20:58:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-10-07-inria-spoon/</guid><description><![CDATA[<p>INRIA/spoon<br>
+Spoon is a metaprogramming library to analyze and transform Java source code. &#x1f944; is made with &#x2764;&#xfe0f;, &#x1f37b; and &#x2728;. It parses source files to build a well-designed AST with powerful analysis and transformation API.<br>
+Java repository by INRIA, created in 2013, with 1,964 stars and 394 forks. Starred on 2019-10-07.<br>
+Homepage: <a href="http://spoon.gforge.inria.fr/" target="_blank" rel="noopener noreffer ">http://spoon.gforge.inria.fr/</a><br>
+<a href="https://github.com/INRIA/spoon" target="_blank" rel="noopener noreffer ">https://github.com/INRIA/spoon</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-10-07: <a href="https://github.com/INRIA/spoon" target="_blank" rel="noopener noreffer ">INRIA/spoon</a>.</em></p>]]></description></item></channel></rss>

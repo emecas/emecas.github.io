@@ -15,4 +15,9 @@ show-boards        Show the list of cached boards<br>
 show-cards         Show the cards on a list<br>
 show-labels        Show labels defined on a board<br>
 show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
-show-lists         Show the list of cached lists</p>]]></description></item></channel></rss>
+show-lists         Show the list of cached lists</p>]]></description></item><item><title>jwtk/jjwt</title><link>https://blog.emecas.net/posts/2019-05-19-jwtk-jjwt/</link><pubDate>Sun, 19 May 2019 00:10:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-19-jwtk-jjwt/</guid><description><![CDATA[<p>jwtk/jjwt<br>
+Java JWT: JSON Web Token for Java and Android<br>
+Java repository by jwtk, created in 2014, with 11,147 stars and 1,403 forks. License: Apache-2.0. Starred on 2019-05-19.<br>
+<a href="https://github.com/jwtk/jjwt" target="_blank" rel="noopener noreffer ">https://github.com/jwtk/jjwt</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-19: <a href="https://github.com/jwtk/jjwt" target="_blank" rel="noopener noreffer ">jwtk/jjwt</a>.</em></p>]]></description></item></channel></rss>

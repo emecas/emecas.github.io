@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kafka - Tag - My Notes</title><link>https://blog.emecas.net/tags/kafka/</link><description>Kafka - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Apr 2019 18:28:01 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kafka/" rel="self" type="application/rss+xml"/><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
+Apache Kafka - A distributed event streaming platform<br>
+Java repository by apache, created in 2011, with 34,205 stars and 15,683 forks. License: Apache-2.0. Starred on 2019-04-30.<br>
+Homepage: <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreffer ">https://kafka.apache.org/</a><br>
+<a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreffer ">https://github.com/apache/kafka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-30: <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreffer ">apache/kafka</a>.</em></p>]]></description></item><item><title>joshlong-attic/spring-and-kafka</title><link>https://blog.emecas.net/posts/2017-05-25-joshlong-attic-spring-and-kafka/</link><pubDate>Thu, 25 May 2017 22:29:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-25-joshlong-attic-spring-and-kafka/</guid><description><![CDATA[<p>joshlong-attic/spring-and-kafka<br>
+Example code for my blog introducing Spring and Apache Kafka<br>
+Java repository by joshlong-attic, created in 2015, with 67 stars and 67 forks. License: Apache-2.0. Starred on 2017-05-25.<br>
+Homepage: <a href="http://spring.io/blog" target="_blank" rel="noopener noreffer ">http://spring.io/blog</a><br>
+<a href="https://github.com/joshlong-attic/spring-and-kafka" target="_blank" rel="noopener noreffer ">https://github.com/joshlong-attic/spring-and-kafka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-05-25: <a href="https://github.com/joshlong-attic/spring-and-kafka" target="_blank" rel="noopener noreffer ">joshlong-attic/spring-and-kafka</a>.</em></p>]]></description></item></channel></rss>

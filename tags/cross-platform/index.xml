@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cross-Platform - Tag - My Notes</title><link>https://blog.emecas.net/tags/cross-platform/</link><description>Cross-Platform - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Jun 2021 20:11:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cross-platform/" rel="self" type="application/rss+xml"/><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cross-Platform - Tag - My Notes</title><link>https://blog.emecas.net/tags/cross-platform/</link><description>Cross-Platform - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Sep 2023 22:30:29 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cross-platform/" rel="self" type="application/rss+xml"/><item><title>renovatebot/renovate</title><link>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</link><pubDate>Thu, 07 Sep 2023 22:30:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</guid><description><![CDATA[<p>renovatebot/renovate<br>
+Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io<br>
+TypeScript repository by renovatebot, created in 2016, with 23,080 stars and 3,436 forks. License: AGPL-3.0. Starred on 2023-09-07.<br>
+Homepage: <a href="https://mend.io/renovate" target="_blank" rel="noopener noreffer ">https://mend.io/renovate</a><br>
+<a href="https://github.com/renovatebot/renovate" target="_blank" rel="noopener noreffer ">https://github.com/renovatebot/renovate</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-09-07: <a href="https://github.com/renovatebot/renovate" target="_blank" rel="noopener noreffer ">renovatebot/renovate</a>.</em></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
 Playwright enables reliable end-to-end testing for modern web apps.<br>
 <a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
 <p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
@@ -18,7 +24,18 @@ Automate almost anything with automation events using straight lines, ramps and 
 <p>Audio plugins<br>
 Complete support for LV2 and VST2, with experimental support for VST3, AU, SFZ and SF2.</p>
 <p>Multi-backend support<br>
-Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
+Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>GitSquared/edex-ui</title><link>https://blog.emecas.net/posts/2020-07-08-gitsquared-edex-ui/</link><pubDate>Wed, 08 Jul 2020 01:52:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-08-gitsquared-edex-ui/</guid><description><![CDATA[<p>GitSquared/edex-ui<br>
+A cross-platform, customizable science fiction terminal emulator with advanced monitoring &amp; touchscreen support.<br>
+JavaScript repository by GitSquared, created in 2017, with 45,039 stars and 3,227 forks. License: GPL-3.0. Archived by its owner. Starred on 2020-07-08.<br>
+<a href="https://github.com/GitSquared/edex-ui" target="_blank" rel="noopener noreffer ">https://github.com/GitSquared/edex-ui</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-07-08: <a href="https://github.com/GitSquared/edex-ui" target="_blank" rel="noopener noreffer ">GitSquared/edex-ui</a>.</em></p>]]></description></item><item><title>SmartBear/soapui</title><link>https://blog.emecas.net/posts/2020-06-23-smartbear-soapui/</link><pubDate>Tue, 23 Jun 2020 13:44:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-23-smartbear-soapui/</guid><description><![CDATA[<p>SmartBear/soapui<br>
+SoapUI is a free and open source cross-platform functional testing solution for APIs and web services.<br>
+Java repository by SmartBear, created in 2012, with 1,720 stars and 631 forks. Starred on 2020-06-23.<br>
+Homepage: <a href="http://www.soapui.org" target="_blank" rel="noopener noreffer ">http://www.soapui.org</a><br>
+<a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">https://github.com/SmartBear/soapui</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-06-23: <a href="https://github.com/SmartBear/soapui" target="_blank" rel="noopener noreffer ">SmartBear/soapui</a>.</em></p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
 <a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a><br>
 calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>

@@ -4,7 +4,12 @@ The AWS CDK is a new software development framework from AWS with the sole purpo
 and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
 <p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
 Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
-anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>qubole/spark-on-lambda</title><link>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</link><pubDate>Fri, 29 Dec 2017 15:25:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</guid><description><![CDATA[<p>qubole/spark-on-lambda<br>
+Apache Spark on AWS Lambda<br>
+Scala repository by qubole, created in 2017, with 158 stars and 31 forks. License: Apache-2.0. Starred on 2017-12-29.<br>
+<a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">https://github.com/qubole/spark-on-lambda</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-29: <a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">qubole/spark-on-lambda</a>.</em></p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
 <a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
 <p>Version	.NET Framework	Visual Studio	Important Features<br>
 C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>

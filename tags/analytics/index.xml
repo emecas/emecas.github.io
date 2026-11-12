@@ -9,7 +9,19 @@ Dask is composed of two parts:</p>
 Apache Druid (incubating) is a high performance analytics data store for event-driven data.<br>
 GIT: <a href="https://github.com/apache/incubator-druid" target="_blank" rel="noopener noreffer ">https://github.com/apache/incubator-druid</a></p>
 <p>Overview</p>
-<p>Druid is primarily used to store, query, and analyze large event streams. Examples of event streams include user generated data such as clickstreams, application generated data such as performance metrics, and machine generated data such as network flows and server metrics. Druid is optimized for sub-second queries to slice-and-dice, drill down, search, filter, and aggregate this data. Druid is commonly used to power interactive applications where performance, concurrency, and uptime are important.</p>]]></description></item><item><title>Qualtrics</title><link>https://blog.emecas.net/posts/2017-01-27-qualtrics/</link><pubDate>Fri, 27 Jan 2017 09:32:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-27-qualtrics/</guid><description><![CDATA[<p>Qualtrics<br>
+<p>Druid is primarily used to store, query, and analyze large event streams. Examples of event streams include user generated data such as clickstreams, application generated data such as performance metrics, and machine generated data such as network flows and server metrics. Druid is optimized for sub-second queries to slice-and-dice, drill down, search, filter, and aggregate this data. Druid is commonly used to power interactive applications where performance, concurrency, and uptime are important.</p>]]></description></item><item><title>apache/druid</title><link>https://blog.emecas.net/posts/2018-09-20-apache-druid/</link><pubDate>Thu, 20 Sep 2018 17:28:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-20-apache-druid/</guid><description><![CDATA[<p>apache/druid<br>
+Apache Druid: a high performance real-time analytics database.<br>
+Java repository by apache, created in 2012, with 14,097 stars and 3,816 forks. License: Apache-2.0. Starred on 2018-09-20.<br>
+Homepage: <a href="https://druid.apache.org/" target="_blank" rel="noopener noreffer ">https://druid.apache.org/</a><br>
+<a href="https://github.com/apache/druid" target="_blank" rel="noopener noreffer ">https://github.com/apache/druid</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-09-20: <a href="https://github.com/apache/druid" target="_blank" rel="noopener noreffer ">apache/druid</a>.</em></p>]]></description></item><item><title>apache/spark</title><link>https://blog.emecas.net/posts/2017-06-07-apache-spark/</link><pubDate>Wed, 07 Jun 2017 17:52:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-07-apache-spark/</guid><description><![CDATA[<p>apache/spark<br>
+Apache Spark - A unified analytics engine for large-scale data processing<br>
+Scala repository by apache, created in 2014, with 44,466 stars and 29,593 forks. License: Apache-2.0. Starred on 2017-06-07.<br>
+Homepage: <a href="https://spark.apache.org/" target="_blank" rel="noopener noreffer ">https://spark.apache.org/</a><br>
+<a href="https://github.com/apache/spark" target="_blank" rel="noopener noreffer ">https://github.com/apache/spark</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-07: <a href="https://github.com/apache/spark" target="_blank" rel="noopener noreffer ">apache/spark</a>.</em></p>]]></description></item><item><title>Qualtrics</title><link>https://blog.emecas.net/posts/2017-01-27-qualtrics/</link><pubDate>Fri, 27 Jan 2017 09:32:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-27-qualtrics/</guid><description><![CDATA[<p>Qualtrics<br>
 <a href="https://www.qualtrics.com" target="_blank" rel="noopener noreffer ">https://www.qualtrics.com</a><br>
 Software to manage the entire customer experience - from surveys, to insights, to action</p>
 <p>Areas:</p>
@@ -36,7 +48,13 @@ employee pulse surveys<br>
 training surveys<br>
 360o employee feedback<br>
 exit interviews<br>
-Onboarding Surveys</p>]]></description></item><item><title>Clicky - Comparative Web Analytics Market Options</title><link>https://blog.emecas.net/posts/2014-03-04-clicky-comparative-web-analytics-market-options/</link><pubDate>Tue, 04 Mar 2014 21:11:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-03-04-clicky-comparative-web-analytics-market-options/</guid><description><![CDATA[<p>Comparative Web Analytics Market Options<br>
+Onboarding Surveys</p>]]></description></item><item><title>torodb/stampede</title><link>https://blog.emecas.net/posts/2014-11-18-torodb-stampede/</link><pubDate>Tue, 18 Nov 2014 15:16:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-11-18-torodb-stampede/</guid><description><![CDATA[<p>torodb/stampede<br>
+The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL<br>
+Java repository by torodb, created in 2014, with 1,755 stars and 116 forks. License: AGPL-3.0. Starred on 2014-11-18.<br>
+Homepage: <a href="https://www.torodb.com/stampede/" target="_blank" rel="noopener noreffer ">https://www.torodb.com/stampede/</a><br>
+<a href="https://github.com/torodb/stampede" target="_blank" rel="noopener noreffer ">https://github.com/torodb/stampede</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2014-11-18: <a href="https://github.com/torodb/stampede" target="_blank" rel="noopener noreffer ">torodb/stampede</a>.</em></p>]]></description></item><item><title>Clicky - Comparative Web Analytics Market Options</title><link>https://blog.emecas.net/posts/2014-03-04-clicky-comparative-web-analytics-market-options/</link><pubDate>Tue, 04 Mar 2014 21:11:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-03-04-clicky-comparative-web-analytics-market-options/</guid><description><![CDATA[<p>Comparative Web Analytics Market Options<br>
 Clicky -VS- The Other Guys<br>
 <a href="http://clicky.com/compare/" target="_blank" rel="noopener noreffer ">http://clicky.com/compare/</a></p>
 <hr>

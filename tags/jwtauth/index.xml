@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jwtauth - Tag - My Notes</title><link>https://blog.emecas.net/tags/jwtauth/</link><description>Jwtauth - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 30 Jul 2018 17:19:41 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jwtauth/" rel="self" type="application/rss+xml"/><item><title>teracyhq/httpie-jwt-auth</title><link>https://blog.emecas.net/posts/2018-07-30-teracyhq-httpie-jwt-auth/</link><pubDate>Mon, 30 Jul 2018 17:19:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-07-30-teracyhq-httpie-jwt-auth/</guid><description><![CDATA[<p>teracyhq/httpie-jwt-auth<br>
+JWTAuth (JSON Web Tokens) auth plugin for HTTPie<br>
+Python repository by teracyhq, created in 2015, with 177 stars and 13 forks. License: BSD-3-Clause. Starred on 2018-07-30.<br>
+<a href="https://github.com/teracyhq/httpie-jwt-auth" target="_blank" rel="noopener noreffer ">https://github.com/teracyhq/httpie-jwt-auth</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-07-30: <a href="https://github.com/teracyhq/httpie-jwt-auth" target="_blank" rel="noopener noreffer ">teracyhq/httpie-jwt-auth</a>.</em></p>]]></description></item></channel></rss>

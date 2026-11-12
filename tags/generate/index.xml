@@ -6,7 +6,23 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>chefspec/chefspec</title><link>https://blog.emecas.net/posts/2020-10-16-chefspec-chefspec/</link><pubDate>Fri, 16 Oct 2020 20:27:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-16-chefspec-chefspec/</guid><description><![CDATA[<p>chefspec/chefspec<br>
+Write RSpec examples and generate coverage reports for Chef recipes!<br>
+Ruby repository by chefspec, created in 2011, with 820 stars and 331 forks. License: MIT. Starred on 2020-10-16.<br>
+Homepage: <a href="https://chefspec.github.io/chefspec/" target="_blank" rel="noopener noreffer ">https://chefspec.github.io/chefspec/</a><br>
+<a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">https://github.com/chefspec/chefspec</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item><item><title>CorentinJ/Real-Time-Voice-Cloning</title><link>https://blog.emecas.net/posts/2020-10-13-corentinj-real-time-voice-cloning/</link><pubDate>Tue, 13 Oct 2020 04:12:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-corentinj-real-time-voice-cloning/</guid><description><![CDATA[<p>CorentinJ/Real-Time-Voice-Cloning<br>
+Clone a voice in 5 seconds to generate arbitrary speech in real-time<br>
+Python repository by CorentinJ, created in 2019, with 60,238 stars and 9,381 forks. Starred on 2020-10-13.<br>
+<a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank" rel="noopener noreffer ">https://github.com/CorentinJ/Real-Time-Voice-Cloning</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank" rel="noopener noreffer ">CorentinJ/Real-Time-Voice-Cloning</a>.</em></p>]]></description></item><item><title>talsma-ict/umldoclet</title><link>https://blog.emecas.net/posts/2020-08-20-talsma-ict-umldoclet/</link><pubDate>Thu, 20 Aug 2020 03:38:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-20-talsma-ict-umldoclet/</guid><description><![CDATA[<p>talsma-ict/umldoclet<br>
+Automatically generate PlantUML diagrams in javadoc<br>
+Java repository by talsma-ict, created in 2016, with 257 stars and 36 forks. License: Apache-2.0. Starred on 2020-08-20.<br>
+<a href="https://github.com/talsma-ict/umldoclet" target="_blank" rel="noopener noreffer ">https://github.com/talsma-ict/umldoclet</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-20: <a href="https://github.com/talsma-ict/umldoclet" target="_blank" rel="noopener noreffer ">talsma-ict/umldoclet</a>.</em></p>]]></description></item><item><title>JavaFaker</title><link>https://blog.emecas.net/posts/2020-04-27-javafaker/</link><pubDate>Mon, 27 Apr 2020 20:51:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-javafaker/</guid><description><![CDATA[<p>JavaFaker<br>
 <a href="https://github.com/DiUS/java-faker" target="_blank" rel="noopener noreffer ">https://github.com/DiUS/java-faker</a><br>
 Brings the popular ruby faker gem to Java<br>
 JavaFaker is a library that can be used to generate a wide array of real-looking data from addresses to popular culture references.</p>
@@ -24,4 +40,9 @@ implementation &lsquo;com.github.javafaker:javafaker:1.0.2&rsquo;<br>
 Faker faker = new Faker();</p>
 <p>String name = faker.name().fullName(); // Miss Samanta Schmidt<br>
 String firstName = faker.name().firstName(); // Emory<br>
-String lastName = faker.name().lastName(); // Barton</p>]]></description></item></channel></rss>
+String lastName = faker.name().lastName(); // Barton</p>]]></description></item><item><title>jcndoitt/ApiKeyTool</title><link>https://blog.emecas.net/posts/2019-03-14-jcndoitt-apikeytool/</link><pubDate>Thu, 14 Mar 2019 12:17:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-jcndoitt-apikeytool/</guid><description><![CDATA[<p>jcndoitt/ApiKeyTool<br>
+Java App using Spring Security to Generate API Key and Encode it using BCrypt<br>
+Java repository by jcndoitt, created in 2018, with 2 stars and 0 forks. Starred on 2019-03-14.<br>
+<a href="https://github.com/jcndoitt/ApiKeyTool" target="_blank" rel="noopener noreffer ">https://github.com/jcndoitt/ApiKeyTool</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/jcndoitt/ApiKeyTool" target="_blank" rel="noopener noreffer ">jcndoitt/ApiKeyTool</a>.</em></p>]]></description></item></channel></rss>

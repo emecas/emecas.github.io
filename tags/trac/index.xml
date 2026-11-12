@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Trac - Tag - My Notes</title><link>https://blog.emecas.net/tags/trac/</link><description>Trac - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Mar 2020 21:51:51 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/trac/" rel="self" type="application/rss+xml"/><item><title>GothenburgBitFactory/bugwarrior</title><link>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-bugwarrior/</link><pubDate>Sun, 22 Mar 2020 21:51:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-bugwarrior/</guid><description><![CDATA[<p>GothenburgBitFactory/bugwarrior<br>
+Pull github, bitbucket, and trac issues into taskwarrior<br>
+Python repository by GothenburgBitFactory, created in 2011, with 824 stars and 227 forks. License: GPL-3.0. Starred on 2020-03-22.<br>
+Homepage: <a href="http://pypi.python.org/pypi/bugwarrior" target="_blank" rel="noopener noreffer ">http://pypi.python.org/pypi/bugwarrior</a><br>
+<a href="https://github.com/GothenburgBitFactory/bugwarrior" target="_blank" rel="noopener noreffer ">https://github.com/GothenburgBitFactory/bugwarrior</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-22: <a href="https://github.com/GothenburgBitFactory/bugwarrior" target="_blank" rel="noopener noreffer ">GothenburgBitFactory/bugwarrior</a>.</em></p>]]></description></item><item><title>edgewall/trac</title><link>https://blog.emecas.net/posts/2017-06-10-edgewall-trac/</link><pubDate>Sat, 10 Jun 2017 04:55:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-10-edgewall-trac/</guid><description><![CDATA[<p>edgewall/trac<br>
+Trac is an enhanced wiki and issue tracking system for software development projects (mirror)<br>
+Python repository by edgewall, created in 2010, with 547 stars and 176 forks. Starred on 2017-06-10.<br>
+Homepage: <a href="https://trac.edgewall.org/" target="_blank" rel="noopener noreffer ">https://trac.edgewall.org/</a><br>
+<a href="https://github.com/edgewall/trac" target="_blank" rel="noopener noreffer ">https://github.com/edgewall/trac</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-10: <a href="https://github.com/edgewall/trac" target="_blank" rel="noopener noreffer ">edgewall/trac</a>.</em></p>]]></description></item><item><title>trac-hacks/trac-code-comments-plugin</title><link>https://blog.emecas.net/posts/2017-04-19-trac-hacks-trac-code-comments-plugin/</link><pubDate>Wed, 19 Apr 2017 01:05:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-19-trac-hacks-trac-code-comments-plugin/</guid><description><![CDATA[<p>trac-hacks/trac-code-comments-plugin<br>
+Trac plugin for code comments and sending them to tickets<br>
+Python repository by trac-hacks, created in 2011, with 53 stars and 22 forks. License: GPL-2.0. Starred on 2017-04-19.<br>
+<a href="https://github.com/trac-hacks/trac-code-comments-plugin" target="_blank" rel="noopener noreffer ">https://github.com/trac-hacks/trac-code-comments-plugin</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-04-19: <a href="https://github.com/trac-hacks/trac-code-comments-plugin" target="_blank" rel="noopener noreffer ">trac-hacks/trac-code-comments-plugin</a>.</em></p>]]></description></item><item><title>mamohr/docker-trac</title><link>https://blog.emecas.net/posts/2016-11-30-mamohr-docker-trac/</link><pubDate>Wed, 30 Nov 2016 21:47:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-11-30-mamohr-docker-trac/</guid><description><![CDATA[<p>mamohr/docker-trac<br>
+A trac container<br>
+Shell repository by mamohr, created in 2015, with 1 stars and 0 forks. Starred on 2016-11-30.<br>
+<a href="https://github.com/mamohr/docker-trac" target="_blank" rel="noopener noreffer ">https://github.com/mamohr/docker-trac</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-11-30: <a href="https://github.com/mamohr/docker-trac" target="_blank" rel="noopener noreffer ">mamohr/docker-trac</a>.</em></p>]]></description></item><item><title>jmmills/docker-trac</title><link>https://blog.emecas.net/posts/2016-11-30-jmmills-docker-trac/</link><pubDate>Wed, 30 Nov 2016 21:28:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-11-30-jmmills-docker-trac/</guid><description><![CDATA[<p>jmmills/docker-trac<br>
+A trac container<br>
+Shell repository by jmmills, created in 2014, with 18 stars and 19 forks. Starred on 2016-11-30.<br>
+<a href="https://github.com/jmmills/docker-trac" target="_blank" rel="noopener noreffer ">https://github.com/jmmills/docker-trac</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-11-30: <a href="https://github.com/jmmills/docker-trac" target="_blank" rel="noopener noreffer ">jmmills/docker-trac</a>.</em></p>]]></description></item></channel></rss>

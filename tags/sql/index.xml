@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Sql - Tag - My Notes</title><link>https://blog.emecas.net/tags/sql/</link><description>Sql - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Feb 2026 11:43:14 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/sql/" rel="self" type="application/rss+xml"/><item><title>Apache Superset</title><link>https://blog.emecas.net/posts/2026-02-22-apache-superset/</link><pubDate>Sun, 22 Feb 2026 11:43:14 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-22-apache-superset/</guid><description><![CDATA[<p>Apache Superset<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>SQL - Tag - My Notes</title><link>https://blog.emecas.net/tags/sql/</link><description>SQL - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Feb 2026 11:43:14 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/sql/" rel="self" type="application/rss+xml"/><item><title>Apache Superset</title><link>https://blog.emecas.net/posts/2026-02-22-apache-superset/</link><pubDate>Sun, 22 Feb 2026 11:43:14 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-22-apache-superset/</guid><description><![CDATA[<p>Apache Superset<br>
 <a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
 Apache Superset is an open-source modern data exploration and visualization platform.</p>
 <p>Key features</p>
@@ -10,7 +10,43 @@ Apache Superset is an open-source modern data exploration and visualization plat
 • Semantic layer for SQL data transformations<br>
 • Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
 • Virtual datasets for ad-hoc data exploration<br>
-• Access to new functionalities through feature flags</p>]]></description></item><item><title>MongoDB Vs SQL</title><link>https://blog.emecas.net/posts/2013-04-01-mongodb-vs-sql/</link><pubDate>Mon, 01 Apr 2013 02:17:09 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-04-01-mongodb-vs-sql/</guid><description><![CDATA[<p>MongoDB Vs SQL<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>utPLSQL/utPLSQL</title><link>https://blog.emecas.net/posts/2024-04-04-utplsql-utplsql/</link><pubDate>Thu, 04 Apr 2024 16:13:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-04-utplsql-utplsql/</guid><description><![CDATA[<p>utPLSQL/utPLSQL<br>
+Testing Framework for PL/SQL<br>
+PLSQL repository by utPLSQL, created in 2016, with 623 stars and 190 forks. License: Apache-2.0. Starred on 2024-04-04.<br>
+Homepage: <a href="https://www.utplsql.org/" target="_blank" rel="noopener noreffer ">https://www.utplsql.org/</a><br>
+<a href="https://github.com/utPLSQL/utPLSQL" target="_blank" rel="noopener noreffer ">https://github.com/utPLSQL/utPLSQL</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-04-04: <a href="https://github.com/utPLSQL/utPLSQL" target="_blank" rel="noopener noreffer ">utPLSQL/utPLSQL</a>.</em></p>]]></description></item><item><title>xtdb/xtdb</title><link>https://blog.emecas.net/posts/2020-02-09-xtdb-xtdb/</link><pubDate>Sun, 09 Feb 2020 00:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-xtdb-xtdb/</guid><description><![CDATA[<p>xtdb/xtdb<br>
+An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt<br>
+Clojure repository by xtdb, created in 2018, with 3,098 stars and 198 forks. License: MPL-2.0. Starred on 2020-02-09.<br>
+Homepage: <a href="https://xtdb.com" target="_blank" rel="noopener noreffer ">https://xtdb.com</a><br>
+<a href="https://github.com/xtdb/xtdb" target="_blank" rel="noopener noreffer ">https://github.com/xtdb/xtdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-09: <a href="https://github.com/xtdb/xtdb" target="_blank" rel="noopener noreffer ">xtdb/xtdb</a>.</em></p>]]></description></item><item><title>yugabyte/yugabyte-db</title><link>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</link><pubDate>Wed, 11 Sep 2019 11:02:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</guid><description><![CDATA[<p>yugabyte/yugabyte-db<br>
+YugabyteDB - the cloud native distributed SQL database for mission-critical applications.<br>
+C repository by yugabyte, created in 2017, with 10,659 stars and 1,472 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.yugabyte.com" target="_blank" rel="noopener noreffer ">https://www.yugabyte.com</a><br>
+<a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">https://github.com/yugabyte/yugabyte-db</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">yugabyte/yugabyte-db</a>.</em></p>]]></description></item><item><title>dbeaver/dbeaver</title><link>https://blog.emecas.net/posts/2019-09-09-dbeaver-dbeaver/</link><pubDate>Mon, 09 Sep 2019 20:08:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-09-dbeaver-dbeaver/</guid><description><![CDATA[<p>dbeaver/dbeaver<br>
+Free universal database tool and SQL client<br>
+Java repository by dbeaver, created in 2015, with 52,391 stars and 4,454 forks. License: Apache-2.0. Starred on 2019-09-09.<br>
+Homepage: <a href="https://dbeaver.io" target="_blank" rel="noopener noreffer ">https://dbeaver.io</a><br>
+<a href="https://github.com/dbeaver/dbeaver" target="_blank" rel="noopener noreffer ">https://github.com/dbeaver/dbeaver</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-09: <a href="https://github.com/dbeaver/dbeaver" target="_blank" rel="noopener noreffer ">dbeaver/dbeaver</a>.</em></p>]]></description></item><item><title>osquery/osquery</title><link>https://blog.emecas.net/posts/2019-04-11-osquery-osquery/</link><pubDate>Thu, 11 Apr 2019 17:47:31 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-11-osquery-osquery/</guid><description><![CDATA[<p>osquery/osquery<br>
+SQL powered operating system instrumentation, monitoring, and analytics.<br>
+C++ repository by osquery, created in 2014, with 23,752 stars and 2,642 forks. Starred on 2019-04-11.<br>
+Homepage: <a href="https://osquery.io" target="_blank" rel="noopener noreffer ">https://osquery.io</a><br>
+<a href="https://github.com/osquery/osquery" target="_blank" rel="noopener noreffer ">https://github.com/osquery/osquery</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-11: <a href="https://github.com/osquery/osquery" target="_blank" rel="noopener noreffer ">osquery/osquery</a>.</em></p>]]></description></item><item><title>torodb/stampede</title><link>https://blog.emecas.net/posts/2014-11-18-torodb-stampede/</link><pubDate>Tue, 18 Nov 2014 15:16:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-11-18-torodb-stampede/</guid><description><![CDATA[<p>torodb/stampede<br>
+The ToroDB solution to provide better analytics on top of MongoDB and make it easier to migrate from MongoDB to SQL<br>
+Java repository by torodb, created in 2014, with 1,755 stars and 116 forks. License: AGPL-3.0. Starred on 2014-11-18.<br>
+Homepage: <a href="https://www.torodb.com/stampede/" target="_blank" rel="noopener noreffer ">https://www.torodb.com/stampede/</a><br>
+<a href="https://github.com/torodb/stampede" target="_blank" rel="noopener noreffer ">https://github.com/torodb/stampede</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2014-11-18: <a href="https://github.com/torodb/stampede" target="_blank" rel="noopener noreffer ">torodb/stampede</a>.</em></p>]]></description></item><item><title>MongoDB Vs SQL</title><link>https://blog.emecas.net/posts/2013-04-01-mongodb-vs-sql/</link><pubDate>Mon, 01 Apr 2013 02:17:09 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-04-01-mongodb-vs-sql/</guid><description><![CDATA[<p>MongoDB Vs SQL<br>
 SQL to Aggregation Framework Mapping Chart<br>
 <a href="http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/" target="_blank" rel="noopener noreffer ">http://docs.mongodb.org/manual/reference/sql-aggregation-comparison/</a></p>
 <hr>

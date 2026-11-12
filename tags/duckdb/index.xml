@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Duckdb - Tag - My Notes</title><link>https://blog.emecas.net/tags/duckdb/</link><description>Duckdb - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Oct 2026 01:37:58 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/duckdb/" rel="self" type="application/rss+xml"/><item><title>davidgasquez/awesome-duckdb</title><link>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</link><pubDate>Wed, 07 Oct 2026 01:37:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</guid><description><![CDATA[<p>davidgasquez/awesome-duckdb<br>
+🦆 A curated list of awesome DuckDB resources<br>
+Repository by davidgasquez, created in 2023, with 2,545 stars and 267 forks. License: CC0-1.0. Starred on 2026-10-07.<br>
+Homepage: <a href="https://davidgasquez.github.io/awesome-duckdb/" target="_blank" rel="noopener noreffer ">https://davidgasquez.github.io/awesome-duckdb/</a><br>
+<a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">https://github.com/davidgasquez/awesome-duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-10-07: <a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">davidgasquez/awesome-duckdb</a>.</em></p>]]></description></item><item><title>duckdb/duckdb</title><link>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</link><pubDate>Thu, 08 Jun 2023 11:27:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</guid><description><![CDATA[<p>duckdb/duckdb<br>
+DuckDB is a high-performance analytical database system<br>
+C++ repository by duckdb, created in 2018, with 42,978 stars and 4,184 forks. License: MIT. Starred on 2023-06-08.<br>
+Homepage: <a href="http://www.duckdb.org" target="_blank" rel="noopener noreffer ">http://www.duckdb.org</a><br>
+<a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">https://github.com/duckdb/duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-08: <a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">duckdb/duckdb</a>.</em></p>]]></description></item></channel></rss>

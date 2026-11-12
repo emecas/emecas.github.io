@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Browser - Tag - My Notes</title><link>https://blog.emecas.net/tags/browser/</link><description>Browser - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 12 Oct 2022 09:17:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/browser/" rel="self" type="application/rss+xml"/><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Browser - Tag - My Notes</title><link>https://blog.emecas.net/tags/browser/</link><description>Browser - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 02 Mar 2024 17:12:07 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/browser/" rel="self" type="application/rss+xml"/><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
+API Documentation Browser<br>
+Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
+Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-03-02: <a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">freeCodeCamp/devdocs</a>.</em></p>]]></description></item><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
 Repo: <a href="https://github.com/inboxSDK/inboxsdk" target="_blank" rel="noopener noreffer ">https://github.com/inboxSDK/inboxsdk</a><br>
 Documentation: <a href="https://inboxsdk.github.io/inboxsdk-docs/" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/</a><br>
 Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" rel="noopener noreffer ">https://github.com/InboxSDK/inboxsdk-docs</a><br>
@@ -7,7 +13,25 @@ The InboxSDK lets you build apps for Gmail.</p>
 <p>Getting Started<br>
 <a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>cypress-io/cypress</title><link>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</link><pubDate>Sun, 13 Dec 2020 00:02:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</guid><description><![CDATA[<p>cypress-io/cypress<br>
+Fast, easy and reliable testing for anything that runs in a browser.<br>
+TypeScript repository by cypress-io, created in 2015, with 51,024 stars and 3,593 forks. License: MIT. Starred on 2020-12-13.<br>
+Homepage: <a href="https://cypress.io" target="_blank" rel="noopener noreffer ">https://cypress.io</a><br>
+<a href="https://github.com/cypress-io/cypress" target="_blank" rel="noopener noreffer ">https://github.com/cypress-io/cypress</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-12-13: <a href="https://github.com/cypress-io/cypress" target="_blank" rel="noopener noreffer ">cypress-io/cypress</a>.</em></p>]]></description></item><item><title>captbaritone/webamp</title><link>https://blog.emecas.net/posts/2020-09-14-captbaritone-webamp/</link><pubDate>Mon, 14 Sep 2020 12:57:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-14-captbaritone-webamp/</guid><description><![CDATA[<p>captbaritone/webamp<br>
+Winamp 2 reimplemented for the browser<br>
+TypeScript repository by captbaritone, created in 2014, with 11,345 stars and 807 forks. License: MIT. Starred on 2020-09-14.<br>
+Homepage: <a href="https://webamp.org" target="_blank" rel="noopener noreffer ">https://webamp.org</a><br>
+<a href="https://github.com/captbaritone/webamp" target="_blank" rel="noopener noreffer ">https://github.com/captbaritone/webamp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-14: <a href="https://github.com/captbaritone/webamp" target="_blank" rel="noopener noreffer ">captbaritone/webamp</a>.</em></p>]]></description></item><item><title>SeleniumHQ/selenium</title><link>https://blog.emecas.net/posts/2019-03-04-seleniumhq-selenium/</link><pubDate>Mon, 04 Mar 2019 00:32:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-04-seleniumhq-selenium/</guid><description><![CDATA[<p>SeleniumHQ/selenium<br>
+A browser automation framework and ecosystem.<br>
+Java repository by SeleniumHQ, created in 2013, with 34,580 stars and 8,724 forks. License: Apache-2.0. Starred on 2019-03-04.<br>
+Homepage: <a href="https://selenium.dev" target="_blank" rel="noopener noreffer ">https://selenium.dev</a><br>
+<a href="https://github.com/SeleniumHQ/selenium" target="_blank" rel="noopener noreffer ">https://github.com/SeleniumHQ/selenium</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-04: <a href="https://github.com/SeleniumHQ/selenium" target="_blank" rel="noopener noreffer ">SeleniumHQ/selenium</a>.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
 Text-mode interface for git<br>
 <a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
 What is Tig?</p>

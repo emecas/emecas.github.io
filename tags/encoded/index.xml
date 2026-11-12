@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Encoded - Tag - My Notes</title><link>https://blog.emecas.net/tags/encoded/</link><description>Encoded - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Mar 2019 12:09:47 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/encoded/" rel="self" type="application/rss+xml"/><item><title>siesgstarena/uuidapikey</title><link>https://blog.emecas.net/posts/2019-03-14-siesgstarena-uuidapikey/</link><pubDate>Thu, 14 Mar 2019 12:09:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-siesgstarena-uuidapikey/</guid><description><![CDATA[<p>siesgstarena/uuidapikey<br>
+A Base32-Crockford encoded API Key generator, validator and converter to turn UUIDs into human readable API Keys for Golang<br>
+Go repository by siesgstarena, created in 2018, with 10 stars and 3 forks. License: Apache-2.0. Starred on 2019-03-14.<br>
+<a href="https://github.com/siesgstarena/uuidapikey" target="_blank" rel="noopener noreffer ">https://github.com/siesgstarena/uuidapikey</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/siesgstarena/uuidapikey" target="_blank" rel="noopener noreffer ">siesgstarena/uuidapikey</a>.</em></p>]]></description></item></channel></rss>

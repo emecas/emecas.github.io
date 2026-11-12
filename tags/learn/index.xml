@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learn - Tag - My Notes</title><link>https://blog.emecas.net/tags/learn/</link><description>Learn - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Aug 2026 20:13:40 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/learn/" rel="self" type="application/rss+xml"/><item><title>fastapi/fastapi</title><link>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</link><pubDate>Mon, 24 Aug 2026 20:13:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</guid><description><![CDATA[<p>fastapi/fastapi<br>
+FastAPI framework, high performance, easy to learn, fast to code, ready for production<br>
+Python repository by fastapi, created in 2018, with 104,633 stars and 10,214 forks. License: MIT. Starred on 2026-08-24.<br>
+Homepage: <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
+<a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">https://github.com/fastapi/fastapi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-24: <a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">fastapi/fastapi</a>.</em></p>]]></description></item><item><title>donnemartin/system-design-primer</title><link>https://blog.emecas.net/posts/2020-06-14-donnemartin-system-design-primer/</link><pubDate>Sun, 14 Jun 2020 15:36:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-14-donnemartin-system-design-primer/</guid><description><![CDATA[<p>donnemartin/system-design-primer<br>
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.<br>
+Python repository by donnemartin, created in 2017, with 377,596 stars and 59,264 forks. Starred on 2020-06-14.<br>
+<a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreffer ">https://github.com/donnemartin/system-design-primer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-06-14: <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreffer ">donnemartin/system-design-primer</a>.</em></p>]]></description></item><item><title>scala-exercises/scala-exercises</title><link>https://blog.emecas.net/posts/2015-04-25-scala-exercises-scala-exercises/</link><pubDate>Sat, 25 Apr 2015 03:38:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-04-25-scala-exercises-scala-exercises/</guid><description><![CDATA[<p>scala-exercises/scala-exercises<br>
+The easy way to learn Scala.<br>
+Scala repository by scala-exercises, created in 2014, with 2,649 stars and 534 forks. License: Apache-2.0. Starred on 2015-04-25.<br>
+Homepage: <a href="https://www.scala-exercises.org" target="_blank" rel="noopener noreffer ">https://www.scala-exercises.org</a><br>
+<a href="https://github.com/scala-exercises/scala-exercises" target="_blank" rel="noopener noreffer ">https://github.com/scala-exercises/scala-exercises</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2015-04-25: <a href="https://github.com/scala-exercises/scala-exercises" target="_blank" rel="noopener noreffer ">scala-exercises/scala-exercises</a>.</em></p>]]></description></item></channel></rss>

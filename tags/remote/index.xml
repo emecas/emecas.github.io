@@ -23,4 +23,9 @@ multi-platform screen and application forwarding system &ldquo;screen for X11&rd
 Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.</p>
 <p>It gives you remote access to individual applications or full desktops.<br>
 On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.<br>
-It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item></channel></rss>
+It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item><item><title>lukasz-madon/awesome-remote-job</title><link>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</link><pubDate>Sat, 22 Feb 2020 20:34:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</guid><description><![CDATA[<p>lukasz-madon/awesome-remote-job<br>
+A curated list of awesome remote jobs and resources. Inspired by <a href="https://github.com/vinta/awesome-python" target="_blank" rel="noopener noreffer ">https://github.com/vinta/awesome-python</a><br>
+Repository by lukasz-madon, created in 2015, with 50,531 stars and 4,957 forks. Starred on 2020-02-22.<br>
+<a href="https://github.com/lukasz-madon/awesome-remote-job" target="_blank" rel="noopener noreffer ">https://github.com/lukasz-madon/awesome-remote-job</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-22: <a href="https://github.com/lukasz-madon/awesome-remote-job" target="_blank" rel="noopener noreffer ">lukasz-madon/awesome-remote-job</a>.</em></p>]]></description></item></channel></rss>

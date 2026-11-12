@@ -1,9 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spring - Tag - My Notes</title><link>https://blog.emecas.net/tags/spring/</link><description>Spring - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 25 Jun 2020 15:38:44 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spring/" rel="self" type="application/rss+xml"/><item><title>Swagger 2</title><link>https://blog.emecas.net/posts/2020-06-25-swagger-2/</link><pubDate>Thu, 25 Jun 2020 15:38:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-25-swagger-2/</guid><description><![CDATA[<p>Setting Up Swagger 2 with a Spring REST API<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Spring - Tag - My Notes</title><link>https://blog.emecas.net/tags/spring/</link><description>Spring - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Jun 2024 14:29:49 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/spring/" rel="self" type="application/rss+xml"/><item><title>kousen/spring-and-spring-boot</title><link>https://blog.emecas.net/posts/2024-06-11-kousen-spring-and-spring-boot/</link><pubDate>Tue, 11 Jun 2024 14:29:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-11-kousen-spring-and-spring-boot/</guid><description><![CDATA[<p>kousen/spring-and-spring-boot<br>
+Lab solutions for Spring and Spring Boot course<br>
+Java repository by kousen, created in 2017, with 306 stars and 257 forks. License: MIT. Starred on 2024-06-11.<br>
+<a href="https://github.com/kousen/spring-and-spring-boot" target="_blank" rel="noopener noreffer ">https://github.com/kousen/spring-and-spring-boot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/kousen/spring-and-spring-boot" target="_blank" rel="noopener noreffer ">kousen/spring-and-spring-boot</a>.</em></p>]]></description></item><item><title>rodrigolgraciano/batch-demo</title><link>https://blog.emecas.net/posts/2022-08-17-rodrigolgraciano-batch-demo/</link><pubDate>Wed, 17 Aug 2022 15:31:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-rodrigolgraciano-batch-demo/</guid><description><![CDATA[<p>rodrigolgraciano/batch-demo<br>
+Code demo for Spring Batch Presentation<br>
+Java repository by rodrigolgraciano, created in 2022, with 5 stars and 1 forks. Starred on 2022-08-17.<br>
+<a href="https://github.com/rodrigolgraciano/batch-demo" target="_blank" rel="noopener noreffer ">https://github.com/rodrigolgraciano/batch-demo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-08-17: <a href="https://github.com/rodrigolgraciano/batch-demo" target="_blank" rel="noopener noreffer ">rodrigolgraciano/batch-demo</a>.</em></p>]]></description></item><item><title>victorrentea/structural-patterns-spring</title><link>https://blog.emecas.net/posts/2020-10-23-victorrentea-structural-patterns-spring/</link><pubDate>Fri, 23 Oct 2020 16:13:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-23-victorrentea-structural-patterns-spring/</guid><description><![CDATA[<p>victorrentea/structural-patterns-spring<br>
+Java repository by victorrentea, created in 2019, with 24 stars and 37 forks. License: Unlicense. Starred on 2020-10-23.<br>
+<a href="https://github.com/victorrentea/structural-patterns-spring" target="_blank" rel="noopener noreffer ">https://github.com/victorrentea/structural-patterns-spring</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-23: <a href="https://github.com/victorrentea/structural-patterns-spring" target="_blank" rel="noopener noreffer ">victorrentea/structural-patterns-spring</a>.</em></p>]]></description></item><item><title>kousen/spring-kotlin</title><link>https://blog.emecas.net/posts/2020-07-27-kousen-spring-kotlin/</link><pubDate>Mon, 27 Jul 2020 11:53:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-27-kousen-spring-kotlin/</guid><description><![CDATA[<p>kousen/spring-kotlin<br>
+Lab solutions for Spring with Kotlin course<br>
+Kotlin repository by kousen, created in 2019, with 31 stars and 12 forks. License: MIT. Starred on 2020-07-27.<br>
+<a href="https://github.com/kousen/spring-kotlin" target="_blank" rel="noopener noreffer ">https://github.com/kousen/spring-kotlin</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-07-27: <a href="https://github.com/kousen/spring-kotlin" target="_blank" rel="noopener noreffer ">kousen/spring-kotlin</a>.</em></p>]]></description></item><item><title>Swagger 2</title><link>https://blog.emecas.net/posts/2020-06-25-swagger-2/</link><pubDate>Thu, 25 Jun 2020 15:38:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-25-swagger-2/</guid><description><![CDATA[<p>Setting Up Swagger 2 with a Spring REST API<br>
 <a href="https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api</a><br>
 Nowadays, front-end and back-end components often separate a web application. Usually, we expose APIs as a back-end component for the front-end component or third-party app integrations.</p>
 <p>In such a scenario, it is essential to have proper specifications for the back-end APIs. At the same time, the API documentation should be informative, readable, and easy to follow.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9d1d48d3e87f6c21cbf1d2848259d536603156bb" target="_blank" rel="noopener noreffer "><code>9d1d48d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Reactive Spring</title><link>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</link><pubDate>Tue, 14 Jan 2020 18:01:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</guid><description><![CDATA[<p>Reactive Spring</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9d1d48d3e87f6c21cbf1d2848259d536603156bb" target="_blank" rel="noopener noreffer "><code>9d1d48d</code></a> in My-Notes.</em></p>]]></description></item><item><title>apache/dubbo-spring-boot-project</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</link><pubDate>Wed, 22 Jan 2020 03:44:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</guid><description><![CDATA[<p>apache/dubbo-spring-boot-project<br>
+Spring Boot Project for Apache Dubbo<br>
+Java repository by apache, created in 2018, with 5,371 stars and 1,842 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org</a><br>
+<a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo-spring-boot-project</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">apache/dubbo-spring-boot-project</a>.</em></p>]]></description></item><item><title>Reactive Spring</title><link>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</link><pubDate>Tue, 14 Jan 2020 18:01:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</guid><description><![CDATA[<p>Reactive Spring</p>
 <p>news: <a href="https://spring.io/blog/2016/02/09/reactive-spring" target="_blank" rel="noopener noreffer ">https://spring.io/blog/2016/02/09/reactive-spring</a><br>
 guide: <a href="https://spring.io/guides/gs/reactive-rest-service/" target="_blank" rel="noopener noreffer ">https://spring.io/guides/gs/reactive-rest-service/</a></p>
 <p>GIT: <a href="https://github.com/spring-guides/gs-reactive-rest-service" target="_blank" rel="noopener noreffer ">https://github.com/spring-guides/gs-reactive-rest-service</a><br>
@@ -12,51 +37,18 @@ Building a Reactive RESTful Web Service :: Learn how to create a RESTful web ser
 slides: <a href="https://www.slideshare.net/poutsma/reactive-programming-in-spring-5" target="_blank" rel="noopener noreffer ">https://www.slideshare.net/poutsma/reactive-programming-in-spring-5</a><br>
 other: <a href="https://springframework.guru/spring-web-reactive/" target="_blank" rel="noopener noreffer ">https://springframework.guru/spring-web-reactive/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0256c31ced0834085769440bf9ddcc5ff44030bd" target="_blank" rel="noopener noreffer "><code>0256c31</code></a> in My-Notes.</em></p>]]></description></item><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
-<a href="https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/" target="_blank" rel="noopener noreffer ">https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/</a><br>
-By<br>
-Zoltan Altfatter</p>
-<p>In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized<br>
-configuration management in a microservice environment. I have prepared a simple example project<br>
-which you can find on my github account. It contains a config-service leveraging Spring Cloud<br>
-Config Server and three little services using Spring Cloud Config Client.</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0256c31ced0834085769440bf9ddcc5ff44030bd" target="_blank" rel="noopener noreffer "><code>0256c31</code></a> in My-Notes.</em></p>]]></description></item><item><title>dsyer/spring-boot-features</title><link>https://blog.emecas.net/posts/2019-11-01-dsyer-spring-boot-features/</link><pubDate>Fri, 01 Nov 2019 19:57:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-11-01-dsyer-spring-boot-features/</guid><description><![CDATA[<p>dsyer/spring-boot-features<br>
+Java repository by dsyer, created in 2019, with 5 stars and 3 forks. Starred on 2019-11-01.<br>
+<a href="https://github.com/dsyer/spring-boot-features" target="_blank" rel="noopener noreffer ">https://github.com/dsyer/spring-boot-features</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b5a44d6b83ee5ba7249995bfdc95fc1e28f2948d" target="_blank" rel="noopener noreffer "><code>b5a44d6</code></a> in My-Notes.</em></p>]]></description></item><item><title>Java Architect’s Blog</title><link>https://blog.emecas.net/posts/2018-12-13-java-architects-blog/</link><pubDate>Thu, 13 Dec 2018 22:20:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-13-java-architects-blog/</guid><description><![CDATA[<p>Java Architect’s Blog<br>
-by Korovin Anatoliy  <a href="https://twitter.com/antkorwin" target="_blank" rel="noopener noreffer ">https://twitter.com/antkorwin</a><br>
-<a href="http://antkorwin.com/" target="_blank" rel="noopener noreffer ">http://antkorwin.com/</a><br>
-Categories:<br>
-- TDD<br>
-- Spring State Machine<br>
-- Spring Cloud<br>
-- Spring Configuration<br>
-- Hibernate<br>
-- Reflection<br>
-- Concurrency &amp; Garbage Collector<br>
-- Code conventions<br>
-- Annotation processing</p>
+<p><em>Source: starred on GitHub on 2019-11-01: <a href="https://github.com/dsyer/spring-boot-features" target="_blank" rel="noopener noreffer ">dsyer/spring-boot-features</a>.</em></p>]]></description></item><item><title>M3lkior/spring-keycloak-tutorials</title><link>https://blog.emecas.net/posts/2019-03-14-m3lkior-spring-keycloak-tutorials/</link><pubDate>Thu, 14 Mar 2019 12:23:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-m3lkior-spring-keycloak-tutorials/</guid><description><![CDATA[<p>M3lkior/spring-keycloak-tutorials<br>
+Tutorials about Keycloak and Spring Boot / Security configurations<br>
+Java repository by M3lkior, created in 2017, with 3 stars and 1 forks. Starred on 2019-03-14.<br>
+<a href="https://github.com/M3lkior/spring-keycloak-tutorials" target="_blank" rel="noopener noreffer ">https://github.com/M3lkior/spring-keycloak-tutorials</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3b22472777b861383acc8311dbc26ae3c3284b67" target="_blank" rel="noopener noreffer "><code>3b22472</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spring Framework Guru</title><link>https://blog.emecas.net/posts/2017-11-01-spring-framework-guru/</link><pubDate>Wed, 01 Nov 2017 10:11:35 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-01-spring-framework-guru/</guid><description><![CDATA[<p>Spring Framework Guru<br>
-<a href="https://springframework.guru/" target="_blank" rel="noopener noreffer ">https://springframework.guru/</a></p>
-<p><a href="https://springframework.guru/about/" target="_blank" rel="noopener noreffer ">https://springframework.guru/about/</a></p>
-<p>Hi. I’m John.</p>
-<p>I’ve been in the IT industry for over 20 years. Today, I specialize mainly in Java, the most successful and widely known programming language in use today. I also specialize in the Spring Framework, which is the most popular open source application framework for building enterprise class applications on the Java platform.</p>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/M3lkior/spring-keycloak-tutorials" target="_blank" rel="noopener noreffer ">M3lkior/spring-keycloak-tutorials</a>.</em></p>]]></description></item><item><title>ivangfr/springboot-keycloak-openldap</title><link>https://blog.emecas.net/posts/2019-03-14-ivangfr-springboot-keycloak-openldap/</link><pubDate>Thu, 14 Mar 2019 12:23:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-ivangfr-springboot-keycloak-openldap/</guid><description><![CDATA[<p>ivangfr/springboot-keycloak-openldap<br>
+The goal of this project is to create a simple Spring Boot REST API, called simple-service, and secure it with Keycloak. Furthermore, the API users will be loaded into Keycloak from OpenLDAP server.<br>
+Java repository by ivangfr, created in 2018, with 174 stars and 70 forks. License: MIT. Starred on 2019-03-14.<br>
+<a href="https://github.com/ivangfr/springboot-keycloak-openldap" target="_blank" rel="noopener noreffer ">https://github.com/ivangfr/springboot-keycloak-openldap</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f168312f58ea9b89c4b9848c8f43c7ab5082423d" target="_blank" rel="noopener noreffer "><code>f168312</code></a> in My-Notes.</em></p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
-Part IX. ‘How-to’ guides<br>
-<a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
-73. Embedded servlet containers</p>
-<p>73.1. Add a Servlet, Filter or Listener to an application</p>
-<p>73.1.1. Add a Servlet, Filter or Listener using a Spring bean</p>
-<p>Disable registration of a Servlet or Filter</p>
-<p>73.1.2. Add Servlets, Filters, and Listeners using classpath scanning</p>
-<p>73.2. Change the HTTP port<br>
-73.3. Use a random unassigned HTTP port<br>
-73.4. Discover the HTTP port at runtime<br>
-73.5. Configure SSL<br>
-73.6. Configure Access Logging<br>
-73.7. Use behind a front-end proxy server</p>]]></description></item><item><title>Spring Data Neo4J</title><link>https://blog.emecas.net/posts/2014-03-31-spring-data-neo4j/</link><pubDate>Mon, 31 Mar 2014 10:55:05 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-03-31-spring-data-neo4j/</guid><description><![CDATA[<p>PROJECTS<br>
-Spring Data Neo4J<br>
-Enables POJO based development for the Neo4j Graph Database and with Spring&rsquo;s familiar template programming model.<br>
-<a href="http://projects.spring.io/spring-data-neo4j/" target="_blank" rel="noopener noreffer ">http://projects.spring.io/spring-data-neo4j/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d0b377438fd936905ecfd519bca149e8447ab735" target="_blank" rel="noopener noreffer "><code>d0b3774</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/ivangfr/springboot-keycloak-openldap" target="_blank" rel="noopener noreffer ">ivangfr/springboot-keycloak-openldap</a>.</em></p>]]></description></item></channel></rss>

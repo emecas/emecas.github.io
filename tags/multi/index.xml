@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Multi - Tag - My Notes</title><link>https://blog.emecas.net/tags/multi/</link><description>Multi - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 05 Mar 2019 16:25:22 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/multi/" rel="self" type="application/rss+xml"/><item><title>awslabs/multi-model-server</title><link>https://blog.emecas.net/posts/2019-03-05-awslabs-multi-model-server/</link><pubDate>Tue, 05 Mar 2019 16:25:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-05-awslabs-multi-model-server/</guid><description><![CDATA[<p>awslabs/multi-model-server<br>
+Multi Model Server is a tool for serving neural net models for inference<br>
+Java repository by awslabs, created in 2017, with 1,024 stars and 230 forks. License: Apache-2.0. Archived by its owner. Starred on 2019-03-05.<br>
+<a href="https://github.com/awslabs/multi-model-server" target="_blank" rel="noopener noreffer ">https://github.com/awslabs/multi-model-server</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-05: <a href="https://github.com/awslabs/multi-model-server" target="_blank" rel="noopener noreffer ">awslabs/multi-model-server</a>.</em></p>]]></description></item><item><title>singram/spring-boot-multitenant</title><link>https://blog.emecas.net/posts/2017-08-17-singram-spring-boot-multitenant/</link><pubDate>Thu, 17 Aug 2017 17:56:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-08-17-singram-spring-boot-multitenant/</guid><description><![CDATA[<p>singram/spring-boot-multitenant<br>
+Multi tenancy example using spring boot<br>
+Java repository by singram, created in 2016, with 31 stars and 22 forks. License: Apache-2.0. Starred on 2017-08-17.<br>
+<a href="https://github.com/singram/spring-boot-multitenant" target="_blank" rel="noopener noreffer ">https://github.com/singram/spring-boot-multitenant</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-08-17: <a href="https://github.com/singram/spring-boot-multitenant" target="_blank" rel="noopener noreffer ">singram/spring-boot-multitenant</a>.</em></p>]]></description></item></channel></rss>

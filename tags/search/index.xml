@@ -1,4 +1,38 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Search - Tag - My Notes</title><link>https://blog.emecas.net/tags/search/</link><description>Search - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Mar 2014 10:42:47 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/search/" rel="self" type="application/rss+xml"/><item><title>Ohloh: Free and Open Source Software</title><link>https://blog.emecas.net/posts/2014-03-05-ohloh-free-and-open-source-software/</link><pubDate>Wed, 05 Mar 2014 10:42:47 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-03-05-ohloh-free-and-open-source-software/</guid><description><![CDATA[<p>Ohloh<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Search - Tag - My Notes</title><link>https://blog.emecas.net/tags/search/</link><description>Search - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 07 Apr 2025 03:37:07 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/search/" rel="self" type="application/rss+xml"/><item><title>milvus-io/milvus</title><link>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</link><pubDate>Mon, 07 Apr 2025 03:37:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</guid><description><![CDATA[<p>milvus-io/milvus<br>
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search<br>
+Go repository by milvus-io, created in 2019, with 46,633 stars and 4,327 forks. License: Apache-2.0. Starred on 2025-04-07.<br>
+Homepage: <a href="https://milvus.io" target="_blank" rel="noopener noreffer ">https://milvus.io</a><br>
+<a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">https://github.com/milvus-io/milvus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-04-07: <a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">milvus-io/milvus</a>.</em></p>]]></description></item><item><title>marqo-ai/marqo</title><link>https://blog.emecas.net/posts/2025-04-07-marqo-ai-marqo/</link><pubDate>Mon, 07 Apr 2025 03:23:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-04-07-marqo-ai-marqo/</guid><description><![CDATA[<p>marqo-ai/marqo<br>
+Ecommerce Search and Discovery - marqo.ai<br>
+Python repository by marqo-ai, created in 2022, with 5,025 stars and 239 forks. License: Apache-2.0. Starred on 2025-04-07.<br>
+Homepage: <a href="https://www.marqo.ai/" target="_blank" rel="noopener noreffer ">https://www.marqo.ai/</a><br>
+<a href="https://github.com/marqo-ai/marqo" target="_blank" rel="noopener noreffer ">https://github.com/marqo-ai/marqo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-04-07: <a href="https://github.com/marqo-ai/marqo" target="_blank" rel="noopener noreffer ">marqo-ai/marqo</a>.</em></p>]]></description></item><item><title>datastax/jvector</title><link>https://blog.emecas.net/posts/2024-06-09-datastax-jvector/</link><pubDate>Sun, 09 Jun 2024 03:44:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-09-datastax-jvector/</guid><description><![CDATA[<p>datastax/jvector<br>
+JVector: the most advanced embedded vector search engine<br>
+Java repository by datastax, created in 2023, with 1,757 stars and 163 forks. License: Apache-2.0. Starred on 2024-06-09.<br>
+<a href="https://github.com/datastax/jvector" target="_blank" rel="noopener noreffer ">https://github.com/datastax/jvector</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-09: <a href="https://github.com/datastax/jvector" target="_blank" rel="noopener noreffer ">datastax/jvector</a>.</em></p>]]></description></item><item><title>arXiv/arxiv-search</title><link>https://blog.emecas.net/posts/2020-08-17-arxiv-arxiv-search/</link><pubDate>Mon, 17 Aug 2020 16:52:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-arxiv-arxiv-search/</guid><description><![CDATA[<p>arXiv/arxiv-search<br>
+arXiv Search UI &amp; APIs<br>
+Python repository by arXiv, created in 2017, with 165 stars and 26 forks. Starred on 2020-08-17.<br>
+Homepage: <a href="https://arxiv.github.io/arxiv-search/" target="_blank" rel="noopener noreffer ">https://arxiv.github.io/arxiv-search/</a><br>
+<a href="https://github.com/arXiv/arxiv-search" target="_blank" rel="noopener noreffer ">https://github.com/arXiv/arxiv-search</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-17: <a href="https://github.com/arXiv/arxiv-search" target="_blank" rel="noopener noreffer ">arXiv/arxiv-search</a>.</em></p>]]></description></item><item><title>oracle/opengrok</title><link>https://blog.emecas.net/posts/2019-02-27-oracle-opengrok/</link><pubDate>Wed, 27 Feb 2019 16:58:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-27-oracle-opengrok/</guid><description><![CDATA[<p>oracle/opengrok<br>
+OpenGrok is a fast and usable source code search and cross reference engine, written in Java<br>
+Java repository by oracle, created in 2013, with 5,026 stars and 842 forks. Starred on 2019-02-27.<br>
+Homepage: <a href="http://oracle.github.io/opengrok/" target="_blank" rel="noopener noreffer ">http://oracle.github.io/opengrok/</a><br>
+<a href="https://github.com/oracle/opengrok" target="_blank" rel="noopener noreffer ">https://github.com/oracle/opengrok</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-02-27: <a href="https://github.com/oracle/opengrok" target="_blank" rel="noopener noreffer ">oracle/opengrok</a>.</em></p>]]></description></item><item><title>WolfgangFahl/pdfindexer</title><link>https://blog.emecas.net/posts/2017-12-09-wolfgangfahl-pdfindexer/</link><pubDate>Sat, 09 Dec 2017 20:11:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-09-wolfgangfahl-pdfindexer/</guid><description><![CDATA[<p>WolfgangFahl/pdfindexer<br>
+Index and search PDF files using Apache Lucene and PDF Box<br>
+HTML repository by WolfgangFahl, created in 2013, with 43 stars and 12 forks. License: Apache-2.0. Archived by its owner. Starred on 2017-12-09.<br>
+<a href="https://github.com/WolfgangFahl/pdfindexer" target="_blank" rel="noopener noreffer ">https://github.com/WolfgangFahl/pdfindexer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-09: <a href="https://github.com/WolfgangFahl/pdfindexer" target="_blank" rel="noopener noreffer ">WolfgangFahl/pdfindexer</a>.</em></p>]]></description></item><item><title>Ohloh: Free and Open Source Software</title><link>https://blog.emecas.net/posts/2014-03-05-ohloh-free-and-open-source-software/</link><pubDate>Wed, 05 Mar 2014 10:42:47 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-03-05-ohloh-free-and-open-source-software/</guid><description><![CDATA[<p>Ohloh<br>
 <a href="https://www.ohloh.net/" target="_blank" rel="noopener noreffer ">https://www.ohloh.net/</a><br>
 Ohloh is a free, public directory of Free and Open Source Software and the contributors who create and maintain it. Ohloh Code is a publicly available, free code search site that indexes most of the projects in Ohloh.</p>
 <hr>

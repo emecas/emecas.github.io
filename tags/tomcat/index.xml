@@ -31,7 +31,13 @@ A light JAX-RS+CDI+JSON server!</p>
 <p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
 <p>request.method = POST</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>araczkowski/docker-oracle-apex-ords</title><link>https://blog.emecas.net/posts/2017-07-27-araczkowski-docker-oracle-apex-ords/</link><pubDate>Thu, 27 Jul 2017 18:17:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-27-araczkowski-docker-oracle-apex-ords/</guid><description><![CDATA[<p>araczkowski/docker-oracle-apex-ords<br>
+Oracle Express Edition 11g Release 2 on Ubuntu 14.04.1 LTS with APEX 5.1.1 and ORDS 3.0.9 on Tomcat<br>
+Shell repository by araczkowski, created in 2016, with 49 stars and 33 forks. Starred on 2017-07-27.<br>
+Homepage: <a href="https://hub.docker.com/r/araczkowski/oracle-apex-ords/" target="_blank" rel="noopener noreffer ">https://hub.docker.com/r/araczkowski/oracle-apex-ords/</a><br>
+<a href="https://github.com/araczkowski/docker-oracle-apex-ords" target="_blank" rel="noopener noreffer ">https://github.com/araczkowski/docker-oracle-apex-ords</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-07-27: <a href="https://github.com/araczkowski/docker-oracle-apex-ords" target="_blank" rel="noopener noreffer ">araczkowski/docker-oracle-apex-ords</a>.</em></p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
 Part IX. ‘How-to’ guides<br>
 <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
 73. Embedded servlet containers</p>
@@ -44,4 +50,9 @@ Part IX. ‘How-to’ guides<br>
 73.4. Discover the HTTP port at runtime<br>
 73.5. Configure SSL<br>
 73.6. Configure Access Logging<br>
-73.7. Use behind a front-end proxy server</p>]]></description></item></channel></rss>
+73.7. Use behind a front-end proxy server</p>]]></description></item><item><title>tomcatmanager/tomcatmanager</title><link>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</link><pubDate>Thu, 21 Nov 2013 15:23:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</guid><description><![CDATA[<p>tomcatmanager/tomcatmanager<br>
+A command line tool and python library for managing a tomcat server<br>
+Python repository by tomcatmanager, created in 2013, with 116 stars and 33 forks. License: MIT. Starred on 2013-11-21.<br>
+<a href="https://github.com/tomcatmanager/tomcatmanager" target="_blank" rel="noopener noreffer ">https://github.com/tomcatmanager/tomcatmanager</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2013-11-21: <a href="https://github.com/tomcatmanager/tomcatmanager" target="_blank" rel="noopener noreffer ">tomcatmanager/tomcatmanager</a>.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,18 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Git - Tag - My Notes</title><link>https://blog.emecas.net/tags/git/</link><description>Git - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 09 Dec 2020 15:17:16 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/git/" rel="self" type="application/rss+xml"/><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Git - Tag - My Notes</title><link>https://blog.emecas.net/tags/git/</link><description>Git - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Apr 2026 11:02:51 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/git/" rel="self" type="application/rss+xml"/><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
+simple terminal UI for git commands<br>
+Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
+<a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item><item><title>joelparkerhenderson/git-commit-message</title><link>https://blog.emecas.net/posts/2024-06-01-joelparkerhenderson-git-commit-message/</link><pubDate>Sat, 01 Jun 2024 15:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-01-joelparkerhenderson-git-commit-message/</guid><description><![CDATA[<p>joelparkerhenderson/git-commit-message<br>
+Git commit message: how to write a great git commit message and commit template for version control<br>
+Repository by joelparkerhenderson, created in 2017, with 1,305 stars and 122 forks. Starred on 2024-06-01.<br>
+<a href="https://github.com/joelparkerhenderson/git-commit-message" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/git-commit-message</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-01: <a href="https://github.com/joelparkerhenderson/git-commit-message" target="_blank" rel="noopener noreffer ">joelparkerhenderson/git-commit-message</a>.</em></p>]]></description></item><item><title>skilldocs/git-ts</title><link>https://blog.emecas.net/posts/2024-05-07-skilldocs-git-ts/</link><pubDate>Tue, 07 May 2024 00:08:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-07-skilldocs-git-ts/</guid><description><![CDATA[<p>skilldocs/git-ts<br>
+Repository by skilldocs, created in 2021, with 14 stars and 14 forks. License: MIT. Starred on 2024-05-07.<br>
+<a href="https://github.com/skilldocs/git-ts" target="_blank" rel="noopener noreffer ">https://github.com/skilldocs/git-ts</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-07: <a href="https://github.com/skilldocs/git-ts" target="_blank" rel="noopener noreffer ">skilldocs/git-ts</a>.</em></p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
 <a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
 Get everyone on the same page with Markdown<br>
 Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
@@ -9,7 +23,31 @@ Blazing fast real-time collaboration breaks the space between members. Change no
 Sharing is caring<br>
 Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.<br>
 Keep your secret (while sharing it)<br>
-Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>Developing and Deploying with Branches</title><link>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</link><pubDate>Tue, 05 Feb 2019 12:27:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</guid><description><![CDATA[<p>Developing and Deploying with Branches<br>
+Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>maks/MGit</title><link>https://blog.emecas.net/posts/2019-12-04-maks-mgit/</link><pubDate>Wed, 04 Dec 2019 14:31:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-04-maks-mgit/</guid><description><![CDATA[<p>maks/MGit<br>
+A Git client for Android.<br>
+Java repository by maks, created in 2016, with 1,591 stars and 211 forks. License: GPL-3.0. Starred on 2019-12-04.<br>
+Homepage: <a href="https://manichord.com/projects/mgit.html" target="_blank" rel="noopener noreffer ">https://manichord.com/projects/mgit.html</a><br>
+<a href="https://github.com/maks/MGit" target="_blank" rel="noopener noreffer ">https://github.com/maks/MGit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-12-04: <a href="https://github.com/maks/MGit" target="_blank" rel="noopener noreffer ">maks/MGit</a>.</em></p>]]></description></item><item><title>sheimi/SGit</title><link>https://blog.emecas.net/posts/2019-12-04-sheimi-sgit/</link><pubDate>Wed, 04 Dec 2019 14:31:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-04-sheimi-sgit/</guid><description><![CDATA[<p>sheimi/SGit<br>
+A Git client for Android.<br>
+Java repository by sheimi, created in 2013, with 379 stars and 113 forks. License: GPL-3.0. Starred on 2019-12-04.<br>
+Homepage: <a href="http://tiny.cc/sgit" target="_blank" rel="noopener noreffer ">http://tiny.cc/sgit</a><br>
+<a href="https://github.com/sheimi/SGit" target="_blank" rel="noopener noreffer ">https://github.com/sheimi/SGit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-12-04: <a href="https://github.com/sheimi/SGit" target="_blank" rel="noopener noreffer ">sheimi/SGit</a>.</em></p>]]></description></item><item><title>phcoder/SGit</title><link>https://blog.emecas.net/posts/2019-12-04-phcoder-sgit/</link><pubDate>Wed, 04 Dec 2019 14:31:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-04-phcoder-sgit/</guid><description><![CDATA[<p>phcoder/SGit<br>
+A Git client for Android.<br>
+Java repository by phcoder, created in 2015, with 26 stars and 6 forks. License: GPL-3.0. Starred on 2019-12-04.<br>
+Homepage: <a href="http://tiny.cc/sgit" target="_blank" rel="noopener noreffer ">http://tiny.cc/sgit</a><br>
+<a href="https://github.com/phcoder/SGit" target="_blank" rel="noopener noreffer ">https://github.com/phcoder/SGit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-12-04: <a href="https://github.com/phcoder/SGit" target="_blank" rel="noopener noreffer ">phcoder/SGit</a>.</em></p>]]></description></item><item><title>postgres/postgres</title><link>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</link><pubDate>Wed, 11 Sep 2019 11:00:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</guid><description><![CDATA[<p>postgres/postgres<br>
+Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&rsquo;t work with pull requests on github. To contribute, please see <a href="https://wiki.postgresql.org/wiki/Submitting_a_Patch" target="_blank" rel="noopener noreffer ">https://wiki.postgresql.org/wiki/Submitting_a_Patch</a><br>
+C repository by postgres, created in 2010, with 22,782 stars and 6,103 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreffer ">https://www.postgresql.org/</a><br>
+<a href="https://github.com/postgres/postgres" target="_blank" rel="noopener noreffer ">https://github.com/postgres/postgres</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/postgres/postgres" target="_blank" rel="noopener noreffer ">postgres/postgres</a>.</em></p>]]></description></item><item><title>Developing and Deploying with Branches</title><link>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</link><pubDate>Tue, 05 Feb 2019 12:27:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</guid><description><![CDATA[<p>Developing and Deploying with Branches<br>
 <a href="http://guides.beanstalkapp.com/version-control/branching-best-practices.html" target="_blank" rel="noopener noreffer ">http://guides.beanstalkapp.com/version-control/branching-best-practices.html</a><br>
 By beanstalk<br>
 See too: <a href="http://guides.beanstalkapp.com/" target="_blank" rel="noopener noreffer ">http://guides.beanstalkapp.com/</a></p>
@@ -36,47 +74,4 @@ bld/<br>
 <a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
 [TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df05c293725e3941cfbe0f13f56b867cd4d777b9" target="_blank" rel="noopener noreffer "><code>df05c29</code></a> in My-Notes.</em></p>]]></description></item><item><title>Objections Are Goals</title><link>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</link><pubDate>Tue, 29 Jan 2019 19:54:54 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</guid><description><![CDATA[<p>Objections Are Goals<br>
-<a href="https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069</a><br>
-By: Kent BeckF<br>
-Oct 9, 2018</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/14638572f5df19888f9e6c0ca02641b70fff285f" target="_blank" rel="noopener noreffer "><code>1463857</code></a> in My-Notes.</em></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
-<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
-By: Kent Beck<br>
-Sep 28, 2018</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d4aaaaf7ebd2030f6376c8ac3942911eba7868d" target="_blank" rel="noopener noreffer "><code>0d4aaaa</code></a> in My-Notes.</em></p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
-<a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
-Here&rsquo;s how you can truly master Kata.</p>
-<p>We Learn Best by Doing:<br>
-In this blog, I will show you how to get started coding the Eclipse Collections Pet Kata.<br>
-If you want to become proficient in Eclipse Collections, you should practice the Kata on your own.<br>
-In order to truly master the Kata, try teaching the Kata to others, teaching results in deeper learning.<br>
-Git repo: <a href="https://github.com/eclipse/eclipse-collections-kata" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/eclipse-collections-kata</a></p>]]></description></item><item><title>How to Write a Git Commit Message</title><link>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</link><pubDate>Fri, 25 Jan 2019 13:28:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</guid><description><![CDATA[<p>How to Write a Git Commit Message<br>
-<a href="https://chris.beams.io/posts/git-commit/" target="_blank" rel="noopener noreffer ">https://chris.beams.io/posts/git-commit/</a><br>
-Introduction: Why good commit messages matter<br>
-By Chris Beams</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/378b16fb7fd842677dc9af4ab6073d681b16f6c1" target="_blank" rel="noopener noreffer "><code>378b16f</code></a> in My-Notes.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
-Text-mode interface for git<br>
-<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
-What is Tig?</p>
-<p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
-<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/afb52a1c60c23f7015432f0f1c20c6c3f15a098a" target="_blank" rel="noopener noreffer "><code>afb52a1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Running Git-Jekyll website locally with Docker</title><link>https://blog.emecas.net/posts/2017-03-09-running-git-jekyll-website-locally-with-docker/</link><pubDate>Thu, 09 Mar 2017 17:20:46 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-09-running-git-jekyll-website-locally-with-docker/</guid><description><![CDATA[<p>Running Git-Jekyll website locally with Docker</p>
-<p>Clone the repo and run the following docker container: docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 4000:4000 jekyll/jekyll jekyll serve<br>
-Browser the site by visiting <a href="http://localhost:4000" target="_blank" rel="noopener noreffer ">http://localhost:4000</a></p>
-<p>Repo:</p>
-<p>$ git clone <a href="https://github.com/play-with-docker/play-with-docker.github.io.git" target="_blank" rel="noopener noreffer ">https://github.com/play-with-docker/play-with-docker.github.io.git</a><br>
-Cloning into &lsquo;play-with-docker.github.io&rsquo;&hellip;<br>
-remote: Counting objects: 586, done.<br>
-remote: Compressing objects: 100% (59/59), done.<br>
-remote: Total 586 (delta 26), reused 0 (delta 0), pack-reused 526<br>
-Receiving objects: 100% (586/586), 18.52 MiB | 1.12 MiB/s, done.<br>
-Resolving deltas: 100% (277/277), done.</p>]]></description></item><item><title>Advantages of monolithic version control</title><link>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</link><pubDate>Mon, 13 Feb 2017 14:48:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-13-advantages-of-monolithic-version-control/</guid><description><![CDATA[<p>Advantages of monolithic version control<br>
-By Dan Luu may 2015<br>
-<a href="http://danluu.com/monorepo/" target="_blank" rel="noopener noreffer ">http://danluu.com/monorepo/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1000e12df9f012ccc2c58b8d2b80f40b90efca53" target="_blank" rel="noopener noreffer "><code>1000e12</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df05c293725e3941cfbe0f13f56b867cd4d777b9" target="_blank" rel="noopener noreffer "><code>df05c29</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -15,7 +15,18 @@ examples/project-setup - prompt users for configuration and generate a .env file
 examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
 examples/init-named-volume - create or update the files in a named docker volume.<br>
 examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
-examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>Tasks</title><link>https://blog.emecas.net/posts/2020-02-28-tasks/</link><pubDate>Fri, 28 Feb 2020 20:00:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-28-tasks/</guid><description><![CDATA[<p>Tasks<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>derwiki/layoff-runbook</title><link>https://blog.emecas.net/posts/2023-04-25-derwiki-layoff-runbook/</link><pubDate>Tue, 25 Apr 2023 10:34:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-04-25-derwiki-layoff-runbook/</guid><description><![CDATA[<p>derwiki/layoff-runbook<br>
+Being laid off can be overwhelming and it&rsquo;s easy to miss important tasks. This runbook will help make sure you stay on track.<br>
+Repository by derwiki, created in 2023, with 951 stars and 29 forks. Starred on 2023-04-25.<br>
+<a href="https://github.com/derwiki/layoff-runbook" target="_blank" rel="noopener noreffer ">https://github.com/derwiki/layoff-runbook</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-04-25: <a href="https://github.com/derwiki/layoff-runbook" target="_blank" rel="noopener noreffer ">derwiki/layoff-runbook</a>.</em></p>]]></description></item><item><title>tasks/tasks</title><link>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</link><pubDate>Mon, 02 Mar 2020 01:25:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</guid><description><![CDATA[<p>tasks/tasks<br>
+Bringing Astrid Tasks back from the dead<br>
+Kotlin repository by tasks, created in 2013, with 5,733 stars and 676 forks. License: GPL-3.0. Starred on 2020-03-02.<br>
+Homepage: <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>
+<a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">https://github.com/tasks/tasks</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-02: <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">tasks/tasks</a>.</em></p>]]></description></item><item><title>Tasks</title><link>https://blog.emecas.net/posts/2020-02-28-tasks/</link><pubDate>Fri, 28 Feb 2020 20:00:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-28-tasks/</guid><description><![CDATA[<p>Tasks<br>
 <a href="https://tasks.org/" target="_blank" rel="noopener noreffer ">https://tasks.org/</a><br>
 Astrid To-Do List Clone<br>
 Bringing Astrid Tasks back from the dead <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>
@@ -25,4 +36,10 @@ github <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener no
 <a href="https://github.com/klaussinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaussinani/taskbook</a><br>
 Tasks, boards &amp; notes for the command-line habitat</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d61d64822d66d6769d05c71cf489db82fd4289e2" target="_blank" rel="noopener noreffer "><code>d61d648</code></a> in My-Notes.</em></p>]]></description></item><item><title>klaudiosinani/taskbook</title><link>https://blog.emecas.net/posts/2019-05-14-klaudiosinani-taskbook/</link><pubDate>Tue, 14 May 2019 10:59:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-klaudiosinani-taskbook/</guid><description><![CDATA[<p>klaudiosinani/taskbook<br>
+Tasks, boards &amp; notes for the command-line habitat<br>
+JavaScript repository by klaudiosinani, created in 2018, with 9,347 stars and 394 forks. License: MIT. Starred on 2019-05-14.<br>
+Homepage: <a href="https://klaudiosinani.com/taskbook" target="_blank" rel="noopener noreffer ">https://klaudiosinani.com/taskbook</a><br>
+<a href="https://github.com/klaudiosinani/taskbook" target="_blank" rel="noopener noreffer ">https://github.com/klaudiosinani/taskbook</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-14: <a href="https://github.com/klaudiosinani/taskbook" target="_blank" rel="noopener noreffer ">klaudiosinani/taskbook</a>.</em></p>]]></description></item></channel></rss>

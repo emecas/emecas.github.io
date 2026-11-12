@@ -1,4 +1,8 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Features - Tag - My Notes</title><link>https://blog.emecas.net/tags/features/</link><description>Features - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Jul 2017 14:41:41 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/features/" rel="self" type="application/rss+xml"/><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Features - Tag - My Notes</title><link>https://blog.emecas.net/tags/features/</link><description>Features - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Nov 2019 19:57:36 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/features/" rel="self" type="application/rss+xml"/><item><title>dsyer/spring-boot-features</title><link>https://blog.emecas.net/posts/2019-11-01-dsyer-spring-boot-features/</link><pubDate>Fri, 01 Nov 2019 19:57:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-11-01-dsyer-spring-boot-features/</guid><description><![CDATA[<p>dsyer/spring-boot-features<br>
+Java repository by dsyer, created in 2019, with 5 stars and 3 forks. Starred on 2019-11-01.<br>
+<a href="https://github.com/dsyer/spring-boot-features" target="_blank" rel="noopener noreffer ">https://github.com/dsyer/spring-boot-features</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-11-01: <a href="https://github.com/dsyer/spring-boot-features" target="_blank" rel="noopener noreffer ">dsyer/spring-boot-features</a>.</em></p>]]></description></item><item><title>C# Version History</title><link>https://blog.emecas.net/posts/2017-07-03-c-version-history/</link><pubDate>Mon, 03 Jul 2017 14:41:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-c-version-history/</guid><description><![CDATA[<p>C# Version History:<br>
 <a href="http://www.tutorialsteacher.com/csharp/csharp-version-history" target="_blank" rel="noopener noreffer ">http://www.tutorialsteacher.com/csharp/csharp-version-history</a></p>
 <p>Version	.NET Framework	Visual Studio	Important Features<br>
 C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002<br>
@@ -50,4 +54,9 @@ Schedule</p>
 2017/02/16 		Zero Bug Bounce<br>
 2017/03/16 		Rampdown Phase 2<br>
 2017/07/06 		Final Release Candidate<br>
-2017/07/27 		General Availability</p>]]></description></item></channel></rss>
+2017/07/27 		General Availability</p>]]></description></item><item><title>auduno/clmtrackr</title><link>https://blog.emecas.net/posts/2014-02-11-auduno-clmtrackr/</link><pubDate>Tue, 11 Feb 2014 21:57:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-02-11-auduno-clmtrackr/</guid><description><![CDATA[<p>auduno/clmtrackr<br>
+Javascript library for precise tracking of facial features via Constrained Local Models<br>
+JavaScript repository by auduno, created in 2012, with 6,496 stars and 1,128 forks. License: MIT. Starred on 2014-02-11.<br>
+<a href="https://github.com/auduno/clmtrackr" target="_blank" rel="noopener noreffer ">https://github.com/auduno/clmtrackr</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2014-02-11: <a href="https://github.com/auduno/clmtrackr" target="_blank" rel="noopener noreffer ">auduno/clmtrackr</a>.</em></p>]]></description></item></channel></rss>

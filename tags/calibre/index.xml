@@ -4,4 +4,10 @@ calibre is an e-book manager. It can view, convert, edit and catalog e-books in 
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
 It is cross platform, running on Linux, Windows and macOS.</p>
 <p>For more information, see the calibre About page<br>
-<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item></channel></rss>
+<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item><item><title>kovidgoyal/calibre</title><link>https://blog.emecas.net/posts/2020-05-24-kovidgoyal-calibre/</link><pubDate>Sun, 24 May 2020 12:24:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-24-kovidgoyal-calibre/</guid><description><![CDATA[<p>kovidgoyal/calibre<br>
+The official source code repository for the calibre ebook manager<br>
+Python repository by kovidgoyal, created in 2013, with 26,412 stars and 2,752 forks. License: GPL-3.0. Starred on 2020-05-24.<br>
+Homepage: <a href="https://calibre-ebook.com" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com</a><br>
+<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-05-24: <a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">kovidgoyal/calibre</a>.</em></p>]]></description></item></channel></rss>

@@ -1,83 +1,58 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AI and Machine Learning - Category - My Notes</title><link>https://blog.emecas.net/categories/ai-and-machine-learning/</link><description>AI and Machine Learning - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Oct 2023 12:52:42 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/ai-and-machine-learning/" rel="self" type="application/rss+xml"/><item><title>Whisper</title><link>https://blog.emecas.net/posts/2023-10-18-whisper/</link><pubDate>Wed, 18 Oct 2023 12:52:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-10-18-whisper/</guid><description><![CDATA[<p>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision<br>
-<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper</a></p>
-<p>[Blog] : <a href="https://openai.com/blog/whisper" target="_blank" rel="noopener noreffer ">https://openai.com/blog/whisper</a></p>
-<p>[Paper] : <a href="https://arxiv.org/abs/2212.04356" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/2212.04356</a></p>
-<p>[Model card] : <a href="https://github.com/openai/whisper/blob/main/model-card.md" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper/blob/main/model-card.md</a></p>
-<p>[Colab example] : <a href="https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb" target="_blank" rel="noopener noreffer ">https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb</a></p>
-<p>Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AI and Machine Learning - Category - My Notes</title><link>https://blog.emecas.net/categories/ai-and-machine-learning/</link><description>AI and Machine Learning - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 09 Oct 2026 02:16:27 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/ai-and-machine-learning/" rel="self" type="application/rss+xml"/><item><title>paperless-ngx/paperless-ngx</title><link>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</link><pubDate>Fri, 09 Oct 2026 02:16:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</guid><description><![CDATA[<p>paperless-ngx/paperless-ngx<br>
+A community-supported supercharged document management system: scan, index and archive all your documents<br>
+Python repository by paperless-ngx, created in 2022, with 47,991 stars and 3,373 forks. License: GPL-3.0. Starred on 2026-10-09.<br>
+Homepage: <a href="http://docs.paperless-ngx.com/" target="_blank" rel="noopener noreffer ">http://docs.paperless-ngx.com/</a><br>
+<a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">https://github.com/paperless-ngx/paperless-ngx</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2adf5fabcdf8ce3614c5a196e38ffbdb9422617d" target="_blank" rel="noopener noreffer "><code>2adf5fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>Metacreation: Lab for Creative AI</title><link>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</link><pubDate>Mon, 01 Aug 2022 09:53:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-01-metacreation-lab-for-creative-ai/</guid><description><![CDATA[<p>Metacreation: Lab for Creative AI<br>
-<a href="https://metacreation.net/" target="_blank" rel="noopener noreffer ">https://metacreation.net/</a></p>
-<p>Driven by collaborations involving scientists, experts in artificial intelligence, cognitive sciences, designers, and artists, the Metacreation Lab for Creative AI is at the forefront of the development of generative systems, whether these are embedded in interactive experiences or automating workflows integrated into cutting-edge creative software.</p>
-<p>Generative Systems</p>
-<p>As automation becomes commonplace in an ever expanding range of fields, the Metacreation Lab goes further by developing systems that are capable of human-level creativity. These are systems capable of autonomous creation, producing original artwork and creative output alongside and beyond their human counterparts.</p>]]></description></item><item><title>Computational model reveals how the brain manages short-term memories</title><link>https://blog.emecas.net/posts/2021-01-01-computational-model-reveals-how-the-brain-manages-short-term/</link><pubDate>Fri, 01 Jan 2021 10:32:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-01-computational-model-reveals-how-the-brain-manages-short-term/</guid><description><![CDATA[<p>Computational model reveals how the brain manages short-term memories<br>
-<a href="https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/" target="_blank" rel="noopener noreffer ">https://www.salk.edu/news-release/computational-model-reveals-how-the-brain-manages-short-term-memories/</a></p>
-<p>Salk scientists show how “working memories” might be stored by neurons that can maintain information longer than average<br>
-DOI: 10.1038/s41593-020-00753-w <a href="https://doi.org/10.1038/s41593-020-00753-w" target="_blank" rel="noopener noreffer ">https://doi.org/10.1038/s41593-020-00753-w</a></p>
-<p>Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks<br>
-<a href="https://www.nature.com/articles/s41593-020-00753-w" target="_blank" rel="noopener noreffer ">https://www.nature.com/articles/s41593-020-00753-w</a></p>
-<p>Robert Kim &amp; Terrence J. Sejnowski</p>
-<p>Nature Neuroscience volume 24, pages129–139(2021)Cite this article</p>
-<p>2610 Accesses</p>
-<p>94 Altmetric</p>
-<p>Metrics</p>
-<p>Abstract</p>
-<p>Cortical neurons process information on multiple timescales, and areas important for working memory (WM) contain neurons capable of integrating information over a long timescale. However, the underlying mechanisms for the emergence of neuronal timescales stable enough to support WM are unclear. By analyzing a spiking recurrent neural network model trained on a WM task and activity of single neurons in the primate prefrontal cortex, we show that the temporal properties of our model and the neural data are remarkably similar. Dissecting our recurrent neural network model revealed strong inhibitory-to-inhibitory connections underlying a disinhibitory microcircuit as a critical component for long neuronal timescales and WM maintenance. We also found that enhancing inhibitory-to-inhibitory connections led to more stable temporal dynamics and improved task performance. Finally, we show that a network with such microcircuitry can perform other tasks without disrupting its pre-existing timescale architecture, suggesting that strong inhibitory signaling underlies a flexible WM network.</p>]]></description></item><item><title>Evostar and EvoMUSART 2021 (Sevilla, Spain)</title><link>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</link><pubDate>Fri, 07 Aug 2020 19:04:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</guid><description><![CDATA[<p>Evostar and EvoMUSART 2021 (Sevilla, Spain)<br>
-<a href="http://www.evostar.org/2021/important-dates/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/important-dates/</a></p>
-<p>Important Dates</p>
-<p>EvoApplications Special Session proposals: 10 September, 2020<br>
-Submission deadline: 1 November, 2020<br>
-EvoStar Conference: 7-9 April, 2021</p>
-<p>EvoMUSART 2021 is the 10th International Conference on Artificial Intelligence in Music, Sound, Art and Design.<br>
-<a href="http://www.evostar.org/2021/evomusart/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/evomusart/</a></p>
-<p>Areas of Interest and Contributions</p>
-<p>Submissions should concern the use of Artificial Intelligence techniques (e.g. Evolutionary Computation, Artificial Neural Networks, Artificial Life, Machine Learning, Deep Learning, Swarm Intelligence) in the generation, analysis and interpretation of Art, Music, Design, Architecture and other artistic fields. Topics of interest include, but are not limited to:<br>
-Generation</p>]]></description></item><item><title>Papers with Code</title><link>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</link><pubDate>Wed, 18 Mar 2020 11:52:54 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-papers-with-code/</guid><description><![CDATA[<p>Papers with Code<br>
-@paperswithcode<br>
-<a href="https://paperswithcode.com/" target="_blank" rel="noopener noreffer ">https://paperswithcode.com/</a><br>
-Our mission</p>
-<p>The mission of Papers With Code is to create a free and open resource with Machine Learning papers, code and evaluation tables.</p>
-<p>We believe this is best done together with the community and powered by automation.</p>
-<p>We&rsquo;ve already automated the linking of code to papers, and we are now working on automating the extraction of evaluation metrics from papers.</p>
+<p><em>Source: starred on GitHub on 2026-10-09: <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">paperless-ngx/paperless-ngx</a>.</em></p>]]></description></item><item><title>debpalash/VoiceStudio</title><link>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</link><pubDate>Sun, 27 Sep 2026 13:22:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</guid><description><![CDATA[<p>debpalash/VoiceStudio<br>
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br>
+Python repository by debpalash, created in 2026, with 107,396 stars and 11,902 forks. License: AGPL-3.0. Starred on 2026-09-27.<br>
+Homepage: <a href="https://voicestudio.sh" target="_blank" rel="noopener noreffer ">https://voicestudio.sh</a><br>
+<a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">https://github.com/debpalash/VoiceStudio</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/37c127a777e4d494edaf1c0b597b97c94774a6b6" target="_blank" rel="noopener noreffer "><code>37c127a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Linear Digressions</title><link>https://blog.emecas.net/posts/2020-03-04-linear-digressions/</link><pubDate>Wed, 04 Mar 2020 16:35:46 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-04-linear-digressions/</guid><description><![CDATA[<p>Linear Digressions<br>
-<a href="https://lineardigressions.com/" target="_blank" rel="noopener noreffer ">https://lineardigressions.com/</a><br>
-<a href="https://twitter.com/lindigressions" target="_blank" rel="noopener noreffer ">https://twitter.com/lindigressions</a> @LinDigressions<br>
-<a href="https://twitter.com/multiarmbandit" target="_blank" rel="noopener noreffer ">https://twitter.com/multiarmbandit</a> Katie Malone<br>
-Linear Digressions is a podcast about Machine Learning and Data Science</p>
+<p><em>Source: starred on GitHub on 2026-09-27: <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">debpalash/VoiceStudio</a>.</em></p>]]></description></item><item><title>ClawRunr/JavaClaw</title><link>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</link><pubDate>Tue, 15 Sep 2026 17:33:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</guid><description><![CDATA[<p>ClawRunr/JavaClaw<br>
+JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr<br>
+Java repository by ClawRunr, created in 2026, with 759 stars and 169 forks. License: LGPL-3.0. Starred on 2026-09-15.<br>
+Homepage: <a href="https://javaclaw.io/" target="_blank" rel="noopener noreffer ">https://javaclaw.io/</a><br>
+<a href="https://github.com/ClawRunr/JavaClaw" target="_blank" rel="noopener noreffer ">https://github.com/ClawRunr/JavaClaw</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c9bad53da1b2a51aebe197810bc9b10215b25684" target="_blank" rel="noopener noreffer "><code>c9bad53</code></a> in My-Notes.</em></p>]]></description></item><item><title>Can Machines And Artificial Intelligence Be Creative</title><link>https://blog.emecas.net/posts/2020-03-02-can-machines-and-artificial-intelligence-be-creative/</link><pubDate>Mon, 02 Mar 2020 12:16:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-can-machines-and-artificial-intelligence-be-creative/</guid><description><![CDATA[<p>Can Machines And Artificial Intelligence Be Creative?<br>
-<a href="https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580" target="_blank" rel="noopener noreffer ">https://www.forbes.com/sites/bernardmarr/2020/02/28/can-machines-and-artificial-intelligence-be-creative/#781c16a44580</a></p>
-<p>interview: Marcus du Sautoy<br>
-<a href="https://www.youtube.com/watch?v=7tHIHCQccjg" target="_blank" rel="noopener noreffer ">https://www.youtube.com/watch?v=7tHIHCQccjg</a></p>
-<p>Book:<br>
-The Creativity Code: Art and Innovation in the Age of AI Hardcover<br>
-April 15, 2019<br>
-<a href="https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/" target="_blank" rel="noopener noreffer ">https://www.amazon.com/Creativity-Code-Art-Innovation-Age/dp/0674988132/</a></p>
+<p><em>Source: starred on GitHub on 2026-09-15: <a href="https://github.com/ClawRunr/JavaClaw" target="_blank" rel="noopener noreffer ">ClawRunr/JavaClaw</a>.</em></p>]]></description></item><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
+an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
+Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
+Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
+<a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">https://github.com/aaif-goose/goose</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9b5e55d1cbbf27c8fa19e5d16799c8702d8707d1" target="_blank" rel="noopener noreffer "><code>9b5e55d</code></a> in My-Notes.</em></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
-<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a><br>
-Build and run Docker containers leveraging NVIDIA GPUs<br>
-The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
-<a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
+<p><em>Source: starred on GitHub on 2026-08-31: <a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">aaif-goose/goose</a>.</em></p>]]></description></item><item><title>addyosmani/agent-skills</title><link>https://blog.emecas.net/posts/2026-08-16-addyosmani-agent-skills/</link><pubDate>Sun, 16 Aug 2026 15:50:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-addyosmani-agent-skills/</guid><description><![CDATA[<p>addyosmani/agent-skills<br>
+Production-grade engineering skills for AI coding agents.<br>
+JavaScript repository by addyosmani, created in 2026, with 115,271 stars and 12,104 forks. License: MIT. Starred on 2026-08-16.<br>
+Homepage: <a href="https://skills.addy.ie" target="_blank" rel="noopener noreffer ">https://skills.addy.ie</a><br>
+<a href="https://github.com/addyosmani/agent-skills" target="_blank" rel="noopener noreffer ">https://github.com/addyosmani/agent-skills</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>Electronic Proceedings of the NIPS</title><link>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</link><pubDate>Mon, 24 Feb 2020 18:14:05 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-electronic-proceedings-of-the-nips/</guid><description><![CDATA[<p>Electronic Proceedings of the Neural Information Processing Systems Conference<br>
-<a href="https://papers.nips.cc/" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/</a><br>
-Neural Ordinary Differential Equations<br>
-Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations" target="_blank" rel="noopener noreffer ">https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations</a><br>
-github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
-application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
+<p><em>Source: starred on GitHub on 2026-08-16: <a href="https://github.com/addyosmani/agent-skills" target="_blank" rel="noopener noreffer ">addyosmani/agent-skills</a>.</em></p>]]></description></item><item><title>mattpocock/skills</title><link>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</link><pubDate>Sun, 16 Aug 2026 15:47:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</guid><description><![CDATA[<p>mattpocock/skills<br>
+Skills for Real Engineers. Straight from my .agents directory.<br>
+Shell repository by mattpocock, created in 2026, with 321,085 stars and 26,920 forks. License: MIT. Starred on 2026-08-16.<br>
+Homepage: <a href="https://aihero.dev/skills" target="_blank" rel="noopener noreffer ">https://aihero.dev/skills</a><br>
+<a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreffer ">https://github.com/mattpocock/skills</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item><item><title>Collective Intelligence</title><link>https://blog.emecas.net/posts/2020-02-23-collective-intelligence/</link><pubDate>Sun, 23 Feb 2020 17:34:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-23-collective-intelligence/</guid><description><![CDATA[<p>A Stack to Build Collective Intelligence Technology<br>
-<a href="https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove" target="_blank" rel="noopener noreffer ">https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove</a><br>
-January 29, 2020</p>
-<p>- a rich schema that models concepts such as themes, ideas, messages, reactions, sentiments<br>
-- how the different personas or actors need to interact with the system<br>
-- every post being tied into the IBM Watson Natural Language Understanding API<br>
-- a microservice called Holmes to communicate with the IBM Watson APIs<br>
-- a developer should not have to step out of their comfort zone in order to generate their microservice—or in other words, we don’t force a Python developer to install Node.js in order to generate their Python microservice<br>
-- 3 different algorithm<br>
-- a semantic analysis clustering algorithm for on-site live debates. This uses a combination of unsupervised and then supervised learning in order to group and classify responses into topics<br>
-- an NLP algorithm designed to find actionable solutions in text<br>
--<br>
-- precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-08-16: <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreffer ">mattpocock/skills</a>.</em></p>]]></description></item><item><title>cyberark/FuzzyAI</title><link>https://blog.emecas.net/posts/2026-07-18-cyberark-fuzzyai/</link><pubDate>Sat, 18 Jul 2026 00:37:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-cyberark-fuzzyai/</guid><description><![CDATA[<p>cyberark/FuzzyAI<br>
+A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and mitigate potential jailbreaks in their LLM APIs.<br>
+Jupyter Notebook repository by cyberark, created in 2024, with 1,603 stars and 220 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
+<a href="https://github.com/cyberark/FuzzyAI" target="_blank" rel="noopener noreffer ">https://github.com/cyberark/FuzzyAI</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/cyberark/FuzzyAI" target="_blank" rel="noopener noreffer ">cyberark/FuzzyAI</a>.</em></p>]]></description></item><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
+SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.<br>
+Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
+<a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item><item><title>vas3k/TaxHacker</title><link>https://blog.emecas.net/posts/2026-07-06-vas3k-taxhacker/</link><pubDate>Mon, 06 Jul 2026 22:38:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-06-vas3k-taxhacker/</guid><description><![CDATA[<p>vas3k/TaxHacker<br>
+Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories<br>
+TypeScript repository by vas3k, created in 2025, with 6,817 stars and 1,099 forks. License: MIT. Starred on 2026-07-06.<br>
+Homepage: <a href="https://taxhacker.app" target="_blank" rel="noopener noreffer ">https://taxhacker.app</a><br>
+<a href="https://github.com/vas3k/TaxHacker" target="_blank" rel="noopener noreffer ">https://github.com/vas3k/TaxHacker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-06: <a href="https://github.com/vas3k/TaxHacker" target="_blank" rel="noopener noreffer ">vas3k/TaxHacker</a>.</em></p>]]></description></item><item><title>x1xhlol/system-prompts-and-models-of-ai-tools</title><link>https://blog.emecas.net/posts/2026-06-09-x1xhlol-system-prompts-and-models-of-ai-tools/</link><pubDate>Tue, 09 Jun 2026 15:34:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-06-09-x1xhlol-system-prompts-and-models-of-ai-tools/</guid><description><![CDATA[<p>x1xhlol/system-prompts-and-models-of-ai-tools<br>
+FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models<br>
+Repository by x1xhlol, created in 2025, with 144,606 stars and 34,698 forks. License: GPL-3.0. Starred on 2026-06-09.<br>
+<a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank" rel="noopener noreffer ">https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-06-09: <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank" rel="noopener noreffer ">x1xhlol/system-prompts-and-models-of-ai-tools</a>.</em></p>]]></description></item></channel></rss>

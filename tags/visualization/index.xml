@@ -10,7 +10,18 @@ Apache Superset is an open-source modern data exploration and visualization plat
 • Semantic layer for SQL data transformations<br>
 • Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
 • Virtual datasets for ad-hoc data exploration<br>
-• Access to new functionalities through feature flags</p>]]></description></item><item><title>CodeCity</title><link>https://blog.emecas.net/posts/2019-02-26-codecity/</link><pubDate>Tue, 26 Feb 2019 16:53:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-26-codecity/</guid><description><![CDATA[<p>CodeCity<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>apache/superset</title><link>https://blog.emecas.net/posts/2021-04-14-apache-superset/</link><pubDate>Wed, 14 Apr 2021 00:26:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-04-14-apache-superset/</guid><description><![CDATA[<p>apache/superset<br>
+Apache Superset is a Data Visualization and Data Exploration Platform<br>
+Python repository by apache, created in 2015, with 75,470 stars and 18,605 forks. License: Apache-2.0. Starred on 2021-04-14.<br>
+Homepage: <a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
+<a href="https://github.com/apache/superset" target="_blank" rel="noopener noreffer ">https://github.com/apache/superset</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-04-14: <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreffer ">apache/superset</a>.</em></p>]]></description></item><item><title>kieler/osgiviz</title><link>https://blog.emecas.net/posts/2020-10-21-kieler-osgiviz/</link><pubDate>Wed, 21 Oct 2020 13:43:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-21-kieler-osgiviz/</guid><description><![CDATA[<p>kieler/osgiviz<br>
+Visualization of OSGi projects using KIELER Lightweight Diagrams (KlighD)<br>
+Java repository by kieler, created in 2019, with 10 stars and 4 forks. License: EPL-2.0. Archived by its owner. Starred on 2020-10-21.<br>
+<a href="https://github.com/kieler/osgiviz" target="_blank" rel="noopener noreffer ">https://github.com/kieler/osgiviz</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-21: <a href="https://github.com/kieler/osgiviz" target="_blank" rel="noopener noreffer ">kieler/osgiviz</a>.</em></p>]]></description></item><item><title>CodeCity</title><link>https://blog.emecas.net/posts/2019-02-26-codecity/</link><pubDate>Tue, 26 Feb 2019 16:53:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-26-codecity/</guid><description><![CDATA[<p>CodeCity<br>
 <a href="http://wettel.github.io/codecity.html" target="_blank" rel="noopener noreffer ">http://wettel.github.io/codecity.html</a><br>
 By Richard Wettel<br>
 Welcome to CodeCity!<br>
@@ -18,7 +29,12 @@ CodeCity is an integrated environment for software analysis, in which software s
 <a href="http://xray.inf.usi.ch/xray.php" target="_blank" rel="noopener noreffer ">http://xray.inf.usi.ch/xray.php</a></p>
 <p>X-Ray 1.0.4.1, my Bachelor and Research Project<br>
 Jul 5, 2008<br>
-X-Ray is an open-source software visualization plug-in for the Eclipse framework. It is my bachelor project and thesis, as far as my research topic, supervised by Prof. Dr. Michele Lanza and Dipl. Ing. Mircea Lungu. It provides System Complexity View, Class and Package Dependency View for a given Java project. Moreover, its model of the underlying Java project can be triggered and used by other plug-ins</p>]]></description></item><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
+X-Ray is an open-source software visualization plug-in for the Eclipse framework. It is my bachelor project and thesis, as far as my research topic, supervised by Prof. Dr. Michele Lanza and Dipl. Ing. Mircea Lungu. It provides System Complexity View, Class and Package Dependency View for a given Java project. Moreover, its model of the underlying Java project can be triggered and used by other plug-ins</p>]]></description></item><item><title>ongardie/raftscope</title><link>https://blog.emecas.net/posts/2017-06-14-ongardie-raftscope/</link><pubDate>Wed, 14 Jun 2017 22:43:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-14-ongardie-raftscope/</guid><description><![CDATA[<p>ongardie/raftscope<br>
+super hacky visualization of Raft<br>
+JavaScript repository by ongardie, created in 2014, with 730 stars and 123 forks. Starred on 2017-06-14.<br>
+<a href="https://github.com/ongardie/raftscope" target="_blank" rel="noopener noreffer ">https://github.com/ongardie/raftscope</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-14: <a href="https://github.com/ongardie/raftscope" target="_blank" rel="noopener noreffer ">ongardie/raftscope</a>.</em></p>]]></description></item><item><title>sigmajs - an alternative to D3.js</title><link>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</link><pubDate>Tue, 01 Apr 2014 14:01:53 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-04-01-sigmajs-an-alternative-to-d3-js/</guid><description><![CDATA[<p>sigmajs<br>
 <a href="http://sigmajs.org" target="_blank" rel="noopener noreffer ">http://sigmajs.org</a><br>
 Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.</p>
 <p>REF:<br>

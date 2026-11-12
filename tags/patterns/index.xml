@@ -1,4 +1,24 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Patterns - Tag - My Notes</title><link>https://blog.emecas.net/tags/patterns/</link><description>Patterns - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 11 Feb 2019 11:03:25 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/patterns/" rel="self" type="application/rss+xml"/><item><title>Design patterns implemented in Java</title><link>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</link><pubDate>Mon, 11 Feb 2019 11:03:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</guid><description><![CDATA[<p>Design patterns implemented in Java<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Patterns - Tag - My Notes</title><link>https://blog.emecas.net/tags/patterns/</link><description>Patterns - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 14 Sep 2026 13:59:10 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/patterns/" rel="self" type="application/rss+xml"/><item><title>thangchung/clean-architecture-dotnet</title><link>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</link><pubDate>Mon, 14 Sep 2026 13:59:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</guid><description><![CDATA[<p>thangchung/clean-architecture-dotnet<br>
+🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻<br>
+C# repository by thangchung, created in 2021, with 1,363 stars and 288 forks. License: MIT. Starred on 2026-09-14.<br>
+<a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">https://github.com/thangchung/clean-architecture-dotnet</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">thangchung/clean-architecture-dotnet</a>.</em></p>]]></description></item><item><title>nilbuild/design-patterns-for-humans</title><link>https://blog.emecas.net/posts/2025-02-19-nilbuild-design-patterns-for-humans/</link><pubDate>Wed, 19 Feb 2025 01:52:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-19-nilbuild-design-patterns-for-humans/</guid><description><![CDATA[<p>nilbuild/design-patterns-for-humans<br>
+An ultra-simplified explanation to design patterns<br>
+Repository by nilbuild, created in 2017, with 48,944 stars and 5,572 forks. Starred on 2025-02-19.<br>
+<a href="https://github.com/nilbuild/design-patterns-for-humans" target="_blank" rel="noopener noreffer ">https://github.com/nilbuild/design-patterns-for-humans</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-02-19: <a href="https://github.com/nilbuild/design-patterns-for-humans" target="_blank" rel="noopener noreffer ">nilbuild/design-patterns-for-humans</a>.</em></p>]]></description></item><item><title>chanakaudaya/solution-architecture-patterns</title><link>https://blog.emecas.net/posts/2024-06-01-chanakaudaya-solution-architecture-patterns/</link><pubDate>Sat, 01 Jun 2024 15:28:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-01-chanakaudaya-solution-architecture-patterns/</guid><description><![CDATA[<p>chanakaudaya/solution-architecture-patterns<br>
+Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise<br>
+Repository by chanakaudaya, created in 2019, with 3,479 stars and 674 forks. License: CC-BY-4.0. Starred on 2024-06-01.<br>
+Homepage: <a href="https://chanakaudaya.github.io/solution-architecture-patterns/" target="_blank" rel="noopener noreffer ">https://chanakaudaya.github.io/solution-architecture-patterns/</a><br>
+<a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">https://github.com/chanakaudaya/solution-architecture-patterns</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-01: <a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">chanakaudaya/solution-architecture-patterns</a>.</em></p>]]></description></item><item><title>victorrentea/structural-patterns-spring</title><link>https://blog.emecas.net/posts/2020-10-23-victorrentea-structural-patterns-spring/</link><pubDate>Fri, 23 Oct 2020 16:13:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-23-victorrentea-structural-patterns-spring/</guid><description><![CDATA[<p>victorrentea/structural-patterns-spring<br>
+Java repository by victorrentea, created in 2019, with 24 stars and 37 forks. License: Unlicense. Starred on 2020-10-23.<br>
+<a href="https://github.com/victorrentea/structural-patterns-spring" target="_blank" rel="noopener noreffer ">https://github.com/victorrentea/structural-patterns-spring</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-23: <a href="https://github.com/victorrentea/structural-patterns-spring" target="_blank" rel="noopener noreffer ">victorrentea/structural-patterns-spring</a>.</em></p>]]></description></item><item><title>Design patterns implemented in Java</title><link>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</link><pubDate>Mon, 11 Feb 2019 11:03:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</guid><description><![CDATA[<p>Design patterns implemented in Java<br>
 <a href="https://java-design-patterns.com/" target="_blank" rel="noopener noreffer ">https://java-design-patterns.com/</a><br>
 Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a></p>
 <p>Introduction</p>
@@ -9,40 +29,25 @@ Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank"
 Ken Anderson<br>
 Aug 26, 2018</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a2b2256bd5354daa70a904723418636d8479b64d" target="_blank" rel="noopener noreffer "><code>a2b2256</code></a> in My-Notes.</em></p>]]></description></item><item><title>Hexagonal Architecture</title><link>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</link><pubDate>Tue, 21 Feb 2017 13:38:10 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</guid><description><![CDATA[<p>Active Directory Federation Services<br>
-<a href="https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services" target="_blank" rel="noopener noreffer ">https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services</a><br>
-Applies To: Windows Server 2016, Windows Server 2012 R2, Windows Server 2012<br>
-This document contains a list of all of the documentation areas for AD FS for Windows Server 2016, 2012 R2, and 2012. This includes the following:<br>
-•AD FS Overview<br>
-•AD FS Design<br>
-•AD FS Deployment<br>
-•AD FS Development<br>
-•AD FS Operations<br>
-•AD FS Technical Reference</p>
-<p>Hexagonal architecture<br>
-Aditional Ref: <a href="http://alistair.cockburn.us/Hexagonal&#43;architecture" target="_blank" rel="noopener noreffer ">http://alistair.cockburn.us/Hexagonal+architecture</a><br>
-By Alistair Cockburn.<br>
-The Pattern: Ports and Adapters (‘’Object Structural’’)<br>
-Alternative name: ‘’Ports &amp; Adapters’’<br>
-Alternative name: ‘’Hexagonal Architecture’’<br>
-Intent<br>
-Motivation<br>
-Nature of the Solution<br>
-Structure<br>
-Sample Code<br>
-Stage 1: FIT  App  constant-as-mock-database<br>
-Stage 2: UI  App  constant-as-mock-database<br>
-Stage 3: (FIT or UI)  App  mock database<br>
-Application Notes<br>
-The Left-Right Asymmetry<br>
-Use Cases And The Application Boundary<br>
-How Many Ports?<br>
-Known Uses<br>
-Distributed, Large-Team Development<br>
-Related Patterns<br>
-Adapter<br>
-Model-View-Controller<br>
-Mock Objects and Loopback<br>
-Pedestals<br>
-Checks<br>
-References and Related Reading</p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a2b2256bd5354daa70a904723418636d8479b64d" target="_blank" rel="noopener noreffer "><code>a2b2256</code></a> in My-Notes.</em></p>]]></description></item><item><title>bethrobson/Head-First-Design-Patterns</title><link>https://blog.emecas.net/posts/2018-01-05-bethrobson-head-first-design-patterns/</link><pubDate>Fri, 05 Jan 2018 21:40:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-05-bethrobson-head-first-design-patterns/</guid><description><![CDATA[<p>bethrobson/Head-First-Design-Patterns<br>
+Code for Head First Design Patterns book (2020)<br>
+Java repository by bethrobson, created in 2014, with 3,266 stars and 1,924 forks. Starred on 2018-01-05.<br>
+<a href="https://github.com/bethrobson/Head-First-Design-Patterns" target="_blank" rel="noopener noreffer ">https://github.com/bethrobson/Head-First-Design-Patterns</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-01-05: <a href="https://github.com/bethrobson/Head-First-Design-Patterns" target="_blank" rel="noopener noreffer ">bethrobson/Head-First-Design-Patterns</a>.</em></p>]]></description></item><item><title>iluwatar/java-design-patterns</title><link>https://blog.emecas.net/posts/2017-09-02-iluwatar-java-design-patterns/</link><pubDate>Sat, 02 Sep 2017 18:09:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-09-02-iluwatar-java-design-patterns/</guid><description><![CDATA[<p>iluwatar/java-design-patterns<br>
+Design patterns implemented in Java<br>
+Java repository by iluwatar, created in 2014, with 94,852 stars and 27,353 forks. Starred on 2017-09-02.<br>
+Homepage: <a href="https://java-design-patterns.com" target="_blank" rel="noopener noreffer ">https://java-design-patterns.com</a><br>
+<a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-09-02: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">iluwatar/java-design-patterns</a>.</em></p>]]></description></item><item><title>christian-posta/envoy-microservices-patterns</title><link>https://blog.emecas.net/posts/2017-05-27-christian-posta-envoy-microservices-patterns/</link><pubDate>Sat, 27 May 2017 11:37:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-27-christian-posta-envoy-microservices-patterns/</guid><description><![CDATA[<p>christian-posta/envoy-microservices-patterns<br>
+Set of demos to demonstrate Envoy Proxy for resilient microservices patterns<br>
+Java repository by christian-posta, created in 2017, with 218 stars and 52 forks. Starred on 2017-05-27.<br>
+<a href="https://github.com/christian-posta/envoy-microservices-patterns" target="_blank" rel="noopener noreffer ">https://github.com/christian-posta/envoy-microservices-patterns</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-05-27: <a href="https://github.com/christian-posta/envoy-microservices-patterns" target="_blank" rel="noopener noreffer ">christian-posta/envoy-microservices-patterns</a>.</em></p>]]></description></item><item><title>natbusa/geo-services.scikit-learn</title><link>https://blog.emecas.net/posts/2017-04-25-natbusa-geo-services-scikit-learn/</link><pubDate>Tue, 25 Apr 2017 21:22:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-25-natbusa-geo-services-scikit-learn/</guid><description><![CDATA[<p>natbusa/geo-services.scikit-learn<br>
+Geo-Located Data: Extracting Patterns from Mobile Data using Scikit-Learn and Cassandra<br>
+Repository by natbusa, created in 2016, with 29 stars and 18 forks. Archived by its owner. Starred on 2017-04-25.<br>
+<a href="https://github.com/natbusa/geo-services.scikit-learn" target="_blank" rel="noopener noreffer ">https://github.com/natbusa/geo-services.scikit-learn</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-04-25: <a href="https://github.com/natbusa/geo-services.scikit-learn" target="_blank" rel="noopener noreffer ">natbusa/geo-services.scikit-learn</a>.</em></p>]]></description></item></channel></rss>

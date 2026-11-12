@@ -1,4 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Client - Tag - My Notes</title><link>https://blog.emecas.net/tags/client/</link><description>Client - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 22 Apr 2020 22:17:21 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/client/" rel="self" type="application/rss+xml"/><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Client - Tag - My Notes</title><link>https://blog.emecas.net/tags/client/</link><description>Client - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 21 Jun 2025 01:49:51 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/client/" rel="self" type="application/rss+xml"/><item><title>NickTikhonov/snap-ql</title><link>https://blog.emecas.net/posts/2025-06-21-nicktikhonov-snap-ql/</link><pubDate>Sat, 21 Jun 2025 01:49:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-nicktikhonov-snap-ql/</guid><description><![CDATA[<p>NickTikhonov/snap-ql<br>
+AI-powered Postgres Client<br>
+TypeScript repository by NickTikhonov, created in 2025, with 492 stars and 25 forks. License: MIT. Starred on 2025-06-21.<br>
+<a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">https://github.com/NickTikhonov/snap-ql</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">NickTikhonov/snap-ql</a>.</em></p>]]></description></item><item><title>f5devcentral/vscode-f5</title><link>https://blog.emecas.net/posts/2024-01-23-f5devcentral-vscode-f5/</link><pubDate>Tue, 23 Jan 2024 20:57:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-01-23-f5devcentral-vscode-f5/</guid><description><![CDATA[<p>f5devcentral/vscode-f5<br>
+Let the F5 VSCode extension supercharge your workflows with schema validation, rest client, fast templates, and so much more!!!<br>
+TypeScript repository by f5devcentral, created in 2020, with 62 stars and 19 forks. License: Apache-2.0. Starred on 2024-01-23.<br>
+Homepage: <a href="https://f5devcentral.github.io/vscode-f5/#/" target="_blank" rel="noopener noreffer ">https://f5devcentral.github.io/vscode-f5/#/</a><br>
+<a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">https://github.com/f5devcentral/vscode-f5</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-01-23: <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">f5devcentral/vscode-f5</a>.</em></p>]]></description></item><item><title>Docile-Alligator/Infinity-For-Reddit</title><link>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</link><pubDate>Tue, 12 Jan 2021 13:43:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</guid><description><![CDATA[<p>Docile-Alligator/Infinity-For-Reddit<br>
+A Reddit client for Android<br>
+Java repository by Docile-Alligator, created in 2018, with 5,543 stars and 538 forks. License: AGPL-3.0. Starred on 2021-01-12.<br>
+Homepage: <a href="https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus</a><br>
+<a href="https://github.com/Docile-Alligator/Infinity-For-Reddit" target="_blank" rel="noopener noreffer ">https://github.com/Docile-Alligator/Infinity-For-Reddit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-12: <a href="https://github.com/Docile-Alligator/Infinity-For-Reddit" target="_blank" rel="noopener noreffer ">Docile-Alligator/Infinity-For-Reddit</a>.</em></p>]]></description></item><item><title>trello-cli</title><link>https://blog.emecas.net/posts/2020-04-22-trello-cli/</link><pubDate>Wed, 22 Apr 2020 22:17:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-22-trello-cli/</guid><description><![CDATA[<p>trello-cli<br>
 Command line client for Trello<br>
 <a href="https://github.com/mheap/trello-cli" target="_blank" rel="noopener noreffer ">https://github.com/mheap/trello-cli</a></p>
 <p>Supported API commands</p>
@@ -15,24 +32,39 @@ show-boards        Show the list of cached boards<br>
 show-cards         Show the cards on a list<br>
 show-labels        Show labels defined on a board<br>
 show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
-show-lists         Show the list of cached lists</p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
-<a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
-NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
-<p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
-<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>JIRA REST Java Client Library</title><link>https://blog.emecas.net/posts/2017-03-31-jira-rest-java-client-library/</link><pubDate>Fri, 31 Mar 2017 14:34:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-31-jira-rest-java-client-library/</guid><description><![CDATA[<p>JIRA REST Java Client Library<br>
-<a href="https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview" target="_blank" rel="noopener noreffer ">https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview</a><br>
-Repo: <a href="https://bitbucket.org/atlassian/jira-rest-java-client" target="_blank" rel="noopener noreffer ">https://bitbucket.org/atlassian/jira-rest-java-client</a></p>
-<p>About</p>
-<p>JIRA REST Java Client is a Java library (usable from any JVM language) which allows to easily talk to any JIRA 4.2+ instance using new (and still evolving) REST API.</p>
-<p>JRJC currently provides a thin layer of abstraction on top of REST API and related HTTP(S) communication. It provides a domain object model of JIRA entities on the client side - objects representing issues, priorities, resolutions, statuses, users, etc.</p>]]></description></item><item><title>Aurelia</title><link>https://blog.emecas.net/posts/2017-03-13-aurelia/</link><pubDate>Mon, 13 Mar 2017 15:07:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-13-aurelia/</guid><description><![CDATA[<p>Aurelia<br>
-<a href="http://aurelia.io/" target="_blank" rel="noopener noreffer ">http://aurelia.io/</a><br>
-Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.</p>
+show-lists         Show the list of cached lists</p>]]></description></item><item><title>maks/MGit</title><link>https://blog.emecas.net/posts/2019-12-04-maks-mgit/</link><pubDate>Wed, 04 Dec 2019 14:31:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-04-maks-mgit/</guid><description><![CDATA[<p>maks/MGit<br>
+A Git client for Android.<br>
+Java repository by maks, created in 2016, with 1,591 stars and 211 forks. License: GPL-3.0. Starred on 2019-12-04.<br>
+Homepage: <a href="https://manichord.com/projects/mgit.html" target="_blank" rel="noopener noreffer ">https://manichord.com/projects/mgit.html</a><br>
+<a href="https://github.com/maks/MGit" target="_blank" rel="noopener noreffer ">https://github.com/maks/MGit</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a400fdd46ccbf003cf7740ecfbd16ac936715a94" target="_blank" rel="noopener noreffer "><code>a400fdd</code></a> in My-Notes.</em></p>]]></description></item><item><title>Grive</title><link>https://blog.emecas.net/posts/2013-11-18-grive/</link><pubDate>Mon, 18 Nov 2013 01:51:14 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-18-grive/</guid><description><![CDATA[<p>Grive<br>
-<a href="http://www.lbreda.com/grive/start" target="_blank" rel="noopener noreffer ">http://www.lbreda.com/grive/start</a><br>
-The purpose of this project is to provide an independent open source implementation of Google Drive client for GNU/Linux. It uses the Google Document List API to talk to the servers in Google. The code is written in standard C++.</p>
-<p>Related:<br>
-Backup script on Google Drive for Linux<br>
-<a href="http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/" target="_blank" rel="noopener noreffer ">http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/</a></p>
+<p><em>Source: starred on GitHub on 2019-12-04: <a href="https://github.com/maks/MGit" target="_blank" rel="noopener noreffer ">maks/MGit</a>.</em></p>]]></description></item><item><title>sheimi/SGit</title><link>https://blog.emecas.net/posts/2019-12-04-sheimi-sgit/</link><pubDate>Wed, 04 Dec 2019 14:31:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-04-sheimi-sgit/</guid><description><![CDATA[<p>sheimi/SGit<br>
+A Git client for Android.<br>
+Java repository by sheimi, created in 2013, with 379 stars and 113 forks. License: GPL-3.0. Starred on 2019-12-04.<br>
+Homepage: <a href="http://tiny.cc/sgit" target="_blank" rel="noopener noreffer ">http://tiny.cc/sgit</a><br>
+<a href="https://github.com/sheimi/SGit" target="_blank" rel="noopener noreffer ">https://github.com/sheimi/SGit</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d50aa81002274c629fefcc41644c0e57cf82e1c6" target="_blank" rel="noopener noreffer "><code>d50aa81</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-12-04: <a href="https://github.com/sheimi/SGit" target="_blank" rel="noopener noreffer ">sheimi/SGit</a>.</em></p>]]></description></item><item><title>phcoder/SGit</title><link>https://blog.emecas.net/posts/2019-12-04-phcoder-sgit/</link><pubDate>Wed, 04 Dec 2019 14:31:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-04-phcoder-sgit/</guid><description><![CDATA[<p>phcoder/SGit<br>
+A Git client for Android.<br>
+Java repository by phcoder, created in 2015, with 26 stars and 6 forks. License: GPL-3.0. Starred on 2019-12-04.<br>
+Homepage: <a href="http://tiny.cc/sgit" target="_blank" rel="noopener noreffer ">http://tiny.cc/sgit</a><br>
+<a href="https://github.com/phcoder/SGit" target="_blank" rel="noopener noreffer ">https://github.com/phcoder/SGit</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-12-04: <a href="https://github.com/phcoder/SGit" target="_blank" rel="noopener noreffer ">phcoder/SGit</a>.</em></p>]]></description></item><item><title>jonan/ForkHub</title><link>https://blog.emecas.net/posts/2019-10-05-jonan-forkhub/</link><pubDate>Sat, 05 Oct 2019 16:23:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-10-05-jonan-forkhub/</guid><description><![CDATA[<p>jonan/ForkHub<br>
+GitHub client for Android based on the abandoned official app<br>
+JavaScript repository by jonan, created in 2014, with 2,804 stars and 472 forks. License: Apache-2.0. Starred on 2019-10-05.<br>
+Homepage: <a href="https://play.google.com/store/apps/details?id=jp.forkhub" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=jp.forkhub</a><br>
+<a href="https://github.com/jonan/ForkHub" target="_blank" rel="noopener noreffer ">https://github.com/jonan/ForkHub</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-10-05: <a href="https://github.com/jonan/ForkHub" target="_blank" rel="noopener noreffer ">jonan/ForkHub</a>.</em></p>]]></description></item><item><title>slapperwan/gh4a</title><link>https://blog.emecas.net/posts/2019-10-03-slapperwan-gh4a/</link><pubDate>Thu, 03 Oct 2019 02:18:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-10-03-slapperwan-gh4a/</guid><description><![CDATA[<p>slapperwan/gh4a<br>
+Github client for Android<br>
+Java repository by slapperwan, created in 2011, with 2,009 stars and 251 forks. License: Apache-2.0. Starred on 2019-10-03.<br>
+<a href="https://github.com/slapperwan/gh4a" target="_blank" rel="noopener noreffer ">https://github.com/slapperwan/gh4a</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-10-03: <a href="https://github.com/slapperwan/gh4a" target="_blank" rel="noopener noreffer ">slapperwan/gh4a</a>.</em></p>]]></description></item><item><title>dbeaver/dbeaver</title><link>https://blog.emecas.net/posts/2019-09-09-dbeaver-dbeaver/</link><pubDate>Mon, 09 Sep 2019 20:08:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-09-dbeaver-dbeaver/</guid><description><![CDATA[<p>dbeaver/dbeaver<br>
+Free universal database tool and SQL client<br>
+Java repository by dbeaver, created in 2015, with 52,391 stars and 4,454 forks. License: Apache-2.0. Starred on 2019-09-09.<br>
+Homepage: <a href="https://dbeaver.io" target="_blank" rel="noopener noreffer ">https://dbeaver.io</a><br>
+<a href="https://github.com/dbeaver/dbeaver" target="_blank" rel="noopener noreffer ">https://github.com/dbeaver/dbeaver</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-09: <a href="https://github.com/dbeaver/dbeaver" target="_blank" rel="noopener noreffer ">dbeaver/dbeaver</a>.</em></p>]]></description></item></channel></rss>

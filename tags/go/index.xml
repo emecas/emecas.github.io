@@ -1,27 +1,56 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Go - Tag - My Notes</title><link>https://blog.emecas.net/tags/go/</link><description>Go - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 20 Mar 2020 17:07:36 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/go/" rel="self" type="application/rss+xml"/><item><title>go-covid</title><link>https://blog.emecas.net/posts/2020-03-20-go-covid/</link><pubDate>Fri, 20 Mar 2020 17:07:36 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-20-go-covid/</guid><description><![CDATA[<p>go-covid<br>
-Go Package to get information regarding the novel corona virus provided by Johns Hopkins university<br>
-<a href="https://ahmednafies.github.io/go-covid/" target="_blank" rel="noopener noreffer ">https://ahmednafies.github.io/go-covid/</a><br>
-<a href="https://github.com/ahmednafies/go-covid" target="_blank" rel="noopener noreffer ">https://github.com/ahmednafies/go-covid</a></p>
-<p>Get All Data<br>
-data := covid.GetData()<br>
-fmt.Println(data)</p>
-<p>Get Status By Country Name<br>
-data := covid.GetCountryByName(&ldquo;italy&rdquo;)</p>
-<p>List Countries<br>
-covid.ListCountries()</p>
-<p>Get Status by Country ID<br>
-data := covid.GetCountryById(113)</p>
-<p>Get Total Active Cases<br>
-active := covid.GetTotalActive()</p>
-<p>Get Total Confirmed Cases<br>
-confirmed := covid.GetTotalConfirmed()</p>
-<p>Get Total Recovered Cases<br>
-recovered := covid.GetTotalRecovered()</p>
-<p>Get Total Deaths<br>
-deaths := covid.GetTotalDeaths()</p>]]></description></item><item><title>Monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror/</link><pubDate>Sat, 07 Mar 2020 20:09:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror/</guid><description><![CDATA[<p>Monitoror<br>
-<a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
-Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
-<a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
-<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Go - Tag - My Notes</title><link>https://blog.emecas.net/tags/go/</link><description>Go - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Apr 2026 11:02:51 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/go/" rel="self" type="application/rss+xml"/><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
+simple terminal UI for git commands<br>
+Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
+<a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item><item><title>nektos/act</title><link>https://blog.emecas.net/posts/2025-05-19-nektos-act/</link><pubDate>Mon, 19 May 2025 19:47:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-19-nektos-act/</guid><description><![CDATA[<p>nektos/act<br>
+Run your GitHub Actions locally 🚀<br>
+Go repository by nektos, created in 2019, with 72,640 stars and 2,119 forks. License: MIT. Starred on 2025-05-19.<br>
+Homepage: <a href="https://nektosact.com" target="_blank" rel="noopener noreffer ">https://nektosact.com</a><br>
+<a href="https://github.com/nektos/act" target="_blank" rel="noopener noreffer ">https://github.com/nektos/act</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-05-19: <a href="https://github.com/nektos/act" target="_blank" rel="noopener noreffer ">nektos/act</a>.</em></p>]]></description></item><item><title>milvus-io/milvus</title><link>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</link><pubDate>Mon, 07 Apr 2025 03:37:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</guid><description><![CDATA[<p>milvus-io/milvus<br>
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search<br>
+Go repository by milvus-io, created in 2019, with 46,633 stars and 4,327 forks. License: Apache-2.0. Starred on 2025-04-07.<br>
+Homepage: <a href="https://milvus.io" target="_blank" rel="noopener noreffer ">https://milvus.io</a><br>
+<a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">https://github.com/milvus-io/milvus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-04-07: <a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">milvus-io/milvus</a>.</em></p>]]></description></item><item><title>seatgeek/mailroom</title><link>https://blog.emecas.net/posts/2024-12-10-seatgeek-mailroom/</link><pubDate>Tue, 10 Dec 2024 14:49:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-12-10-seatgeek-mailroom/</guid><description><![CDATA[<p>seatgeek/mailroom<br>
+Framework for creating, routing, and delivering user notifications based on events from external systems<br>
+Go repository by seatgeek, created in 2024, with 576 stars and 19 forks. License: Apache-2.0. Archived by its owner. Starred on 2024-12-10.<br>
+Homepage: <a href="https://chairnerd.seatgeek.com/mailroom-notification-framework/" target="_blank" rel="noopener noreffer ">https://chairnerd.seatgeek.com/mailroom-notification-framework/</a><br>
+<a href="https://github.com/seatgeek/mailroom" target="_blank" rel="noopener noreffer ">https://github.com/seatgeek/mailroom</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-12-10: <a href="https://github.com/seatgeek/mailroom" target="_blank" rel="noopener noreffer ">seatgeek/mailroom</a>.</em></p>]]></description></item><item><title>rakyll/hey</title><link>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</link><pubDate>Thu, 17 Oct 2024 18:07:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</guid><description><![CDATA[<p>rakyll/hey<br>
+HTTP load generator, ApacheBench (ab) replacement<br>
+Go repository by rakyll, created in 2016, with 20,778 stars and 1,326 forks. License: Apache-2.0. Starred on 2024-10-17.<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-17: <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">rakyll/hey</a>.</em></p>]]></description></item><item><title>Soypete/WebServices-in-3-weeks</title><link>https://blog.emecas.net/posts/2024-06-03-soypete-webservices-in-3-weeks/</link><pubDate>Mon, 03 Jun 2024 16:02:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-03-soypete-webservices-in-3-weeks/</guid><description><![CDATA[<p>Soypete/WebServices-in-3-weeks<br>
+Made for the O&rsquo;Reilly media course: Go for Web Development in 3 Weeks-A Guide for Building Robust Web Apps<br>
+Go repository by Soypete, created in 2023, with 27 stars and 10 forks. Starred on 2024-06-03.<br>
+<a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">https://github.com/Soypete/WebServices-in-3-weeks</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-03: <a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">Soypete/WebServices-in-3-weeks</a>.</em></p>]]></description></item><item><title>ollama/ollama</title><link>https://blog.emecas.net/posts/2023-10-05-ollama-ollama/</link><pubDate>Thu, 05 Oct 2023 21:18:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-10-05-ollama-ollama/</guid><description><![CDATA[<p>ollama/ollama<br>
+Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.<br>
+Go repository by ollama, created in 2023, with 186,591 stars and 19,010 forks. License: MIT. Starred on 2023-10-05.<br>
+Homepage: <a href="https://ollama.com" target="_blank" rel="noopener noreffer ">https://ollama.com</a><br>
+<a href="https://github.com/ollama/ollama" target="_blank" rel="noopener noreffer ">https://github.com/ollama/ollama</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-10-05: <a href="https://github.com/ollama/ollama" target="_blank" rel="noopener noreffer ">ollama/ollama</a>.</em></p>]]></description></item><item><title>ystyle/jvms</title><link>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</link><pubDate>Wed, 26 Jul 2023 15:44:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</guid><description><![CDATA[<p>ystyle/jvms<br>
+JDK Version Manager (JVMS) for Windows<br>
+Go repository by ystyle, created in 2015, with 1,040 stars and 108 forks. License: MIT. Starred on 2023-07-26.<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-07-26: <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">ystyle/jvms</a>.</em></p>]]></description></item><item><title>FerretDB/FerretDB</title><link>https://blog.emecas.net/posts/2023-05-31-ferretdb-ferretdb/</link><pubDate>Wed, 31 May 2023 15:09:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-05-31-ferretdb-ferretdb/</guid><description><![CDATA[<p>FerretDB/FerretDB<br>
+A truly Open Source MongoDB alternative<br>
+Go repository by FerretDB, created in 2021, with 11,117 stars and 498 forks. License: Apache-2.0. Starred on 2023-05-31.<br>
+Homepage: <a href="https://www.ferretdb.com" target="_blank" rel="noopener noreffer ">https://www.ferretdb.com</a><br>
+<a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">https://github.com/FerretDB/FerretDB</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-05-31: <a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">FerretDB/FerretDB</a>.</em></p>]]></description></item><item><title>wagoodman/dive</title><link>https://blog.emecas.net/posts/2021-03-11-wagoodman-dive/</link><pubDate>Thu, 11 Mar 2021 17:22:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-03-11-wagoodman-dive/</guid><description><![CDATA[<p>wagoodman/dive<br>
+A tool for exploring each layer in a docker image<br>
+Go repository by wagoodman, created in 2018, with 54,718 stars and 2,011 forks. License: MIT. Starred on 2021-03-11.<br>
+<a href="https://github.com/wagoodman/dive" target="_blank" rel="noopener noreffer ">https://github.com/wagoodman/dive</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-03-11: <a href="https://github.com/wagoodman/dive" target="_blank" rel="noopener noreffer ">wagoodman/dive</a>.</em></p>]]></description></item></channel></rss>

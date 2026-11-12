@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Routing - Tag - My Notes</title><link>https://blog.emecas.net/tags/routing/</link><description>Routing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 02 Aug 2019 16:59:57 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/routing/" rel="self" type="application/rss+xml"/><item><title>Apache NiFi</title><link>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</link><pubDate>Fri, 02 Aug 2019 16:59:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</guid><description><![CDATA[<p>Apache NiFi<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Routing - Tag - My Notes</title><link>https://blog.emecas.net/tags/routing/</link><description>Routing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 10 Dec 2024 14:49:48 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/routing/" rel="self" type="application/rss+xml"/><item><title>seatgeek/mailroom</title><link>https://blog.emecas.net/posts/2024-12-10-seatgeek-mailroom/</link><pubDate>Tue, 10 Dec 2024 14:49:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-12-10-seatgeek-mailroom/</guid><description><![CDATA[<p>seatgeek/mailroom<br>
+Framework for creating, routing, and delivering user notifications based on events from external systems<br>
+Go repository by seatgeek, created in 2024, with 576 stars and 19 forks. License: Apache-2.0. Archived by its owner. Starred on 2024-12-10.<br>
+Homepage: <a href="https://chairnerd.seatgeek.com/mailroom-notification-framework/" target="_blank" rel="noopener noreffer ">https://chairnerd.seatgeek.com/mailroom-notification-framework/</a><br>
+<a href="https://github.com/seatgeek/mailroom" target="_blank" rel="noopener noreffer ">https://github.com/seatgeek/mailroom</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-12-10: <a href="https://github.com/seatgeek/mailroom" target="_blank" rel="noopener noreffer ">seatgeek/mailroom</a>.</em></p>]]></description></item><item><title>Apache NiFi</title><link>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</link><pubDate>Fri, 02 Aug 2019 16:59:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</guid><description><![CDATA[<p>Apache NiFi<br>
 <a href="https://nifi.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://nifi.apache.org/index.html</a><br>
 <a href="https://gitbox.apache.org/repos/asf?p=nifi.git" target="_blank" rel="noopener noreffer ">https://gitbox.apache.org/repos/asf?p=nifi.git</a></p>
 <p>An easy to use, powerful, and reliable system to process and distribute data.</p>
@@ -29,4 +35,9 @@ Content<br>
 5. Simple routing overview. . . . . . . . . . . . . 4<br>
 6. Examples. . . . . . . . . . . . . . . . . . . . . . . . . . . 5<br>
 7. Additional operations. . . . . . . . . . . . . . . 10<br>
-8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item></channel></rss>
+8. About the author. . . . . . . . . . . . . . . . . . . . 11</p>]]></description></item><item><title>Netflix/zuul</title><link>https://blog.emecas.net/posts/2017-05-15-netflix-zuul/</link><pubDate>Mon, 15 May 2017 14:59:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-15-netflix-zuul/</guid><description><![CDATA[<p>Netflix/zuul<br>
+Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.<br>
+Java repository by Netflix, created in 2013, with 14,099 stars and 2,441 forks. License: Apache-2.0. Starred on 2017-05-15.<br>
+<a href="https://github.com/Netflix/zuul" target="_blank" rel="noopener noreffer ">https://github.com/Netflix/zuul</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-05-15: <a href="https://github.com/Netflix/zuul" target="_blank" rel="noopener noreffer ">Netflix/zuul</a>.</em></p>]]></description></item></channel></rss>

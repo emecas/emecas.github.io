@@ -4,4 +4,9 @@ Lightweight. Fast. Crafted for Microservices.<br>
 Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
 <p>Simple and fast<br>
 Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.<br>
-border_clear</p>]]></description></item></channel></rss>
+border_clear</p>]]></description></item><item><title>Netflix/eureka</title><link>https://blog.emecas.net/posts/2017-01-19-netflix-eureka/</link><pubDate>Thu, 19 Jan 2017 13:41:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-19-netflix-eureka/</guid><description><![CDATA[<p>Netflix/eureka<br>
+AWS Service registry for resilient mid-tier load balancing and failover.<br>
+Java repository by Netflix, created in 2012, with 12,754 stars and 3,756 forks. License: Apache-2.0. Starred on 2017-01-19.<br>
+<a href="https://github.com/Netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/Netflix/eureka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-01-19: <a href="https://github.com/Netflix/eureka" target="_blank" rel="noopener noreffer ">Netflix/eureka</a>.</em></p>]]></description></item></channel></rss>

@@ -17,7 +17,12 @@ Successfully verified installer hash<br>
 Starting package install&hellip;<br>
 Path environment variable modified; restart your shell to use the new value.<br>
 Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
+Successfully installed</p>]]></description></item><item><title>rakyll/hey</title><link>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</link><pubDate>Thu, 17 Oct 2024 18:07:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</guid><description><![CDATA[<p>rakyll/hey<br>
+HTTP load generator, ApacheBench (ab) replacement<br>
+Go repository by rakyll, created in 2016, with 20,778 stars and 1,326 forks. License: Apache-2.0. Starred on 2024-10-17.<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-17: <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">rakyll/hey</a>.</em></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
 <a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
 HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
 <p>CURL Call:<br>
@@ -31,7 +36,13 @@ The AWS CDK is a new software development framework from AWS with the sole purpo
 and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
 <p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
 Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
-anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>REST (Representational State Transfer) - RFCs</title><link>https://blog.emecas.net/posts/2019-02-05-rest-representational-state-transfer-rfcs/</link><pubDate>Tue, 05 Feb 2019 15:15:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-05-rest-representational-state-transfer-rfcs/</guid><description><![CDATA[<p>REST (Representational State Transfer) - RFCs<br>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>wiremock/wiremock</title><link>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</link><pubDate>Fri, 13 Sep 2019 21:21:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</guid><description><![CDATA[<p>wiremock/wiremock<br>
+A tool for mocking HTTP services<br>
+Java repository by wiremock, created in 2011, with 7,423 stars and 1,533 forks. License: Apache-2.0. Starred on 2019-09-13.<br>
+Homepage: <a href="https://wiremock.org/" target="_blank" rel="noopener noreffer ">https://wiremock.org/</a><br>
+<a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">https://github.com/wiremock/wiremock</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-13: <a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">wiremock/wiremock</a>.</em></p>]]></description></item><item><title>REST (Representational State Transfer) - RFCs</title><link>https://blog.emecas.net/posts/2019-02-05-rest-representational-state-transfer-rfcs/</link><pubDate>Tue, 05 Feb 2019 15:15:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-05-rest-representational-state-transfer-rfcs/</guid><description><![CDATA[<p>REST (Representational State Transfer) - RFCs<br>
 <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Representational_state_transfer</a></p>
 <p>Hypertext Transfer Protocol -- HTTP/1.0 <a href="https://tools.ietf.org/html/rfc1945" target="_blank" rel="noopener noreffer ">https://tools.ietf.org/html/rfc1945</a><br>
 Hypertext Transfer Protocol -- HTTP/1.1 <a href="https://tools.ietf.org/html/rfc2616" target="_blank" rel="noopener noreffer ">https://tools.ietf.org/html/rfc2616</a></p>
@@ -56,31 +67,10 @@ Powerful HTTP toolbelt, in one intuitive app<br>
 Free and open source on Mac, Windows, and Linux</p>
 <p>HTTPie<br>
 <a href="https://httpie.org/" target="_blank" rel="noopener noreffer ">https://httpie.org/</a><br>
-HTTPie consists of a single http command designed for painless debugging and interaction with HTTP servers, RESTful APIs, and web services:</p>]]></description></item><item><title>73. Embedded servlet containers</title><link>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</link><pubDate>Wed, 17 May 2017 08:33:15 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-17-73-embedded-servlet-containers/</guid><description><![CDATA[<p>73. Embedded servlet containers<br>
-Part IX. ‘How-to’ guides<br>
-<a href="https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html" target="_blank" rel="noopener noreffer ">https://docs.spring.io/spring-boot/docs/current/reference/html/howto-embedded-servlet-containers.html</a><br>
-73. Embedded servlet containers</p>
-<p>73.1. Add a Servlet, Filter or Listener to an application</p>
-<p>73.1.1. Add a Servlet, Filter or Listener using a Spring bean</p>
-<p>Disable registration of a Servlet or Filter</p>
-<p>73.1.2. Add Servlets, Filters, and Listeners using classpath scanning</p>
-<p>73.2. Change the HTTP port<br>
-73.3. Use a random unassigned HTTP port<br>
-73.4. Discover the HTTP port at runtime<br>
-73.5. Configure SSL<br>
-73.6. Configure Access Logging<br>
-73.7. Use behind a front-end proxy server</p>]]></description></item><item><title>Links: Apache APC, HTTP performance , and MySQL Tuning</title><link>https://blog.emecas.net/posts/2013-11-12-links-apache-apc-http-performance-and-mysql-tuning/</link><pubDate>Tue, 12 Nov 2013 22:36:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-12-links-apache-apc-http-performance-and-mysql-tuning/</guid><description><![CDATA[<p>Uninstalling/enable or disable Apache APC</p>
-<p>How to uninstall APC from a dedicated cpanel server using ssh<br>
-<a href="http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh</a></p>
-<p>Linux: enable or disable PHP APC opcode cache for virtual host<br>
-<a href="http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/" target="_blank" rel="noopener noreffer ">http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/</a></p>
-<p>Disable or remove apc<br>
-<a href="http://stackoverflow.com/questions/11309987/disable-or-remove-apc" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/11309987/disable-or-remove-apc</a></p>
-<p>Testing HTTP performance</p>
-<p>Staying Out of Deep Water: Performance Testing Using HTTPD-Test&rsquo;s Flood Page 3<br>
-<a href="http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm" target="_blank" rel="noopener noreffer ">http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm</a></p>
-<p>MySQL Tuning</p>
-<p>2 Linux MySQL Tuning Scripts you must have<br>
-<a href="http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have" target="_blank" rel="noopener noreffer ">http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have</a></p>
-<p>MySQL Performance Tuning Scripts and Know-How<br>
-<a href="http://www.askapache.com/mysql/performance-tuning-mysql.html" target="_blank" rel="noopener noreffer ">http://www.askapache.com/mysql/performance-tuning-mysql.html</a></p>]]></description></item></channel></rss>
+HTTPie consists of a single http command designed for painless debugging and interaction with HTTP servers, RESTful APIs, and web services:</p>]]></description></item><item><title>restsharp/RestSharp</title><link>https://blog.emecas.net/posts/2017-06-29-restsharp-restsharp/</link><pubDate>Thu, 29 Jun 2017 18:57:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-29-restsharp-restsharp/</guid><description><![CDATA[<p>restsharp/RestSharp<br>
+Simple REST and HTTP API Client for .NET<br>
+C# repository by restsharp, created in 2009, with 9,812 stars and 2,295 forks. License: Apache-2.0. Starred on 2017-06-29.<br>
+Homepage: <a href="https://restsharp.dev" target="_blank" rel="noopener noreffer ">https://restsharp.dev</a><br>
+<a href="https://github.com/restsharp/RestSharp" target="_blank" rel="noopener noreffer ">https://github.com/restsharp/RestSharp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-29: <a href="https://github.com/restsharp/RestSharp" target="_blank" rel="noopener noreffer ">restsharp/RestSharp</a>.</em></p>]]></description></item></channel></rss>

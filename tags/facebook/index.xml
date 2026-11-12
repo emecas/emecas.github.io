@@ -4,7 +4,13 @@ when agility meets reality<br>
 by Luxshan Ratnaravi and Mikkel Noe-Nygaard<br>
 <a href="https://noe-nygaard.dk/comicagile/" target="_blank" rel="noopener noreffer ">https://noe-nygaard.dk/comicagile/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83dcd17964435b076f6beabe460686a4778b9e77" target="_blank" rel="noopener noreffer "><code>83dcd17</code></a> in My-Notes.</em></p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83dcd17964435b076f6beabe460686a4778b9e77" target="_blank" rel="noopener noreffer "><code>83dcd17</code></a> in My-Notes.</em></p>]]></description></item><item><title>simdjson/simdjson</title><link>https://blog.emecas.net/posts/2020-04-27-simdjson-simdjson/</link><pubDate>Mon, 27 Apr 2020 13:46:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-simdjson-simdjson/</guid><description><![CDATA[<p>simdjson/simdjson<br>
+Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks<br>
+C++ repository by simdjson, created in 2018, with 24,540 stars and 1,358 forks. License: Apache-2.0. Starred on 2020-04-27.<br>
+Homepage: <a href="https://simdjson.org" target="_blank" rel="noopener noreffer ">https://simdjson.org</a><br>
+<a href="https://github.com/simdjson/simdjson" target="_blank" rel="noopener noreffer ">https://github.com/simdjson/simdjson</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-04-27: <a href="https://github.com/simdjson/simdjson" target="_blank" rel="noopener noreffer ">simdjson/simdjson</a>.</em></p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
 rocksdb.org<br>
 RocksDB is an embeddable persistent key-value store for fast storage.<br>
 Repo: <a href="https://github.com/facebook/rocksdb/" target="_blank" rel="noopener noreffer ">https://github.com/facebook/rocksdb/</a></p>

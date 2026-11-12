@@ -1,38 +1,55 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Shell - Tag - My Notes</title><link>https://blog.emecas.net/tags/shell/</link><description>Shell - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 May 2024 21:06:37 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/shell/" rel="self" type="application/rss+xml"/><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Shell - Tag - My Notes</title><link>https://blog.emecas.net/tags/shell/</link><description>Shell - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Aug 2026 15:47:21 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/shell/" rel="self" type="application/rss+xml"/><item><title>mattpocock/skills</title><link>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</link><pubDate>Sun, 16 Aug 2026 15:47:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</guid><description><![CDATA[<p>mattpocock/skills<br>
+Skills for Real Engineers. Straight from my .agents directory.<br>
+Shell repository by mattpocock, created in 2026, with 321,085 stars and 26,920 forks. License: MIT. Starred on 2026-08-16.<br>
+Homepage: <a href="https://aihero.dev/skills" target="_blank" rel="noopener noreffer ">https://aihero.dev/skills</a><br>
+<a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreffer ">https://github.com/mattpocock/skills</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-16: <a href="https://github.com/mattpocock/skills" target="_blank" rel="noopener noreffer ">mattpocock/skills</a>.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
 CLI tool for working with Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
 repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
 <p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
-<a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
-<p>So, what is Scrapbook Page? To put it simply,<br>
-it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
-No need to create any temperory classes (like I did in the previous para).<br>
-You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
-You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
-Owner: Robert Field<br>
-Created 2014/05/16 23:13<br>
-Updated 2017/06/09 04:21<br>
-Type Feature<br>
-Status Closed / Delivered<br>
-Component tools / jshell<br>
-Scope JDK<br>
-Discussion<br>
-kulla dash dev at openjdk dot java dot net<br>
-Effort L<br>
-Duration L<br>
-Priority 2<br>
-Reviewed by Alex Buckley, Brian Goetz<br>
-Endorsed by Brian Goetz<br>
-Release 9<br>
-Issue 8043364<br>
-Summary</p>
-<p>Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
-<p>Windows PowerShell is Microsoft&rsquo;s task automation framework, consisting of a command-line shell and<br>
-associated scripting language built on .NET Framework.<br>
-PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both<br>
-local and remote Windows systems.</p>
-<p><a href="http://www.dimensionit.tv/powershell-quick-reference/" target="_blank" rel="noopener noreffer ">http://www.dimensionit.tv/powershell-quick-reference/</a></p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>TypedDevs/bashunit</title><link>https://blog.emecas.net/posts/2023-12-08-typeddevs-bashunit/</link><pubDate>Fri, 08 Dec 2023 21:36:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-12-08-typeddevs-bashunit/</guid><description><![CDATA[<p>TypedDevs/bashunit<br>
+A simple yet powerfull testing library for bash scripts.<br>
+Shell repository by TypedDevs, created in 2023, with 441 stars and 59 forks. License: MIT. Starred on 2023-12-08.<br>
+Homepage: <a href="https://bashunit.com/" target="_blank" rel="noopener noreffer ">https://bashunit.com/</a><br>
+<a href="https://github.com/TypedDevs/bashunit" target="_blank" rel="noopener noreffer ">https://github.com/TypedDevs/bashunit</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cf7118ed3a5e8023499e3e1707977993dfe0dfc" target="_blank" rel="noopener noreffer "><code>2cf7118</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2023-12-08: <a href="https://github.com/TypedDevs/bashunit" target="_blank" rel="noopener noreffer ">TypedDevs/bashunit</a>.</em></p>]]></description></item><item><title>1N3/Sn1per</title><link>https://blog.emecas.net/posts/2022-08-11-1n3-sn1per/</link><pubDate>Thu, 11 Aug 2022 16:44:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-11-1n3-sn1per/</guid><description><![CDATA[<p>1N3/Sn1per<br>
+Automated penetration testing &amp; attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.<br>
+Shell repository by 1N3, created in 2015, with 11,532 stars and 2,218 forks. Starred on 2022-08-11.<br>
+Homepage: <a href="https://sn1persecurity.com" target="_blank" rel="noopener noreffer ">https://sn1persecurity.com</a><br>
+<a href="https://github.com/1N3/Sn1per" target="_blank" rel="noopener noreffer ">https://github.com/1N3/Sn1per</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-08-11: <a href="https://github.com/1N3/Sn1per" target="_blank" rel="noopener noreffer ">1N3/Sn1per</a>.</em></p>]]></description></item><item><title>starship/starship</title><link>https://blog.emecas.net/posts/2021-01-12-starship-starship/</link><pubDate>Tue, 12 Jan 2021 13:43:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-12-starship-starship/</guid><description><![CDATA[<p>starship/starship<br>
+☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!<br>
+Rust repository by starship, created in 2019, with 60,686 stars and 2,843 forks. License: ISC. Starred on 2021-01-12.<br>
+Homepage: <a href="https://starship.rs" target="_blank" rel="noopener noreffer ">https://starship.rs</a><br>
+<a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">https://github.com/starship/starship</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-12: <a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">starship/starship</a>.</em></p>]]></description></item><item><title>sandervanvugt/cka</title><link>https://blog.emecas.net/posts/2020-11-05-sandervanvugt-cka/</link><pubDate>Thu, 05 Nov 2020 15:32:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-05-sandervanvugt-cka/</guid><description><![CDATA[<p>sandervanvugt/cka<br>
+Shell repository by sandervanvugt, created in 2019, with 550 stars and 643 forks. Starred on 2020-11-05.<br>
+<a href="https://github.com/sandervanvugt/cka" target="_blank" rel="noopener noreffer ">https://github.com/sandervanvugt/cka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-05: <a href="https://github.com/sandervanvugt/cka" target="_blank" rel="noopener noreffer ">sandervanvugt/cka</a>.</em></p>]]></description></item><item><title>sandervanvugt/ckad</title><link>https://blog.emecas.net/posts/2020-11-02-sandervanvugt-ckad/</link><pubDate>Mon, 02 Nov 2020 15:13:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-02-sandervanvugt-ckad/</guid><description><![CDATA[<p>sandervanvugt/ckad<br>
+Shell repository by sandervanvugt, created in 2019, with 375 stars and 446 forks. Starred on 2020-11-02.<br>
+<a href="https://github.com/sandervanvugt/ckad" target="_blank" rel="noopener noreffer ">https://github.com/sandervanvugt/ckad</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-02: <a href="https://github.com/sandervanvugt/ckad" target="_blank" rel="noopener noreffer ">sandervanvugt/ckad</a>.</em></p>]]></description></item><item><title>facebookarchive/caffe2</title><link>https://blog.emecas.net/posts/2020-11-01-facebookarchive-caffe2/</link><pubDate>Sun, 01 Nov 2020 01:14:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-facebookarchive-caffe2/</guid><description><![CDATA[<p>facebookarchive/caffe2<br>
+Caffe2 is a lightweight, modular, and scalable deep learning framework.<br>
+Shell repository by facebookarchive, created in 2015, with 8,369 stars and 1,895 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-11-01.<br>
+Homepage: <a href="https://caffe2.ai" target="_blank" rel="noopener noreffer ">https://caffe2.ai</a><br>
+<a href="https://github.com/facebookarchive/caffe2" target="_blank" rel="noopener noreffer ">https://github.com/facebookarchive/caffe2</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/facebookarchive/caffe2" target="_blank" rel="noopener noreffer ">facebookarchive/caffe2</a>.</em></p>]]></description></item><item><title>johnzeng/ResumableGitClone</title><link>https://blog.emecas.net/posts/2020-10-25-johnzeng-resumablegitclone/</link><pubDate>Sun, 25 Oct 2020 20:14:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-25-johnzeng-resumablegitclone/</guid><description><![CDATA[<p>johnzeng/ResumableGitClone<br>
+Clone a large repo without retrying again and again<br>
+Shell repository by johnzeng, created in 2016, with 122 stars and 33 forks. License: GPL-3.0. Starred on 2020-10-25.<br>
+<a href="https://github.com/johnzeng/ResumableGitClone" target="_blank" rel="noopener noreffer ">https://github.com/johnzeng/ResumableGitClone</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-25: <a href="https://github.com/johnzeng/ResumableGitClone" target="_blank" rel="noopener noreffer ">johnzeng/ResumableGitClone</a>.</em></p>]]></description></item><item><title>sdaschner/dotfiles</title><link>https://blog.emecas.net/posts/2020-10-13-sdaschner-dotfiles/</link><pubDate>Tue, 13 Oct 2020 23:14:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-sdaschner-dotfiles/</guid><description><![CDATA[<p>sdaschner/dotfiles<br>
+Dotfiles<br>
+Shell repository by sdaschner, created in 2015, with 296 stars and 63 forks. License: Apache-2.0. Starred on 2020-10-13.<br>
+<a href="https://github.com/sdaschner/dotfiles" target="_blank" rel="noopener noreffer ">https://github.com/sdaschner/dotfiles</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/sdaschner/dotfiles" target="_blank" rel="noopener noreffer ">sdaschner/dotfiles</a>.</em></p>]]></description></item></channel></rss>

@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Auto - Tag - My Notes</title><link>https://blog.emecas.net/tags/auto/</link><description>Auto - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Jun 2017 16:27:30 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/auto/" rel="self" type="application/rss+xml"/><item><title>pfn/passifox</title><link>https://blog.emecas.net/posts/2017-06-08-pfn-passifox/</link><pubDate>Thu, 08 Jun 2017 16:27:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-08-pfn-passifox/</guid><description><![CDATA[<p>pfn/passifox<br>
+Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)<br>
+JavaScript repository by pfn, created in 2010, with 895 stars and 178 forks. License: GPL-3.0. Starred on 2017-06-08.<br>
+<a href="https://github.com/pfn/passifox" target="_blank" rel="noopener noreffer ">https://github.com/pfn/passifox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-08: <a href="https://github.com/pfn/passifox" target="_blank" rel="noopener noreffer ">pfn/passifox</a>.</em></p>]]></description></item></channel></rss>

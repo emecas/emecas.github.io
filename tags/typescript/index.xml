@@ -1,14 +1,58 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Typescript - Tag - My Notes</title><link>https://blog.emecas.net/tags/typescript/</link><description>Typescript - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 02 Oct 2020 19:42:25 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/typescript/" rel="self" type="application/rss+xml"/><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
-<a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
-<a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
-<a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
-<p><a href="https://github.com/architect/architect" target="_blank" rel="noopener noreffer ">https://github.com/architect/architect</a></p>
-<p>Deno is a brand new experimental JavaScript runtime and deno.town is a web based REPL with linting and code completion to help you explore and learn the API.<br>
-Why Deno?</p>
-<p>It is very fast<br>
-Built in least privilege security<br>
-Standard esmodules<br>
-TypeScript, JSX and TSX dialects supported</p>
-<p>How</p>
-<p>AWS Lambda (and friends) by way of OpenJS Architect<br>
-Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Typescript - Tag - My Notes</title><link>https://blog.emecas.net/tags/typescript/</link><description>Typescript - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 06 Jul 2026 22:38:14 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/typescript/" rel="self" type="application/rss+xml"/><item><title>vas3k/TaxHacker</title><link>https://blog.emecas.net/posts/2026-07-06-vas3k-taxhacker/</link><pubDate>Mon, 06 Jul 2026 22:38:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-06-vas3k-taxhacker/</guid><description><![CDATA[<p>vas3k/TaxHacker<br>
+Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories<br>
+TypeScript repository by vas3k, created in 2025, with 6,817 stars and 1,099 forks. License: MIT. Starred on 2026-07-06.<br>
+Homepage: <a href="https://taxhacker.app" target="_blank" rel="noopener noreffer ">https://taxhacker.app</a><br>
+<a href="https://github.com/vas3k/TaxHacker" target="_blank" rel="noopener noreffer ">https://github.com/vas3k/TaxHacker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-06: <a href="https://github.com/vas3k/TaxHacker" target="_blank" rel="noopener noreffer ">vas3k/TaxHacker</a>.</em></p>]]></description></item><item><title>firecrawl/firecrawl</title><link>https://blog.emecas.net/posts/2025-07-04-firecrawl-firecrawl/</link><pubDate>Fri, 04 Jul 2025 16:33:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-07-04-firecrawl-firecrawl/</guid><description><![CDATA[<p>firecrawl/firecrawl<br>
+Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥<br>
+TypeScript repository by firecrawl, created in 2024, with 200,597 stars and 10,550 forks. License: AGPL-3.0. Starred on 2025-07-04.<br>
+Homepage: <a href="https://firecrawl.dev" target="_blank" rel="noopener noreffer ">https://firecrawl.dev</a><br>
+<a href="https://github.com/firecrawl/firecrawl" target="_blank" rel="noopener noreffer ">https://github.com/firecrawl/firecrawl</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-07-04: <a href="https://github.com/firecrawl/firecrawl" target="_blank" rel="noopener noreffer ">firecrawl/firecrawl</a>.</em></p>]]></description></item><item><title>NickTikhonov/snap-ql</title><link>https://blog.emecas.net/posts/2025-06-21-nicktikhonov-snap-ql/</link><pubDate>Sat, 21 Jun 2025 01:49:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-nicktikhonov-snap-ql/</guid><description><![CDATA[<p>NickTikhonov/snap-ql<br>
+AI-powered Postgres Client<br>
+TypeScript repository by NickTikhonov, created in 2025, with 492 stars and 25 forks. License: MIT. Starred on 2025-06-21.<br>
+<a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">https://github.com/NickTikhonov/snap-ql</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">NickTikhonov/snap-ql</a>.</em></p>]]></description></item><item><title>alumnium-hq/alumnium</title><link>https://blog.emecas.net/posts/2025-05-20-alumnium-hq-alumnium/</link><pubDate>Tue, 20 May 2025 03:41:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-20-alumnium-hq-alumnium/</guid><description><![CDATA[<p>alumnium-hq/alumnium<br>
+End-to-End Testing Harness<br>
+TypeScript repository by alumnium-hq, created in 2024, with 1,022 stars and 103 forks. License: MIT. Starred on 2025-05-20.<br>
+Homepage: <a href="https://alumnium.ai" target="_blank" rel="noopener noreffer ">https://alumnium.ai</a><br>
+<a href="https://github.com/alumnium-hq/alumnium" target="_blank" rel="noopener noreffer ">https://github.com/alumnium-hq/alumnium</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-05-20: <a href="https://github.com/alumnium-hq/alumnium" target="_blank" rel="noopener noreffer ">alumnium-hq/alumnium</a>.</em></p>]]></description></item><item><title>nanoapi-io/napi</title><link>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</link><pubDate>Wed, 30 Oct 2024 02:02:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</guid><description><![CDATA[<p>nanoapi-io/napi<br>
+Software architecture tooling for the AI age<br>
+TypeScript repository by nanoapi-io, created in 2022, with 324 stars and 13 forks. Starred on 2024-10-30.<br>
+Homepage: <a href="https://nanoapi.io" target="_blank" rel="noopener noreffer ">https://nanoapi.io</a><br>
+<a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">https://github.com/nanoapi-io/napi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-30: <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">nanoapi-io/napi</a>.</em></p>]]></description></item><item><title>tolgee/tolgee-platform</title><link>https://blog.emecas.net/posts/2024-10-15-tolgee-tolgee-platform/</link><pubDate>Tue, 15 Oct 2024 08:45:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-15-tolgee-tolgee-platform/</guid><description><![CDATA[<p>tolgee/tolgee-platform<br>
+Developer &amp; translator friendly web-based localization platform<br>
+TypeScript repository by tolgee, created in 2020, with 4,157 stars and 382 forks. Starred on 2024-10-15.<br>
+Homepage: <a href="https://tolgee.io" target="_blank" rel="noopener noreffer ">https://tolgee.io</a><br>
+<a href="https://github.com/tolgee/tolgee-platform" target="_blank" rel="noopener noreffer ">https://github.com/tolgee/tolgee-platform</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-15: <a href="https://github.com/tolgee/tolgee-platform" target="_blank" rel="noopener noreffer ">tolgee/tolgee-platform</a>.</em></p>]]></description></item><item><title>f5devcentral/vscode-f5</title><link>https://blog.emecas.net/posts/2024-01-23-f5devcentral-vscode-f5/</link><pubDate>Tue, 23 Jan 2024 20:57:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-01-23-f5devcentral-vscode-f5/</guid><description><![CDATA[<p>f5devcentral/vscode-f5<br>
+Let the F5 VSCode extension supercharge your workflows with schema validation, rest client, fast templates, and so much more!!!<br>
+TypeScript repository by f5devcentral, created in 2020, with 62 stars and 19 forks. License: Apache-2.0. Starred on 2024-01-23.<br>
+Homepage: <a href="https://f5devcentral.github.io/vscode-f5/#/" target="_blank" rel="noopener noreffer ">https://f5devcentral.github.io/vscode-f5/#/</a><br>
+<a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">https://github.com/f5devcentral/vscode-f5</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-01-23: <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">f5devcentral/vscode-f5</a>.</em></p>]]></description></item><item><title>wongjas/platform-101-mobile-request</title><link>https://blog.emecas.net/posts/2023-11-23-wongjas-platform-101-mobile-request/</link><pubDate>Thu, 23 Nov 2023 15:42:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-23-wongjas-platform-101-mobile-request/</guid><description><![CDATA[<p>wongjas/platform-101-mobile-request<br>
+This is a project used for demonstration purposes for the Building modular Slack apps: Getting started webinar.<br>
+TypeScript repository by wongjas, created in 2023, with 2 stars and 1 forks. License: MIT. Starred on 2023-11-23.<br>
+<a href="https://github.com/wongjas/platform-101-mobile-request" target="_blank" rel="noopener noreffer ">https://github.com/wongjas/platform-101-mobile-request</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-11-23: <a href="https://github.com/wongjas/platform-101-mobile-request" target="_blank" rel="noopener noreffer ">wongjas/platform-101-mobile-request</a>.</em></p>]]></description></item><item><title>jherr/create-mf-app</title><link>https://blog.emecas.net/posts/2023-11-23-jherr-create-mf-app/</link><pubDate>Thu, 23 Nov 2023 12:34:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-23-jherr-create-mf-app/</guid><description><![CDATA[<p>jherr/create-mf-app<br>
+CLI app to create Module Federation applications<br>
+TypeScript repository by jherr, created in 2021, with 783 stars and 89 forks. License: MIT. Starred on 2023-11-23.<br>
+<a href="https://github.com/jherr/create-mf-app" target="_blank" rel="noopener noreffer ">https://github.com/jherr/create-mf-app</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-11-23: <a href="https://github.com/jherr/create-mf-app" target="_blank" rel="noopener noreffer ">jherr/create-mf-app</a>.</em></p>]]></description></item><item><title>renovatebot/renovate</title><link>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</link><pubDate>Thu, 07 Sep 2023 22:30:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</guid><description><![CDATA[<p>renovatebot/renovate<br>
+Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io<br>
+TypeScript repository by renovatebot, created in 2016, with 23,080 stars and 3,436 forks. License: AGPL-3.0. Starred on 2023-09-07.<br>
+Homepage: <a href="https://mend.io/renovate" target="_blank" rel="noopener noreffer ">https://mend.io/renovate</a><br>
+<a href="https://github.com/renovatebot/renovate" target="_blank" rel="noopener noreffer ">https://github.com/renovatebot/renovate</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-09-07: <a href="https://github.com/renovatebot/renovate" target="_blank" rel="noopener noreffer ">renovatebot/renovate</a>.</em></p>]]></description></item></channel></rss>

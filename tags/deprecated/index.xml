@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Deprecated - Tag - My Notes</title><link>https://blog.emecas.net/tags/deprecated/</link><description>Deprecated - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Feb 2020 11:17:23 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/deprecated/" rel="self" type="application/rss+xml"/><item><title>RAMCloud</title><link>https://blog.emecas.net/posts/2020-02-03-ramcloud/</link><pubDate>Mon, 03 Feb 2020 11:17:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-03-ramcloud/</guid><description><![CDATA[<p>RAMCloud<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Deprecated - Tag - My Notes</title><link>https://blog.emecas.net/tags/deprecated/</link><description>Deprecated - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 Oct 2020 20:36:21 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/deprecated/" rel="self" type="application/rss+xml"/><item><title>artur-shaik/vim-javacomplete2</title><link>https://blog.emecas.net/posts/2020-10-25-artur-shaik-vim-javacomplete2/</link><pubDate>Sun, 25 Oct 2020 20:36:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-25-artur-shaik-vim-javacomplete2/</guid><description><![CDATA[<p>artur-shaik/vim-javacomplete2<br>
+DEPRECATED in favor of jc.nvim<br>
+Vim script repository by artur-shaik, created in 2015, with 963 stars and 79 forks. License: Vim. Starred on 2020-10-25.<br>
+<a href="https://github.com/artur-shaik/vim-javacomplete2" target="_blank" rel="noopener noreffer ">https://github.com/artur-shaik/vim-javacomplete2</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-25: <a href="https://github.com/artur-shaik/vim-javacomplete2" target="_blank" rel="noopener noreffer ">artur-shaik/vim-javacomplete2</a>.</em></p>]]></description></item><item><title>RAMCloud</title><link>https://blog.emecas.net/posts/2020-02-03-ramcloud/</link><pubDate>Mon, 03 Feb 2020 11:17:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-03-ramcloud/</guid><description><![CDATA[<p>RAMCloud<br>
 <a href="https://github.com/PlatformLab/RAMCloud" target="_blank" rel="noopener noreffer ">https://github.com/PlatformLab/RAMCloud</a></p>
 <p>What is RAMCloud?</p>
 <p>RAMCloud is a new class of super-high-speed storage for large-scale datacenter applications.<br>
@@ -12,4 +17,15 @@ Multiple tables, each with its own key space.<br>
 Transactional updates that span multiple objects in different tables.<br>
 Secondary indices.<br>
 Strong consistency: unlike other NoSQL storage systems, all updates in RAMCloud are consistent, immediately visible, and durable.<br>
-Easy deployment: RAMCloud is a software package that runs on commodity Intel servers with the Linux operating system. RAMCloud is available freely in open source form.</p>]]></description></item></channel></rss>
+Easy deployment: RAMCloud is a software package that runs on commodity Intel servers with the Linux operating system. RAMCloud is available freely in open source form.</p>]]></description></item><item><title>raml-org/raml-java-parser</title><link>https://blog.emecas.net/posts/2017-07-18-raml-org-raml-java-parser/</link><pubDate>Tue, 18 Jul 2017 19:46:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-18-raml-org-raml-java-parser/</guid><description><![CDATA[<p>raml-org/raml-java-parser<br>
+(deprecated) A RAML parser based on SnakeYAML written in Java<br>
+Java repository by raml-org, created in 2013, with 176 stars and 118 forks. Archived by its owner. Starred on 2017-07-18.<br>
+<a href="https://github.com/raml-org/raml-java-parser" target="_blank" rel="noopener noreffer ">https://github.com/raml-org/raml-java-parser</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-07-18: <a href="https://github.com/raml-org/raml-java-parser" target="_blank" rel="noopener noreffer ">raml-org/raml-java-parser</a>.</em></p>]]></description></item><item><title>docker-archive/docker-ce</title><link>https://blog.emecas.net/posts/2017-06-19-docker-archive-docker-ce/</link><pubDate>Mon, 19 Jun 2017 19:22:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-19-docker-archive-docker-ce/</guid><description><![CDATA[<p>docker-archive/docker-ce<br>
+&#x26a0;&#xfe0f; This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the <a href="https://github.com/docker/docker-ce/blob/master/README.md" target="_blank" rel="noopener noreffer ">https://github.com/docker/docker-ce/blob/master/README.md</a> &#x26a0;&#xfe0f;<br>
+Go repository by docker-archive, created in 2017, with 5,734 stars and 1,488 forks. License: Apache-2.0. Archived by its owner. Starred on 2017-06-19.<br>
+Homepage: <a href="https://www.docker.com/products/container-runtime" target="_blank" rel="noopener noreffer ">https://www.docker.com/products/container-runtime</a><br>
+<a href="https://github.com/docker-archive/docker-ce" target="_blank" rel="noopener noreffer ">https://github.com/docker-archive/docker-ce</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-19: <a href="https://github.com/docker-archive/docker-ce" target="_blank" rel="noopener noreffer ">docker-archive/docker-ce</a>.</em></p>]]></description></item></channel></rss>

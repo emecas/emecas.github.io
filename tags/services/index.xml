@@ -1,10 +1,38 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Services - Tag - My Notes</title><link>https://blog.emecas.net/tags/services/</link><description>Services - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Mar 2020 19:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/services/" rel="self" type="application/rss+xml"/><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Services - Tag - My Notes</title><link>https://blog.emecas.net/tags/services/</link><description>Services - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 26 May 2026 22:15:11 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/services/" rel="self" type="application/rss+xml"/><item><title>kousen/AiJavaLabs</title><link>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</link><pubDate>Tue, 26 May 2026 22:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</guid><description><![CDATA[<p>kousen/AiJavaLabs<br>
+Exercises for a course on integrating AI services with Java.<br>
+Java repository by kousen, created in 2024, with 39 stars and 35 forks. License: MIT. Starred on 2026-05-26.<br>
+<a href="https://github.com/kousen/AiJavaLabs" target="_blank" rel="noopener noreffer ">https://github.com/kousen/AiJavaLabs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-05-26: <a href="https://github.com/kousen/AiJavaLabs" target="_blank" rel="noopener noreffer ">kousen/AiJavaLabs</a>.</em></p>]]></description></item><item><title>kousen/restclient_v3</title><link>https://blog.emecas.net/posts/2024-06-11-kousen-restclient-v3/</link><pubDate>Tue, 11 Jun 2024 14:29:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-11-kousen-restclient-v3/</guid><description><![CDATA[<p>kousen/restclient_v3<br>
+Access multiple public REST services using Spring Boot rest clients WebClient, RestTemplate, HttpExchange<br>
+Java repository by kousen, created in 2023, with 11 stars and 9 forks. License: MIT. Starred on 2024-06-11.<br>
+<a href="https://github.com/kousen/restclient_v3" target="_blank" rel="noopener noreffer ">https://github.com/kousen/restclient_v3</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/kousen/restclient_v3" target="_blank" rel="noopener noreffer ">kousen/restclient_v3</a>.</em></p>]]></description></item><item><title>arXiv/arxiv-base</title><link>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</link><pubDate>Sun, 16 Aug 2020 13:12:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</guid><description><![CDATA[<p>arXiv/arxiv-base<br>
+Supporting libraries for templates and arXiv services<br>
+Python repository by arXiv, created in 2017, with 61 stars and 14 forks. Starred on 2020-08-16.<br>
+Homepage: <a href="https://arxiv.github.io/arxiv-base/" target="_blank" rel="noopener noreffer ">https://arxiv.github.io/arxiv-base/</a><br>
+<a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">https://github.com/arXiv/arxiv-base</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-16: <a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">arXiv/arxiv-base</a>.</em></p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
 <a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
 Tilt Up and Get Stuff Done<br>
 Tilt manages local development instances for teams that deploy to Kubernetes.</p>
 <p>Transition easily from any setup<br>
 Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
-(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>Learn REST: A RESTful Tutorial</title><link>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</link><pubDate>Wed, 06 Mar 2019 15:58:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</guid><description><![CDATA[<p>Learn REST: A RESTful Tutorial<br>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>wiremock/wiremock</title><link>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</link><pubDate>Fri, 13 Sep 2019 21:21:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</guid><description><![CDATA[<p>wiremock/wiremock<br>
+A tool for mocking HTTP services<br>
+Java repository by wiremock, created in 2011, with 7,423 stars and 1,533 forks. License: Apache-2.0. Starred on 2019-09-13.<br>
+Homepage: <a href="https://wiremock.org/" target="_blank" rel="noopener noreffer ">https://wiremock.org/</a><br>
+<a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">https://github.com/wiremock/wiremock</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-13: <a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">wiremock/wiremock</a>.</em></p>]]></description></item><item><title>keycloak/keycloak</title><link>https://blog.emecas.net/posts/2019-03-14-keycloak-keycloak/</link><pubDate>Thu, 14 Mar 2019 12:26:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-keycloak-keycloak/</guid><description><![CDATA[<p>keycloak/keycloak<br>
+Open Source Identity and Access Management For Modern Applications and Services<br>
+Java repository by keycloak, created in 2013, with 37,811 stars and 9,172 forks. License: Apache-2.0. Starred on 2019-03-14.<br>
+Homepage: <a href="https://www.keycloak.org" target="_blank" rel="noopener noreffer ">https://www.keycloak.org</a><br>
+<a href="https://github.com/keycloak/keycloak" target="_blank" rel="noopener noreffer ">https://github.com/keycloak/keycloak</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/keycloak/keycloak" target="_blank" rel="noopener noreffer ">keycloak/keycloak</a>.</em></p>]]></description></item><item><title>Learn REST: A RESTful Tutorial</title><link>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</link><pubDate>Wed, 06 Mar 2019 15:58:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</guid><description><![CDATA[<p>Learn REST: A RESTful Tutorial<br>
 <a href="https://www.restapitutorial.com/" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/</a></p>
 <p>RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available<br>
 to enable quick reference and self education for the development crafts-person.<br>
@@ -22,35 +50,10 @@ Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/788ef1f38045cc652b3182706eaae9dd69d9ff0b" target="_blank" rel="noopener noreffer "><code>788ef1f</code></a> in My-Notes.</em></p>]]></description></item><item><title>RESTIFYDB</title><link>https://blog.emecas.net/posts/2017-04-12-restifydb/</link><pubDate>Wed, 12 Apr 2017 11:19:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-12-restifydb/</guid><description><![CDATA[<p>RESTIFYDB<br>
 <a href="http://restifydb.com" target="_blank" rel="noopener noreffer ">http://restifydb.com</a><br>
 Expose your databases as REST web services in minutes</p>
-<p>Ever wondered how complicated it would be to expose data to your customers as ready to be consumed REST web services? To allow them to connect to your data sources without knowing anything about how these data sources are organizes or without caring about different SQL dialects? What if they could discover on the fly all they need to know about your data sources? All this becomes easy with restifydb. The fact that is has been entirely written in PHP means that the software and hardware requirements are minimal. Here are some features which make restifydb unique</p>]]></description></item><item><title>Qualtrics</title><link>https://blog.emecas.net/posts/2017-01-27-qualtrics/</link><pubDate>Fri, 27 Jan 2017 09:32:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-27-qualtrics/</guid><description><![CDATA[<p>Qualtrics<br>
-<a href="https://www.qualtrics.com" target="_blank" rel="noopener noreffer ">https://www.qualtrics.com</a><br>
-Software to manage the entire customer experience - from surveys, to insights, to action</p>
-<p>Areas:</p>
-<p>customer EXPERIENCE</p>
-<p>Customer Experience<br>
-Management program<br>
-Omni-Channel Feedback<br>
-Customer Analytics<br>
-&amp; Reporting<br>
-CUSTOMER FOLLOW-UP<br>
-&amp; CASE MANAGEMENT<br>
-VoC Consulting<br>
-&amp; Integrations</p>
-<p>market RESEARCH</p>
-<p>Customer Satisfaction<br>
-Strategic Planning<br>
-&amp; Segmentation Research<br>
-Product Development<br>
-MARKETING<br>
-&amp; BRAND RESEARCH</p>
-<p>employee INSIGHTS</p>
-<p>employee engagement<br>
-employee pulse surveys<br>
-training surveys<br>
-360o employee feedback<br>
-exit interviews<br>
-Onboarding Surveys</p>]]></description></item><item><title>Jersey and Cayenne</title><link>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</link><pubDate>Wed, 06 Nov 2013 21:53:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-06-jersey-and-cayenne/</guid><description><![CDATA[<p>Old Thread about Jersey and Cayenne<br>
-Help with Jersey Rest Services and Cayenne<br>
-<a href="http://comments.gmane.org/gmane.comp.java.cayenne.user/13326" target="_blank" rel="noopener noreffer ">http://comments.gmane.org/gmane.comp.java.cayenne.user/13326</a></p>
+<p>Ever wondered how complicated it would be to expose data to your customers as ready to be consumed REST web services? To allow them to connect to your data sources without knowing anything about how these data sources are organizes or without caring about different SQL dialects? What if they could discover on the fly all they need to know about your data sources? All this becomes easy with restifydb. The fact that is has been entirely written in PHP means that the software and hardware requirements are minimal. Here are some features which make restifydb unique</p>]]></description></item><item><title>chao/RESTClient</title><link>https://blog.emecas.net/posts/2017-03-27-chao-restclient/</link><pubDate>Mon, 27 Mar 2017 16:48:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-27-chao-restclient/</guid><description><![CDATA[<p>chao/RESTClient<br>
+RESTClient, a debugger for RESTful web services.<br>
+JavaScript repository by chao, created in 2009, with 704 stars and 168 forks. License: BSD-3-Clause. Starred on 2017-03-27.<br>
+Homepage: <a href="http://www.restclient.net" target="_blank" rel="noopener noreffer ">http://www.restclient.net</a><br>
+<a href="https://github.com/chao/RESTClient" target="_blank" rel="noopener noreffer ">https://github.com/chao/RESTClient</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/52b31367f5bc6daf01c94420450ff69c3d06eb84" target="_blank" rel="noopener noreffer "><code>52b3136</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2017-03-27: <a href="https://github.com/chao/RESTClient" target="_blank" rel="noopener noreffer ">chao/RESTClient</a>.</em></p>]]></description></item></channel></rss>

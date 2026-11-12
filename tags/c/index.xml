@@ -1,0 +1,58 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>C - Tag - My Notes</title><link>https://blog.emecas.net/tags/c/</link><description>C - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 27 Sep 2020 19:11:54 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/c/" rel="self" type="application/rss+xml"/><item><title>benblazak/ergodox-firmware</title><link>https://blog.emecas.net/posts/2020-09-27-benblazak-ergodox-firmware/</link><pubDate>Sun, 27 Sep 2020 19:11:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-benblazak-ergodox-firmware/</guid><description><![CDATA[<p>benblazak/ergodox-firmware<br>
+firmware for the ergoDOX keyboard<br>
+C repository by benblazak, created in 2012, with 597 stars and 283 forks. Starred on 2020-09-27.<br>
+<a href="https://github.com/benblazak/ergodox-firmware" target="_blank" rel="noopener noreffer ">https://github.com/benblazak/ergodox-firmware</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/benblazak/ergodox-firmware" target="_blank" rel="noopener noreffer ">benblazak/ergodox-firmware</a>.</em></p>]]></description></item><item><title>microsoft/PowerToys</title><link>https://blog.emecas.net/posts/2020-08-24-microsoft-powertoys/</link><pubDate>Mon, 24 Aug 2020 12:57:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-24-microsoft-powertoys/</guid><description><![CDATA[<p>microsoft/PowerToys<br>
+Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br>
+C repository by microsoft, created in 2019, with 140,851 stars and 8,727 forks. License: MIT. Starred on 2020-08-24.<br>
+<a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/PowerToys</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-24: <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">microsoft/PowerToys</a>.</em></p>]]></description></item><item><title>redeclipse/base</title><link>https://blog.emecas.net/posts/2020-01-07-redeclipse-base/</link><pubDate>Tue, 07 Jan 2020 05:50:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-07-redeclipse-base/</guid><description><![CDATA[<p>redeclipse/base<br>
+Base environment for Red Eclipse and associated source files.<br>
+C repository by redeclipse, created in 2015, with 545 stars and 122 forks. Starred on 2020-01-07.<br>
+Homepage: <a href="https://redeclipse.net/" target="_blank" rel="noopener noreffer ">https://redeclipse.net/</a><br>
+<a href="https://github.com/redeclipse/base" target="_blank" rel="noopener noreffer ">https://github.com/redeclipse/base</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-07: <a href="https://github.com/redeclipse/base" target="_blank" rel="noopener noreffer ">redeclipse/base</a>.</em></p>]]></description></item><item><title>micropython/micropython</title><link>https://blog.emecas.net/posts/2019-09-16-micropython-micropython/</link><pubDate>Mon, 16 Sep 2019 23:17:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-16-micropython-micropython/</guid><description><![CDATA[<p>micropython/micropython<br>
+MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems<br>
+C repository by micropython, created in 2013, with 22,188 stars and 9,052 forks. Starred on 2019-09-16.<br>
+Homepage: <a href="https://micropython.org" target="_blank" rel="noopener noreffer ">https://micropython.org</a><br>
+<a href="https://github.com/micropython/micropython" target="_blank" rel="noopener noreffer ">https://github.com/micropython/micropython</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-16: <a href="https://github.com/micropython/micropython" target="_blank" rel="noopener noreffer ">micropython/micropython</a>.</em></p>]]></description></item><item><title>yugabyte/yugabyte-db</title><link>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</link><pubDate>Wed, 11 Sep 2019 11:02:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</guid><description><![CDATA[<p>yugabyte/yugabyte-db<br>
+YugabyteDB - the cloud native distributed SQL database for mission-critical applications.<br>
+C repository by yugabyte, created in 2017, with 10,659 stars and 1,472 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.yugabyte.com" target="_blank" rel="noopener noreffer ">https://www.yugabyte.com</a><br>
+<a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">https://github.com/yugabyte/yugabyte-db</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">yugabyte/yugabyte-db</a>.</em></p>]]></description></item><item><title>postgres/postgres</title><link>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</link><pubDate>Wed, 11 Sep 2019 11:00:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</guid><description><![CDATA[<p>postgres/postgres<br>
+Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&rsquo;t work with pull requests on github. To contribute, please see <a href="https://wiki.postgresql.org/wiki/Submitting_a_Patch" target="_blank" rel="noopener noreffer ">https://wiki.postgresql.org/wiki/Submitting_a_Patch</a><br>
+C repository by postgres, created in 2010, with 22,782 stars and 6,103 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreffer ">https://www.postgresql.org/</a><br>
+<a href="https://github.com/postgres/postgres" target="_blank" rel="noopener noreffer ">https://github.com/postgres/postgres</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/postgres/postgres" target="_blank" rel="noopener noreffer ">postgres/postgres</a>.</em></p>]]></description></item><item><title>buptdbj/darknet-windows-linux</title><link>https://blog.emecas.net/posts/2019-08-18-buptdbj-darknet-windows-linux/</link><pubDate>Sun, 18 Aug 2019 01:46:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-18-buptdbj-darknet-windows-linux/</guid><description><![CDATA[<p>buptdbj/darknet-windows-linux<br>
+Darknet for windows and linux<br>
+C repository by buptdbj, created in 2018, with 30 stars and 13 forks. Starred on 2019-08-18.<br>
+<a href="https://github.com/buptdbj/darknet-windows-linux" target="_blank" rel="noopener noreffer ">https://github.com/buptdbj/darknet-windows-linux</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-08-18: <a href="https://github.com/buptdbj/darknet-windows-linux" target="_blank" rel="noopener noreffer ">buptdbj/darknet-windows-linux</a>.</em></p>]]></description></item><item><title>pjreddie/darknet</title><link>https://blog.emecas.net/posts/2019-08-11-pjreddie-darknet/</link><pubDate>Sun, 11 Aug 2019 19:26:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-11-pjreddie-darknet/</guid><description><![CDATA[<p>pjreddie/darknet<br>
+Convolutional Neural Networks<br>
+C repository by pjreddie, created in 2014, with 26,513 stars and 20,952 forks. Starred on 2019-08-11.<br>
+Homepage: <a href="http://pjreddie.com/darknet/" target="_blank" rel="noopener noreffer ">http://pjreddie.com/darknet/</a><br>
+<a href="https://github.com/pjreddie/darknet" target="_blank" rel="noopener noreffer ">https://github.com/pjreddie/darknet</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-08-11: <a href="https://github.com/pjreddie/darknet" target="_blank" rel="noopener noreffer ">pjreddie/darknet</a>.</em></p>]]></description></item><item><title>jqlang/jq</title><link>https://blog.emecas.net/posts/2019-04-16-jqlang-jq/</link><pubDate>Tue, 16 Apr 2019 16:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-16-jqlang-jq/</guid><description><![CDATA[<p>jqlang/jq<br>
+Command-line JSON processor<br>
+C repository by jqlang, created in 2012, with 36,101 stars and 2,340 forks. Starred on 2019-04-16.<br>
+Homepage: <a href="https://jqlang.org" target="_blank" rel="noopener noreffer ">https://jqlang.org</a><br>
+<a href="https://github.com/jqlang/jq" target="_blank" rel="noopener noreffer ">https://github.com/jqlang/jq</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-16: <a href="https://github.com/jqlang/jq" target="_blank" rel="noopener noreffer ">jqlang/jq</a>.</em></p>]]></description></item><item><title>artetxem/mitzuli</title><link>https://blog.emecas.net/posts/2018-07-02-artetxem-mitzuli/</link><pubDate>Mon, 02 Jul 2018 16:08:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-07-02-artetxem-mitzuli/</guid><description><![CDATA[<p>artetxem/mitzuli<br>
+The open, easy-to-use and powerful translator app for Android<br>
+C repository by artetxem, created in 2014, with 170 stars and 63 forks. License: GPL-2.0. Starred on 2018-07-02.<br>
+Homepage: <a href="http://www.mitzuli.com" target="_blank" rel="noopener noreffer ">http://www.mitzuli.com</a><br>
+<a href="https://github.com/artetxem/mitzuli" target="_blank" rel="noopener noreffer ">https://github.com/artetxem/mitzuli</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-07-02: <a href="https://github.com/artetxem/mitzuli" target="_blank" rel="noopener noreffer ">artetxem/mitzuli</a>.</em></p>]]></description></item></channel></rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Key - Tag - My Notes</title><link>https://blog.emecas.net/tags/key/</link><description>Key - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 Mar 2019 12:22:21 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/key/" rel="self" type="application/rss+xml"/><item><title>kovacshuni/koauth</title><link>https://blog.emecas.net/posts/2019-03-14-kovacshuni-koauth/</link><pubDate>Thu, 14 Mar 2019 12:22:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-kovacshuni-koauth/</guid><description><![CDATA[<p>kovacshuni/koauth<br>
+:closed_lock_with_key: OAuth 1.0a provider and consumer library for Scala &amp; Java, storage independent/pluggable, async/reactive, designed to be used within a completely RESTful API.<br>
+Scala repository by kovacshuni, created in 2014, with 37 stars and 12 forks. License: Apache-2.0. Starred on 2019-03-14.<br>
+<a href="https://github.com/kovacshuni/koauth" target="_blank" rel="noopener noreffer ">https://github.com/kovacshuni/koauth</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/kovacshuni/koauth" target="_blank" rel="noopener noreffer ">kovacshuni/koauth</a>.</em></p>]]></description></item><item><title>jcndoitt/ApiKeyTool</title><link>https://blog.emecas.net/posts/2019-03-14-jcndoitt-apikeytool/</link><pubDate>Thu, 14 Mar 2019 12:17:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-jcndoitt-apikeytool/</guid><description><![CDATA[<p>jcndoitt/ApiKeyTool<br>
+Java App using Spring Security to Generate API Key and Encode it using BCrypt<br>
+Java repository by jcndoitt, created in 2018, with 2 stars and 0 forks. Starred on 2019-03-14.<br>
+<a href="https://github.com/jcndoitt/ApiKeyTool" target="_blank" rel="noopener noreffer ">https://github.com/jcndoitt/ApiKeyTool</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/jcndoitt/ApiKeyTool" target="_blank" rel="noopener noreffer ">jcndoitt/ApiKeyTool</a>.</em></p>]]></description></item><item><title>antkorwin/xsync</title><link>https://blog.emecas.net/posts/2018-12-14-antkorwin-xsync/</link><pubDate>Fri, 14 Dec 2018 03:12:31 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-14-antkorwin-xsync/</guid><description><![CDATA[<p>antkorwin/xsync<br>
+Tools for the synchronization on the instance of key.<br>
+Java repository by antkorwin, created in 2018, with 81 stars and 25 forks. License: Apache-2.0. Starred on 2018-12-14.<br>
+<a href="https://github.com/antkorwin/xsync" target="_blank" rel="noopener noreffer ">https://github.com/antkorwin/xsync</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-12-14: <a href="https://github.com/antkorwin/xsync" target="_blank" rel="noopener noreffer ">antkorwin/xsync</a>.</em></p>]]></description></item></channel></rss>

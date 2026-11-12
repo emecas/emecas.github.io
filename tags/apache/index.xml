@@ -1,4 +1,45 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Apache - Tag - My Notes</title><link>https://blog.emecas.net/tags/apache/</link><description>Apache - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 04 Feb 2020 23:27:13 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/apache/" rel="self" type="application/rss+xml"/><item><title>Kibana Filters</title><link>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</link><pubDate>Tue, 04 Feb 2020 23:27:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</guid><description><![CDATA[<p>Kibana Filters</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Apache - Tag - My Notes</title><link>https://blog.emecas.net/tags/apache/</link><description>Apache - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 14 Apr 2021 00:26:49 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/apache/" rel="self" type="application/rss+xml"/><item><title>apache/superset</title><link>https://blog.emecas.net/posts/2021-04-14-apache-superset/</link><pubDate>Wed, 14 Apr 2021 00:26:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-04-14-apache-superset/</guid><description><![CDATA[<p>apache/superset<br>
+Apache Superset is a Data Visualization and Data Exploration Platform<br>
+Python repository by apache, created in 2015, with 75,470 stars and 18,605 forks. License: Apache-2.0. Starred on 2021-04-14.<br>
+Homepage: <a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
+<a href="https://github.com/apache/superset" target="_blank" rel="noopener noreffer ">https://github.com/apache/superset</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-04-14: <a href="https://github.com/apache/superset" target="_blank" rel="noopener noreffer ">apache/superset</a>.</em></p>]]></description></item><item><title>apache/incubator-kie</title><link>https://blog.emecas.net/posts/2021-03-01-apache-incubator-kie/</link><pubDate>Mon, 01 Mar 2021 23:24:31 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-03-01-apache-incubator-kie/</guid><description><![CDATA[<p>apache/incubator-kie<br>
+Apache KIE (Knowledge Is Everything) is the home of Drools, OptaPlanner, jBPM, and Kogito.<br>
+Java repository by apache, created in 2011, with 6,343 stars and 2,606 forks. License: Apache-2.0. Starred on 2021-03-01.<br>
+Homepage: <a href="https://kie.apache.org" target="_blank" rel="noopener noreffer ">https://kie.apache.org</a><br>
+<a href="https://github.com/apache/incubator-kie" target="_blank" rel="noopener noreffer ">https://github.com/apache/incubator-kie</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-03-01: <a href="https://github.com/apache/incubator-kie" target="_blank" rel="noopener noreffer ">apache/incubator-kie</a>.</em></p>]]></description></item><item><title>apache/shenyu</title><link>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</link><pubDate>Sat, 16 Jan 2021 05:42:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</guid><description><![CDATA[<p>apache/shenyu<br>
+Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.<br>
+Java repository by apache, created in 2018, with 8,919 stars and 3,111 forks. License: Apache-2.0. Starred on 2021-01-16.<br>
+Homepage: <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a><br>
+<a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-16: <a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">apache/shenyu</a>.</em></p>]]></description></item><item><title>apache/camel-k</title><link>https://blog.emecas.net/posts/2020-10-13-apache-camel-k/</link><pubDate>Tue, 13 Oct 2020 16:12:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-apache-camel-k/</guid><description><![CDATA[<p>apache/camel-k<br>
+Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers<br>
+Go repository by apache, created in 2018, with 937 stars and 414 forks. License: Apache-2.0. Starred on 2020-10-13.<br>
+Homepage: <a href="https://camel.apache.org/camel-k" target="_blank" rel="noopener noreffer ">https://camel.apache.org/camel-k</a><br>
+<a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">https://github.com/apache/camel-k</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">apache/camel-k</a>.</em></p>]]></description></item><item><title>apache/empire-db</title><link>https://blog.emecas.net/posts/2020-05-13-apache-empire-db/</link><pubDate>Wed, 13 May 2020 23:55:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-13-apache-empire-db/</guid><description><![CDATA[<p>apache/empire-db<br>
+Mirror of Apache Empire-db<br>
+Java repository by apache, created in 2011, with 95 stars and 26 forks. License: Apache-2.0. Starred on 2020-05-13.<br>
+<a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">https://github.com/apache/empire-db</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-05-13: <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">apache/empire-db</a>.</em></p>]]></description></item><item><title>apache/zookeeper</title><link>https://blog.emecas.net/posts/2020-02-25-apache-zookeeper/</link><pubDate>Tue, 25 Feb 2020 01:03:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-25-apache-zookeeper/</guid><description><![CDATA[<p>apache/zookeeper<br>
+Apache ZooKeeper<br>
+Java repository by apache, created in 2009, with 12,832 stars and 7,326 forks. License: Apache-2.0. Starred on 2020-02-25.<br>
+Homepage: <a href="https://zookeeper.apache.org" target="_blank" rel="noopener noreffer ">https://zookeeper.apache.org</a><br>
+<a href="https://github.com/apache/zookeeper" target="_blank" rel="noopener noreffer ">https://github.com/apache/zookeeper</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-25: <a href="https://github.com/apache/zookeeper" target="_blank" rel="noopener noreffer ">apache/zookeeper</a>.</em></p>]]></description></item><item><title>apache/shiro</title><link>https://blog.emecas.net/posts/2020-02-23-apache-shiro/</link><pubDate>Sun, 23 Feb 2020 22:45:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-23-apache-shiro/</guid><description><![CDATA[<p>apache/shiro<br>
+Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management<br>
+Java repository by apache, created in 2009, with 4,465 stars and 2,292 forks. License: Apache-2.0. Starred on 2020-02-23.<br>
+Homepage: <a href="https://shiro.apache.org/" target="_blank" rel="noopener noreffer ">https://shiro.apache.org/</a><br>
+<a href="https://github.com/apache/shiro" target="_blank" rel="noopener noreffer ">https://github.com/apache/shiro</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-23: <a href="https://github.com/apache/shiro" target="_blank" rel="noopener noreffer ">apache/shiro</a>.</em></p>]]></description></item><item><title>Kibana Filters</title><link>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</link><pubDate>Tue, 04 Feb 2020 23:27:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</guid><description><![CDATA[<p>Kibana Filters</p>
 <p>tomcat</p>
 <p>message:	Written [{&ldquo;sp&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:57013,&ldquo;message&rdquo;:&ldquo;java.lang.NullPointerException ZRESIDENCE.TRANSACT.fci_complete_with_get_budget{p_term_code=202020, p_pidm=12345678}&rdquo;},&ldquo;stz&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:-1,&ldquo;message&rdquo;:&ldquo;NOT_CALLED&rdquo;}}] as &ldquo;application/json&rdquo; using [org.springframework.http.converter.StringHttpMessageConverter@bdc8014]</p>
 <p>log.file.path: 	/opt/tomcat/embedded/contex-path/logs/service.log</p>
@@ -15,36 +56,16 @@
 <p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
 <p>request.method = POST</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Apache Software Foundation Blog</title><link>https://blog.emecas.net/posts/2019-02-07-the-apache-software-foundation-blog/</link><pubDate>Thu, 07 Feb 2019 13:04:28 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-07-the-apache-software-foundation-blog/</guid><description><![CDATA[<p>The Apache Software Foundation Blog<br>
-<a href="https://blogs.apache.org/foundation/" target="_blank" rel="noopener noreffer ">https://blogs.apache.org/foundation/</a><br>
-The Apache Software Foundation<br>
-Blogging in Action.</p>
-<p>Tag Cloud<br>
-apache apachecon asf behind big bigdata cloud community data focuses foundation hadoop initiatives just news on open opensource processes project projects round-up software source summary the tlp top-level weekly why</p>
-<p>Categories</p>
-<p>All General ApacheCon Projects Milestones SuccessAtApache Newsletter</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>apache/dubbo-spring-boot-project</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</link><pubDate>Wed, 22 Jan 2020 03:44:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</guid><description><![CDATA[<p>apache/dubbo-spring-boot-project<br>
+Spring Boot Project for Apache Dubbo<br>
+Java repository by apache, created in 2018, with 5,371 stars and 1,842 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org</a><br>
+<a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo-spring-boot-project</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/4bb9ac60d58c37ca843d176b872920e1c012d86e" target="_blank" rel="noopener noreffer "><code>4bb9ac6</code></a> in My-Notes.</em></p>]]></description></item><item><title>Apache Druid</title><link>https://blog.emecas.net/posts/2018-09-21-apache-druid/</link><pubDate>Fri, 21 Sep 2018 13:01:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-21-apache-druid/</guid><description><![CDATA[<p>Apache Druid (incubating)<br>
-<a href="http://druid.io/" target="_blank" rel="noopener noreffer ">http://druid.io/</a><br>
-Apache Druid (incubating) is a high performance analytics data store for event-driven data.<br>
-GIT: <a href="https://github.com/apache/incubator-druid" target="_blank" rel="noopener noreffer ">https://github.com/apache/incubator-druid</a></p>
-<p>Overview</p>
-<p>Druid is primarily used to store, query, and analyze large event streams. Examples of event streams include user generated data such as clickstreams, application generated data such as performance metrics, and machine generated data such as network flows and server metrics. Druid is optimized for sub-second queries to slice-and-dice, drill down, search, filter, and aggregate this data. Druid is commonly used to power interactive applications where performance, concurrency, and uptime are important.</p>]]></description></item><item><title>Apache Spark: Config Cheatsheets</title><link>https://blog.emecas.net/posts/2016-12-14-apache-spark-config-cheatsheets/</link><pubDate>Wed, 14 Dec 2016 10:32:53 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-14-apache-spark-config-cheatsheets/</guid><description><![CDATA[<p>Apache Spark: Config Cheatsheets (parts 1 &amp; 2)<br>
-<a href="http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/" target="_blank" rel="noopener noreffer ">http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/</a><br>
-<a href="http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/" target="_blank" rel="noopener noreffer ">http://c2fo.io/c2fo/spark/aws/emr/2016/09/01/apache-spark-config-cheatsheet-part2/</a></p>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">apache/dubbo-spring-boot-project</a>.</em></p>]]></description></item><item><title>apache/dubbo</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</link><pubDate>Wed, 22 Jan 2020 03:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</guid><description><![CDATA[<p>apache/dubbo<br>
+The java implementation of Apache Dubbo. An RPC and microservice framework.<br>
+Java repository by apache, created in 2012, with 41,579 stars and 26,306 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org/" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org/</a><br>
+<a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/23042db08c0a196b1f0e9a8444ed150512783be4" target="_blank" rel="noopener noreffer "><code>23042db</code></a> in My-Notes.</em></p>]]></description></item><item><title>Links: Apache APC, HTTP performance , and MySQL Tuning</title><link>https://blog.emecas.net/posts/2013-11-12-links-apache-apc-http-performance-and-mysql-tuning/</link><pubDate>Tue, 12 Nov 2013 22:36:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-12-links-apache-apc-http-performance-and-mysql-tuning/</guid><description><![CDATA[<p>Uninstalling/enable or disable Apache APC</p>
-<p>How to uninstall APC from a dedicated cpanel server using ssh<br>
-<a href="http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/8946432/how-to-uninstall-apc-from-a-dedicated-cpanel-server-using-ssh</a></p>
-<p>Linux: enable or disable PHP APC opcode cache for virtual host<br>
-<a href="http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/" target="_blank" rel="noopener noreffer ">http://www.shkodenko.com/linux-enable-or-disable-php-apc-opcode-cache-for-virtual-host/</a></p>
-<p>Disable or remove apc<br>
-<a href="http://stackoverflow.com/questions/11309987/disable-or-remove-apc" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/11309987/disable-or-remove-apc</a></p>
-<p>Testing HTTP performance</p>
-<p>Staying Out of Deep Water: Performance Testing Using HTTPD-Test&rsquo;s Flood Page 3<br>
-<a href="http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm" target="_blank" rel="noopener noreffer ">http://www.serverwatch.com/tutorials/article.php/10825_2216741_3/Staying-Out-of-Deep-Water-Performance-Testing-Using-HTTPDTests-Flood.htm</a></p>
-<p>MySQL Tuning</p>
-<p>2 Linux MySQL Tuning Scripts you must have<br>
-<a href="http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have" target="_blank" rel="noopener noreffer ">http://crivera.com/developer/2-linux-mysql-tuning-scripts-you-must-have</a></p>
-<p>MySQL Performance Tuning Scripts and Know-How<br>
-<a href="http://www.askapache.com/mysql/performance-tuning-mysql.html" target="_blank" rel="noopener noreffer ">http://www.askapache.com/mysql/performance-tuning-mysql.html</a></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">apache/dubbo</a>.</em></p>]]></description></item></channel></rss>

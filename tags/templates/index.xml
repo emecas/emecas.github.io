@@ -14,7 +14,13 @@ File name conventions for ADRs<br>
 Suggestions for writing good ADRs<br>
 ADR example templates<br>
 Teamwork advice for ADRs<br>
-For more information</p>]]></description></item><item><title>Remoter Library</title><link>https://blog.emecas.net/posts/2020-03-19-remoter-library/</link><pubDate>Thu, 19 Mar 2020 12:00:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-19-remoter-library/</guid><description><![CDATA[<p>The Remoter Library<br>
+For more information</p>]]></description></item><item><title>arXiv/arxiv-base</title><link>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</link><pubDate>Sun, 16 Aug 2020 13:12:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</guid><description><![CDATA[<p>arXiv/arxiv-base<br>
+Supporting libraries for templates and arXiv services<br>
+Python repository by arXiv, created in 2017, with 61 stars and 14 forks. Starred on 2020-08-16.<br>
+Homepage: <a href="https://arxiv.github.io/arxiv-base/" target="_blank" rel="noopener noreffer ">https://arxiv.github.io/arxiv-base/</a><br>
+<a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">https://github.com/arXiv/arxiv-base</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-16: <a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">arXiv/arxiv-base</a>.</em></p>]]></description></item><item><title>Remoter Library</title><link>https://blog.emecas.net/posts/2020-03-19-remoter-library/</link><pubDate>Thu, 19 Mar 2020 12:00:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-19-remoter-library/</guid><description><![CDATA[<p>The Remoter Library<br>
 <a href="https://www.remoter.com/" target="_blank" rel="noopener noreffer ">https://www.remoter.com/</a><br>
 Learn about recruiting, leadership, management and scaling remote teams from seasoned remoters.</p>
 <p>Explore by type<br>
@@ -33,4 +39,9 @@ Business &amp; Finance<br>
 Diverse Workspace</p>
 <p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d81463f08101f441a84e83e11b372f264a0db75" target="_blank" rel="noopener noreffer "><code>0d81463</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d81463f08101f441a84e83e11b372f264a0db75" target="_blank" rel="noopener noreffer "><code>0d81463</code></a> in My-Notes.</em></p>]]></description></item><item><title>github/gitignore</title><link>https://blog.emecas.net/posts/2018-06-06-github-gitignore/</link><pubDate>Wed, 06 Jun 2018 14:35:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-06-06-github-gitignore/</guid><description><![CDATA[<p>github/gitignore<br>
+A collection of useful .gitignore templates<br>
+Repository by github, created in 2010, with 176,541 stars and 82,017 forks. License: CC0-1.0. Starred on 2018-06-06.<br>
+<a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-06-06: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">github/gitignore</a>.</em></p>]]></description></item></channel></rss>

@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cryptographically - Tag - My Notes</title><link>https://blog.emecas.net/tags/cryptographically/</link><description>Cryptographically - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 27 Jun 2017 13:15:43 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cryptographically/" rel="self" type="application/rss+xml"/><item><title>google/trillian</title><link>https://blog.emecas.net/posts/2017-06-27-google-trillian/</link><pubDate>Tue, 27 Jun 2017 13:15:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-27-google-trillian/</guid><description><![CDATA[<p>google/trillian<br>
+A transparent, highly scalable and cryptographically verifiable data store.<br>
+Go repository by google, created in 2016, with 3,763 stars and 469 forks. License: Apache-2.0. Starred on 2017-06-27.<br>
+<a href="https://github.com/google/trillian" target="_blank" rel="noopener noreffer ">https://github.com/google/trillian</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-27: <a href="https://github.com/google/trillian" target="_blank" rel="noopener noreffer ">google/trillian</a>.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AWS - Tag - My Notes</title><link>https://blog.emecas.net/tags/aws/</link><description>AWS - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 02 Oct 2020 19:42:25 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/aws/" rel="self" type="application/rss+xml"/><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Aws - Tag - My Notes</title><link>https://blog.emecas.net/tags/aws/</link><description>Aws - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:15:10 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/aws/" rel="self" type="application/rss+xml"/><item><title>floci-io/floci</title><link>https://blog.emecas.net/posts/2026-03-31-floci-io-floci/</link><pubDate>Tue, 31 Mar 2026 00:15:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-31-floci-io-floci/</guid><description><![CDATA[<p>floci-io/floci<br>
+Light, fluffy, and always free - The AWS Local Emulator alternative<br>
+Java repository by floci-io, created in 2026, with 31,292 stars and 3,427 forks. License: MIT. Starred on 2026-03-31.<br>
+Homepage: <a href="https://floci.io/floci/" target="_blank" rel="noopener noreffer ">https://floci.io/floci/</a><br>
+<a href="https://github.com/floci-io/floci" target="_blank" rel="noopener noreffer ">https://github.com/floci-io/floci</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-03-31: <a href="https://github.com/floci-io/floci" target="_blank" rel="noopener noreffer ">floci-io/floci</a>.</em></p>]]></description></item><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
 <a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
 <a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
 <a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
@@ -20,4 +26,14 @@ machine learning, analytics and application data workloads.</p>
 <p>The defacto standard for Amazon S3 compatibility.</p>
 <p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83cd25f395f96a5f8678b05a1ececbbd4cd47e7d" target="_blank" rel="noopener noreffer "><code>83cd25f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83cd25f395f96a5f8678b05a1ececbbd4cd47e7d" target="_blank" rel="noopener noreffer "><code>83cd25f</code></a> in My-Notes.</em></p>]]></description></item><item><title>qubole/spark-on-lambda</title><link>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</link><pubDate>Fri, 29 Dec 2017 15:25:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</guid><description><![CDATA[<p>qubole/spark-on-lambda<br>
+Apache Spark on AWS Lambda<br>
+Scala repository by qubole, created in 2017, with 158 stars and 31 forks. License: Apache-2.0. Starred on 2017-12-29.<br>
+<a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">https://github.com/qubole/spark-on-lambda</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-29: <a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">qubole/spark-on-lambda</a>.</em></p>]]></description></item><item><title>Netflix/eureka</title><link>https://blog.emecas.net/posts/2017-01-19-netflix-eureka/</link><pubDate>Thu, 19 Jan 2017 13:41:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-19-netflix-eureka/</guid><description><![CDATA[<p>Netflix/eureka<br>
+AWS Service registry for resilient mid-tier load balancing and failover.<br>
+Java repository by Netflix, created in 2012, with 12,754 stars and 3,756 forks. License: Apache-2.0. Starred on 2017-01-19.<br>
+<a href="https://github.com/Netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/Netflix/eureka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-01-19: <a href="https://github.com/Netflix/eureka" target="_blank" rel="noopener noreffer ">Netflix/eureka</a>.</em></p>]]></description></item></channel></rss>

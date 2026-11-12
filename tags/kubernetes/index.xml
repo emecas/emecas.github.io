@@ -10,7 +10,29 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>m-reza-rahman/jakartaee-kubernetes</title><link>https://blog.emecas.net/posts/2021-02-17-m-reza-rahman-jakartaee-kubernetes/</link><pubDate>Wed, 17 Feb 2021 19:37:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-m-reza-rahman-jakartaee-kubernetes/</guid><description><![CDATA[<p>m-reza-rahman/jakartaee-kubernetes<br>
+Effective Kubernetes for Java/Jakarta EE and MicroProfile Developers<br>
+Java repository by m-reza-rahman, created in 2019, with 43 stars and 10 forks. License: MIT. Starred on 2021-02-17.<br>
+<a href="https://github.com/m-reza-rahman/jakartaee-kubernetes" target="_blank" rel="noopener noreffer ">https://github.com/m-reza-rahman/jakartaee-kubernetes</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/m-reza-rahman/jakartaee-kubernetes" target="_blank" rel="noopener noreffer ">m-reza-rahman/jakartaee-kubernetes</a>.</em></p>]]></description></item><item><title>apache/camel-k</title><link>https://blog.emecas.net/posts/2020-10-13-apache-camel-k/</link><pubDate>Tue, 13 Oct 2020 16:12:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-apache-camel-k/</guid><description><![CDATA[<p>apache/camel-k<br>
+Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers<br>
+Go repository by apache, created in 2018, with 937 stars and 414 forks. License: Apache-2.0. Starred on 2020-10-13.<br>
+Homepage: <a href="https://camel.apache.org/camel-k" target="_blank" rel="noopener noreffer ">https://camel.apache.org/camel-k</a><br>
+<a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">https://github.com/apache/camel-k</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">apache/camel-k</a>.</em></p>]]></description></item><item><title>redhat-appdev-practice/j4k-vertx-demo</title><link>https://blog.emecas.net/posts/2020-10-13-redhat-appdev-practice-j4k-vertx-demo/</link><pubDate>Tue, 13 Oct 2020 15:42:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-redhat-appdev-practice-j4k-vertx-demo/</guid><description><![CDATA[<p>redhat-appdev-practice/j4k-vertx-demo<br>
+A Demonstration Of Vert.x ClusterIng And Kubernetes Superpowers<br>
+JavaScript repository by redhat-appdev-practice, created in 2020, with 10 stars and 2 forks. Starred on 2020-10-13.<br>
+<a href="https://github.com/redhat-appdev-practice/j4k-vertx-demo" target="_blank" rel="noopener noreffer ">https://github.com/redhat-appdev-practice/j4k-vertx-demo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/redhat-appdev-practice/j4k-vertx-demo" target="_blank" rel="noopener noreffer ">redhat-appdev-practice/j4k-vertx-demo</a>.</em></p>]]></description></item><item><title>operator-framework/java-operator-sdk</title><link>https://blog.emecas.net/posts/2020-10-03-operator-framework-java-operator-sdk/</link><pubDate>Sat, 03 Oct 2020 23:48:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-03-operator-framework-java-operator-sdk/</guid><description><![CDATA[<p>operator-framework/java-operator-sdk<br>
+Java SDK for building Kubernetes Operators<br>
+Java repository by operator-framework, created in 2019, with 946 stars and 247 forks. License: Apache-2.0. Starred on 2020-10-03.<br>
+Homepage: <a href="https://javaoperatorsdk.io/" target="_blank" rel="noopener noreffer ">https://javaoperatorsdk.io/</a><br>
+<a href="https://github.com/operator-framework/java-operator-sdk" target="_blank" rel="noopener noreffer ">https://github.com/operator-framework/java-operator-sdk</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/operator-framework/java-operator-sdk" target="_blank" rel="noopener noreffer ">operator-framework/java-operator-sdk</a>.</em></p>]]></description></item><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
 <a href="https://min.io/" target="_blank" rel="noopener noreffer ">https://min.io/</a><br>
 Kubernetes Native, High Performance Object Storage</p>
 <p>MinIO&rsquo;s high-performance object storage suite is software defined and<br>
@@ -25,4 +47,20 @@ Tilt Up and Get Stuff Done<br>
 Tilt manages local development instances for teams that deploy to Kubernetes.</p>
 <p>Transition easily from any setup<br>
 Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
-(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item></channel></rss>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>griggheo/pearson-olt-containers-20191014</title><link>https://blog.emecas.net/posts/2020-02-18-griggheo-pearson-olt-containers-20191014/</link><pubDate>Tue, 18 Feb 2020 13:20:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-18-griggheo-pearson-olt-containers-20191014/</guid><description><![CDATA[<p>griggheo/pearson-olt-containers-20191014<br>
+Docker, Docker Compose and Kubernetes examples for Pearson Online Live Training on &ldquo;Container Revolution&rdquo;<br>
+Python repository by griggheo, created in 2019, with 6 stars and 5 forks. Starred on 2020-02-18.<br>
+<a href="https://github.com/griggheo/pearson-olt-containers-20191014" target="_blank" rel="noopener noreffer ">https://github.com/griggheo/pearson-olt-containers-20191014</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-18: <a href="https://github.com/griggheo/pearson-olt-containers-20191014" target="_blank" rel="noopener noreffer ">griggheo/pearson-olt-containers-20191014</a>.</em></p>]]></description></item><item><title>helm/helm</title><link>https://blog.emecas.net/posts/2019-08-27-helm-helm/</link><pubDate>Tue, 27 Aug 2019 16:16:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-27-helm-helm/</guid><description><![CDATA[<p>helm/helm<br>
+The Kubernetes Package Manager<br>
+Go repository by helm, created in 2015, with 30,417 stars and 7,974 forks. License: Apache-2.0. Starred on 2019-08-27.<br>
+Homepage: <a href="https://helm.sh" target="_blank" rel="noopener noreffer ">https://helm.sh</a><br>
+<a href="https://github.com/helm/helm" target="_blank" rel="noopener noreffer ">https://github.com/helm/helm</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-08-27: <a href="https://github.com/helm/helm" target="_blank" rel="noopener noreffer ">helm/helm</a>.</em></p>]]></description></item><item><title>GoogleContainerTools/kaniko</title><link>https://blog.emecas.net/posts/2019-04-11-googlecontainertools-kaniko/</link><pubDate>Thu, 11 Apr 2019 17:51:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-11-googlecontainertools-kaniko/</guid><description><![CDATA[<p>GoogleContainerTools/kaniko<br>
+Build Container Images In Kubernetes<br>
+Go repository by GoogleContainerTools, created in 2018, with 15,749 stars and 1,528 forks. License: Apache-2.0. Archived by its owner. Starred on 2019-04-11.<br>
+<a href="https://github.com/GoogleContainerTools/kaniko" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/kaniko</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-11: <a href="https://github.com/GoogleContainerTools/kaniko" target="_blank" rel="noopener noreffer ">GoogleContainerTools/kaniko</a>.</em></p>]]></description></item></channel></rss>

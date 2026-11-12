@@ -2,7 +2,13 @@
 <a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
 NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
 <p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
-<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>Apache Beam</title><link>https://blog.emecas.net/posts/2017-02-07-apache-beam/</link><pubDate>Tue, 07 Feb 2017 08:25:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-07-apache-beam/</guid><description><![CDATA[<p>Apache Beam<br>
+<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
+Apache Kafka - A distributed event streaming platform<br>
+Java repository by apache, created in 2011, with 34,205 stars and 15,683 forks. License: Apache-2.0. Starred on 2019-04-30.<br>
+Homepage: <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreffer ">https://kafka.apache.org/</a><br>
+<a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreffer ">https://github.com/apache/kafka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-30: <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreffer ">apache/kafka</a>.</em></p>]]></description></item><item><title>Apache Beam</title><link>https://blog.emecas.net/posts/2017-02-07-apache-beam/</link><pubDate>Tue, 07 Feb 2017 08:25:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-07-apache-beam/</guid><description><![CDATA[<p>Apache Beam<br>
 <a href="https://beam.apache.org/" target="_blank" rel="noopener noreffer ">https://beam.apache.org/</a><br>
 Apache Beam provides an advanced unified programming model, allowing you to implement batch and streaming data processing jobs that can run on any execution engine</p>
 <p>Apache Beam is:<br>

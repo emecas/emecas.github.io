@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Multi-Model - Tag - My Notes</title><link>https://blog.emecas.net/tags/multi-model/</link><description>Multi-Model - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 31 Jan 2019 04:17:30 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/multi-model/" rel="self" type="application/rss+xml"/><item><title>arangodb/arangodb</title><link>https://blog.emecas.net/posts/2019-01-31-arangodb-arangodb/</link><pubDate>Thu, 31 Jan 2019 04:17:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-31-arangodb-arangodb/</guid><description><![CDATA[<p>arangodb/arangodb<br>
+🥑 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.<br>
+C++ repository by arangodb, created in 2011, with 14,297 stars and 988 forks. Starred on 2019-01-31.<br>
+Homepage: <a href="https://www.arangodb.com" target="_blank" rel="noopener noreffer ">https://www.arangodb.com</a><br>
+<a href="https://github.com/arangodb/arangodb" target="_blank" rel="noopener noreffer ">https://github.com/arangodb/arangodb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-01-31: <a href="https://github.com/arangodb/arangodb" target="_blank" rel="noopener noreffer ">arangodb/arangodb</a>.</em></p>]]></description></item></channel></rss>

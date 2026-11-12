@@ -1,3 +1,52 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Command - Tag - My Notes</title><link>https://blog.emecas.net/tags/command/</link><description>Command - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 12 Feb 2019 13:46:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/command/" rel="self" type="application/rss+xml"/><item><title>python -m idlelib.idle</title><link>https://blog.emecas.net/posts/2019-02-12-python-m-idlelib-idle/</link><pubDate>Tue, 12 Feb 2019 13:46:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-12-python-m-idlelib-idle/</guid><description><![CDATA[<p>python -m idlelib.idle</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Command - Tag - My Notes</title><link>https://blog.emecas.net/tags/command/</link><description>Command - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 05 Oct 2024 00:15:57 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/command/" rel="self" type="application/rss+xml"/><item><title>mermaid-js/mermaid-cli</title><link>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</link><pubDate>Sat, 05 Oct 2024 00:15:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</guid><description><![CDATA[<p>mermaid-js/mermaid-cli<br>
+Command line tool for the Mermaid library<br>
+JavaScript repository by mermaid-js, created in 2020, with 5,161 stars and 396 forks. License: MIT. Starred on 2024-10-05.<br>
+<a href="https://github.com/mermaid-js/mermaid-cli" target="_blank" rel="noopener noreffer ">https://github.com/mermaid-js/mermaid-cli</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/92ec7bbdf1adb3c5a16b63f38c4d73c749f5dfc1" target="_blank" rel="noopener noreffer "><code>92ec7bb</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2024-10-05: <a href="https://github.com/mermaid-js/mermaid-cli" target="_blank" rel="noopener noreffer ">mermaid-js/mermaid-cli</a>.</em></p>]]></description></item><item><title>GothenburgBitFactory/taskwarrior</title><link>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-taskwarrior/</link><pubDate>Sun, 22 Mar 2020 21:53:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-taskwarrior/</guid><description><![CDATA[<p>GothenburgBitFactory/taskwarrior<br>
+Taskwarrior - Command line Task Management<br>
+C++ repository by GothenburgBitFactory, created in 2018, with 6,160 stars and 424 forks. License: MIT. Starred on 2020-03-22.<br>
+Homepage: <a href="https://taskwarrior.org" target="_blank" rel="noopener noreffer ">https://taskwarrior.org</a><br>
+<a href="https://github.com/GothenburgBitFactory/taskwarrior" target="_blank" rel="noopener noreffer ">https://github.com/GothenburgBitFactory/taskwarrior</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-22: <a href="https://github.com/GothenburgBitFactory/taskwarrior" target="_blank" rel="noopener noreffer ">GothenburgBitFactory/taskwarrior</a>.</em></p>]]></description></item><item><title>allthemusicllc/atm-cli</title><link>https://blog.emecas.net/posts/2020-03-07-allthemusicllc-atm-cli/</link><pubDate>Sat, 07 Mar 2020 04:59:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-allthemusicllc-atm-cli/</guid><description><![CDATA[<p>allthemusicllc/atm-cli<br>
+Command line tool for generating and working with MIDI files.<br>
+Rust repository by allthemusicllc, created in 2019, with 1,416 stars and 105 forks. Starred on 2020-03-07.<br>
+Homepage: <a href="http://allthemusic.info" target="_blank" rel="noopener noreffer ">http://allthemusic.info</a><br>
+<a href="https://github.com/allthemusicllc/atm-cli" target="_blank" rel="noopener noreffer ">https://github.com/allthemusicllc/atm-cli</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-07: <a href="https://github.com/allthemusicllc/atm-cli" target="_blank" rel="noopener noreffer ">allthemusicllc/atm-cli</a>.</em></p>]]></description></item><item><title>cli/cli</title><link>https://blog.emecas.net/posts/2020-02-14-cli-cli/</link><pubDate>Fri, 14 Feb 2020 04:01:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-cli-cli/</guid><description><![CDATA[<p>cli/cli<br>
+GitHub’s official command line tool<br>
+Go repository by cli, created in 2019, with 46,957 stars and 9,272 forks. License: MIT. Starred on 2020-02-14.<br>
+Homepage: <a href="https://cli.github.com" target="_blank" rel="noopener noreffer ">https://cli.github.com</a><br>
+<a href="https://github.com/cli/cli" target="_blank" rel="noopener noreffer ">https://github.com/cli/cli</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-14: <a href="https://github.com/cli/cli" target="_blank" rel="noopener noreffer ">cli/cli</a>.</em></p>]]></description></item><item><title>remkop/picocli</title><link>https://blog.emecas.net/posts/2019-05-16-remkop-picocli/</link><pubDate>Thu, 16 May 2019 03:36:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-16-remkop-picocli/</guid><description><![CDATA[<p>remkop/picocli<br>
+Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more. In 1 source file so apps can include as source &amp; avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.<br>
+Java repository by remkop, created in 2017, with 5,454 stars and 498 forks. License: Apache-2.0. Starred on 2019-05-16.<br>
+Homepage: <a href="https://picocli.info" target="_blank" rel="noopener noreffer ">https://picocli.info</a><br>
+<a href="https://github.com/remkop/picocli" target="_blank" rel="noopener noreffer ">https://github.com/remkop/picocli</a></p>]]></description></item><item><title>agateau/yokadi</title><link>https://blog.emecas.net/posts/2019-05-14-agateau-yokadi/</link><pubDate>Tue, 14 May 2019 02:14:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-agateau-yokadi/</guid><description><![CDATA[<p>agateau/yokadi<br>
+Command line oriented, sqlite powered, todo list<br>
+Python repository by agateau, created in 2008, with 136 stars and 19 forks. License: GPL-3.0. Starred on 2019-05-14.<br>
+Homepage: <a href="http://yokadi.github.io" target="_blank" rel="noopener noreffer ">http://yokadi.github.io</a><br>
+<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-14: <a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">agateau/yokadi</a>.</em></p>]]></description></item><item><title>python -m idlelib.idle</title><link>https://blog.emecas.net/posts/2019-02-12-python-m-idlelib-idle/</link><pubDate>Tue, 12 Feb 2019 13:46:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-12-python-m-idlelib-idle/</guid><description><![CDATA[<p>python -m idlelib.idle</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/92ec7bbdf1adb3c5a16b63f38c4d73c749f5dfc1" target="_blank" rel="noopener noreffer "><code>92ec7bb</code></a> in My-Notes.</em></p>]]></description></item><item><title>nvbn/thefuck</title><link>https://blog.emecas.net/posts/2018-07-15-nvbn-thefuck/</link><pubDate>Sun, 15 Jul 2018 22:59:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-07-15-nvbn-thefuck/</guid><description><![CDATA[<p>nvbn/thefuck<br>
+Magnificent app which corrects your previous console command.<br>
+Python repository by nvbn, created in 2015, with 97,952 stars and 3,978 forks. License: MIT. Starred on 2018-07-15.<br>
+<a href="https://github.com/nvbn/thefuck" target="_blank" rel="noopener noreffer ">https://github.com/nvbn/thefuck</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-07-15: <a href="https://github.com/nvbn/thefuck" target="_blank" rel="noopener noreffer ">nvbn/thefuck</a>.</em></p>]]></description></item><item><title>jeroenjanssens/data-science-at-the-command-line</title><link>https://blog.emecas.net/posts/2017-05-03-jeroenjanssens-data-science-at-the-command-line/</link><pubDate>Wed, 03 May 2017 19:02:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-03-jeroenjanssens-data-science-at-the-command-line/</guid><description><![CDATA[<p>jeroenjanssens/data-science-at-the-command-line<br>
+Data Science at the Command Line<br>
+HTML repository by jeroenjanssens, created in 2013, with 3,978 stars and 765 forks. Starred on 2017-05-03.<br>
+Homepage: <a href="https://datascienceatthecommandline.com" target="_blank" rel="noopener noreffer ">https://datascienceatthecommandline.com</a><br>
+<a href="https://github.com/jeroenjanssens/data-science-at-the-command-line" target="_blank" rel="noopener noreffer ">https://github.com/jeroenjanssens/data-science-at-the-command-line</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-05-03: <a href="https://github.com/jeroenjanssens/data-science-at-the-command-line" target="_blank" rel="noopener noreffer ">jeroenjanssens/data-science-at-the-command-line</a>.</em></p>]]></description></item><item><title>tomcatmanager/tomcatmanager</title><link>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</link><pubDate>Thu, 21 Nov 2013 15:23:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</guid><description><![CDATA[<p>tomcatmanager/tomcatmanager<br>
+A command line tool and python library for managing a tomcat server<br>
+Python repository by tomcatmanager, created in 2013, with 116 stars and 33 forks. License: MIT. Starred on 2013-11-21.<br>
+<a href="https://github.com/tomcatmanager/tomcatmanager" target="_blank" rel="noopener noreffer ">https://github.com/tomcatmanager/tomcatmanager</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2013-11-21: <a href="https://github.com/tomcatmanager/tomcatmanager" target="_blank" rel="noopener noreffer ">tomcatmanager/tomcatmanager</a>.</em></p>]]></description></item></channel></rss>

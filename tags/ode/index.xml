@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ode - Tag - My Notes</title><link>https://blog.emecas.net/tags/ode/</link><description>Ode - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 17 Dec 2018 15:39:08 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ode/" rel="self" type="application/rss+xml"/><item><title>rtqichen/torchdiffeq</title><link>https://blog.emecas.net/posts/2018-12-17-rtqichen-torchdiffeq/</link><pubDate>Mon, 17 Dec 2018 15:39:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-17-rtqichen-torchdiffeq/</guid><description><![CDATA[<p>rtqichen/torchdiffeq<br>
+Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.<br>
+Python repository by rtqichen, created in 2018, with 6,493 stars and 1,003 forks. License: MIT. Starred on 2018-12-17.<br>
+<a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-12-17: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">rtqichen/torchdiffeq</a>.</em></p>]]></description></item></channel></rss>

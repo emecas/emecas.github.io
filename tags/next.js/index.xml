@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Next.js - Tag - My Notes</title><link>https://blog.emecas.net/tags/next.js/</link><description>Next.js - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Apr 2019 16:42:36 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/next.js/" rel="self" type="application/rss+xml"/><item><title>jqlang/playground</title><link>https://blog.emecas.net/posts/2019-04-16-jqlang-playground/</link><pubDate>Tue, 16 Apr 2019 16:42:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-16-jqlang-playground/</guid><description><![CDATA[<p>jqlang/playground<br>
+A jq playground built with Next.js<br>
+TypeScript repository by jqlang, created in 2014, with 857 stars and 116 forks. License: MIT. Starred on 2019-04-16.<br>
+Homepage: <a href="https://play.jqlang.org" target="_blank" rel="noopener noreffer ">https://play.jqlang.org</a><br>
+<a href="https://github.com/jqlang/playground" target="_blank" rel="noopener noreffer ">https://github.com/jqlang/playground</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-16: <a href="https://github.com/jqlang/playground" target="_blank" rel="noopener noreffer ">jqlang/playground</a>.</em></p>]]></description></item></channel></rss>

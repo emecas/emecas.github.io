@@ -1,4 +1,15 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Coding - Tag - My Notes</title><link>https://blog.emecas.net/tags/coding/</link><description>Coding - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 25 Oct 2020 07:49:51 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/coding/" rel="self" type="application/rss+xml"/><item><title>openFrameworks</title><link>https://blog.emecas.net/posts/2020-10-25-openframeworks/</link><pubDate>Sun, 25 Oct 2020 07:49:51 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-25-openframeworks/</guid><description><![CDATA[<p>openFrameworks<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Coding - Tag - My Notes</title><link>https://blog.emecas.net/tags/coding/</link><description>Coding - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Aug 2026 15:50:45 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/coding/" rel="self" type="application/rss+xml"/><item><title>addyosmani/agent-skills</title><link>https://blog.emecas.net/posts/2026-08-16-addyosmani-agent-skills/</link><pubDate>Sun, 16 Aug 2026 15:50:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-addyosmani-agent-skills/</guid><description><![CDATA[<p>addyosmani/agent-skills<br>
+Production-grade engineering skills for AI coding agents.<br>
+JavaScript repository by addyosmani, created in 2026, with 115,271 stars and 12,104 forks. License: MIT. Starred on 2026-08-16.<br>
+Homepage: <a href="https://skills.addy.ie" target="_blank" rel="noopener noreffer ">https://skills.addy.ie</a><br>
+<a href="https://github.com/addyosmani/agent-skills" target="_blank" rel="noopener noreffer ">https://github.com/addyosmani/agent-skills</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-16: <a href="https://github.com/addyosmani/agent-skills" target="_blank" rel="noopener noreffer ">addyosmani/agent-skills</a>.</em></p>]]></description></item><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
+SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.<br>
+Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
+<a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item><item><title>openFrameworks</title><link>https://blog.emecas.net/posts/2020-10-25-openframeworks/</link><pubDate>Sun, 25 Oct 2020 07:49:51 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-25-openframeworks/</guid><description><![CDATA[<p>openFrameworks<br>
 <a href="https://openframeworks.cc/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/</a><br>
 openFrameworks is an open source C++ toolkit for creative coding.</p>
 <p>Repos: <a href="https://github.com/openframeworks" target="_blank" rel="noopener noreffer ">https://github.com/openframeworks</a></p>
@@ -7,7 +18,12 @@ openFrameworks is an open source C++ toolkit for creative coding.</p>
 <p>Documentation <a href="https://openframeworks.cc/documentation/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/documentation/</a></p>
 <p>Reference for openFrameworks classes, functions and addons. You can also check the tutorials section <a href="https://openframeworks.cc/tutorials" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/tutorials</a>.</p>
 <p>Forum <a href="https://forum.openframeworks.cc/" target="_blank" rel="noopener noreffer ">https://forum.openframeworks.cc/</a></p>
-<p>The forum is a place to meet other people working with openFrameworks. It&rsquo;s a place to share your work, or find help solving problems.</p>]]></description></item><item><title>Program Creek</title><link>https://blog.emecas.net/posts/2017-02-09-program-creek/</link><pubDate>Thu, 09 Feb 2017 15:42:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-09-program-creek/</guid><description><![CDATA[<p>Program Creek<br>
+<p>The forum is a place to meet other people working with openFrameworks. It&rsquo;s a place to share your work, or find help solving problems.</p>]]></description></item><item><title>kbilsted/StatePrinter</title><link>https://blog.emecas.net/posts/2019-05-29-kbilsted-stateprinter/</link><pubDate>Wed, 29 May 2019 17:06:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-29-kbilsted-stateprinter/</guid><description><![CDATA[<p>kbilsted/StatePrinter<br>
+Automating unit testing and ToString() coding<br>
+C# repository by kbilsted, created in 2014, with 94 stars and 31 forks. License: Apache-2.0. Starred on 2019-05-29.<br>
+<a href="https://github.com/kbilsted/StatePrinter" target="_blank" rel="noopener noreffer ">https://github.com/kbilsted/StatePrinter</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-29: <a href="https://github.com/kbilsted/StatePrinter" target="_blank" rel="noopener noreffer ">kbilsted/StatePrinter</a>.</em></p>]]></description></item><item><title>Program Creek</title><link>https://blog.emecas.net/posts/2017-02-09-program-creek/</link><pubDate>Thu, 09 Feb 2017 15:42:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-09-program-creek/</guid><description><![CDATA[<p>Program Creek<br>
 <a href="http://www.programcreek.com/" target="_blank" rel="noopener noreffer ">http://www.programcreek.com/</a><br>
 A place to submit articles</p>
 <p>Articles about:<br>

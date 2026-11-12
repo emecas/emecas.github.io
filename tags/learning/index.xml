@@ -1,4 +1,26 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning - Tag - My Notes</title><link>https://blog.emecas.net/tags/learning/</link><description>Learning - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Aug 2022 21:08:52 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/learning/" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning - Tag - My Notes</title><link>https://blog.emecas.net/tags/learning/</link><description>Learning - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 14 Dec 2025 11:04:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/learning/" rel="self" type="application/rss+xml"/><item><title>harvard-edge/cs249r_book</title><link>https://blog.emecas.net/posts/2025-12-14-harvard-edge-cs249r-book/</link><pubDate>Sun, 14 Dec 2025 11:04:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-12-14-harvard-edge-cs249r-book/</guid><description><![CDATA[<p>harvard-edge/cs249r_book<br>
+Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | <a href="https://mlsysbook.ai" target="_blank" rel="noopener noreffer ">https://mlsysbook.ai</a><br>
+Python repository by harvard-edge, created in 2023, with 30,132 stars and 3,738 forks. Starred on 2025-12-14.<br>
+Homepage: <a href="https://mlsysbook.ai" target="_blank" rel="noopener noreffer ">https://mlsysbook.ai</a><br>
+<a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener noreffer ">https://github.com/harvard-edge/cs249r_book</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-12-14: <a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener noreffer ">harvard-edge/cs249r_book</a>.</em></p>]]></description></item><item><title>charlax/professional-programming</title><link>https://blog.emecas.net/posts/2024-03-02-charlax-professional-programming/</link><pubDate>Sat, 02 Mar 2024 17:21:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-charlax-professional-programming/</guid><description><![CDATA[<p>charlax/professional-programming<br>
+A collection of learning resources for curious software engineers<br>
+Python repository by charlax, created in 2015, with 51,672 stars and 4,033 forks. License: MIT. Starred on 2024-03-02.<br>
+<a href="https://github.com/charlax/professional-programming" target="_blank" rel="noopener noreffer ">https://github.com/charlax/professional-programming</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-03-02: <a href="https://github.com/charlax/professional-programming" target="_blank" rel="noopener noreffer ">charlax/professional-programming</a>.</em></p>]]></description></item><item><title>thomasnield/oreilly_machine_learning_from_scratch</title><link>https://blog.emecas.net/posts/2023-06-26-thomasnield-oreilly-machine-learning-from-scratch/</link><pubDate>Mon, 26 Jun 2023 13:08:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-26-thomasnield-oreilly-machine-learning-from-scratch/</guid><description><![CDATA[<p>thomasnield/oreilly_machine_learning_from_scratch<br>
+Resources for the O&rsquo;Reilly Online Training &ldquo;Machine Learning from Scratch&rdquo;<br>
+Python repository by thomasnield, created in 2019, with 318 stars and 284 forks. Starred on 2023-06-26.<br>
+Homepage: <a href="https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&amp;extended_publisher_data=true&amp;highlight=true&amp;include_assessments=false&amp;include_case_studies=true&amp;include_courses=true&amp;include_orioles=true&amp;include_playlists=true&amp;include_collect" target="_blank" rel="noopener noreffer ">https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collect</a><br>
+<a href="https://github.com/thomasnield/oreilly_machine_learning_from_scratch" target="_blank" rel="noopener noreffer ">https://github.com/thomasnield/oreilly_machine_learning_from_scratch</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-26: <a href="https://github.com/thomasnield/oreilly_machine_learning_from_scratch" target="_blank" rel="noopener noreffer ">thomasnield/oreilly_machine_learning_from_scratch</a>.</em></p>]]></description></item><item><title>pdeitel/PythonDataScienceFullThrottle</title><link>https://blog.emecas.net/posts/2023-06-22-pdeitel-pythondatasciencefullthrottle/</link><pubDate>Thu, 22 Jun 2023 17:32:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-22-pdeitel-pythondatasciencefullthrottle/</guid><description><![CDATA[<p>pdeitel/PythonDataScienceFullThrottle<br>
+Downloads for my Safari Online Learning live training course Python Data Science Full Throttle: Introductory Artificial Intelligence (AI), Big Data and Cloud Case Studies<br>
+Jupyter Notebook repository by pdeitel, created in 2019, with 272 stars and 227 forks. Archived by its owner. Starred on 2023-06-22.<br>
+<a href="https://github.com/pdeitel/PythonDataScienceFullThrottle" target="_blank" rel="noopener noreffer ">https://github.com/pdeitel/PythonDataScienceFullThrottle</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-22: <a href="https://github.com/pdeitel/PythonDataScienceFullThrottle" target="_blank" rel="noopener noreffer ">pdeitel/PythonDataScienceFullThrottle</a>.</em></p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
 <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
 Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
 <p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
@@ -6,7 +28,12 @@ Processing is a flexible software sketchbook and a language for learning how to 
 <p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
 - p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
 - Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
-- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
+- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>eugeneyan/applied-ml</title><link>https://blog.emecas.net/posts/2021-01-19-eugeneyan-applied-ml/</link><pubDate>Tue, 19 Jan 2021 03:43:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-19-eugeneyan-applied-ml/</guid><description><![CDATA[<p>eugeneyan/applied-ml<br>
+📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.<br>
+Repository by eugeneyan, created in 2020, with 30,893 stars and 4,059 forks. License: MIT. Starred on 2021-01-19.<br>
+<a href="https://github.com/eugeneyan/applied-ml" target="_blank" rel="noopener noreffer ">https://github.com/eugeneyan/applied-ml</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-19: <a href="https://github.com/eugeneyan/applied-ml" target="_blank" rel="noopener noreffer ">eugeneyan/applied-ml</a>.</em></p>]]></description></item><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
 <a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
 Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
 <p>Title:<br>
@@ -15,46 +42,22 @@ Standard for Learning Metadata</p>
 This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
 This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
 This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
-This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>Guru99</title><link>https://blog.emecas.net/posts/2019-03-03-guru99/</link><pubDate>Sun, 03 Mar 2019 19:36:24 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-03-guru99/</guid><description><![CDATA[<p>Guru99<br>
-<a href="https://www.guru99.com/" target="_blank" rel="noopener noreffer ">https://www.guru99.com/</a></p>
-<p>Guru99 is totally new kind of learning experience.</p>
-<p>Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.</p>
-<p>Inside, you will find tons of video tutorials</p>
-<p>All provided FREE!!!</p>
-<p>Testing</p>
-<p>Software Testing<br>
-QTP (Quick Test Professional)<br>
-Selenium<br>
-Mobile App Testing<br>
-Cucumber Testing<br>
-SoapUI<br>
-Agile Testing<br>
-JUnit<br>
-RPA</p>
-<p>Live Projects</p>
-<p>Live Testing Project<br>
-Live Selenium Project<br>
-Live Ecommerce Project<br>
-Live UFT Testing<br>
-Live HP ALM Exercise<br>
-Live Mobile Testing<br>
-Live Security Testing<br>
-Live PHP Project<br>
-Live Scrum(Agile) Testing<br>
-Live Insurance Testing<br>
-Live Payment Gateway<br>
-Live Telecom<br>
-Live Java Project</p>]]></description></item><item><title>Kotlin Playground &amp; Kotlin Koans</title><link>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</link><pubDate>Thu, 29 Nov 2018 13:58:08 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-11-29-kotlin-playground-kotlin-koans/</guid><description><![CDATA[<p>Kotlin Playground is an online sandbox to explore Kotlin<br>
-programming language,browse code samples directly in the browser<br>
-<a href="https://play.kotlinlang.org" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org</a><br>
-Kotlin Koans<br>
-<a href="https://play.kotlinlang.org/koans/overview" target="_blank" rel="noopener noreffer ">https://play.kotlinlang.org/koans/overview</a><br>
-Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax and some idioms. Each exercise is created as a failing unit test, and your job is to make it pass. Here you can play with Koans online, but the same version of exercises is also available via JetBrains educational plugin right inside IntelliJ IDEA or Android Studio. Saying nothing of simply cloning the project on GitHub.</p>]]></description></item><item><title>Learning Theory interactive Map</title><link>https://blog.emecas.net/posts/2014-02-10-learning-theory-interactive-map/</link><pubDate>Mon, 10 Feb 2014 11:20:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-02-10-learning-theory-interactive-map/</guid><description><![CDATA[<p>Learning Theory interactive Map<br>
-<a href="http://blog.richardmillwood.net/2013/05/10/learning-theory/" target="_blank" rel="noopener noreffer ">http://blog.richardmillwood.net/2013/05/10/learning-theory/</a></p>
+This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>soulmachine/machine-learning-cheat-sheet</title><link>https://blog.emecas.net/posts/2020-11-10-soulmachine-machine-learning-cheat-sheet/</link><pubDate>Tue, 10 Nov 2020 17:54:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-10-soulmachine-machine-learning-cheat-sheet/</guid><description><![CDATA[<p>soulmachine/machine-learning-cheat-sheet<br>
+Classical equations and diagrams in machine learning<br>
+TeX repository by soulmachine, created in 2013, with 8,044 stars and 1,325 forks. Starred on 2020-11-10.<br>
+Homepage: <a href="http://soulmachine.me" target="_blank" rel="noopener noreffer ">http://soulmachine.me</a><br>
+<a href="https://github.com/soulmachine/machine-learning-cheat-sheet" target="_blank" rel="noopener noreffer ">https://github.com/soulmachine/machine-learning-cheat-sheet</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/516fe1d3f1306b9c035e80da64555c7e73e52b72" target="_blank" rel="noopener noreffer "><code>516fe1d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Scratch</title><link>https://blog.emecas.net/posts/2013-03-19-scratch/</link><pubDate>Tue, 19 Mar 2013 00:32:33 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-19-scratch/</guid><description><![CDATA[<p>Scratch<br>
-<a href="http://scratch.mit.edu" target="_blank" rel="noopener noreffer ">http://scratch.mit.edu</a><br>
-Scratch is a programming language that makes it easy to create your own interactive stories, animations, games, music, and art -- and share your creations on the web.<br>
-As young people create and share Scratch projects, they learn important mathematical and computational ideas, while also learning to think creatively, reason systematically, and work collaboratively.</p>
+<p><em>Source: starred on GitHub on 2020-11-10: <a href="https://github.com/soulmachine/machine-learning-cheat-sheet" target="_blank" rel="noopener noreffer ">soulmachine/machine-learning-cheat-sheet</a>.</em></p>]]></description></item><item><title>deepjavalibrary/djl</title><link>https://blog.emecas.net/posts/2020-11-04-deepjavalibrary-djl/</link><pubDate>Wed, 04 Nov 2020 02:41:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-04-deepjavalibrary-djl/</guid><description><![CDATA[<p>deepjavalibrary/djl<br>
+An Engine-Agnostic Deep Learning Framework in Java<br>
+Java repository by deepjavalibrary, created in 2019, with 4,861 stars and 761 forks. License: Apache-2.0. Starred on 2020-11-04.<br>
+Homepage: <a href="https://djl.ai" target="_blank" rel="noopener noreffer ">https://djl.ai</a><br>
+<a href="https://github.com/deepjavalibrary/djl" target="_blank" rel="noopener noreffer ">https://github.com/deepjavalibrary/djl</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fa88d422ae1bb085bff8ab11a8b095cd6b645fd1" target="_blank" rel="noopener noreffer "><code>fa88d42</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-11-04: <a href="https://github.com/deepjavalibrary/djl" target="_blank" rel="noopener noreffer ">deepjavalibrary/djl</a>.</em></p>]]></description></item><item><title>nidhaloff/igel</title><link>https://blog.emecas.net/posts/2020-11-03-nidhaloff-igel/</link><pubDate>Tue, 03 Nov 2020 03:43:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-03-nidhaloff-igel/</guid><description><![CDATA[<p>nidhaloff/igel<br>
+a delightful machine learning tool that allows you to train, test, and use models without writing code<br>
+Python repository by nidhaloff, created in 2020, with 3,140 stars and 210 forks. License: MIT. Starred on 2020-11-03.<br>
+Homepage: <a href="https://igel.readthedocs.io/en/latest/" target="_blank" rel="noopener noreffer ">https://igel.readthedocs.io/en/latest/</a><br>
+<a href="https://github.com/nidhaloff/igel" target="_blank" rel="noopener noreffer ">https://github.com/nidhaloff/igel</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-03: <a href="https://github.com/nidhaloff/igel" target="_blank" rel="noopener noreffer ">nidhaloff/igel</a>.</em></p>]]></description></item></channel></rss>

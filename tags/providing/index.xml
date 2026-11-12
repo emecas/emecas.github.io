@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Providing - Tag - My Notes</title><link>https://blog.emecas.net/tags/providing/</link><description>Providing - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 Jan 2021 05:22:17 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/providing/" rel="self" type="application/rss+xml"/><item><title>plantuml-stdlib/C4-PlantUML</title><link>https://blog.emecas.net/posts/2021-01-16-plantuml-stdlib-c4-plantuml/</link><pubDate>Sat, 16 Jan 2021 05:22:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-plantuml-stdlib-c4-plantuml/</guid><description><![CDATA[<p>plantuml-stdlib/C4-PlantUML<br>
+C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures<br>
+PlantUML repository by plantuml-stdlib, created in 2018, with 7,453 stars and 1,168 forks. License: MIT. Starred on 2021-01-16.<br>
+<a href="https://github.com/plantuml-stdlib/C4-PlantUML" target="_blank" rel="noopener noreffer ">https://github.com/plantuml-stdlib/C4-PlantUML</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-16: <a href="https://github.com/plantuml-stdlib/C4-PlantUML" target="_blank" rel="noopener noreffer ">plantuml-stdlib/C4-PlantUML</a>.</em></p>]]></description></item><item><title>pandas-dev/pandas</title><link>https://blog.emecas.net/posts/2020-02-24-pandas-dev-pandas/</link><pubDate>Mon, 24 Feb 2020 17:46:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-pandas-dev-pandas/</guid><description><![CDATA[<p>pandas-dev/pandas<br>
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more<br>
+Python repository by pandas-dev, created in 2010, with 50,578 stars and 20,745 forks. License: BSD-3-Clause. Starred on 2020-02-24.<br>
+Homepage: <a href="https://pandas.pydata.org" target="_blank" rel="noopener noreffer ">https://pandas.pydata.org</a><br>
+<a href="https://github.com/pandas-dev/pandas" target="_blank" rel="noopener noreffer ">https://github.com/pandas-dev/pandas</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-24: <a href="https://github.com/pandas-dev/pandas" target="_blank" rel="noopener noreffer ">pandas-dev/pandas</a>.</em></p>]]></description></item><item><title>knowm/XChange</title><link>https://blog.emecas.net/posts/2014-10-29-knowm-xchange/</link><pubDate>Wed, 29 Oct 2014 12:36:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-10-29-knowm-xchange/</guid><description><![CDATA[<p>knowm/XChange<br>
+XChange is a Java library providing a streamlined API for interacting with 60+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.<br>
+Java repository by knowm, created in 2012, with 4,099 stars and 1,988 forks. License: MIT. Starred on 2014-10-29.<br>
+Homepage: <a href="http://knowm.org/open-source/xchange/" target="_blank" rel="noopener noreffer ">http://knowm.org/open-source/xchange/</a><br>
+<a href="https://github.com/knowm/XChange" target="_blank" rel="noopener noreffer ">https://github.com/knowm/XChange</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2014-10-29: <a href="https://github.com/knowm/XChange" target="_blank" rel="noopener noreffer ">knowm/XChange</a>.</em></p>]]></description></item></channel></rss>

@@ -16,7 +16,34 @@ Spark - A micro framework for creating web applications in Kotlin and Java 8 wit
 <p>Gradle : compile &ldquo;com.sparkjava:spark-core:2.8.0&rdquo; // add to build.gradle (for Java users)<br>
 Gradle : compile &ldquo;com.sparkjava:spark-kotlin:1.0.0-alpha&rdquo; // add to build.gradle (for Kotlin users)<br>
 Ivy : &lt;dependency org=&ldquo;com.sparkjava&rdquo; name=&ldquo;spark-core&rdquo; rev=&ldquo;2.8.0&rdquo; conf=&ldquo;build&rdquo; /&gt; // ivy.xml<br>
-SBT : libraryDependencies += &ldquo;com.sparkjava&rdquo; % &ldquo;spark-core&rdquo; % &ldquo;2.8.0&rdquo; // build.sbt</p>]]></description></item><item><title>Apache Beam</title><link>https://blog.emecas.net/posts/2017-02-07-apache-beam/</link><pubDate>Tue, 07 Feb 2017 08:25:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-07-apache-beam/</guid><description><![CDATA[<p>Apache Beam<br>
+SBT : libraryDependencies += &ldquo;com.sparkjava&rdquo; % &ldquo;spark-core&rdquo; % &ldquo;2.8.0&rdquo; // build.sbt</p>]]></description></item><item><title>deeplearning4j/deeplearning4j-examples</title><link>https://blog.emecas.net/posts/2020-02-29-deeplearning4j-deeplearning4j-examples/</link><pubDate>Sat, 29 Feb 2020 05:16:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-deeplearning4j-deeplearning4j-examples/</guid><description><![CDATA[<p>deeplearning4j/deeplearning4j-examples<br>
+Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)<br>
+Java repository by deeplearning4j, created in 2015, with 2,504 stars and 1,805 forks. Starred on 2020-02-29.<br>
+Homepage: <a href="http://deeplearning4j.konduit.ai" target="_blank" rel="noopener noreffer ">http://deeplearning4j.konduit.ai</a><br>
+<a href="https://github.com/deeplearning4j/deeplearning4j-examples" target="_blank" rel="noopener noreffer ">https://github.com/deeplearning4j/deeplearning4j-examples</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/deeplearning4j/deeplearning4j-examples" target="_blank" rel="noopener noreffer ">deeplearning4j/deeplearning4j-examples</a>.</em></p>]]></description></item><item><title>awesome-spark/spark-gotchas</title><link>https://blog.emecas.net/posts/2018-08-17-awesome-spark-spark-gotchas/</link><pubDate>Fri, 17 Aug 2018 09:28:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-08-17-awesome-spark-spark-gotchas/</guid><description><![CDATA[<p>awesome-spark/spark-gotchas<br>
+Spark Gotchas. A subjective compilation of the Apache Spark tips and tricks<br>
+Repository by awesome-spark, created in 2016, with 358 stars and 78 forks. Archived by its owner. Starred on 2018-08-17.<br>
+<a href="https://github.com/awesome-spark/spark-gotchas" target="_blank" rel="noopener noreffer ">https://github.com/awesome-spark/spark-gotchas</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-08-17: <a href="https://github.com/awesome-spark/spark-gotchas" target="_blank" rel="noopener noreffer ">awesome-spark/spark-gotchas</a>.</em></p>]]></description></item><item><title>goldshtn/spark-workshop</title><link>https://blog.emecas.net/posts/2018-06-06-goldshtn-spark-workshop/</link><pubDate>Wed, 06 Jun 2018 15:11:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-06-06-goldshtn-spark-workshop/</guid><description><![CDATA[<p>goldshtn/spark-workshop<br>
+Labs and data files for a full-day Spark workshop<br>
+Shell repository by goldshtn, created in 2016, with 25 stars and 22 forks. License: MIT. Starred on 2018-06-06.<br>
+<a href="https://github.com/goldshtn/spark-workshop" target="_blank" rel="noopener noreffer ">https://github.com/goldshtn/spark-workshop</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-06-06: <a href="https://github.com/goldshtn/spark-workshop" target="_blank" rel="noopener noreffer ">goldshtn/spark-workshop</a>.</em></p>]]></description></item><item><title>qubole/spark-on-lambda</title><link>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</link><pubDate>Fri, 29 Dec 2017 15:25:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-29-qubole-spark-on-lambda/</guid><description><![CDATA[<p>qubole/spark-on-lambda<br>
+Apache Spark on AWS Lambda<br>
+Scala repository by qubole, created in 2017, with 158 stars and 31 forks. License: Apache-2.0. Starred on 2017-12-29.<br>
+<a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">https://github.com/qubole/spark-on-lambda</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-29: <a href="https://github.com/qubole/spark-on-lambda" target="_blank" rel="noopener noreffer ">qubole/spark-on-lambda</a>.</em></p>]]></description></item><item><title>apache/spark</title><link>https://blog.emecas.net/posts/2017-06-07-apache-spark/</link><pubDate>Wed, 07 Jun 2017 17:52:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-07-apache-spark/</guid><description><![CDATA[<p>apache/spark<br>
+Apache Spark - A unified analytics engine for large-scale data processing<br>
+Scala repository by apache, created in 2014, with 44,466 stars and 29,593 forks. License: Apache-2.0. Starred on 2017-06-07.<br>
+Homepage: <a href="https://spark.apache.org/" target="_blank" rel="noopener noreffer ">https://spark.apache.org/</a><br>
+<a href="https://github.com/apache/spark" target="_blank" rel="noopener noreffer ">https://github.com/apache/spark</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-07: <a href="https://github.com/apache/spark" target="_blank" rel="noopener noreffer ">apache/spark</a>.</em></p>]]></description></item><item><title>Apache Beam</title><link>https://blog.emecas.net/posts/2017-02-07-apache-beam/</link><pubDate>Tue, 07 Feb 2017 08:25:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-07-apache-beam/</guid><description><![CDATA[<p>Apache Beam<br>
 <a href="https://beam.apache.org/" target="_blank" rel="noopener noreffer ">https://beam.apache.org/</a><br>
 Apache Beam provides an advanced unified programming model, allowing you to implement batch and streaming data processing jobs that can run on any execution engine</p>
 <p>Apache Beam is:<br>

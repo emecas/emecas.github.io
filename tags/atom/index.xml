@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Atom - Tag - My Notes</title><link>https://blog.emecas.net/tags/atom/</link><description>Atom - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 13 May 2019 19:03:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/atom/" rel="self" type="application/rss+xml"/><item><title>ROME</title><link>https://blog.emecas.net/posts/2019-05-13-rome/</link><pubDate>Mon, 13 May 2019 19:03:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-13-rome/</guid><description><![CDATA[<p>ROME<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Atom - Tag - My Notes</title><link>https://blog.emecas.net/tags/atom/</link><description>Atom - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Dec 2019 21:33:15 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/atom/" rel="self" type="application/rss+xml"/><item><title>atom/atom</title><link>https://blog.emecas.net/posts/2019-12-03-atom-atom/</link><pubDate>Tue, 03 Dec 2019 21:33:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-03-atom-atom/</guid><description><![CDATA[<p>atom/atom<br>
+:atom: The hackable text editor<br>
+JavaScript repository by atom, created in 2012, with 60,692 stars and 17,166 forks. License: MIT. Archived by its owner. Starred on 2019-12-03.<br>
+Homepage: <a href="https://atom.io" target="_blank" rel="noopener noreffer ">https://atom.io</a><br>
+<a href="https://github.com/atom/atom" target="_blank" rel="noopener noreffer ">https://github.com/atom/atom</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-12-03: <a href="https://github.com/atom/atom" target="_blank" rel="noopener noreffer ">atom/atom</a>.</em></p>]]></description></item><item><title>rometools/rome</title><link>https://blog.emecas.net/posts/2019-05-13-rometools-rome/</link><pubDate>Mon, 13 May 2019 23:20:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-13-rometools-rome/</guid><description><![CDATA[<p>rometools/rome<br>
+Java library for RSS and Atom feeds<br>
+Java repository by rometools, created in 2013, with 955 stars and 169 forks. License: Apache-2.0. Starred on 2019-05-13.<br>
+Homepage: <a href="https://rometools.github.io/rome" target="_blank" rel="noopener noreffer ">https://rometools.github.io/rome</a><br>
+<a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">https://github.com/rometools/rome</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-13: <a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">rometools/rome</a>.</em></p>]]></description></item><item><title>ROME</title><link>https://blog.emecas.net/posts/2019-05-13-rome/</link><pubDate>Mon, 13 May 2019 19:03:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-13-rome/</guid><description><![CDATA[<p>ROME<br>
 <a href="https://rometools.github.io/rome/" target="_blank" rel="noopener noreffer ">https://rometools.github.io/rome/</a><br>
 ROME is a Java framework for RSS and Atom feeds. It&rsquo;s open source and licensed under the Apache 2.0 license.<br>
 <a href="https://github.com/rometools/rome" target="_blank" rel="noopener noreffer ">https://github.com/rometools/rome</a></p>

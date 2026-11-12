@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Clean - Tag - My Notes</title><link>https://blog.emecas.net/tags/clean/</link><description>Clean - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 14 Sep 2026 13:59:10 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/clean/" rel="self" type="application/rss+xml"/><item><title>thangchung/clean-architecture-dotnet</title><link>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</link><pubDate>Mon, 14 Sep 2026 13:59:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</guid><description><![CDATA[<p>thangchung/clean-architecture-dotnet<br>
+🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻<br>
+C# repository by thangchung, created in 2021, with 1,363 stars and 288 forks. License: MIT. Starred on 2026-09-14.<br>
+<a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">https://github.com/thangchung/clean-architecture-dotnet</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">thangchung/clean-architecture-dotnet</a>.</em></p>]]></description></item><item><title>mscottford/clean-code-by-example</title><link>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</link><pubDate>Wed, 21 Jun 2023 15:01:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</guid><description><![CDATA[<p>mscottford/clean-code-by-example<br>
+Example code and exercises used in the O&rsquo;Reilly course, Clean Code by Example<br>
+C# repository by mscottford, created in 2022, with 24 stars and 12 forks. Starred on 2023-06-21.<br>
+<a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">https://github.com/mscottford/clean-code-by-example</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-21: <a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">mscottford/clean-code-by-example</a>.</em></p>]]></description></item><item><title>dillonzq/LoveIt</title><link>https://blog.emecas.net/posts/2020-12-17-dillonzq-loveit/</link><pubDate>Thu, 17 Dec 2020 17:25:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-17-dillonzq-loveit/</guid><description><![CDATA[<p>dillonzq/LoveIt<br>
+❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题<br>
+JavaScript repository by dillonzq, created in 2019, with 3,870 stars and 1,161 forks. License: MIT. Starred on 2020-12-17.<br>
+Homepage: <a href="https://hugoloveit.com" target="_blank" rel="noopener noreffer ">https://hugoloveit.com</a><br>
+<a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer ">https://github.com/dillonzq/LoveIt</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-12-17: <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer ">dillonzq/LoveIt</a>.</em></p>]]></description></item><item><title>victorrentea/clean-code-java</title><link>https://blog.emecas.net/posts/2020-10-05-victorrentea-clean-code-java/</link><pubDate>Mon, 05 Oct 2020 17:08:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-05-victorrentea-clean-code-java/</guid><description><![CDATA[<p>victorrentea/clean-code-java<br>
+Java repository by victorrentea, created in 2019, with 51 stars and 32 forks. License: Unlicense. Starred on 2020-10-05.<br>
+<a href="https://github.com/victorrentea/clean-code-java" target="_blank" rel="noopener noreffer ">https://github.com/victorrentea/clean-code-java</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-05: <a href="https://github.com/victorrentea/clean-code-java" target="_blank" rel="noopener noreffer ">victorrentea/clean-code-java</a>.</em></p>]]></description></item></channel></rss>

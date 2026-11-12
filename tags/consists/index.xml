@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Consists - Tag - My Notes</title><link>https://blog.emecas.net/tags/consists/</link><description>Consists - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Dec 2018 10:34:04 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/consists/" rel="self" type="application/rss+xml"/><item><title>ray-project/ray</title><link>https://blog.emecas.net/posts/2018-12-05-ray-project-ray/</link><pubDate>Wed, 05 Dec 2018 10:34:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-05-ray-project-ray/</guid><description><![CDATA[<p>ray-project/ray<br>
+Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.<br>
+Python repository by ray-project, created in 2016, with 44,251 stars and 8,270 forks. License: Apache-2.0. Starred on 2018-12-05.<br>
+Homepage: <a href="https://ray.io" target="_blank" rel="noopener noreffer ">https://ray.io</a><br>
+<a href="https://github.com/ray-project/ray" target="_blank" rel="noopener noreffer ">https://github.com/ray-project/ray</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-12-05: <a href="https://github.com/ray-project/ray" target="_blank" rel="noopener noreffer ">ray-project/ray</a>.</em></p>]]></description></item></channel></rss>

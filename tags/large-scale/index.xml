@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Large-Scale - Tag - My Notes</title><link>https://blog.emecas.net/tags/large-scale/</link><description>Large-Scale - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Oct 2023 16:48:05 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/large-scale/" rel="self" type="application/rss+xml"/><item><title>openai/whisper</title><link>https://blog.emecas.net/posts/2023-10-18-openai-whisper/</link><pubDate>Wed, 18 Oct 2023 16:48:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-10-18-openai-whisper/</guid><description><![CDATA[<p>openai/whisper<br>
+Robust Speech Recognition via Large-Scale Weak Supervision<br>
+Python repository by openai, created in 2022, with 112,383 stars and 13,605 forks. License: MIT. Starred on 2023-10-18.<br>
+<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-10-18: <a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">openai/whisper</a>.</em></p>]]></description></item><item><title>donnemartin/system-design-primer</title><link>https://blog.emecas.net/posts/2020-06-14-donnemartin-system-design-primer/</link><pubDate>Sun, 14 Jun 2020 15:36:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-14-donnemartin-system-design-primer/</guid><description><![CDATA[<p>donnemartin/system-design-primer<br>
+Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.<br>
+Python repository by donnemartin, created in 2017, with 377,596 stars and 59,264 forks. Starred on 2020-06-14.<br>
+<a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreffer ">https://github.com/donnemartin/system-design-primer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-06-14: <a href="https://github.com/donnemartin/system-design-primer" target="_blank" rel="noopener noreffer ">donnemartin/system-design-primer</a>.</em></p>]]></description></item></channel></rss>

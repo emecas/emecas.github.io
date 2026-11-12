@@ -2,7 +2,12 @@
 <a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
 web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/486dfbcb10d3f0f89bb8d43e3c10d1c6dcdd8921" target="_blank" rel="noopener noreffer "><code>486dfbc</code></a> in My-Notes.</em></p>]]></description></item><item><title>Swagger 2</title><link>https://blog.emecas.net/posts/2020-06-25-swagger-2/</link><pubDate>Thu, 25 Jun 2020 15:38:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-25-swagger-2/</guid><description><![CDATA[<p>Setting Up Swagger 2 with a Spring REST API<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/486dfbcb10d3f0f89bb8d43e3c10d1c6dcdd8921" target="_blank" rel="noopener noreffer "><code>486dfbc</code></a> in My-Notes.</em></p>]]></description></item><item><title>hareeshkg/jpa-helidon-sample</title><link>https://blog.emecas.net/posts/2020-08-08-hareeshkg-jpa-helidon-sample/</link><pubDate>Sat, 08 Aug 2020 13:24:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-08-hareeshkg-jpa-helidon-sample/</guid><description><![CDATA[<p>hareeshkg/jpa-helidon-sample<br>
+A Step by step tutorial for Helidon MP microservce creation with JPA(Hibernate)<br>
+Java repository by hareeshkg, created in 2020, with 5 stars and 1 forks. Starred on 2020-08-08.<br>
+<a href="https://github.com/hareeshkg/jpa-helidon-sample" target="_blank" rel="noopener noreffer ">https://github.com/hareeshkg/jpa-helidon-sample</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-08: <a href="https://github.com/hareeshkg/jpa-helidon-sample" target="_blank" rel="noopener noreffer ">hareeshkg/jpa-helidon-sample</a>.</em></p>]]></description></item><item><title>Swagger 2</title><link>https://blog.emecas.net/posts/2020-06-25-swagger-2/</link><pubDate>Thu, 25 Jun 2020 15:38:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-25-swagger-2/</guid><description><![CDATA[<p>Setting Up Swagger 2 with a Spring REST API<br>
 <a href="https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api</a><br>
 Nowadays, front-end and back-end components often separate a web application. Usually, we expose APIs as a back-end component for the front-end component or third-party app integrations.</p>
 <p>In such a scenario, it is essential to have proper specifications for the back-end APIs. At the same time, the API documentation should be informative, readable, and easy to follow.</p>
@@ -79,13 +84,4 @@ Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate 
 Whether you&rsquo;re going to generate a self-signed certificate or you have already got one by a CA,<br>
 I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb732917ebe04fe2ff33cafaf4fa27b411231a2b" target="_blank" rel="noopener noreffer "><code>cb73291</code></a> in My-Notes.</em></p>]]></description></item><item><title>Centralized configuration with Spring Cloud Config</title><link>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</link><pubDate>Thu, 07 Mar 2019 14:22:51 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-07-centralized-configuration-with-spring-cloud-config/</guid><description><![CDATA[<p>Centralized configuration with Spring Cloud Config<br>
-<a href="https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/" target="_blank" rel="noopener noreffer ">https://zoltanaltfatter.com/2016/06/30/centralized-configuration-with-spring-cloud-config/</a><br>
-By<br>
-Zoltan Altfatter</p>
-<p>In this blog post I am looking into Spring Cloud Config project which is a great tool for centralized<br>
-configuration management in a microservice environment. I have prepared a simple example project<br>
-which you can find on my github account. It contains a config-service leveraging Spring Cloud<br>
-Config Server and three little services using Spring Cloud Config Client.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b5a44d6b83ee5ba7249995bfdc95fc1e28f2948d" target="_blank" rel="noopener noreffer "><code>b5a44d6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb732917ebe04fe2ff33cafaf4fa27b411231a2b" target="_blank" rel="noopener noreffer "><code>cb73291</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

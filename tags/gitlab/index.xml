@@ -9,4 +9,10 @@ It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
 <p>How to use</p>
 <p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
 <p>or run it directly from the upstream image:</p>
-<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item></channel></rss>
+<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>python-gitlab/python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-13-python-gitlab-python-gitlab/</link><pubDate>Thu, 13 Feb 2020 00:49:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-python-gitlab-python-gitlab/</guid><description><![CDATA[<p>python-gitlab/python-gitlab<br>
+A python wrapper for the GitLab API.<br>
+Python repository by python-gitlab, created in 2013, with 2,482 stars and 682 forks. Starred on 2020-02-13.<br>
+Homepage: <a href="https://python-gitlab.readthedocs.io" target="_blank" rel="noopener noreffer ">https://python-gitlab.readthedocs.io</a><br>
+<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-13: <a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">python-gitlab/python-gitlab</a>.</em></p>]]></description></item></channel></rss>

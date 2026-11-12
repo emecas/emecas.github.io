@@ -14,4 +14,9 @@
 <p>What is the role of Zookeeper vs Eureka for microservices?<br>
 <a href="https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/48635782/what-is-the-role-of-zookeeper-vs-eureka-for-microservices</a></p>
 <p>Spring Cloud: use consul instead of eureka for service discovery with zuul<br>
-<a href="https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul</a></p>]]></description></item></channel></rss>
+<a href="https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/36859433/spring-cloud-use-consul-instead-of-eureka-for-service-discovery-with-zuul</a></p>]]></description></item><item><title>Netflix/zuul</title><link>https://blog.emecas.net/posts/2017-05-15-netflix-zuul/</link><pubDate>Mon, 15 May 2017 14:59:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-15-netflix-zuul/</guid><description><![CDATA[<p>Netflix/zuul<br>
+Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.<br>
+Java repository by Netflix, created in 2013, with 14,099 stars and 2,441 forks. License: Apache-2.0. Starred on 2017-05-15.<br>
+<a href="https://github.com/Netflix/zuul" target="_blank" rel="noopener noreffer ">https://github.com/Netflix/zuul</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-05-15: <a href="https://github.com/Netflix/zuul" target="_blank" rel="noopener noreffer ">Netflix/zuul</a>.</em></p>]]></description></item></channel></rss>

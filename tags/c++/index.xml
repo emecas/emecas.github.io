@@ -3,25 +3,54 @@
 Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
 <p>Features:</p>
 <p>- Clean and Flexible Interface</p>
-<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item><item><title>openFrameworks</title><link>https://blog.emecas.net/posts/2020-10-25-openframeworks/</link><pubDate>Sun, 25 Oct 2020 07:49:51 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-25-openframeworks/</guid><description><![CDATA[<p>openFrameworks<br>
-<a href="https://openframeworks.cc/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/</a><br>
-openFrameworks is an open source C++ toolkit for creative coding.</p>
-<p>Repos: <a href="https://github.com/openframeworks" target="_blank" rel="noopener noreffer ">https://github.com/openframeworks</a></p>
-<p>Download <a href="https://openframeworks.cc/download/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/download/</a></p>
-<p>Grab the most recent release (0.11.0) and follow the setup guide to get openFrameworks running.</p>
-<p>Documentation <a href="https://openframeworks.cc/documentation/" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/documentation/</a></p>
-<p>Reference for openFrameworks classes, functions and addons. You can also check the tutorials section <a href="https://openframeworks.cc/tutorials" target="_blank" rel="noopener noreffer ">https://openframeworks.cc/tutorials</a>.</p>
-<p>Forum <a href="https://forum.openframeworks.cc/" target="_blank" rel="noopener noreffer ">https://forum.openframeworks.cc/</a></p>
-<p>The forum is a place to meet other people working with openFrameworks. It&rsquo;s a place to share your work, or find help solving problems.</p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
-rocksdb.org<br>
-RocksDB is an embeddable persistent key-value store for fast storage.<br>
-Repo: <a href="https://github.com/facebook/rocksdb/" target="_blank" rel="noopener noreffer ">https://github.com/facebook/rocksdb/</a></p>
-<p>The RocksDB library provides a persistent key value store. Keys and values are arbitrary byte arrays. The keys are ordered within the key value store according to a user-specified comparator function.</p>
-<p>The library is maintained by the Facebook Database Engineering Team, and is based on LevelDB, by Sanjay Ghemawat and Jeff Dean at Google.</p>]]></description></item><item><title>Grive</title><link>https://blog.emecas.net/posts/2013-11-18-grive/</link><pubDate>Mon, 18 Nov 2013 01:51:14 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-18-grive/</guid><description><![CDATA[<p>Grive<br>
-<a href="http://www.lbreda.com/grive/start" target="_blank" rel="noopener noreffer ">http://www.lbreda.com/grive/start</a><br>
-The purpose of this project is to provide an independent open source implementation of Google Drive client for GNU/Linux. It uses the Google Document List API to talk to the servers in Google. The code is written in standard C++.</p>
-<p>Related:<br>
-Backup script on Google Drive for Linux<br>
-<a href="http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/" target="_blank" rel="noopener noreffer ">http://tech.rgou.net/en/linux-2/backup-script-on-google-drive-for-linux/</a></p>
+<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item><item><title>fffaraz/awesome-cpp</title><link>https://blog.emecas.net/posts/2024-05-27-fffaraz-awesome-cpp/</link><pubDate>Mon, 27 May 2024 17:17:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-fffaraz-awesome-cpp/</guid><description><![CDATA[<p>fffaraz/awesome-cpp<br>
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-&hellip; stuff.<br>
+Repository by fffaraz, created in 2014, with 74,355 stars and 8,378 forks. License: MIT. Starred on 2024-05-27.<br>
+Homepage: <a href="http://fffaraz.github.io/awesome-cpp/" target="_blank" rel="noopener noreffer ">http://fffaraz.github.io/awesome-cpp/</a><br>
+<a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noopener noreffer ">https://github.com/fffaraz/awesome-cpp</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d50aa81002274c629fefcc41644c0e57cf82e1c6" target="_blank" rel="noopener noreffer "><code>d50aa81</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noopener noreffer ">fffaraz/awesome-cpp</a>.</em></p>]]></description></item><item><title>ctubio/Krypto-trading-bot</title><link>https://blog.emecas.net/posts/2024-04-17-ctubio-krypto-trading-bot/</link><pubDate>Wed, 17 Apr 2024 01:00:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-17-ctubio-krypto-trading-bot/</guid><description><![CDATA[<p>ctubio/Krypto-trading-bot<br>
+Self-hosted crypto trading bot (automated high frequency market making) written in C++<br>
+C++ repository by ctubio, created in 2017, with 3,735 stars and 828 forks. Starred on 2024-04-17.<br>
+Homepage: <a href="https://127.0.0.1:3000" target="_blank" rel="noopener noreffer ">https://127.0.0.1:3000</a><br>
+<a href="https://github.com/ctubio/Krypto-trading-bot" target="_blank" rel="noopener noreffer ">https://github.com/ctubio/Krypto-trading-bot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-04-17: <a href="https://github.com/ctubio/Krypto-trading-bot" target="_blank" rel="noopener noreffer ">ctubio/Krypto-trading-bot</a>.</em></p>]]></description></item><item><title>duckdb/duckdb</title><link>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</link><pubDate>Thu, 08 Jun 2023 11:27:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</guid><description><![CDATA[<p>duckdb/duckdb<br>
+DuckDB is a high-performance analytical database system<br>
+C++ repository by duckdb, created in 2018, with 42,978 stars and 4,184 forks. License: MIT. Starred on 2023-06-08.<br>
+Homepage: <a href="http://www.duckdb.org" target="_blank" rel="noopener noreffer ">http://www.duckdb.org</a><br>
+<a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">https://github.com/duckdb/duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-08: <a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">duckdb/duckdb</a>.</em></p>]]></description></item><item><title>ConEmu/ConEmu</title><link>https://blog.emecas.net/posts/2021-08-27-conemu-conemu/</link><pubDate>Fri, 27 Aug 2021 18:09:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-08-27-conemu-conemu/</guid><description><![CDATA[<p>ConEmu/ConEmu<br>
+ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more<br>
+C++ repository by ConEmu, created in 2011, with 9,286 stars and 628 forks. License: BSD-3-Clause. Starred on 2021-08-27.<br>
+Homepage: <a href="https://conemu.github.io/" target="_blank" rel="noopener noreffer ">https://conemu.github.io/</a><br>
+<a href="https://github.com/ConEmu/ConEmu" target="_blank" rel="noopener noreffer ">https://github.com/ConEmu/ConEmu</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-08-27: <a href="https://github.com/ConEmu/ConEmu" target="_blank" rel="noopener noreffer ">ConEmu/ConEmu</a>.</em></p>]]></description></item><item><title>igl42/oreilly</title><link>https://blog.emecas.net/posts/2021-08-23-igl42-oreilly/</link><pubDate>Mon, 23 Aug 2021 16:16:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-08-23-igl42-oreilly/</guid><description><![CDATA[<p>igl42/oreilly<br>
+C++ repository by igl42, created in 2021, with 70 stars and 53 forks. Starred on 2021-08-23.<br>
+<a href="https://github.com/igl42/oreilly" target="_blank" rel="noopener noreffer ">https://github.com/igl42/oreilly</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-08-23: <a href="https://github.com/igl42/oreilly" target="_blank" rel="noopener noreffer ">igl42/oreilly</a>.</em></p>]]></description></item><item><title>ggerganov/kbd-audio</title><link>https://blog.emecas.net/posts/2020-12-18-ggerganov-kbd-audio/</link><pubDate>Fri, 18 Dec 2020 05:55:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-18-ggerganov-kbd-audio/</guid><description><![CDATA[<p>ggerganov/kbd-audio<br>
+🎤⌨️ Acoustic keyboard eavesdropping<br>
+C++ repository by ggerganov, created in 2018, with 9,039 stars and 605 forks. License: MIT. Starred on 2020-12-18.<br>
+Homepage: <a href="https://ggerganov.github.io/keytap" target="_blank" rel="noopener noreffer ">https://ggerganov.github.io/keytap</a><br>
+<a href="https://github.com/ggerganov/kbd-audio" target="_blank" rel="noopener noreffer ">https://github.com/ggerganov/kbd-audio</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-12-18: <a href="https://github.com/ggerganov/kbd-audio" target="_blank" rel="noopener noreffer ">ggerganov/kbd-audio</a>.</em></p>]]></description></item><item><title>happynear/caffe-windows</title><link>https://blog.emecas.net/posts/2020-11-01-happynear-caffe-windows/</link><pubDate>Sun, 01 Nov 2020 01:19:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-happynear-caffe-windows/</guid><description><![CDATA[<p>happynear/caffe-windows<br>
+Configure Caffe in one hour for Windows users.<br>
+C++ repository by happynear, created in 2015, with 1,310 stars and 637 forks. Starred on 2020-11-01.<br>
+<a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">https://github.com/happynear/caffe-windows</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">happynear/caffe-windows</a>.</em></p>]]></description></item><item><title>nlohmann/json</title><link>https://blog.emecas.net/posts/2020-10-30-nlohmann-json/</link><pubDate>Fri, 30 Oct 2020 09:32:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-30-nlohmann-json/</guid><description><![CDATA[<p>nlohmann/json<br>
+JSON for Modern C++<br>
+C++ repository by nlohmann, created in 2013, with 50,870 stars and 7,518 forks. License: MIT. Starred on 2020-10-30.<br>
+Homepage: <a href="https://json.nlohmann.me" target="_blank" rel="noopener noreffer ">https://json.nlohmann.me</a><br>
+<a href="https://github.com/nlohmann/json" target="_blank" rel="noopener noreffer ">https://github.com/nlohmann/json</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-30: <a href="https://github.com/nlohmann/json" target="_blank" rel="noopener noreffer ">nlohmann/json</a>.</em></p>]]></description></item><item><title>jeonghopark/SketchSynthVideo-Simple</title><link>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</link><pubDate>Mon, 26 Oct 2020 21:18:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</guid><description><![CDATA[<p>jeonghopark/SketchSynthVideo-Simple<br>
+A video version of SketchSynth.<br>
+C++ repository by jeonghopark, created in 2020, with 55 stars and 5 forks. License: MIT. Starred on 2020-10-26.<br>
+<a href="https://github.com/jeonghopark/SketchSynthVideo-Simple" target="_blank" rel="noopener noreffer ">https://github.com/jeonghopark/SketchSynthVideo-Simple</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-26: <a href="https://github.com/jeonghopark/SketchSynthVideo-Simple" target="_blank" rel="noopener noreffer ">jeonghopark/SketchSynthVideo-Simple</a>.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Manager - Tag - My Notes</title><link>https://blog.emecas.net/tags/manager/</link><description>Manager - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Jul 2023 12:29:08 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/manager/" rel="self" type="application/rss+xml"/><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Manager - Tag - My Notes</title><link>https://blog.emecas.net/tags/manager/</link><description>Manager - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Jul 2023 15:44:43 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/manager/" rel="self" type="application/rss+xml"/><item><title>ystyle/jvms</title><link>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</link><pubDate>Wed, 26 Jul 2023 15:44:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</guid><description><![CDATA[<p>ystyle/jvms<br>
+JDK Version Manager (JVMS) for Windows<br>
+Go repository by ystyle, created in 2015, with 1,040 stars and 108 forks. License: MIT. Starred on 2023-07-26.<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-07-26: <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">ystyle/jvms</a>.</em></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
 <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
 <p>NAME:<br>
 jvms - JDK Version Manager (JVMS) for Windows</p>
@@ -20,8 +25,20 @@ calibre is an e-book manager. It can view, convert, edit and catalog e-books in 
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
 It is cross platform, running on Linux, Windows and macOS.</p>
 <p>For more information, see the calibre About page<br>
-<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
+<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item><item><title>kovidgoyal/calibre</title><link>https://blog.emecas.net/posts/2020-05-24-kovidgoyal-calibre/</link><pubDate>Sun, 24 May 2020 12:24:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-24-kovidgoyal-calibre/</guid><description><![CDATA[<p>kovidgoyal/calibre<br>
+The official source code repository for the calibre ebook manager<br>
+Python repository by kovidgoyal, created in 2013, with 26,412 stars and 2,752 forks. License: GPL-3.0. Starred on 2020-05-24.<br>
+Homepage: <a href="https://calibre-ebook.com" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com</a><br>
+<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-05-24: <a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">kovidgoyal/calibre</a>.</em></p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
 <a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
 The Software Development Kit Manager</p>
 <p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
-<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item></channel></rss>
+<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>helm/helm</title><link>https://blog.emecas.net/posts/2019-08-27-helm-helm/</link><pubDate>Tue, 27 Aug 2019 16:16:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-27-helm-helm/</guid><description><![CDATA[<p>helm/helm<br>
+The Kubernetes Package Manager<br>
+Go repository by helm, created in 2015, with 30,417 stars and 7,974 forks. License: Apache-2.0. Starred on 2019-08-27.<br>
+Homepage: <a href="https://helm.sh" target="_blank" rel="noopener noreffer ">https://helm.sh</a><br>
+<a href="https://github.com/helm/helm" target="_blank" rel="noopener noreffer ">https://github.com/helm/helm</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-08-27: <a href="https://github.com/helm/helm" target="_blank" rel="noopener noreffer ">helm/helm</a>.</em></p>]]></description></item></channel></rss>

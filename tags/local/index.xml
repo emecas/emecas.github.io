@@ -1,7 +1,28 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Local - Tag - My Notes</title><link>https://blog.emecas.net/tags/local/</link><description>Local - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Mar 2020 19:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/local/" rel="self" type="application/rss+xml"/><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Local - Tag - My Notes</title><link>https://blog.emecas.net/tags/local/</link><description>Local - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Mar 2026 00:15:10 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/local/" rel="self" type="application/rss+xml"/><item><title>floci-io/floci</title><link>https://blog.emecas.net/posts/2026-03-31-floci-io-floci/</link><pubDate>Tue, 31 Mar 2026 00:15:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-31-floci-io-floci/</guid><description><![CDATA[<p>floci-io/floci<br>
+Light, fluffy, and always free - The AWS Local Emulator alternative<br>
+Java repository by floci-io, created in 2026, with 31,292 stars and 3,427 forks. License: MIT. Starred on 2026-03-31.<br>
+Homepage: <a href="https://floci.io/floci/" target="_blank" rel="noopener noreffer ">https://floci.io/floci/</a><br>
+<a href="https://github.com/floci-io/floci" target="_blank" rel="noopener noreffer ">https://github.com/floci-io/floci</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-03-31: <a href="https://github.com/floci-io/floci" target="_blank" rel="noopener noreffer ">floci-io/floci</a>.</em></p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
 <a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
 Tilt Up and Get Stuff Done<br>
 Tilt manages local development instances for teams that deploy to Kubernetes.</p>
 <p>Transition easily from any setup<br>
 Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
-(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item></channel></rss>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>tonybaloney/retox</title><link>https://blog.emecas.net/posts/2017-12-23-tonybaloney-retox/</link><pubDate>Sat, 23 Dec 2017 11:39:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-23-tonybaloney-retox/</guid><description><![CDATA[<p>tonybaloney/retox<br>
+For running a local continuous testing environment with tox<br>
+Python repository by tonybaloney, created in 2017, with 75 stars and 2 forks. License: MIT. Archived by its owner. Starred on 2017-12-23.<br>
+<a href="https://github.com/tonybaloney/retox" target="_blank" rel="noopener noreffer ">https://github.com/tonybaloney/retox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-12-23: <a href="https://github.com/tonybaloney/retox" target="_blank" rel="noopener noreffer ">tonybaloney/retox</a>.</em></p>]]></description></item><item><title>github/cas-overlay</title><link>https://blog.emecas.net/posts/2017-08-11-github-cas-overlay/</link><pubDate>Fri, 11 Aug 2017 17:59:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-08-11-github-cas-overlay/</guid><description><![CDATA[<p>github/cas-overlay<br>
+Maven overlay for local CAS development and testing<br>
+Shell repository by github, created in 2014, with 19 stars and 23 forks. License: Apache-2.0. Archived by its owner. Starred on 2017-08-11.<br>
+<a href="https://github.com/github/cas-overlay" target="_blank" rel="noopener noreffer ">https://github.com/github/cas-overlay</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-08-11: <a href="https://github.com/github/cas-overlay" target="_blank" rel="noopener noreffer ">github/cas-overlay</a>.</em></p>]]></description></item><item><title>brightsign/local-web-server</title><link>https://blog.emecas.net/posts/2016-12-01-brightsign-local-web-server/</link><pubDate>Thu, 01 Dec 2016 17:33:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-01-brightsign-local-web-server/</guid><description><![CDATA[<p>brightsign/local-web-server<br>
+Files useful for implementing a custom local web server<br>
+JavaScript repository by brightsign, created in 2013, with 16 stars and 0 forks. Starred on 2016-12-01.<br>
+<a href="https://github.com/brightsign/local-web-server" target="_blank" rel="noopener noreffer ">https://github.com/brightsign/local-web-server</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2016-12-01: <a href="https://github.com/brightsign/local-web-server" target="_blank" rel="noopener noreffer ">brightsign/local-web-server</a>.</em></p>]]></description></item></channel></rss>

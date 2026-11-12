@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Databases - Category - My Notes</title><link>https://blog.emecas.net/categories/databases/</link><description>Databases - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Feb 2026 11:43:14 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/databases/" rel="self" type="application/rss+xml"/><item><title>Apache Superset</title><link>https://blog.emecas.net/posts/2026-02-22-apache-superset/</link><pubDate>Sun, 22 Feb 2026 11:43:14 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-22-apache-superset/</guid><description><![CDATA[<p>Apache Superset<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Databases - Category - My Notes</title><link>https://blog.emecas.net/categories/databases/</link><description>Databases - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Oct 2026 01:37:58 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/databases/" rel="self" type="application/rss+xml"/><item><title>davidgasquez/awesome-duckdb</title><link>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</link><pubDate>Wed, 07 Oct 2026 01:37:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</guid><description><![CDATA[<p>davidgasquez/awesome-duckdb<br>
+🦆 A curated list of awesome DuckDB resources<br>
+Repository by davidgasquez, created in 2023, with 2,545 stars and 267 forks. License: CC0-1.0. Starred on 2026-10-07.<br>
+Homepage: <a href="https://davidgasquez.github.io/awesome-duckdb/" target="_blank" rel="noopener noreffer ">https://davidgasquez.github.io/awesome-duckdb/</a><br>
+<a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">https://github.com/davidgasquez/awesome-duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-10-07: <a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">davidgasquez/awesome-duckdb</a>.</em></p>]]></description></item><item><title>Apache Superset</title><link>https://blog.emecas.net/posts/2026-02-22-apache-superset/</link><pubDate>Sun, 22 Feb 2026 11:43:14 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-22-apache-superset/</guid><description><![CDATA[<p>Apache Superset<br>
 <a href="https://superset.apache.org/" target="_blank" rel="noopener noreffer ">https://superset.apache.org/</a><br>
 Apache Superset is an open-source modern data exploration and visualization platform.</p>
 <p>Key features</p>
@@ -10,51 +16,47 @@ Apache Superset is an open-source modern data exploration and visualization plat
 • Semantic layer for SQL data transformations<br>
 • Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
 • Virtual datasets for ad-hoc data exploration<br>
-• Access to new functionalities through feature flags</p>]]></description></item><item><title>Azure Cosmos DB</title><link>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</link><pubDate>Thu, 18 Aug 2022 19:52:26 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</guid><description><![CDATA[<p>Azure Cosmos DB<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>NickTikhonov/snap-ql</title><link>https://blog.emecas.net/posts/2025-06-21-nicktikhonov-snap-ql/</link><pubDate>Sat, 21 Jun 2025 01:49:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-nicktikhonov-snap-ql/</guid><description><![CDATA[<p>NickTikhonov/snap-ql<br>
+AI-powered Postgres Client<br>
+TypeScript repository by NickTikhonov, created in 2025, with 492 stars and 25 forks. License: MIT. Starred on 2025-06-21.<br>
+<a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">https://github.com/NickTikhonov/snap-ql</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">NickTikhonov/snap-ql</a>.</em></p>]]></description></item><item><title>utPLSQL/utPLSQL</title><link>https://blog.emecas.net/posts/2024-04-04-utplsql-utplsql/</link><pubDate>Thu, 04 Apr 2024 16:13:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-04-utplsql-utplsql/</guid><description><![CDATA[<p>utPLSQL/utPLSQL<br>
+Testing Framework for PL/SQL<br>
+PLSQL repository by utPLSQL, created in 2016, with 623 stars and 190 forks. License: Apache-2.0. Starred on 2024-04-04.<br>
+Homepage: <a href="https://www.utplsql.org/" target="_blank" rel="noopener noreffer ">https://www.utplsql.org/</a><br>
+<a href="https://github.com/utPLSQL/utPLSQL" target="_blank" rel="noopener noreffer ">https://github.com/utPLSQL/utPLSQL</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-04-04: <a href="https://github.com/utPLSQL/utPLSQL" target="_blank" rel="noopener noreffer ">utPLSQL/utPLSQL</a>.</em></p>]]></description></item><item><title>FFDA/SourCherry</title><link>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</link><pubDate>Sun, 24 Sep 2023 16:36:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</guid><description><![CDATA[<p>FFDA/SourCherry<br>
+Android app to open CherryTree databases<br>
+Java repository by FFDA, created in 2022, with 120 stars and 5 forks. License: GPL-3.0. Starred on 2023-09-24.<br>
+<a href="https://github.com/FFDA/SourCherry" target="_blank" rel="noopener noreffer ">https://github.com/FFDA/SourCherry</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-09-24: <a href="https://github.com/FFDA/SourCherry" target="_blank" rel="noopener noreffer ">FFDA/SourCherry</a>.</em></p>]]></description></item><item><title>makeplane/plane</title><link>https://blog.emecas.net/posts/2023-08-18-makeplane-plane/</link><pubDate>Fri, 18 Aug 2023 11:37:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-08-18-makeplane-plane/</guid><description><![CDATA[<p>makeplane/plane<br>
+🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.<br>
+TypeScript repository by makeplane, created in 2022, with 62,275 stars and 6,373 forks. License: AGPL-3.0. Starred on 2023-08-18.<br>
+Homepage: <a href="http://plane.so" target="_blank" rel="noopener noreffer ">http://plane.so</a><br>
+<a href="https://github.com/makeplane/plane" target="_blank" rel="noopener noreffer ">https://github.com/makeplane/plane</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-08-18: <a href="https://github.com/makeplane/plane" target="_blank" rel="noopener noreffer ">makeplane/plane</a>.</em></p>]]></description></item><item><title>duckdb/duckdb</title><link>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</link><pubDate>Thu, 08 Jun 2023 11:27:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</guid><description><![CDATA[<p>duckdb/duckdb<br>
+DuckDB is a high-performance analytical database system<br>
+C++ repository by duckdb, created in 2018, with 42,978 stars and 4,184 forks. License: MIT. Starred on 2023-06-08.<br>
+Homepage: <a href="http://www.duckdb.org" target="_blank" rel="noopener noreffer ">http://www.duckdb.org</a><br>
+<a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">https://github.com/duckdb/duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-08: <a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">duckdb/duckdb</a>.</em></p>]]></description></item><item><title>simonw/datasette</title><link>https://blog.emecas.net/posts/2023-06-04-simonw-datasette/</link><pubDate>Sun, 04 Jun 2023 19:23:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-04-simonw-datasette/</guid><description><![CDATA[<p>simonw/datasette<br>
+An open source multi-tool for exploring and publishing data<br>
+Python repository by simonw, created in 2017, with 11,568 stars and 961 forks. License: Apache-2.0. Starred on 2023-06-04.<br>
+Homepage: <a href="https://datasette.io" target="_blank" rel="noopener noreffer ">https://datasette.io</a><br>
+<a href="https://github.com/simonw/datasette" target="_blank" rel="noopener noreffer ">https://github.com/simonw/datasette</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-04: <a href="https://github.com/simonw/datasette" target="_blank" rel="noopener noreffer ">simonw/datasette</a>.</em></p>]]></description></item><item><title>FerretDB/FerretDB</title><link>https://blog.emecas.net/posts/2023-05-31-ferretdb-ferretdb/</link><pubDate>Wed, 31 May 2023 15:09:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-05-31-ferretdb-ferretdb/</guid><description><![CDATA[<p>FerretDB/FerretDB<br>
+A truly Open Source MongoDB alternative<br>
+Go repository by FerretDB, created in 2021, with 11,117 stars and 498 forks. License: Apache-2.0. Starred on 2023-05-31.<br>
+Homepage: <a href="https://www.ferretdb.com" target="_blank" rel="noopener noreffer ">https://www.ferretdb.com</a><br>
+<a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">https://github.com/FerretDB/FerretDB</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-05-31: <a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">FerretDB/FerretDB</a>.</em></p>]]></description></item><item><title>Azure Cosmos DB</title><link>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</link><pubDate>Thu, 18 Aug 2022 19:52:26 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</guid><description><![CDATA[<p>Azure Cosmos DB<br>
 <a href="https://azure.microsoft.com/en-us/services/cosmos-db/#overview" target="_blank" rel="noopener noreffer ">https://azure.microsoft.com/en-us/services/cosmos-db/#overview</a><br>
 Build or modernize scalable, high-performance apps</p>
-<p>Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale. Get guaranteed single-digit millisecond performance and 99.999-percent availability, backed by SLAs, automatic and instant scalability, enterprise-grade security, and open-source APIs for NoSQL databases including MongoDB and Cassandra. Enjoy fast writes and reads anywhere in the world with multi-region writes and data replication. Gain insight over real-time data with no-ETL (extract, transform, load) analytics using Azure Synapse Link for Azure Cosmos DB.</p>]]></description></item><item><title>MinIO</title><link>https://blog.emecas.net/posts/2020-09-23-minio/</link><pubDate>Wed, 23 Sep 2020 23:32:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-23-minio/</guid><description><![CDATA[<p>MinIO<br>
-<a href="https://min.io/" target="_blank" rel="noopener noreffer ">https://min.io/</a><br>
-Kubernetes Native, High Performance Object Storage</p>
-<p>MinIO&rsquo;s high-performance object storage suite is software defined and<br>
-enables customers to build cloud-native data infrastructure for<br>
-machine learning, analytics and application data workloads.</p>
-<p>The defacto standard for Amazon S3 compatibility.</p>
-<p><a href="https://github.com/minio/minio" target="_blank" rel="noopener noreffer ">https://github.com/minio/minio</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/83cd25f395f96a5f8678b05a1ececbbd4cd47e7d" target="_blank" rel="noopener noreffer "><code>83cd25f</code></a> in My-Notes.</em></p>]]></description></item><item><title>postgresql in-memory</title><link>https://blog.emecas.net/posts/2020-07-27-postgresql-in-memory/</link><pubDate>Mon, 27 Jul 2020 20:56:10 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-27-postgresql-in-memory/</guid><description><![CDATA[<p>Approaches to Achieve in-Memory Table Storage with PostgreSQL Pluggable API<br>
-<a href="https://www.highgo.ca/2020/07/24/approaches-to-achieve-in-memory-table-storage-with-postgresql-pluggable-api" target="_blank" rel="noopener noreffer ">https://www.highgo.ca/2020/07/24/approaches-to-achieve-in-memory-table-storage-with-postgresql-pluggable-api</a><br>
-1. Introduction<br>
-Recently, I have had an opportunity to perform some in-depth feasibility study in-memory table using PostgreSQL’s pluggable storage API. The pluggable storage API was introduced Since PostgreSQL v12 and it allowed custom table storage Access Methods (AM for short) to be developed. Some famous examples include zheap from EDB, which aims to store a much more simplified tuple structure to achieve vacuum free storage and zedstore from Greenplum to utilize columnar storage. But they do not utilize in-memory storage and still interacts with existing buffer manager to persist data to disk.<br>
-Yes, it would be nice to have in-memory tables if they would perform faster. It would definitely be a very interesting challenge if we could achieve an in-memory table storage engine and design it in a way that will give serious performance advantages using the existing pluggable storage API architecture.<br>
-Developing a custom storage AM is no easy task and it requires a very deep understanding on how the current PostgreSQL storage engine works before we are able to improve it. In addition to redefining the tuple structure and custom algorithms to store and retrieve, it is also possible to define our own in-memory based storage module to handle the insertion and retrieval of tuple instead of utilizing the same buffer manager routines like what heap, zheap and zedstore access methods are using.<br>
-In this blog, I will briefly talk about the capability of pluggable storage API and share some progress on our in-memory table analysis</p>]]></description></item><item><title>DbUnit</title><link>https://blog.emecas.net/posts/2020-06-10-dbunit/</link><pubDate>Wed, 10 Jun 2020 18:48:29 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-10-dbunit/</guid><description><![CDATA[<p>DbUnit<br>
-<a href="http://www.dbunit.org/" target="_blank" rel="noopener noreffer ">http://www.dbunit.org/</a><br>
-DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven projects that, among other things, puts your database into a known state between test runs. This is an excellent way to avoid the myriad of problems that can occur when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage.</p>
-<p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item><item><title>DBeaver not showing dbms_output</title><link>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</link><pubDate>Thu, 04 Jun 2020 17:12:31 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</guid><description><![CDATA[<p>DBeaver not showing dbms_output<br>
-(Ctrl+Shift+O)<br>
-Ref:<a href="https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0a208e9fcad923995de08bc0dba1a65876fd09c8" target="_blank" rel="noopener noreffer "><code>0a208e9</code></a> in My-Notes.</em></p>]]></description></item><item><title>HyperSQL - hsqldb</title><link>https://blog.emecas.net/posts/2020-05-19-hypersql-hsqldb/</link><pubDate>Tue, 19 May 2020 19:52:56 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-19-hypersql-hsqldb/</guid><description><![CDATA[<p>HyperSQL<br>
-<a href="http://hsqldb.org/" target="_blank" rel="noopener noreffer ">http://hsqldb.org/</a><br>
-HSQLDB - 100% Java Database</p>
-<p>HSQLDB is a mature product. Versions released in recent years have enhanced reliability and performance.</p>
-<p>Version 2.5.0 followed the 2.4.x releases with improvements in all areas and better support for new Java versions.</p>
-<p>Background</p>
-<p>HyperSQL is developed and published by the The HSQL Development Group. The group was formed in 2001 and has released several major new versions of the database over the years.</p>]]></description></item><item><title>Apache Empire-db</title><link>https://blog.emecas.net/posts/2020-05-14-apache-empire-db/</link><pubDate>Thu, 14 May 2020 19:47:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-apache-empire-db/</guid><description><![CDATA[<p>Apache Empire-db<br>
-Apache Empire-db is a relational database abstraction layer and data persistence component that allows developers to take a much more SQL-centric approach in application development than traditional Object-relational mapping frameworks (ORM). By providing a unique type-safe object orientated command API Empire-db allows building highly efficient SQL-statements that take full advantage of all database features while eliminating the need for error-prone string operations and literals. This, togehter with DBMS independent record and metadata managment leads to an unprecedented level of ease-of-use and compile-time-safety.<br>
-<a href="https://empire-db.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://empire-db.apache.org/index.html</a></p>]]></description></item><item><title>Alembic</title><link>https://blog.emecas.net/posts/2020-04-07-alembic/</link><pubDate>Tue, 07 Apr 2020 19:22:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-07-alembic/</guid><description><![CDATA[<p>Alembic<br>
-<a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank" rel="noopener noreffer ">https://alembic.sqlalchemy.org/en/latest/</a><br>
-Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
-Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>Crux Open Time Store</title><link>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</link><pubDate>Sat, 08 Feb 2020 19:07:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</guid><description><![CDATA[<p>Crux<br>
-Open Time Store<br>
-<a href="https://github.com/juxt/crux" target="_blank" rel="noopener noreffer ">https://github.com/juxt/crux</a><br>
-<a href="https://opencrux.com/" target="_blank" rel="noopener noreffer ">https://opencrux.com/</a><br>
-Crux is an open source document database with bitemporal graph queries.<br>
-Java, Clojure and HTTP APIs are provided.<br>
-Ref: Introducing Crux JDBC<br>
-<a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p>Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale. Get guaranteed single-digit millisecond performance and 99.999-percent availability, backed by SLAs, automatic and instant scalability, enterprise-grade security, and open-source APIs for NoSQL databases including MongoDB and Cassandra. Enjoy fast writes and reads anywhere in the world with multi-region writes and data replication. Gain insight over real-time data with no-ETL (extract, transform, load) analytics using Azure Synapse Link for Azure Cosmos DB.</p>]]></description></item></channel></rss>

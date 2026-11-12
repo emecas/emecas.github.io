@@ -5,7 +5,30 @@ Code quality done right</p>
 <p>* 2,500+ code checks<br>
 Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
 <p>* Third-party license audit<br>
-Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>OCaml</title><link>https://blog.emecas.net/posts/2018-10-04-ocaml/</link><pubDate>Thu, 04 Oct 2018 17:14:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-04-ocaml/</guid><description><![CDATA[<p>OCaml<br>
+Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item><item><title>jekyll/jekyll</title><link>https://blog.emecas.net/posts/2022-07-24-jekyll-jekyll/</link><pubDate>Sun, 24 Jul 2022 00:10:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-24-jekyll-jekyll/</guid><description><![CDATA[<p>jekyll/jekyll<br>
+:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby<br>
+Ruby repository by jekyll, created in 2008, with 51,762 stars and 10,299 forks. License: MIT. Starred on 2022-07-24.<br>
+Homepage: <a href="https://jekyllrb.com" target="_blank" rel="noopener noreffer ">https://jekyllrb.com</a><br>
+<a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreffer ">https://github.com/jekyll/jekyll</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-07-24: <a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreffer ">jekyll/jekyll</a>.</em></p>]]></description></item><item><title>arXiv/arxiv-docs</title><link>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-docs/</link><pubDate>Sun, 16 Aug 2020 13:12:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-docs/</guid><description><![CDATA[<p>arXiv/arxiv-docs<br>
+Help, about and other static pages<br>
+TeX repository by arXiv, created in 2018, with 259 stars and 185 forks. Starred on 2020-08-16.<br>
+<a href="https://github.com/arXiv/arxiv-docs" target="_blank" rel="noopener noreffer ">https://github.com/arXiv/arxiv-docs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-16: <a href="https://github.com/arXiv/arxiv-docs" target="_blank" rel="noopener noreffer ">arXiv/arxiv-docs</a>.</em></p>]]></description></item><item><title>analysis-tools-dev/static-analysis</title><link>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-static-analysis/</link><pubDate>Tue, 18 Feb 2020 11:17:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-static-analysis/</guid><description><![CDATA[<p>analysis-tools-dev/static-analysis<br>
+⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.<br>
+Rust repository by analysis-tools-dev, created in 2015, with 14,883 stars and 1,525 forks. License: MIT. Starred on 2020-02-18.<br>
+Homepage: <a href="https://analysis-tools.dev" target="_blank" rel="noopener noreffer ">https://analysis-tools.dev</a><br>
+<a href="https://github.com/analysis-tools-dev/static-analysis" target="_blank" rel="noopener noreffer ">https://github.com/analysis-tools-dev/static-analysis</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-18: <a href="https://github.com/analysis-tools-dev/static-analysis" target="_blank" rel="noopener noreffer ">analysis-tools-dev/static-analysis</a>.</em></p>]]></description></item><item><title>myles/awesome-static-generators</title><link>https://blog.emecas.net/posts/2019-10-05-myles-awesome-static-generators/</link><pubDate>Sat, 05 Oct 2019 14:06:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-10-05-myles-awesome-static-generators/</guid><description><![CDATA[<p>myles/awesome-static-generators<br>
+A curated list of static web site generators.<br>
+Repository by myles, created in 2014, with 3,773 stars and 284 forks. License: CC0-1.0. Archived by its owner. Starred on 2019-10-05.<br>
+Homepage: <a href="https://myles.github.io/awesome-static-generators/" target="_blank" rel="noopener noreffer ">https://myles.github.io/awesome-static-generators/</a><br>
+<a href="https://github.com/myles/awesome-static-generators" target="_blank" rel="noopener noreffer ">https://github.com/myles/awesome-static-generators</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-10-05: <a href="https://github.com/myles/awesome-static-generators" target="_blank" rel="noopener noreffer ">myles/awesome-static-generators</a>.</em></p>]]></description></item><item><title>OCaml</title><link>https://blog.emecas.net/posts/2018-10-04-ocaml/</link><pubDate>Thu, 04 Oct 2018 17:14:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-04-ocaml/</guid><description><![CDATA[<p>OCaml<br>
 <a href="https://ocaml.org/" target="_blank" rel="noopener noreffer ">https://ocaml.org/</a><br>
 OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles<br>
 <a href="https://en.wikipedia.org/wiki/OCaml" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/OCaml</a></p>
@@ -21,4 +44,16 @@ An advanced, purely functional programming language<br>
 <a href="https://www.haskell.org/" target="_blank" rel="noopener noreffer ">https://www.haskell.org/</a><br>
 <a href="https://en.wikipedia.org/wiki/Haskell_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Haskell_(programming_language)</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ef47015cf113ce9eb656f0d7db1de02c055cea7" target="_blank" rel="noopener noreffer "><code>0ef4701</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ef47015cf113ce9eb656f0d7db1de02c055cea7" target="_blank" rel="noopener noreffer "><code>0ef4701</code></a> in My-Notes.</em></p>]]></description></item><item><title>spotbugs/spotbugs</title><link>https://blog.emecas.net/posts/2017-11-23-spotbugs-spotbugs/</link><pubDate>Thu, 23 Nov 2017 12:53:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-23-spotbugs-spotbugs/</guid><description><![CDATA[<p>spotbugs/spotbugs<br>
+SpotBugs is FindBugs&rsquo; successor. A tool for static analysis to look for bugs in Java code.<br>
+Java repository by spotbugs, created in 2016, with 3,967 stars and 698 forks. License: LGPL-2.1. Starred on 2017-11-23.<br>
+Homepage: <a href="https://spotbugs.github.io/" target="_blank" rel="noopener noreffer ">https://spotbugs.github.io/</a><br>
+<a href="https://github.com/spotbugs/spotbugs" target="_blank" rel="noopener noreffer ">https://github.com/spotbugs/spotbugs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-11-23: <a href="https://github.com/spotbugs/spotbugs" target="_blank" rel="noopener noreffer ">spotbugs/spotbugs</a>.</em></p>]]></description></item><item><title>pmd/pmd</title><link>https://blog.emecas.net/posts/2017-11-23-pmd-pmd/</link><pubDate>Thu, 23 Nov 2017 12:37:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-23-pmd-pmd/</guid><description><![CDATA[<p>pmd/pmd<br>
+An extensible multilanguage static code analyzer.<br>
+Java repository by pmd, created in 2012, with 5,528 stars and 1,616 forks. Starred on 2017-11-23.<br>
+Homepage: <a href="https://pmd.github.io" target="_blank" rel="noopener noreffer ">https://pmd.github.io</a><br>
+<a href="https://github.com/pmd/pmd" target="_blank" rel="noopener noreffer ">https://github.com/pmd/pmd</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-11-23: <a href="https://github.com/pmd/pmd" target="_blank" rel="noopener noreffer ">pmd/pmd</a>.</em></p>]]></description></item></channel></rss>

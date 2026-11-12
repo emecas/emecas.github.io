@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ideas - Tag - My Notes</title><link>https://blog.emecas.net/tags/ideas/</link><description>Ideas - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 09 Dec 2020 15:17:16 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ideas/" rel="self" type="application/rss+xml"/><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ideas - Tag - My Notes</title><link>https://blog.emecas.net/tags/ideas/</link><description>Ideas - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 10 May 2022 14:56:41 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/ideas/" rel="self" type="application/rss+xml"/><item><title>docker/roadmap</title><link>https://blog.emecas.net/posts/2022-05-10-docker-roadmap/</link><pubDate>Tue, 10 May 2022 14:56:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-05-10-docker-roadmap/</guid><description><![CDATA[<p>docker/roadmap<br>
+Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.<br>
+Repository by docker, created in 2020, with 1,927 stars and 288 forks. License: CC0-1.0. Starred on 2022-05-10.<br>
+Homepage: <a href="https://www.docker.com" target="_blank" rel="noopener noreffer ">https://www.docker.com</a><br>
+<a href="https://github.com/docker/roadmap" target="_blank" rel="noopener noreffer ">https://github.com/docker/roadmap</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-05-10: <a href="https://github.com/docker/roadmap" target="_blank" rel="noopener noreffer ">docker/roadmap</a>.</em></p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
 <a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
 Get everyone on the same page with Markdown<br>
 Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
@@ -9,7 +15,13 @@ Blazing fast real-time collaboration breaks the space between members. Change no
 Sharing is caring<br>
 Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.<br>
 Keep your secret (while sharing it)<br>
-Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
+Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>NirantK/awesome-project-ideas</title><link>https://blog.emecas.net/posts/2020-09-06-nirantk-awesome-project-ideas/</link><pubDate>Sun, 06 Sep 2020 19:41:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-nirantk-awesome-project-ideas/</guid><description><![CDATA[<p>NirantK/awesome-project-ideas<br>
+Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas<br>
+Repository by NirantK, created in 2017, with 9,381 stars and 1,288 forks. License: MIT. Starred on 2020-09-06.<br>
+Homepage: <a href="http://www.nirantk.com/awesome-project-ideas/" target="_blank" rel="noopener noreffer ">http://www.nirantk.com/awesome-project-ideas/</a><br>
+<a href="https://github.com/NirantK/awesome-project-ideas" target="_blank" rel="noopener noreffer ">https://github.com/NirantK/awesome-project-ideas</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/NirantK/awesome-project-ideas" target="_blank" rel="noopener noreffer ">NirantK/awesome-project-ideas</a>.</em></p>]]></description></item><item><title>Plunker</title><link>https://blog.emecas.net/posts/2020-07-14-plunker/</link><pubDate>Tue, 14 Jul 2020 12:14:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-14-plunker/</guid><description><![CDATA[<p>Plunker<br>
 <a href="https://plnkr.co" target="_blank" rel="noopener noreffer ">https://plnkr.co</a><br>
 Plunker is where you get stuff done<br>
 Plunker is the best tool to prototype, experiment, share and debug your ideas on the web platform. From idea to implementation, Plunker helps you build something quickly and frictionlessly.</p>

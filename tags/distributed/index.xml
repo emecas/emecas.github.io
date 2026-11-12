@@ -3,10 +3,21 @@
 open, distributed, real-time capable and secure operating system for production.</p>
 <p>FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.<br>
 German companies can benefit from their deep domain knowledge and experience of industrial products, complex and high-quality manufacturing processes, and versatile and highly networked production systems (Internet of Things, Industry 4.0).<br>
-This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>zipkin</title><link>https://blog.emecas.net/posts/2020-10-02-zipkin/</link><pubDate>Fri, 02 Oct 2020 22:28:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
+This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>dapr/dapr</title><link>https://blog.emecas.net/posts/2020-10-14-dapr-dapr/</link><pubDate>Wed, 14 Oct 2020 13:24:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-14-dapr-dapr/</guid><description><![CDATA[<p>dapr/dapr<br>
+Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.<br>
+Go repository by dapr, created in 2019, with 26,183 stars and 2,178 forks. License: Apache-2.0. Starred on 2020-10-14.<br>
+Homepage: <a href="https://dapr.io" target="_blank" rel="noopener noreffer ">https://dapr.io</a><br>
+<a href="https://github.com/dapr/dapr" target="_blank" rel="noopener noreffer ">https://github.com/dapr/dapr</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-14: <a href="https://github.com/dapr/dapr" target="_blank" rel="noopener noreffer ">dapr/dapr</a>.</em></p>]]></description></item><item><title>zipkin</title><link>https://blog.emecas.net/posts/2020-10-02-zipkin/</link><pubDate>Fri, 02 Oct 2020 22:28:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
 <a href="https://zipkin.io/" target="_blank" rel="noopener noreffer ">https://zipkin.io/</a></p>
 <p>Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.</p>
-<p>If you have a trace ID in a log file, you can jump directly to it. Otherwise, you can query based on attributes such as service, operation name, tags and duration. Some interesting data will be summarized for you, such as the percentage of time spent in a service, and whether or not operations failed.</p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
+<p>If you have a trace ID in a log file, you can jump directly to it. Otherwise, you can query based on attributes such as service, operation name, tags and duration. Some interesting data will be summarized for you, such as the percentage of time spent in a service, and whether or not operations failed.</p>]]></description></item><item><title>jepsen-io/jepsen</title><link>https://blog.emecas.net/posts/2020-09-18-jepsen-io-jepsen/</link><pubDate>Fri, 18 Sep 2020 01:06:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-18-jepsen-io-jepsen/</guid><description><![CDATA[<p>jepsen-io/jepsen<br>
+A framework for distributed systems verification, with fault injection<br>
+Clojure repository by jepsen-io, created in 2013, with 7,571 stars and 759 forks. Starred on 2020-09-18.<br>
+<a href="https://github.com/jepsen-io/jepsen" target="_blank" rel="noopener noreffer ">https://github.com/jepsen-io/jepsen</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-18: <a href="https://github.com/jepsen-io/jepsen" target="_blank" rel="noopener noreffer ">jepsen-io/jepsen</a>.</em></p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
 <p>- The Value of Correlation IDs<br>
 <a href="https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/" target="_blank" rel="noopener noreffer ">https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/</a><br>
 - Correlation IDs for microservices architectures<br>
@@ -16,40 +27,31 @@ This strong industrial competence is essential to develop AI solutions for indus
 - Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
 <a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>yugabyte/yugabyte-db</title><link>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</link><pubDate>Wed, 11 Sep 2019 11:02:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-yugabyte-yugabyte-db/</guid><description><![CDATA[<p>yugabyte/yugabyte-db<br>
+YugabyteDB - the cloud native distributed SQL database for mission-critical applications.<br>
+C repository by yugabyte, created in 2017, with 10,659 stars and 1,472 forks. Starred on 2019-09-11.<br>
+Homepage: <a href="https://www.yugabyte.com" target="_blank" rel="noopener noreffer ">https://www.yugabyte.com</a><br>
+<a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">https://github.com/yugabyte/yugabyte-db</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">yugabyte/yugabyte-db</a>.</em></p>]]></description></item><item><title>NATS</title><link>https://blog.emecas.net/posts/2019-06-11-nats/</link><pubDate>Tue, 11 Jun 2019 15:50:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-11-nats/</guid><description><![CDATA[<p>NATS<br>
 <a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
 NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
 <p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
-<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>Zipkin</title><link>https://blog.emecas.net/posts/2019-02-27-zipkin/</link><pubDate>Wed, 27 Feb 2019 10:48:32 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-27-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
+<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
+Apache Kafka - A distributed event streaming platform<br>
+Java repository by apache, created in 2011, with 34,205 stars and 15,683 forks. License: Apache-2.0. Starred on 2019-04-30.<br>
+Homepage: <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreffer ">https://kafka.apache.org/</a><br>
+<a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreffer ">https://github.com/apache/kafka</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-30: <a href="https://github.com/apache/kafka" target="_blank" rel="noopener noreffer ">apache/kafka</a>.</em></p>]]></description></item><item><title>Zipkin</title><link>https://blog.emecas.net/posts/2019-02-27-zipkin/</link><pubDate>Wed, 27 Feb 2019 10:48:32 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-27-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
 <a href="https://zipkin.io/" target="_blank" rel="noopener noreffer ">https://zipkin.io/</a><br>
 <a href="https://github.com/openzipkin/zipkin" target="_blank" rel="noopener noreffer ">https://github.com/openzipkin/zipkin</a><br>
 <a href="https://zipkin.io/pages/architecture.html" target="_blank" rel="noopener noreffer ">https://zipkin.io/pages/architecture.html</a></p>
 <p>Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data. Zipkin’s design is based on the Google Dapper paper.</p>
-<p>Applications are instrumented to report timing data to Zipkin. The Zipkin UI also presents a Dependency diagram showing how many traced requests went through each application. If you are troubleshooting latency problems or errors, you can filter or sort all traces based on the application, length of trace, annotation, or timestamp. Once you select a trace, you can see the percentage of the total trace time each span takes which allows you to identify the problem application.</p>]]></description></item><item><title>OpenTSDB - The modern time series database</title><link>https://blog.emecas.net/posts/2017-12-15-opentsdb-the-modern-time-series-database/</link><pubDate>Fri, 15 Dec 2017 18:33:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-15-opentsdb-the-modern-time-series-database/</guid><description><![CDATA[<p>OpenTSDB - The modern time series database.<br>
-<a href="http://opentsdb.net/" target="_blank" rel="noopener noreffer ">http://opentsdb.net/</a><br>
-OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on<br>
-top of HBase.  OpenTSDB was written to address a common need: store, index<br>
-and serve metrics collected from computer systems (network gear, operating<br>
-systems, applications) at a large scale, and make this data easily accessible<br>
-and graphable.<br>
-Repo: <a href="https://github.com/OpenTSDB/opentsdb" target="_blank" rel="noopener noreffer ">https://github.com/OpenTSDB/opentsdb</a><br>
-REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>
+<p>Applications are instrumented to report timing data to Zipkin. The Zipkin UI also presents a Dependency diagram showing how many traced requests went through each application. If you are troubleshooting latency problems or errors, you can filter or sort all traces based on the application, length of trace, annotation, or timestamp. Once you select a trace, you can see the percentage of the total trace time each span takes which allows you to identify the problem application.</p>]]></description></item><item><title>openzipkin/zipkin</title><link>https://blog.emecas.net/posts/2019-02-27-openzipkin-zipkin/</link><pubDate>Wed, 27 Feb 2019 05:42:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-27-openzipkin-zipkin/</guid><description><![CDATA[<p>openzipkin/zipkin<br>
+Zipkin is a distributed tracing system<br>
+Java repository by openzipkin, created in 2012, with 17,476 stars and 3,093 forks. License: Apache-2.0. Starred on 2019-02-27.<br>
+Homepage: <a href="https://zipkin.io/" target="_blank" rel="noopener noreffer ">https://zipkin.io/</a><br>
+<a href="https://github.com/openzipkin/zipkin" target="_blank" rel="noopener noreffer ">https://github.com/openzipkin/zipkin</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/66bc4726da282157d612f2f3d00a115ead2af347" target="_blank" rel="noopener noreffer "><code>66bc472</code></a> in My-Notes.</em></p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
-<a href="https://distributedobjectprotocol.org/" target="_blank" rel="noopener noreffer ">https://distributedobjectprotocol.org/</a><br>
-by Josema Gonzalez <a href="https://github.com/Josema" target="_blank" rel="noopener noreffer ">https://github.com/Josema</a><br>
-Distributed Object Protocol is for<br>
-Data sync, Pub/Sub, Remote procedure calls, Reactive programming,<br>
-Optimistic updates, Time-travel debugging, State management,<br>
-Unidirectional data flow, Real time apps.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5f3d7d162fed917a34108c52d0595bb1296a413e" target="_blank" rel="noopener noreffer "><code>5f3d7d1</code></a> in My-Notes.</em></p>]]></description></item><item><title>PRINCIPLES OF CHAOS ENGINEERING</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>PRINCIPLES OF CHAOS ENGINEERING<br>
-principlesofchaos.org<br>
-Chaos Engineering is the discipline of experimenting on a distributed system<br>
-in order to build confidence in the system’s capability<br>
-to withstand turbulent conditions in production</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9c7716efdd174f5ec05f83d6aef027a7985b14a1" target="_blank" rel="noopener noreffer "><code>9c7716e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Hadoop</title><link>https://blog.emecas.net/posts/2013-04-24-hadoop/</link><pubDate>Wed, 24 Apr 2013 22:48:40 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-04-24-hadoop/</guid><description><![CDATA[<p>The Apache Hadoop<br>
-<a href="http://hadoop.apache.org/" target="_blank" rel="noopener noreffer ">http://hadoop.apache.org/</a><br>
-The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.</p>
-<p>The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-avaiability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-availabile service on top of a cluster of computers, each of which may be prone to failures.</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-02-27: <a href="https://github.com/openzipkin/zipkin" target="_blank" rel="noopener noreffer ">openzipkin/zipkin</a>.</em></p>]]></description></item></channel></rss>

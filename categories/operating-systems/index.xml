@@ -1,10 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Operating Systems - Category - My Notes</title><link>https://blog.emecas.net/categories/operating-systems/</link><description>Operating Systems - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Jun 2023 15:14:01 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/operating-systems/" rel="self" type="application/rss+xml"/><item><title>Flathub</title><link>https://blog.emecas.net/posts/2023-06-03-flathub/</link><pubDate>Sat, 03 Jun 2023 15:14:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-03-flathub/</guid><description><![CDATA[<p>Flathub<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Operating Systems - Category - My Notes</title><link>https://blog.emecas.net/categories/operating-systems/</link><description>Operating Systems - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Jul 2023 15:44:43 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/operating-systems/" rel="self" type="application/rss+xml"/><item><title>ystyle/jvms</title><link>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</link><pubDate>Wed, 26 Jul 2023 15:44:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-26-ystyle-jvms/</guid><description><![CDATA[<p>ystyle/jvms<br>
+JDK Version Manager (JVMS) for Windows<br>
+Go repository by ystyle, created in 2015, with 1,040 stars and 108 forks. License: MIT. Starred on 2023-07-26.<br>
+<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-07-26: <a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">ystyle/jvms</a>.</em></p>]]></description></item><item><title>Flathub</title><link>https://blog.emecas.net/posts/2023-06-03-flathub/</link><pubDate>Sat, 03 Jun 2023 15:14:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-03-flathub/</guid><description><![CDATA[<p>Flathub<br>
 <a href="https://flathub.org/" target="_blank" rel="noopener noreffer ">https://flathub.org/</a><br>
 Apps for Linux, right here</p>
 <p>Welcome to Flathub, the home of hundreds of apps which can be easily installed on any Linux distribution. Browse the apps online, from your app center or the command line.</p>
 <p>About Flathub</p>
 <p>Flathub is the place to get and distribute apps for all of desktop Linux. It is powered by Flatpak, allowing Flathub apps to run on almost any Linux distribution.<br>
-Use Flathub to gain access to a growing collection of Flatpaks by following the setup instructions.</p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
+Use Flathub to gain access to a growing collection of Flatpaks by following the setup instructions.</p>]]></description></item><item><title>cmderdev/cmder</title><link>https://blog.emecas.net/posts/2022-02-15-cmderdev-cmder/</link><pubDate>Tue, 15 Feb 2022 03:35:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-02-15-cmderdev-cmder/</guid><description><![CDATA[<p>cmderdev/cmder<br>
+Lovely console emulator package for Windows<br>
+PowerShell repository by cmderdev, created in 2013, with 27,008 stars and 2,074 forks. License: MIT. Starred on 2022-02-15.<br>
+Homepage: <a href="https://cmder.app" target="_blank" rel="noopener noreffer ">https://cmder.app</a><br>
+<a href="https://github.com/cmderdev/cmder" target="_blank" rel="noopener noreffer ">https://github.com/cmderdev/cmder</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-02-15: <a href="https://github.com/cmderdev/cmder" target="_blank" rel="noopener noreffer ">cmderdev/cmder</a>.</em></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
 <a href="https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap" target="_blank" rel="noopener noreffer ">https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap</a><br>
 ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>
 <hr>
@@ -13,48 +24,30 @@ ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopene
 Huayra GNU/Linux es el primer sistema operativo libre desarrollado por el Estado Nacional que incluye una selección de software ideal para el trabajo en clase y mucho más. Con un escritorio liviano y ágil, realiza un uso óptimo de recursos y es seguro, sin necesidad de antivirus.</p>
 <p>FAQs: <a href="https://huayra.educar.gob.ar/preguntas-frecuentes/" target="_blank" rel="noopener noreffer ">https://huayra.educar.gob.ar/preguntas-frecuentes/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b33b8942347c37abde8642c3da2d27727e2225ea" target="_blank" rel="noopener noreffer "><code>b33b894</code></a> in My-Notes.</em></p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b33b8942347c37abde8642c3da2d27727e2225ea" target="_blank" rel="noopener noreffer "><code>b33b894</code></a> in My-Notes.</em></p>]]></description></item><item><title>happynear/caffe-windows</title><link>https://blog.emecas.net/posts/2020-11-01-happynear-caffe-windows/</link><pubDate>Sun, 01 Nov 2020 01:19:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-happynear-caffe-windows/</guid><description><![CDATA[<p>happynear/caffe-windows<br>
+Configure Caffe in one hour for Windows users.<br>
+C++ repository by happynear, created in 2015, with 1,310 stars and 637 forks. Starred on 2020-11-01.<br>
+<a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">https://github.com/happynear/caffe-windows</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">happynear/caffe-windows</a>.</em></p>]]></description></item><item><title>msys2/msys2</title><link>https://blog.emecas.net/posts/2020-10-24-msys2-msys2/</link><pubDate>Sat, 24 Oct 2020 11:17:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-24-msys2-msys2/</guid><description><![CDATA[<p>msys2/msys2<br>
+A software distro and building platform for Windows<br>
+Repository by msys2, created in 2017, with 1,843 stars and 141 forks. Starred on 2020-10-24.<br>
+<a href="https://github.com/msys2/msys2" target="_blank" rel="noopener noreffer ">https://github.com/msys2/msys2</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-24: <a href="https://github.com/msys2/msys2" target="_blank" rel="noopener noreffer ">msys2/msys2</a>.</em></p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
 <a href="https://www.fab-os.org/en/" target="_blank" rel="noopener noreffer ">https://www.fab-os.org/en/</a><br>
 open, distributed, real-time capable and secure operating system for production.</p>
 <p>FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.<br>
 German companies can benefit from their deep domain knowledge and experience of industrial products, complex and high-quality manufacturing processes, and versatile and highly networked production systems (Internet of Things, Industry 4.0).<br>
-This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>Microdnf</title><link>https://blog.emecas.net/posts/2020-08-06-microdnf/</link><pubDate>Thu, 06 Aug 2020 13:26:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-06-microdnf/</guid><description><![CDATA[<p>Microdnf<br>
-<a href="https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-atomic-base-image" target="_blank" rel="noopener noreffer ">https://www.redhat.com/en/blog/introducing-red-hat-enterprise-linux-atomic-base-image</a><br>
-Introducing the Red Hat Enterprise Linux Atomic Base Image</p>
-<p>With YUM (Before)</p>
-<p>FROM registry.access.redhat.com/rhel7<br>
-RUN yum-config-manager --enable rhel-7-server-rpms<br>
-RUN yum install -y --setopt=tsflags=nodocs java-1.8.0-openjdk-headless ;\\
-yum clean all</p>
-<p>With Microdnf, the Atomic Base Image this becomes:</p>
-<p>FROM registry.access.redhat.com/rhel7-atomic<br>
-RUN microdnf --enablerepo=rhel-7-server-rpms \\
-install java-1.8.0-openjdk-headless --nodocs ;\\
-microdnf clean all</p>
+This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>sdaschner/dotfiles</title><link>https://blog.emecas.net/posts/2020-10-13-sdaschner-dotfiles/</link><pubDate>Tue, 13 Oct 2020 23:14:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-13-sdaschner-dotfiles/</guid><description><![CDATA[<p>sdaschner/dotfiles<br>
+Dotfiles<br>
+Shell repository by sdaschner, created in 2015, with 296 stars and 63 forks. License: Apache-2.0. Starred on 2020-10-13.<br>
+<a href="https://github.com/sdaschner/dotfiles" target="_blank" rel="noopener noreffer ">https://github.com/sdaschner/dotfiles</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>xpra multi-platform screen and application forwarding system</title><link>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</link><pubDate>Sun, 15 Mar 2020 23:32:49 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</guid><description><![CDATA[<p>xpra<br>
-<a href="https://xpra.org/" target="_blank" rel="noopener noreffer ">https://xpra.org/</a><br>
-multi-platform screen and application forwarding system &ldquo;screen for X11&rdquo;<br>
-Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.</p>
-<p>It gives you remote access to individual applications or full desktops.<br>
-On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.<br>
-It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item><item><title>guake</title><link>https://blog.emecas.net/posts/2020-02-27-guake/</link><pubDate>Thu, 27 Feb 2020 18:50:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-27-guake/</guid><description><![CDATA[<p>Drop-down terminal for GNOME<br>
-<a href="http://guake-project.org" target="_blank" rel="noopener noreffer ">http://guake-project.org</a><br>
-<a href="https://github.com/Guake/guake" target="_blank" rel="noopener noreffer ">https://github.com/Guake/guake</a></p>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/sdaschner/dotfiles" target="_blank" rel="noopener noreffer ">sdaschner/dotfiles</a>.</em></p>]]></description></item><item><title>notepad-plus-plus/notepad-plus-plus</title><link>https://blog.emecas.net/posts/2020-10-05-notepad-plus-plus-notepad-plus-plus/</link><pubDate>Mon, 05 Oct 2020 17:23:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-05-notepad-plus-plus-notepad-plus-plus/</guid><description><![CDATA[<p>notepad-plus-plus/notepad-plus-plus<br>
+Notepad++ official repository<br>
+C++ repository by notepad-plus-plus, created in 2015, with 29,842 stars and 5,429 forks. Starred on 2020-10-05.<br>
+Homepage: <a href="https://notepad-plus-plus.org/" target="_blank" rel="noopener noreffer ">https://notepad-plus-plus.org/</a><br>
+<a href="https://github.com/notepad-plus-plus/notepad-plus-plus" target="_blank" rel="noopener noreffer ">https://github.com/notepad-plus-plus/notepad-plus-plus</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b0c9acc64d846385c72e61fc83c03bd7c3895fb" target="_blank" rel="noopener noreffer "><code>1b0c9ac</code></a> in My-Notes.</em></p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
-<a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
-A command-line installer for Windows<br>
-<a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
-<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/081c5bc6aa12df1babfae664a9b319d7ca61c9db" target="_blank" rel="noopener noreffer "><code>081c5bc</code></a> in My-Notes.</em></p>]]></description></item><item><title>Fix Right Click Touchpad</title><link>https://blog.emecas.net/posts/2020-02-13-fix-right-click-touchpad/</link><pubDate>Thu, 13 Feb 2020 18:13:55 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-fix-right-click-touchpad/</guid><description><![CDATA[<p>How to Fix Right Click Touchpad Not Working on Ubuntu 18.04<br>
-<a href="https://itsfoss.com/fix-right-click-touchpad-ubuntu/" target="_blank" rel="noopener noreffer ">https://itsfoss.com/fix-right-click-touchpad-ubuntu/</a><br>
-sudo apt install gnome-tweaks</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b0a8d634f9902c8c5369d4545ae7267f34108dfe" target="_blank" rel="noopener noreffer "><code>b0a8d63</code></a> in My-Notes.</em></p>]]></description></item><item><title>docker issue fix</title><link>https://blog.emecas.net/posts/2020-01-28-docker-issue-fix/</link><pubDate>Tue, 28 Jan 2020 19:10:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-28-docker-issue-fix/</guid><description><![CDATA[<p>docker sudo issue fix<br>
-Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get http://%2Fvar%2Frun%2Fdocker.sock/v1.39/containers/json: dial unix /var/run/docker.sock: connect: permission denied<br>
-Solution: <a href="https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/" target="_blank" rel="noopener noreffer ">https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/</a><br>
-&gt; sudo usermod -a -G docker $USER</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e34b4b6ff79eb4af0a2f631cda4f6b51157fa6b4" target="_blank" rel="noopener noreffer "><code>e34b4b6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-10-05: <a href="https://github.com/notepad-plus-plus/notepad-plus-plus" target="_blank" rel="noopener noreffer ">notepad-plus-plus/notepad-plus-plus</a>.</em></p>]]></description></item></channel></rss>

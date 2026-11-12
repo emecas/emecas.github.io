@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Database - Tag - My Notes</title><link>https://blog.emecas.net/tags/database/</link><description>Database - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Aug 2022 19:52:26 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/database/" rel="self" type="application/rss+xml"/><item><title>Azure Cosmos DB</title><link>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</link><pubDate>Thu, 18 Aug 2022 19:52:26 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</guid><description><![CDATA[<p>Azure Cosmos DB<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Database - Tag - My Notes</title><link>https://blog.emecas.net/tags/database/</link><description>Database - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 07 Apr 2025 03:37:07 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/database/" rel="self" type="application/rss+xml"/><item><title>milvus-io/milvus</title><link>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</link><pubDate>Mon, 07 Apr 2025 03:37:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</guid><description><![CDATA[<p>milvus-io/milvus<br>
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search<br>
+Go repository by milvus-io, created in 2019, with 46,633 stars and 4,327 forks. License: Apache-2.0. Starred on 2025-04-07.<br>
+Homepage: <a href="https://milvus.io" target="_blank" rel="noopener noreffer ">https://milvus.io</a><br>
+<a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">https://github.com/milvus-io/milvus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-04-07: <a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">milvus-io/milvus</a>.</em></p>]]></description></item><item><title>duckdb/duckdb</title><link>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</link><pubDate>Thu, 08 Jun 2023 11:27:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-08-duckdb-duckdb/</guid><description><![CDATA[<p>duckdb/duckdb<br>
+DuckDB is a high-performance analytical database system<br>
+C++ repository by duckdb, created in 2018, with 42,978 stars and 4,184 forks. License: MIT. Starred on 2023-06-08.<br>
+Homepage: <a href="http://www.duckdb.org" target="_blank" rel="noopener noreffer ">http://www.duckdb.org</a><br>
+<a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">https://github.com/duckdb/duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-08: <a href="https://github.com/duckdb/duckdb" target="_blank" rel="noopener noreffer ">duckdb/duckdb</a>.</em></p>]]></description></item><item><title>Azure Cosmos DB</title><link>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</link><pubDate>Thu, 18 Aug 2022 19:52:26 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-18-azure-cosmos-db/</guid><description><![CDATA[<p>Azure Cosmos DB<br>
 <a href="https://azure.microsoft.com/en-us/services/cosmos-db/#overview" target="_blank" rel="noopener noreffer ">https://azure.microsoft.com/en-us/services/cosmos-db/#overview</a><br>
 Build or modernize scalable, high-performance apps</p>
 <p>Azure Cosmos DB is a fully managed, serverless NoSQL database for high-performance applications of any size or scale. Get guaranteed single-digit millisecond performance and 99.999-percent availability, backed by SLAs, automatic and instant scalability, enterprise-grade security, and open-source APIs for NoSQL databases including MongoDB and Cassandra. Enjoy fast writes and reads anywhere in the world with multi-region writes and data replication. Gain insight over real-time data with no-ETL (extract, transform, load) analytics using Azure Synapse Link for Azure Cosmos DB.</p>]]></description></item><item><title>Unpaywall is transforming Open Science</title><link>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</link><pubDate>Thu, 24 Dec 2020 18:52:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</guid><description><![CDATA[<p>Unpaywall is transforming Open Science<br>
@@ -22,7 +34,13 @@ Apache Empire-db is a relational database abstraction layer and data persistence
 Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
 Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>Crux Open Time Store</title><link>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</link><pubDate>Sat, 08 Feb 2020 19:07:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</guid><description><![CDATA[<p>Crux<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>xtdb/xtdb</title><link>https://blog.emecas.net/posts/2020-02-09-xtdb-xtdb/</link><pubDate>Sun, 09 Feb 2020 00:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-xtdb-xtdb/</guid><description><![CDATA[<p>xtdb/xtdb<br>
+An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt<br>
+Clojure repository by xtdb, created in 2018, with 3,098 stars and 198 forks. License: MPL-2.0. Starred on 2020-02-09.<br>
+Homepage: <a href="https://xtdb.com" target="_blank" rel="noopener noreffer ">https://xtdb.com</a><br>
+<a href="https://github.com/xtdb/xtdb" target="_blank" rel="noopener noreffer ">https://github.com/xtdb/xtdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-09: <a href="https://github.com/xtdb/xtdb" target="_blank" rel="noopener noreffer ">xtdb/xtdb</a>.</em></p>]]></description></item><item><title>Crux Open Time Store</title><link>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</link><pubDate>Sat, 08 Feb 2020 19:07:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-08-crux-open-time-store/</guid><description><![CDATA[<p>Crux<br>
 Open Time Store<br>
 <a href="https://github.com/juxt/crux" target="_blank" rel="noopener noreffer ">https://github.com/juxt/crux</a><br>
 <a href="https://opencrux.com/" target="_blank" rel="noopener noreffer ">https://opencrux.com/</a><br>
@@ -31,26 +49,4 @@ Java, Clojure and HTTP APIs are provided.<br>
 Ref: Introducing Crux JDBC<br>
 <a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
-<a href="http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database" target="_blank" rel="noopener noreffer ">http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database</a><br>
-This guide will help you understand the concept of in memory database. We will look at simple JPA example to understand the best practices in using in memory databases.<br>
-You will learn</p>
-<p>What is an in memory database?<br>
-Why do you use an in memory database?<br>
-What are the best practices in using an in memory database?<br>
-How to connect a Spring Boot project to H2?</p>]]></description></item><item><title>OpenTSDB - The modern time series database</title><link>https://blog.emecas.net/posts/2017-12-15-opentsdb-the-modern-time-series-database/</link><pubDate>Fri, 15 Dec 2017 18:33:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-15-opentsdb-the-modern-time-series-database/</guid><description><![CDATA[<p>OpenTSDB - The modern time series database.<br>
-<a href="http://opentsdb.net/" target="_blank" rel="noopener noreffer ">http://opentsdb.net/</a><br>
-OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on<br>
-top of HBase.  OpenTSDB was written to address a common need: store, index<br>
-and serve metrics collected from computer systems (network gear, operating<br>
-systems, applications) at a large scale, and make this data easily accessible<br>
-and graphable.<br>
-Repo: <a href="https://github.com/OpenTSDB/opentsdb" target="_blank" rel="noopener noreffer ">https://github.com/OpenTSDB/opentsdb</a><br>
-REF: <a href="https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/47644225/sending-spark-streaming-metrics-to-open-tsdb</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/66bc4726da282157d612f2f3d00a115ead2af347" target="_blank" rel="noopener noreffer "><code>66bc472</code></a> in My-Notes.</em></p>]]></description></item><item><title>Oracle Database &amp; APEX Developer Docker Image</title><link>https://blog.emecas.net/posts/2017-12-12-oracle-database-apex-developer-docker-image/</link><pubDate>Tue, 12 Dec 2017 10:44:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-12-oracle-database-apex-developer-docker-image/</guid><description><![CDATA[<p>Oracle Database &amp; APEX Developer Docker Image<br>
-<a href="https://github.com/Dani3lSun/docker-db-apex-dev/blob/master/README.md" target="_blank" rel="noopener noreffer ">https://github.com/Dani3lSun/docker-db-apex-dev/blob/master/README.md</a><br>
-By Daniel Hochleitner<br>
-<a href="https://danielhochleitner.de/ords/web/home/" target="_blank" rel="noopener noreffer ">https://danielhochleitner.de/ords/web/home/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/09f2e81ead037fae7a9c5f06dd14a8cb693c3a1c" target="_blank" rel="noopener noreffer "><code>09f2e81</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

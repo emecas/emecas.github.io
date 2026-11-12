@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Powers - Tag - My Notes</title><link>https://blog.emecas.net/tags/powers/</link><description>Powers - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 14 Nov 2018 18:49:44 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/powers/" rel="self" type="application/rss+xml"/><item><title>NuGet/NuGetGallery</title><link>https://blog.emecas.net/posts/2018-11-14-nuget-nugetgallery/</link><pubDate>Wed, 14 Nov 2018 18:49:44 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-11-14-nuget-nugetgallery/</guid><description><![CDATA[<p>NuGet/NuGetGallery<br>
+NuGet Gallery is a package repository that powers <a href="https://www.nuget.org" target="_blank" rel="noopener noreffer ">https://www.nuget.org</a>. Use this repo for reporting NuGet.org issues.<br>
+C# repository by NuGet, created in 2011, with 1,650 stars and 665 forks. License: Apache-2.0. Starred on 2018-11-14.<br>
+Homepage: <a href="https://www.nuget.org/" target="_blank" rel="noopener noreffer ">https://www.nuget.org/</a><br>
+<a href="https://github.com/NuGet/NuGetGallery" target="_blank" rel="noopener noreffer ">https://github.com/NuGet/NuGetGallery</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-11-14: <a href="https://github.com/NuGet/NuGetGallery" target="_blank" rel="noopener noreffer ">NuGet/NuGetGallery</a>.</em></p>]]></description></item></channel></rss>

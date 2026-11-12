@@ -25,13 +25,29 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 To preserve the name for its original owner, we renamed this project to hey.</p>
 <p>Previously known as github.com/rakyll/boom.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>adoble/adr-j</title><link>https://blog.emecas.net/posts/2024-06-13-adoble-adr-j/</link><pubDate>Thu, 13 Jun 2024 00:26:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-13-adoble-adr-j/</guid><description><![CDATA[<p>adoble/adr-j<br>
+Java based command-line tool for working with Architecture Decision Records<br>
+Java repository by adoble, created in 2017, with 70 stars and 20 forks. License: MIT. Starred on 2024-06-13.<br>
+<a href="https://github.com/adoble/adr-j" target="_blank" rel="noopener noreffer ">https://github.com/adoble/adr-j</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-13: <a href="https://github.com/adoble/adr-j" target="_blank" rel="noopener noreffer ">adoble/adr-j</a>.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
 CLI tool for working with Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
 repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
 <p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>tomitribe/jamira</title><link>https://blog.emecas.net/posts/2021-04-27-tomitribe-jamira/</link><pubDate>Tue, 27 Apr 2021 16:27:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-04-27-tomitribe-jamira/</guid><description><![CDATA[<p>tomitribe/jamira<br>
+Command-line API for Atlassian JIRA using the Tomitribe CREST library<br>
+Java repository by tomitribe, created in 2021, with 13 stars and 4 forks. License: Apache-2.0. Starred on 2021-04-27.<br>
+<a href="https://github.com/tomitribe/jamira" target="_blank" rel="noopener noreffer ">https://github.com/tomitribe/jamira</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-04-27: <a href="https://github.com/tomitribe/jamira" target="_blank" rel="noopener noreffer ">tomitribe/jamira</a>.</em></p>]]></description></item><item><title>ytdl-org/youtube-dl</title><link>https://blog.emecas.net/posts/2021-01-19-ytdl-org-youtube-dl/</link><pubDate>Tue, 19 Jan 2021 03:44:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-19-ytdl-org-youtube-dl/</guid><description><![CDATA[<p>ytdl-org/youtube-dl<br>
+Command-line program to download videos from YouTube.com and other video sites<br>
+Python repository by ytdl-org, created in 2010, with 141,526 stars and 10,685 forks. License: Unlicense. Starred on 2021-01-19.<br>
+Homepage: <a href="http://ytdl-org.github.io/youtube-dl/" target="_blank" rel="noopener noreffer ">http://ytdl-org.github.io/youtube-dl/</a><br>
+<a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener noreffer ">https://github.com/ytdl-org/youtube-dl</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-19: <a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener noreffer ">ytdl-org/youtube-dl</a>.</em></p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
 <a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
 web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>
 <hr>
@@ -56,28 +72,10 @@ show-boards        Show the list of cached boards<br>
 show-cards         Show the cards on a list<br>
 show-labels        Show labels defined on a board<br>
 show-list          DEPRECATED.  Show cards on a list (use &lsquo;show-cards&rsquo; instead; command retained for backwards compatibility)<br>
-show-lists         Show the list of cached lists</p>]]></description></item><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
-<a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
-A command-line installer for Windows<br>
-<a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
-<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>
+show-lists         Show the list of cached lists</p>]]></description></item><item><title>coala/coala</title><link>https://blog.emecas.net/posts/2020-02-23-coala-coala/</link><pubDate>Sun, 23 Feb 2020 19:04:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-23-coala-coala/</guid><description><![CDATA[<p>coala/coala<br>
+coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.<br>
+Python repository by coala, created in 2014, with 3,598 stars and 1,287 forks. License: AGPL-3.0. Starred on 2020-02-23.<br>
+Homepage: <a href="https://coala.io/" target="_blank" rel="noopener noreffer ">https://coala.io/</a><br>
+<a href="https://github.com/coala/coala" target="_blank" rel="noopener noreffer ">https://github.com/coala/coala</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/081c5bc6aa12df1babfae664a9b319d7ca61c9db" target="_blank" rel="noopener noreffer "><code>081c5bc</code></a> in My-Notes.</em></p>]]></description></item><item><title>yokadi</title><link>https://blog.emecas.net/posts/2019-05-13-yokadi/</link><pubDate>Mon, 13 May 2019 22:52:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-13-yokadi/</guid><description><![CDATA[<p>yokadi<br>
-<a href="http://yokadi.github.io/" target="_blank" rel="noopener noreffer ">http://yokadi.github.io/</a><br>
-Yokadi is a command line oriented, sqlite powered, todo-list.<br>
-<a href="https://github.com/agateau/yokadi" target="_blank" rel="noopener noreffer ">https://github.com/agateau/yokadi</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb0b665b7bdf8539f3fd400c2fed569a5cf6fd7d" target="_blank" rel="noopener noreffer "><code>cb0b665</code></a> in My-Notes.</em></p>]]></description></item><item><title>args4j Java command line arguments parser</title><link>https://blog.emecas.net/posts/2017-12-11-args4j-java-command-line-arguments-parser/</link><pubDate>Mon, 11 Dec 2017 14:14:43 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-11-args4j-java-command-line-arguments-parser/</guid><description><![CDATA[<p>args4j<br>
-args4j : Java command line arguments parser<br>
-<a href="http://args4j.kohsuke.org/" target="_blank" rel="noopener noreffer ">http://args4j.kohsuke.org/</a><br>
-args4j is a small Java class library that makes it easy to parse command line options/arguments in your CUI application.<br>
-<a href="https://github.com/kohsuke/args4j" target="_blank" rel="noopener noreffer ">https://github.com/kohsuke/args4j</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb23420cf8e9b65e1bdfff0262743fc4ab3edef7" target="_blank" rel="noopener noreffer "><code>cb23420</code></a> in My-Notes.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
-Text-mode interface for git<br>
-<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
-What is Tig?</p>
-<p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
-<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/afb52a1c60c23f7015432f0f1c20c6c3f15a098a" target="_blank" rel="noopener noreffer "><code>afb52a1</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-02-23: <a href="https://github.com/coala/coala" target="_blank" rel="noopener noreffer ">coala/coala</a>.</em></p>]]></description></item></channel></rss>

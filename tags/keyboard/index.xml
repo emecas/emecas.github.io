@@ -1,4 +1,43 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Keyboard - Tag - My Notes</title><link>https://blog.emecas.net/tags/keyboard/</link><description>Keyboard - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Jun 2017 08:58:32 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/keyboard/" rel="self" type="application/rss+xml"/><item><title>OptiKey : Full computer control and speech with your eyes</title><link>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</link><pubDate>Fri, 23 Jun 2017 08:58:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</guid><description><![CDATA[<p>OptiKey<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Keyboard - Tag - My Notes</title><link>https://blog.emecas.net/tags/keyboard/</link><description>Keyboard - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Dec 2020 05:55:54 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/keyboard/" rel="self" type="application/rss+xml"/><item><title>ggerganov/kbd-audio</title><link>https://blog.emecas.net/posts/2020-12-18-ggerganov-kbd-audio/</link><pubDate>Fri, 18 Dec 2020 05:55:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-18-ggerganov-kbd-audio/</guid><description><![CDATA[<p>ggerganov/kbd-audio<br>
+🎤⌨️ Acoustic keyboard eavesdropping<br>
+C++ repository by ggerganov, created in 2018, with 9,039 stars and 605 forks. License: MIT. Starred on 2020-12-18.<br>
+Homepage: <a href="https://ggerganov.github.io/keytap" target="_blank" rel="noopener noreffer ">https://ggerganov.github.io/keytap</a><br>
+<a href="https://github.com/ggerganov/kbd-audio" target="_blank" rel="noopener noreffer ">https://github.com/ggerganov/kbd-audio</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-12-18: <a href="https://github.com/ggerganov/kbd-audio" target="_blank" rel="noopener noreffer ">ggerganov/kbd-audio</a>.</em></p>]]></description></item><item><title>icoxfog417/magenta_session</title><link>https://blog.emecas.net/posts/2020-09-27-icoxfog417-magenta-session/</link><pubDate>Sun, 27 Sep 2020 19:40:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-icoxfog417-magenta-session/</guid><description><![CDATA[<p>icoxfog417/magenta_session<br>
+:musical_keyboard: Music Session with Google Magenta<br>
+JavaScript repository by icoxfog417, created in 2017, with 80 stars and 126 forks. License: MIT. Starred on 2020-09-27.<br>
+Homepage: <a href="http://magenta-session.herokuapp.com/" target="_blank" rel="noopener noreffer ">http://magenta-session.herokuapp.com/</a><br>
+<a href="https://github.com/icoxfog417/magenta_session" target="_blank" rel="noopener noreffer ">https://github.com/icoxfog417/magenta_session</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/icoxfog417/magenta_session" target="_blank" rel="noopener noreffer ">icoxfog417/magenta_session</a>.</em></p>]]></description></item><item><title>Zulko/pianoputer</title><link>https://blog.emecas.net/posts/2020-09-27-zulko-pianoputer/</link><pubDate>Sun, 27 Sep 2020 19:38:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-zulko-pianoputer/</guid><description><![CDATA[<p>Zulko/pianoputer<br>
+Use your computer keyboard as a &ldquo;piano&rdquo;.<br>
+Python repository by Zulko, created in 2014, with 346 stars and 90 forks. Starred on 2020-09-27.<br>
+Homepage: <a href="http://zulko.github.io/blog/2014/03/29/soundstretching-and-pitch-shifting-in-python/" target="_blank" rel="noopener noreffer ">http://zulko.github.io/blog/2014/03/29/soundstretching-and-pitch-shifting-in-python/</a><br>
+<a href="https://github.com/Zulko/pianoputer" target="_blank" rel="noopener noreffer ">https://github.com/Zulko/pianoputer</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/Zulko/pianoputer" target="_blank" rel="noopener noreffer ">Zulko/pianoputer</a>.</em></p>]]></description></item><item><title>makerdiary/python-keyboard</title><link>https://blog.emecas.net/posts/2020-09-27-makerdiary-python-keyboard/</link><pubDate>Sun, 27 Sep 2020 19:34:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-makerdiary-python-keyboard/</guid><description><![CDATA[<p>makerdiary/python-keyboard<br>
+A hand-wired USB &amp; Bluetooth keyboard powered by Python and more<br>
+Python repository by makerdiary, created in 2020, with 500 stars and 59 forks. License: MIT. Starred on 2020-09-27.<br>
+Homepage: <a href="https://makerdiary.com/m60" target="_blank" rel="noopener noreffer ">https://makerdiary.com/m60</a><br>
+<a href="https://github.com/makerdiary/python-keyboard" target="_blank" rel="noopener noreffer ">https://github.com/makerdiary/python-keyboard</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/makerdiary/python-keyboard" target="_blank" rel="noopener noreffer ">makerdiary/python-keyboard</a>.</em></p>]]></description></item><item><title>benblazak/ergodox-firmware</title><link>https://blog.emecas.net/posts/2020-09-27-benblazak-ergodox-firmware/</link><pubDate>Sun, 27 Sep 2020 19:11:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-benblazak-ergodox-firmware/</guid><description><![CDATA[<p>benblazak/ergodox-firmware<br>
+firmware for the ergoDOX keyboard<br>
+C repository by benblazak, created in 2012, with 597 stars and 283 forks. Starred on 2020-09-27.<br>
+<a href="https://github.com/benblazak/ergodox-firmware" target="_blank" rel="noopener noreffer ">https://github.com/benblazak/ergodox-firmware</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/benblazak/ergodox-firmware" target="_blank" rel="noopener noreffer ">benblazak/ergodox-firmware</a>.</em></p>]]></description></item><item><title>adereth/dactyl-keyboard</title><link>https://blog.emecas.net/posts/2020-09-27-adereth-dactyl-keyboard/</link><pubDate>Sun, 27 Sep 2020 18:49:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-adereth-dactyl-keyboard/</guid><description><![CDATA[<p>adereth/dactyl-keyboard<br>
+Parameterized ergonomic keyboard<br>
+OpenSCAD repository by adereth, created in 2015, with 3,177 stars and 863 forks. License: AGPL-3.0. Starred on 2020-09-27.<br>
+<a href="https://github.com/adereth/dactyl-keyboard" target="_blank" rel="noopener noreffer ">https://github.com/adereth/dactyl-keyboard</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/adereth/dactyl-keyboard" target="_blank" rel="noopener noreffer ">adereth/dactyl-keyboard</a>.</em></p>]]></description></item><item><title>jasonrudolph/keyboard</title><link>https://blog.emecas.net/posts/2020-09-27-jasonrudolph-keyboard/</link><pubDate>Sun, 27 Sep 2020 18:48:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-27-jasonrudolph-keyboard/</guid><description><![CDATA[<p>jasonrudolph/keyboard<br>
+⌨ Toward a more useful keyboard<br>
+Lua repository by jasonrudolph, created in 2013, with 2,185 stars and 213 forks. License: MIT. Starred on 2020-09-27.<br>
+<a href="https://github.com/jasonrudolph/keyboard" target="_blank" rel="noopener noreffer ">https://github.com/jasonrudolph/keyboard</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-27: <a href="https://github.com/jasonrudolph/keyboard" target="_blank" rel="noopener noreffer ">jasonrudolph/keyboard</a>.</em></p>]]></description></item><item><title>OptiKey : Full computer control and speech with your eyes</title><link>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</link><pubDate>Fri, 23 Jun 2017 08:58:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-23-optikey-full-computer-control-and-speech-with-your-eyes/</guid><description><![CDATA[<p>OptiKey<br>
 <a href="https://github.com/OptiKey/OptiKey/wiki" target="_blank" rel="noopener noreffer ">https://github.com/OptiKey/OptiKey/wiki</a><br>
 Full computer control and speech with your eyes <a href="http://www.optikey.org" target="_blank" rel="noopener noreffer ">http://www.optikey.org</a></p>
 <p>OptiKey is an assistive on-screen keyboard which runs on Windows. It is designed to be used with a low cost eye-tracking device to bring keyboard control, mouse control and speech to people with motor and speech limitations, such as people living with Amyotrophic Lateral Sclerosis (ALS) / Motor Neuron Disease (MND).</p>

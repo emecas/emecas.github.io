@@ -1,8 +1,25 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Eclipse - Tag - My Notes</title><link>https://blog.emecas.net/tags/eclipse/</link><description>Eclipse - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Jun 2021 16:56:32 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/eclipse/" rel="self" type="application/rss+xml"/><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Eclipse - Tag - My Notes</title><link>https://blog.emecas.net/tags/eclipse/</link><description>Eclipse - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 07 Oct 2024 18:13:30 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/eclipse/" rel="self" type="application/rss+xml"/><item><title>jabiercoding/eclipaint</title><link>https://blog.emecas.net/posts/2024-10-07-jabiercoding-eclipaint/</link><pubDate>Mon, 07 Oct 2024 18:13:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-07-jabiercoding-eclipaint/</guid><description><![CDATA[<p>jabiercoding/eclipaint<br>
+Open and Edit images and icons within Eclipse. Image editor, icon manager and other nice features.<br>
+Java repository by jabiercoding, created in 2016, with 8 stars and 6 forks. Starred on 2024-10-07.<br>
+<a href="https://github.com/jabiercoding/eclipaint" target="_blank" rel="noopener noreffer ">https://github.com/jabiercoding/eclipaint</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-07: <a href="https://github.com/jabiercoding/eclipaint" target="_blank" rel="noopener noreffer ">jabiercoding/eclipaint</a>.</em></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2021-06-23-note/</link><pubDate>Wed, 23 Jun 2021 16:56:32 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-23-note/</guid><description><![CDATA[<p>Howto Install lombok to Eclipse snap (Ubuntu)<br>
 <a href="https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap" target="_blank" rel="noopener noreffer ">https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap</a><br>
 ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/82ef19fc5e2c59f50a8967fe8447a1c5a4eac304" target="_blank" rel="noopener noreffer "><code>82ef19f</code></a> in My-Notes.</em></p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/82ef19fc5e2c59f50a8967fe8447a1c5a4eac304" target="_blank" rel="noopener noreffer "><code>82ef19f</code></a> in My-Notes.</em></p>]]></description></item><item><title>eclipse-theia/theia</title><link>https://blog.emecas.net/posts/2021-01-21-eclipse-theia-theia/</link><pubDate>Thu, 21 Jan 2021 18:09:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-21-eclipse-theia-theia/</guid><description><![CDATA[<p>eclipse-theia/theia<br>
+Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript.<br>
+TypeScript repository by eclipse-theia, created in 2017, with 21,751 stars and 2,936 forks. License: EPL-2.0. Starred on 2021-01-21.<br>
+Homepage: <a href="http://theia-ide.org" target="_blank" rel="noopener noreffer ">http://theia-ide.org</a><br>
+<a href="https://github.com/eclipse-theia/theia" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-theia/theia</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-21: <a href="https://github.com/eclipse-theia/theia" target="_blank" rel="noopener noreffer ">eclipse-theia/theia</a>.</em></p>]]></description></item><item><title>eclipse-collections/eclipse-collections</title><link>https://blog.emecas.net/posts/2020-11-20-eclipse-collections-eclipse-collections/</link><pubDate>Fri, 20 Nov 2020 01:36:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-20-eclipse-collections-eclipse-collections/</guid><description><![CDATA[<p>eclipse-collections/eclipse-collections<br>
+Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.<br>
+Java repository by eclipse-collections, created in 2015, with 2,664 stars and 704 forks. Starred on 2020-11-20.<br>
+Homepage: <a href="https://eclipse.dev/collections/" target="_blank" rel="noopener noreffer ">https://eclipse.dev/collections/</a><br>
+<a href="https://github.com/eclipse-collections/eclipse-collections" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-collections/eclipse-collections</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-20: <a href="https://github.com/eclipse-collections/eclipse-collections" target="_blank" rel="noopener noreffer ">eclipse-collections/eclipse-collections</a>.</em></p>]]></description></item><item><title>FabOS</title><link>https://blog.emecas.net/posts/2020-10-20-fabos/</link><pubDate>Tue, 20 Oct 2020 13:41:18 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-20-fabos/</guid><description><![CDATA[<p>FabOS<br>
 <a href="https://www.fab-os.org/en/" target="_blank" rel="noopener noreffer ">https://www.fab-os.org/en/</a><br>
 open, distributed, real-time capable and secure operating system for production.</p>
 <p>FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.<br>
@@ -11,64 +28,27 @@ This strong industrial competence is essential to develop AI solutions for indus
 Free UML Tool for Fast UML Diagrams<br>
 <a href="https://www.umlet.com/" target="_blank" rel="noopener noreffer ">https://www.umlet.com/</a><br>
 UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, build sequence and activity diagrams from plain text, export diagrams to eps, pdf, jpg, svg, and clipboard, share diagrams using Eclipse, and create new, custom UML elements. UMLet runs stand-alone or as Eclipse plug-in on Windows, OS X and Linux.</p>
-<p>Also, check out our other tools, especially our new web-based UMLet, called UMLetino.</p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
+<p>Also, check out our other tools, especially our new web-based UMLet, called UMLetino.</p>]]></description></item><item><title>eclipse-ee4j/glassfish</title><link>https://blog.emecas.net/posts/2020-02-27-eclipse-ee4j-glassfish/</link><pubDate>Thu, 27 Feb 2020 11:08:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-27-eclipse-ee4j-glassfish/</guid><description><![CDATA[<p>eclipse-ee4j/glassfish<br>
+Eclipse GlassFish<br>
+Java repository by eclipse-ee4j, created in 2018, with 445 stars and 190 forks. Starred on 2020-02-27.<br>
+Homepage: <a href="https://glassfish.org" target="_blank" rel="noopener noreffer ">https://glassfish.org</a><br>
+<a href="https://github.com/eclipse-ee4j/glassfish" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-ee4j/glassfish</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-27: <a href="https://github.com/eclipse-ee4j/glassfish" target="_blank" rel="noopener noreffer ">eclipse-ee4j/glassfish</a>.</em></p>]]></description></item><item><title>jclingan/working</title><link>https://blog.emecas.net/posts/2020-01-24-jclingan-working/</link><pubDate>Fri, 24 Jan 2020 17:27:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-24-jclingan-working/</guid><description><![CDATA[<p>jclingan/working<br>
+Working directory for O&rsquo;Reilly Eclipse MicroProfile Live Training<br>
+HTML repository by jclingan, created in 2020, with 1 stars and 1 forks. Starred on 2020-01-24.<br>
+<a href="https://github.com/jclingan/working" target="_blank" rel="noopener noreffer ">https://github.com/jclingan/working</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-24: <a href="https://github.com/jclingan/working" target="_blank" rel="noopener noreffer ">jclingan/working</a>.</em></p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
 <a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
 <p>So, what is Scrapbook Page? To put it simply,<br>
 it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
 No need to create any temperory classes (like I did in the previous para).<br>
 You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
-You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>SmallRye</title><link>https://blog.emecas.net/posts/2019-04-22-smallrye/</link><pubDate>Mon, 22 Apr 2019 11:20:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-22-smallrye/</guid><description><![CDATA[<p>SmallRye<br>
-<a href="https://smallrye.io/" target="_blank" rel="noopener noreffer ">https://smallrye.io/</a><br>
-Community driven implementations of Eclipse MicroProfile.<br>
-<a href="https://github.com/smallrye" target="_blank" rel="noopener noreffer ">https://github.com/smallrye</a><br>
-<a href="https://smallrye.io/projects/overview" target="_blank" rel="noopener noreffer ">https://smallrye.io/projects/overview</a></p>
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>redeclipse/base</title><link>https://blog.emecas.net/posts/2020-01-07-redeclipse-base/</link><pubDate>Tue, 07 Jan 2020 05:50:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-07-redeclipse-base/</guid><description><![CDATA[<p>redeclipse/base<br>
+Base environment for Red Eclipse and associated source files.<br>
+C repository by redeclipse, created in 2015, with 545 stars and 122 forks. Starred on 2020-01-07.<br>
+Homepage: <a href="https://redeclipse.net/" target="_blank" rel="noopener noreffer ">https://redeclipse.net/</a><br>
+<a href="https://github.com/redeclipse/base" target="_blank" rel="noopener noreffer ">https://github.com/redeclipse/base</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b431338e26f95b4215187658524bd94890e6b6a2" target="_blank" rel="noopener noreffer "><code>b431338</code></a> in My-Notes.</em></p>]]></description></item><item><title>X-Ray</title><link>https://blog.emecas.net/posts/2019-02-26-x-ray/</link><pubDate>Tue, 26 Feb 2019 16:44:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-26-x-ray/</guid><description><![CDATA[<p>X-Ray<br>
-<a href="http://xray.inf.usi.ch/xray.php" target="_blank" rel="noopener noreffer ">http://xray.inf.usi.ch/xray.php</a></p>
-<p>X-Ray 1.0.4.1, my Bachelor and Research Project<br>
-Jul 5, 2008<br>
-X-Ray is an open-source software visualization plug-in for the Eclipse framework. It is my bachelor project and thesis, as far as my research topic, supervised by Prof. Dr. Michele Lanza and Dipl. Ing. Mircea Lungu. It provides System Complexity View, Class and Package Dependency View for a given Java project. Moreover, its model of the underlying Java project can be triggered and used by other plug-ins</p>]]></description></item><item><title>Eclipse Newsletter</title><link>https://blog.emecas.net/posts/2019-02-08-eclipse-newsletter/</link><pubDate>Fri, 08 Feb 2019 14:45:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-08-eclipse-newsletter/</guid><description><![CDATA[<p>Eclipse Newsletter<br>
-<a href="https://www.eclipse.org/community/eclipse_newsletter/" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/</a><br>
-A fresh new issue delivered monthly<br>
-<a href="https://www.eclipse.org/community/eclipse_newsletter/archives.php" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/archives.php</a><br>
-January 2019: <a href="https://www.eclipse.org/community/eclipse_newsletter/2019/january/" target="_blank" rel="noopener noreffer ">https://www.eclipse.org/community/eclipse_newsletter/2019/january/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a52f46b8e504ec7e0bc2946a6768b1a01a61c33b" target="_blank" rel="noopener noreffer "><code>a52f46b</code></a> in My-Notes.</em></p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
-<a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
-Here&rsquo;s how you can truly master Kata.</p>
-<p>We Learn Best by Doing:<br>
-In this blog, I will show you how to get started coding the Eclipse Collections Pet Kata.<br>
-If you want to become proficient in Eclipse Collections, you should practice the Kata on your own.<br>
-In order to truly master the Kata, try teaching the Kata to others, teaching results in deeper learning.<br>
-Git repo: <a href="https://github.com/eclipse/eclipse-collections-kata" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/eclipse-collections-kata</a></p>]]></description></item><item><title>Project Lombok - Never write another getter or equals method again</title><link>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</link><pubDate>Tue, 02 Jan 2018 13:10:43 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</guid><description><![CDATA[<p>Project Lombok<br>
-<a href="https://projectlombok.org/" target="_blank" rel="noopener noreffer ">https://projectlombok.org/</a><br>
-Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.<br>
-Never write another getter or equals method again. Early access to future java features such as val, and much more.<br>
-repo: <a href="https://github.com/rzwitserloot/lombok" target="_blank" rel="noopener noreffer ">https://github.com/rzwitserloot/lombok</a></p>
-<p>Compilers<br>
-Javac<br>
-ECJ<br>
-Build tools<br>
-maven<br>
-gradle<br>
-ant<br>
-kobalt<br>
-IDEs<br>
-Eclipse<br>
-IntelliJ IDEA<br>
-Netbeans<br>
-MyEclipse<br>
-Spring Tool Suite<br>
-JBoss Developer Studio<br>
-Platforms<br>
-Android<br>
-GWT</p>]]></description></item><item><title>Life at Eclipse</title><link>https://blog.emecas.net/posts/2017-11-08-life-at-eclipse/</link><pubDate>Wed, 08 Nov 2017 18:41:26 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-08-life-at-eclipse/</guid><description><![CDATA[<p>git commit -m &ldquo;Life at Eclipse [Blog] [Eclipse Foundation]&rdquo;</p>
-<p>Life at Eclipse<br>
-<a href="https://mmilinkov.wordpress.com/" target="_blank" rel="noopener noreffer ">https://mmilinkov.wordpress.com/</a><br>
-Written by Mike Milinkovich<br>
-About:<br>
-I have the great good fortune to be the Executive Director of the Eclipse Foundation. This blog covers a fairly wide variety of topics related to Eclipse technology, the community, and the ecosystem as well as the operations of the Eclipse Foundation itself.</p>
-<p>REF: Java: Free At Last<br>
-<a href="https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/" target="_blank" rel="noopener noreffer ">https://mmilinkov.wordpress.com/2017/09/07/java-free-at-last/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/fa627fe2760af68e15f2376303bed997b4a97c48" target="_blank" rel="noopener noreffer "><code>fa627fe</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-01-07: <a href="https://github.com/redeclipse/base" target="_blank" rel="noopener noreffer ">redeclipse/base</a>.</em></p>]]></description></item></channel></rss>

@@ -1,100 +1,53 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning and Books - Category - My Notes</title><link>https://blog.emecas.net/categories/learning-and-books/</link><description>Learning and Books - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 23 Dec 2020 19:08:42 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/learning-and-books/" rel="self" type="application/rss+xml"/><item><title>IEEE P2881 - Standard for Learning Metadata</title><link>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</link><pubDate>Wed, 23 Dec 2020 19:08:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-23-ieee-p2881-standard-for-learning-metadata/</guid><description><![CDATA[<p>IEEE P2881 - Standard for Learning Metadata Working Group<br>
-<a href="https://sagroups.ieee.org/2881/" target="_blank" rel="noopener noreffer ">https://sagroups.ieee.org/2881/</a><br>
-Sponsoring Society and Standards Committee: IEEE Computer Society/ Learning Technology Standards Committee (C/LTSC)</p>
-<p>Title:<br>
-Standard for Learning Metadata</p>
-<p>Scope:<br>
-This standard intentionally builds on the IEEE 1484.12.1 standard but is explorative to new learning paradigms and modern technology practices.<br>
-This standard will specify a conceptual data schema that defines the structure of a metadata instance.<br>
-This conceptual data schema specifies the data elements which compose a metadata instance for multiple learning types.<br>
-This standard does not define how a learning technology system implements the data schema.</p>]]></description></item><item><title>Big-O Cheat Sheet</title><link>https://blog.emecas.net/posts/2020-11-17-big-o-cheat-sheet/</link><pubDate>Tue, 17 Nov 2020 20:46:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-17-big-o-cheat-sheet/</guid><description><![CDATA[<p>Big-O Cheat Sheet<br>
-<a href="https://www.bigocheatsheet.com/Know" target="_blank" rel="noopener noreffer ">https://www.bigocheatsheet.com/Know</a> Thy Complexities!</p>
-<p>Hi there!  This webpage covers the space and time Big-O complexities of common algorithms used in Computer Science.  When preparing for technical interviews in the past, I found myself spending hours crawling the internet putting together the best, average, and worst case complexities for search and sorting algorithms so that I wouldn&rsquo;t be stumped when asked about them.  Over the last few years, I&rsquo;ve interviewed at several Silicon Valley startups, and also some bigger companies, like Google, Facebook, Yahoo, LinkedIn, and Uber, and each time that I prepared for an interview, I thought to myself &ldquo;Why hasn&rsquo;t someone created a nice Big-O cheat sheet?&rdquo;.  So, to save all of you fine folks a ton of time, I went ahead and created one.  Enjoy! - Eric</p>]]></description></item><item><title>Living Open Source Foundation</title><link>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</link><pubDate>Mon, 02 Nov 2020 10:12:30 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-02-living-open-source-foundation/</guid><description><![CDATA[<p>Living Open Source Foundation<br>
-<a href="https://www.livingopensource.net/" target="_blank" rel="noopener noreffer ">https://www.livingopensource.net/</a></p>
-<p>WHAT WE DO<br>
-Our mission is to foster the growth and use of the Open Source Software in Zambia and Africa!</p>
-<p>Our approach is to create communities in countries where we have found motivated people that want to start an open source community. Working with the local open source enthusiasts, we organize events; find sponsors for venue, course materials, certification and logistics; organize an initial open source training and community building; help to certify community members with world-wide recognized high-standard Linux Foundation certification; and enable local talent to further educate and build the local communities.</p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
-<a href="http://nealford.com/katas/list.html" target="_blank" rel="noopener noreffer ">http://nealford.com/katas/list.html</a></p>
-<p>Agile Dead Trees<br>
-All Stuff, No Cruft<br>
-Am.I.Sck<br>
-Check Your Work<br>
-E(xperimental) College<br>
-Gird the Grid<br>
-Going Green<br>
-Going&hellip;Going&hellip;Gone!<br>
-Hot Diggety Dog!<br>
-I Can Haz Cheezborger?<br>
-I&rsquo;ll Have the BLT<br>
-Lights, Please<br>
-Make the Grade<br>
-Room with a View<br>
-Sysop Squad<br>
-Tales Of A Fourth Grade<br>
-The Road Warrior<br>
-Where&rsquo;s Fluffymon?<br>
-World of Webcraft<br>
-You Look Good In Print</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning and Books - Category - My Notes</title><link>https://blog.emecas.net/categories/learning-and-books/</link><description>Learning and Books - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Aug 2026 23:10:40 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/learning-and-books/" rel="self" type="application/rss+xml"/><item><title>liquidslr/system-design-notes</title><link>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</link><pubDate>Tue, 11 Aug 2026 23:10:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</guid><description><![CDATA[<p>liquidslr/system-design-notes<br>
+Notes of the book System Desgin Interview - An Insider&rsquo;s Guide<br>
+Repository by liquidslr, created in 2024, with 28,159 stars and 5,267 forks. Starred on 2026-08-11.<br>
+Homepage: <a href="https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu" target="_blank" rel="noopener noreffer ">https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu</a><br>
+<a href="https://github.com/liquidslr/system-design-notes" target="_blank" rel="noopener noreffer ">https://github.com/liquidslr/system-design-notes</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/dbad4e19e379436f156181393aba9ce852e7edb9" target="_blank" rel="noopener noreffer "><code>dbad4e1</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Art of Computer Programming</title><link>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</link><pubDate>Mon, 20 Apr 2020 09:24:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-20-the-art-of-computer-programming/</guid><description><![CDATA[<p>The Art of Computer Programming<br>
-<a href="https://www-cs-faculty.stanford.edu/~knuth/taocp.html" target="_blank" rel="noopener noreffer ">https://www-cs-faculty.stanford.edu/~knuth/taocp.html</a></p>
-<p>&gt;&gt; The bible of all fundamental algorithms and the work that taught many of today’s software developers<br>
-&gt;&gt; most of what they know about computer programming.<br>
-&gt;&gt; —Byte, September 1995</p>
-<p>ISBN-13: 978-0321751041<br>
-ISBN-10: 0321751043</p>
-<p>Ref: <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/#comments" target="_blank" rel="noopener noreffer ">https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/#comments</a></p>
-<p>Knuth eventually merged his dual loves of discrete digital problems and large collections of information in his magnum opus, The Art of Computer Programming — a book series he began writing as a graduate student in 1962 and has yet to complete. He published volume 1 in 1968, and the current version is in its 42nd printing. Volume 2 followed in 1969 and volume 3 in 1973. By then he was a computer science professor at Stanford University, but he worried that his work would prevent him from completing his books. So he took a leave of absence in 1990 and then retired in 1993 to spend the rest of his life completing the seven-volume set. Now 82, he’s hard at work on part B of volume 4, and he anticipates that the book will have at least parts A through F.</p>]]></description></item><item><title>Software Engineering Handbook</title><link>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</link><pubDate>Tue, 18 Feb 2020 18:55:32 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-18-software-engineering-handbook/</guid><description><![CDATA[<p>Software Engineering Handbook<br>
-<a href="https://software-engineering-handbook.com/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/</a><br>
-<a href="https://software-engineering-handbook.com/Handbook/" target="_blank" rel="noopener noreffer ">https://software-engineering-handbook.com/Handbook/</a><br>
-github:<a href="https://github.com/uribench/software-engineering-handbook" target="_blank" rel="noopener noreffer ">https://github.com/uribench/software-engineering-handbook</a></p>
+<p><em>Source: starred on GitHub on 2026-08-11: <a href="https://github.com/liquidslr/system-design-notes" target="_blank" rel="noopener noreffer ">liquidslr/system-design-notes</a>.</em></p>]]></description></item><item><title>sdmg15/Best-websites-a-programmer-should-visit</title><link>https://blog.emecas.net/posts/2026-07-28-sdmg15-best-websites-a-programmer-should-visit/</link><pubDate>Tue, 28 Jul 2026 03:36:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-28-sdmg15-best-websites-a-programmer-should-visit/</guid><description><![CDATA[<p>sdmg15/Best-websites-a-programmer-should-visit<br>
+&#x1f517; Some useful websites for programmers.<br>
+Repository by sdmg15, created in 2017, with 76,169 stars and 8,635 forks. License: MIT. Archived by its owner. Starred on 2026-07-28.<br>
+<a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank" rel="noopener noreffer ">https://github.com/sdmg15/Best-websites-a-programmer-should-visit</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9120aab30a5c27589668303cf4c569b3ab1fb204" target="_blank" rel="noopener noreffer "><code>9120aab</code></a> in My-Notes.</em></p>]]></description></item><item><title>Becoming a Technical Leader</title><link>https://blog.emecas.net/posts/2020-01-10-becoming-a-technical-leader/</link><pubDate>Fri, 10 Jan 2020 17:38:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-10-becoming-a-technical-leader/</guid><description><![CDATA[<p>Becoming a Technical Leader: An Organic Problem-Solving Approach (Paperback)<br>
-by Gerald M. Weinberg (Author), Ken Orr (Foreword)<br>
-ISBN-13: 978-0932633026<br>
-ISBN-10: 9780932633026<br>
-Ref: from <a href="https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/</a></p>
+<p><em>Source: starred on GitHub on 2026-07-28: <a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank" rel="noopener noreffer ">sdmg15/Best-websites-a-programmer-should-visit</a>.</em></p>]]></description></item><item><title>EnkrateiaLucca/llama2_oreilly_live_training</title><link>https://blog.emecas.net/posts/2024-06-11-enkrateialucca-llama2-oreilly-live-training/</link><pubDate>Tue, 11 Jun 2024 17:07:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-11-enkrateialucca-llama2-oreilly-live-training/</guid><description><![CDATA[<p>EnkrateiaLucca/llama2_oreilly_live_training<br>
+Repository for the oreilly live training course: &ldquo;Getting Started with Llama2&rdquo;<br>
+Jupyter Notebook repository by EnkrateiaLucca, created in 2023, with 100 stars and 62 forks. Starred on 2024-06-11.<br>
+<a href="https://github.com/EnkrateiaLucca/llama2_oreilly_live_training" target="_blank" rel="noopener noreffer ">https://github.com/EnkrateiaLucca/llama2_oreilly_live_training</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cdfec637e467e3a4c5fdee03382c935508a23a0" target="_blank" rel="noopener noreffer "><code>2cdfec6</code></a> in My-Notes.</em></p>]]></description></item><item><title>Learn REST: A RESTful Tutorial</title><link>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</link><pubDate>Wed, 06 Mar 2019 15:58:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</guid><description><![CDATA[<p>Learn REST: A RESTful Tutorial<br>
-<a href="https://www.restapitutorial.com/" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/</a></p>
-<p>RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available<br>
-to enable quick reference and self education for the development crafts-person.<br>
-We&rsquo;ll discuss both the art and science of creating REST Web services.</p>
-<p><a href="https://www.restapitutorial.com/lessons/httpmethods.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/lessons/httpmethods.html</a><br>
-<a href="https://www.restapitutorial.com/httpstatuscodes.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/httpstatuscodes.html</a><br>
-<a href="https://github.com/tfredrich/RestApiTutorial.com" target="_blank" rel="noopener noreffer ">https://github.com/tfredrich/RestApiTutorial.com</a></p>
+<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/EnkrateiaLucca/llama2_oreilly_live_training" target="_blank" rel="noopener noreffer ">EnkrateiaLucca/llama2_oreilly_live_training</a>.</em></p>]]></description></item><item><title>kousen/spring-and-spring-boot</title><link>https://blog.emecas.net/posts/2024-06-11-kousen-spring-and-spring-boot/</link><pubDate>Tue, 11 Jun 2024 14:29:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-11-kousen-spring-and-spring-boot/</guid><description><![CDATA[<p>kousen/spring-and-spring-boot<br>
+Lab solutions for Spring and Spring Boot course<br>
+Java repository by kousen, created in 2017, with 306 stars and 257 forks. License: MIT. Starred on 2024-06-11.<br>
+<a href="https://github.com/kousen/spring-and-spring-boot" target="_blank" rel="noopener noreffer ">https://github.com/kousen/spring-and-spring-boot</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/595205110477886c2d9c02324c48f6bf2b3e6c31" target="_blank" rel="noopener noreffer "><code>5952051</code></a> in My-Notes.</em></p>]]></description></item><item><title>Guru99</title><link>https://blog.emecas.net/posts/2019-03-03-guru99/</link><pubDate>Sun, 03 Mar 2019 19:36:24 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-03-guru99/</guid><description><![CDATA[<p>Guru99<br>
-<a href="https://www.guru99.com/" target="_blank" rel="noopener noreffer ">https://www.guru99.com/</a></p>
-<p>Guru99 is totally new kind of learning experience.</p>
-<p>Here you learn by practice. We make tons of efforts to take boredom out of learning and make education a fun experience.</p>
-<p>Inside, you will find tons of video tutorials</p>
-<p>All provided FREE!!!</p>
-<p>Testing</p>
-<p>Software Testing<br>
-QTP (Quick Test Professional)<br>
-Selenium<br>
-Mobile App Testing<br>
-Cucumber Testing<br>
-SoapUI<br>
-Agile Testing<br>
-JUnit<br>
-RPA</p>
-<p>Live Projects</p>
-<p>Live Testing Project<br>
-Live Selenium Project<br>
-Live Ecommerce Project<br>
-Live UFT Testing<br>
-Live HP ALM Exercise<br>
-Live Mobile Testing<br>
-Live Security Testing<br>
-Live PHP Project<br>
-Live Scrum(Agile) Testing<br>
-Live Insurance Testing<br>
-Live Payment Gateway<br>
-Live Telecom<br>
-Live Java Project</p>]]></description></item><item><title>Discovering Modern Java</title><link>https://blog.emecas.net/posts/2019-03-03-discovering-modern-java/</link><pubDate>Sun, 03 Mar 2019 19:31:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-03-discovering-modern-java/</guid><description><![CDATA[<p>Discovering Modern Java<br>
-What you need to know about Java 9, 10, 11, and beyond</p>
-<p><a href="https://github.com/henri-tremblay/java91011beyond" target="_blank" rel="noopener noreffer ">https://github.com/henri-tremblay/java91011beyond</a></p>
+<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/kousen/spring-and-spring-boot" target="_blank" rel="noopener noreffer ">kousen/spring-and-spring-boot</a>.</em></p>]]></description></item><item><title>Soypete/WebServices-in-3-weeks</title><link>https://blog.emecas.net/posts/2024-06-03-soypete-webservices-in-3-weeks/</link><pubDate>Mon, 03 Jun 2024 16:02:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-03-soypete-webservices-in-3-weeks/</guid><description><![CDATA[<p>Soypete/WebServices-in-3-weeks<br>
+Made for the O&rsquo;Reilly media course: Go for Web Development in 3 Weeks-A Guide for Building Robust Web Apps<br>
+Go repository by Soypete, created in 2023, with 27 stars and 10 forks. Starred on 2024-06-03.<br>
+<a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">https://github.com/Soypete/WebServices-in-3-weeks</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/feeedd8778b1def8b745af6d2a61dad42b21c185" target="_blank" rel="noopener noreffer "><code>feeedd8</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2024-06-03: <a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">Soypete/WebServices-in-3-weeks</a>.</em></p>]]></description></item><item><title>thomasnield/oreilly_machine_learning_from_scratch</title><link>https://blog.emecas.net/posts/2023-06-26-thomasnield-oreilly-machine-learning-from-scratch/</link><pubDate>Mon, 26 Jun 2023 13:08:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-26-thomasnield-oreilly-machine-learning-from-scratch/</guid><description><![CDATA[<p>thomasnield/oreilly_machine_learning_from_scratch<br>
+Resources for the O&rsquo;Reilly Online Training &ldquo;Machine Learning from Scratch&rdquo;<br>
+Python repository by thomasnield, created in 2019, with 318 stars and 284 forks. Starred on 2023-06-26.<br>
+Homepage: <a href="https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&amp;extended_publisher_data=true&amp;highlight=true&amp;include_assessments=false&amp;include_case_studies=true&amp;include_courses=true&amp;include_orioles=true&amp;include_playlists=true&amp;include_collect" target="_blank" rel="noopener noreffer ">https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collect</a><br>
+<a href="https://github.com/thomasnield/oreilly_machine_learning_from_scratch" target="_blank" rel="noopener noreffer ">https://github.com/thomasnield/oreilly_machine_learning_from_scratch</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-26: <a href="https://github.com/thomasnield/oreilly_machine_learning_from_scratch" target="_blank" rel="noopener noreffer ">thomasnield/oreilly_machine_learning_from_scratch</a>.</em></p>]]></description></item><item><title>pdeitel/PythonDataScienceFullThrottle</title><link>https://blog.emecas.net/posts/2023-06-22-pdeitel-pythondatasciencefullthrottle/</link><pubDate>Thu, 22 Jun 2023 17:32:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-22-pdeitel-pythondatasciencefullthrottle/</guid><description><![CDATA[<p>pdeitel/PythonDataScienceFullThrottle<br>
+Downloads for my Safari Online Learning live training course Python Data Science Full Throttle: Introductory Artificial Intelligence (AI), Big Data and Cloud Case Studies<br>
+Jupyter Notebook repository by pdeitel, created in 2019, with 272 stars and 227 forks. Archived by its owner. Starred on 2023-06-22.<br>
+<a href="https://github.com/pdeitel/PythonDataScienceFullThrottle" target="_blank" rel="noopener noreffer ">https://github.com/pdeitel/PythonDataScienceFullThrottle</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-22: <a href="https://github.com/pdeitel/PythonDataScienceFullThrottle" target="_blank" rel="noopener noreffer ">pdeitel/PythonDataScienceFullThrottle</a>.</em></p>]]></description></item><item><title>mscottford/clean-code-by-example</title><link>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</link><pubDate>Wed, 21 Jun 2023 15:01:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</guid><description><![CDATA[<p>mscottford/clean-code-by-example<br>
+Example code and exercises used in the O&rsquo;Reilly course, Clean Code by Example<br>
+C# repository by mscottford, created in 2022, with 24 stars and 12 forks. Starred on 2023-06-21.<br>
+<a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">https://github.com/mscottford/clean-code-by-example</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-21: <a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">mscottford/clean-code-by-example</a>.</em></p>]]></description></item><item><title>mariadb-developers/reactive-programming-java-examples</title><link>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</link><pubDate>Tue, 13 Sep 2022 15:49:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</guid><description><![CDATA[<p>mariadb-developers/reactive-programming-java-examples<br>
+Reactive examples with Java, Project Reactor, and R2DBC<br>
+Java repository by mariadb-developers, created in 2022, with 9 stars and 1 forks. License: MIT. Starred on 2022-09-13.<br>
+<a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">https://github.com/mariadb-developers/reactive-programming-java-examples</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-09-13: <a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">mariadb-developers/reactive-programming-java-examples</a>.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
+This repository contains all the source code examples from my LiveLessons course on &ldquo;Java Concurrent Programming&rdquo; and my various LiveTraining courses, as described at <a href="http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning" target="_blank" rel="noopener noreffer ">http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning</a>.<br>
+Java repository by douglascraigschmidt, created in 2014, with 614 stars and 657 forks. Starred on 2021-05-27.<br>
+<a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">https://github.com/douglascraigschmidt/LiveLessons</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-05-27: <a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">douglascraigschmidt/LiveLessons</a>.</em></p>]]></description></item></channel></rss>

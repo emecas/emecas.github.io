@@ -1,8 +1,26 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Github - Tag - My Notes</title><link>https://blog.emecas.net/tags/github/</link><description>Github - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 12 Aug 2022 14:04:50 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/github/" rel="self" type="application/rss+xml"/><item><title>The ReadME Project</title><link>https://blog.emecas.net/posts/2022-08-12-the-readme-project/</link><pubDate>Fri, 12 Aug 2022 14:04:50 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-12-the-readme-project/</guid><description><![CDATA[<p>The ReadME Project<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Github - Tag - My Notes</title><link>https://blog.emecas.net/tags/github/</link><description>Github - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 May 2025 19:47:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/github/" rel="self" type="application/rss+xml"/><item><title>nektos/act</title><link>https://blog.emecas.net/posts/2025-05-19-nektos-act/</link><pubDate>Mon, 19 May 2025 19:47:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-19-nektos-act/</guid><description><![CDATA[<p>nektos/act<br>
+Run your GitHub Actions locally 🚀<br>
+Go repository by nektos, created in 2019, with 72,640 stars and 2,119 forks. License: MIT. Starred on 2025-05-19.<br>
+Homepage: <a href="https://nektosact.com" target="_blank" rel="noopener noreffer ">https://nektosact.com</a><br>
+<a href="https://github.com/nektos/act" target="_blank" rel="noopener noreffer ">https://github.com/nektos/act</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-05-19: <a href="https://github.com/nektos/act" target="_blank" rel="noopener noreffer ">nektos/act</a>.</em></p>]]></description></item><item><title>SWE-agent/SWE-agent</title><link>https://blog.emecas.net/posts/2024-05-27-swe-agent-swe-agent/</link><pubDate>Mon, 27 May 2024 17:15:44 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-swe-agent-swe-agent/</guid><description><![CDATA[<p>SWE-agent/SWE-agent<br>
+SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]<br>
+Python repository by SWE-agent, created in 2024, with 20,779 stars and 2,265 forks. License: MIT. Starred on 2024-05-27.<br>
+Homepage: <a href="https://swe-agent.com" target="_blank" rel="noopener noreffer ">https://swe-agent.com</a><br>
+<a href="https://github.com/SWE-agent/SWE-agent" target="_blank" rel="noopener noreffer ">https://github.com/SWE-agent/SWE-agent</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/SWE-agent/SWE-agent" target="_blank" rel="noopener noreffer ">SWE-agent/SWE-agent</a>.</em></p>]]></description></item><item><title>The ReadME Project</title><link>https://blog.emecas.net/posts/2022-08-12-the-readme-project/</link><pubDate>Fri, 12 Aug 2022 14:04:50 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-12-the-readme-project/</guid><description><![CDATA[<p>The ReadME Project<br>
 <a href="https://github.com/readme" target="_blank" rel="noopener noreffer ">https://github.com/readme</a></p>
 <p>About:</p>
 <p>Coding is usually seen as a solitary activity, but it’s actually the world’s largest community effort led by open source maintainers, contributors, and teams. These unsung heroes put in long hours to build software, fix issues, field questions, and manage communities.</p>
-<p>The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.</p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
+<p>The ReadME Project is part of GitHub’s ongoing effort to amplify the voices of the developer community. It’s an evolving space to engage with the community and explore the stories, challenges, technology, and culture that surround the world of open source.</p>]]></description></item><item><title>github/codeql</title><link>https://blog.emecas.net/posts/2022-02-16-github-codeql/</link><pubDate>Wed, 16 Feb 2022 17:30:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-02-16-github-codeql/</guid><description><![CDATA[<p>github/codeql<br>
+CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security<br>
+CodeQL repository by github, created in 2018, with 10,339 stars and 2,144 forks. License: MIT. Starred on 2022-02-16.<br>
+Homepage: <a href="https://codeql.github.com" target="_blank" rel="noopener noreffer ">https://codeql.github.com</a><br>
+<a href="https://github.com/github/codeql" target="_blank" rel="noopener noreffer ">https://github.com/github/codeql</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-02-16: <a href="https://github.com/github/codeql" target="_blank" rel="noopener noreffer ">github/codeql</a>.</em></p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
 <a href="https://elgg.org/" target="_blank" rel="noopener noreffer ">https://elgg.org/</a><br>
 Introducing a powerful open source social networking engine<br>
 Providing you with the core components needed to build a socially aware web application</p>
@@ -22,52 +40,27 @@ Map<br>
 Stats</p>
 <p><a href="https://alternativeto.net/software/diaspora/about/" target="_blank" rel="noopener noreffer ">https://alternativeto.net/software/diaspora/about/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/88f174652c04ea2d64a9a90dd66b8e9e3d509360" target="_blank" rel="noopener noreffer "><code>88f1746</code></a> in My-Notes.</em></p>]]></description></item><item><title>Grizzly</title><link>https://blog.emecas.net/posts/2018-02-15-grizzly/</link><pubDate>Thu, 15 Feb 2018 11:02:21 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-grizzly/</guid><description><![CDATA[<p>Project Grizzly<br>
-NIO Event Development Simplified<br>
-<a href="https://javaee.github.io/grizzly/" target="_blank" rel="noopener noreffer ">https://javaee.github.io/grizzly/</a><br>
-repo: <a href="https://github.com/javaee/grizzly" target="_blank" rel="noopener noreffer ">https://github.com/javaee/grizzly</a></p>
-<p>Writing scalable server applications in the Java™ programming language has always been difficult. Before the advent of the Java New I/O API (NIO), thread management issues made it impossible for a server to scale to thousands of users. The Grizzly NIO framework has been designed to help developers to take advantage of the Java™ NIO API. Grizzly’s goal is to help developers to build scalable and robust servers using NIO as well as offering extended framework components: Web Framework (HTTP/S), WebSocket, Comet, and more!</p>]]></description></item><item><title>Multi-Tenant Benchmarking Tool (MTBT)</title><link>https://blog.emecas.net/posts/2018-02-15-multi-tenant-benchmarking-tool-mtbt/</link><pubDate>Thu, 15 Feb 2018 10:27:11 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-multi-tenant-benchmarking-tool-mtbt/</guid><description><![CDATA[<p>Multi-Tenant Benchmarking Tool (MTBT)<br>
-<a href="https://github.com/linkedin/MTBT" target="_blank" rel="noopener noreffer ">https://github.com/linkedin/MTBT</a><br>
-Multi-tenant Benchmarking Tool (MTBT) is a Java-based key-value store benchmarking tool. As the name suggests, it is multi-tenant (i.e., you can create multiple jobs with different parameters), and workload-dynamic (i.e., you can issue changes to the workload for a particular job throughout the execution). The most important features of MTBT are:</p>
-<p>Multi-process: Multiple MTBT processes can co-ordinate to execute a given work plan. One of the processes is designated as the master, while the remaining ones are called the slaves. Master coordinates the overall execution by sharing the work plan and synchronizing processes, and combines the final result collected by each MTBT process.</p>]]></description></item><item><title>RocksDB - A persistent key-value store</title><link>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</link><pubDate>Thu, 15 Feb 2018 10:04:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-02-15-rocksdb-a-persistent-key-value-store/</guid><description><![CDATA[<p>RocksDB | A persistent key-value store<br>
-rocksdb.org<br>
-RocksDB is an embeddable persistent key-value store for fast storage.<br>
-Repo: <a href="https://github.com/facebook/rocksdb/" target="_blank" rel="noopener noreffer ">https://github.com/facebook/rocksdb/</a></p>
-<p>The RocksDB library provides a persistent key value store. Keys and values are arbitrary byte arrays. The keys are ordered within the key value store according to a user-specified comparator function.</p>
-<p>The library is maintained by the Facebook Database Engineering Team, and is based on LevelDB, by Sanjay Ghemawat and Jeff Dean at Google.</p>]]></description></item><item><title>jsoup: Java HTML Parser</title><link>https://blog.emecas.net/posts/2018-01-03-jsoup-java-html-parser/</link><pubDate>Wed, 03 Jan 2018 09:30:50 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-03-jsoup-java-html-parser/</guid><description><![CDATA[<p>jsoup: Java HTML Parser<br>
-<a href="https://jsoup.org/" target="_blank" rel="noopener noreffer ">https://jsoup.org/</a><br>
-jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.<br>
-Repo: <a href="https://github.com/jhy/jsoup" target="_blank" rel="noopener noreffer ">https://github.com/jhy/jsoup</a></p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/88f174652c04ea2d64a9a90dd66b8e9e3d509360" target="_blank" rel="noopener noreffer "><code>88f1746</code></a> in My-Notes.</em></p>]]></description></item><item><title>repo-sync/repo-sync</title><link>https://blog.emecas.net/posts/2020-10-16-repo-sync-repo-sync/</link><pubDate>Fri, 16 Oct 2020 16:49:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-16-repo-sync-repo-sync/</guid><description><![CDATA[<p>repo-sync/repo-sync<br>
+🔄 Keep a pair of GitHub repos in sync<br>
+Repository by repo-sync, created in 2019, with 171 stars and 23 forks. License: MIT. Archived by its owner. Starred on 2020-10-16.<br>
+<a href="https://github.com/repo-sync/repo-sync" target="_blank" rel="noopener noreffer ">https://github.com/repo-sync/repo-sync</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/197d52a130cba847a274ef613566932ecca817a8" target="_blank" rel="noopener noreffer "><code>197d52a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Project Lombok - Never write another getter or equals method again</title><link>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</link><pubDate>Tue, 02 Jan 2018 13:10:43 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</guid><description><![CDATA[<p>Project Lombok<br>
-<a href="https://projectlombok.org/" target="_blank" rel="noopener noreffer ">https://projectlombok.org/</a><br>
-Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.<br>
-Never write another getter or equals method again. Early access to future java features such as val, and much more.<br>
-repo: <a href="https://github.com/rzwitserloot/lombok" target="_blank" rel="noopener noreffer ">https://github.com/rzwitserloot/lombok</a></p>
-<p>Compilers<br>
-Javac<br>
-ECJ<br>
-Build tools<br>
-maven<br>
-gradle<br>
-ant<br>
-kobalt<br>
-IDEs<br>
-Eclipse<br>
-IntelliJ IDEA<br>
-Netbeans<br>
-MyEclipse<br>
-Spring Tool Suite<br>
-JBoss Developer Studio<br>
-Platforms<br>
-Android<br>
-GWT</p>]]></description></item><item><title>WildFly - a flexible, lightweight, managed application runtime that helps you build amazing applications</title><link>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</link><pubDate>Fri, 22 Dec 2017 11:39:02 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-22-wildfly-a-flexible-lightweight-managed-application-runtime-t/</guid><description><![CDATA[<p>WildFly<br>
-<a href="http://wildfly.org/" target="_blank" rel="noopener noreffer ">http://wildfly.org/</a><br>
-WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.<br>
-repo: <a href="https://github.com/wildfly/wildfly" target="_blank" rel="noopener noreffer ">https://github.com/wildfly/wildfly</a></p>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/repo-sync/repo-sync" target="_blank" rel="noopener noreffer ">repo-sync/repo-sync</a>.</em></p>]]></description></item><item><title>pages-themes/minimal</title><link>https://blog.emecas.net/posts/2020-05-06-pages-themes-minimal/</link><pubDate>Wed, 06 May 2020 20:50:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-06-pages-themes-minimal/</guid><description><![CDATA[<p>pages-themes/minimal<br>
+Minimal is a Jekyll theme for GitHub Pages<br>
+SCSS repository by pages-themes, created in 2016, with 1,815 stars and 6,400 forks. License: CC0-1.0. Starred on 2020-05-06.<br>
+Homepage: <a href="https://pages-themes.github.io/minimal/" target="_blank" rel="noopener noreffer ">https://pages-themes.github.io/minimal/</a><br>
+<a href="https://github.com/pages-themes/minimal" target="_blank" rel="noopener noreffer ">https://github.com/pages-themes/minimal</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e3accc29ea4f344d9295a68669bd4771aba67556" target="_blank" rel="noopener noreffer "><code>e3accc2</code></a> in My-Notes.</em></p>]]></description></item><item><title>Asciidoctor - a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.</title><link>https://blog.emecas.net/posts/2017-12-22-asciidoctor-a-fast-text-processor-and-publishing-toolchain-f/</link><pubDate>Fri, 22 Dec 2017 11:36:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-22-asciidoctor-a-fast-text-processor-and-publishing-toolchain-f/</guid><description><![CDATA[<p>Asciidoctor<br>
-<a href="http://asciidoctor.org/" target="_blank" rel="noopener noreffer ">http://asciidoctor.org/</a><br>
-Asciidoctor is a fast text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats. Asciidoctor is written in Ruby, packaged as a RubyGem and published to RubyGems.org. The gem is also included in several Linux distributions, including Fedora, Debian and Ubuntu. Asciidoctor is open source, hosted on GitHub and released under the MIT license.</p>
+<p><em>Source: starred on GitHub on 2020-05-06: <a href="https://github.com/pages-themes/minimal" target="_blank" rel="noopener noreffer ">pages-themes/minimal</a>.</em></p>]]></description></item><item><title>GothenburgBitFactory/bugwarrior</title><link>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-bugwarrior/</link><pubDate>Sun, 22 Mar 2020 21:51:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-bugwarrior/</guid><description><![CDATA[<p>GothenburgBitFactory/bugwarrior<br>
+Pull github, bitbucket, and trac issues into taskwarrior<br>
+Python repository by GothenburgBitFactory, created in 2011, with 824 stars and 227 forks. License: GPL-3.0. Starred on 2020-03-22.<br>
+Homepage: <a href="http://pypi.python.org/pypi/bugwarrior" target="_blank" rel="noopener noreffer ">http://pypi.python.org/pypi/bugwarrior</a><br>
+<a href="https://github.com/GothenburgBitFactory/bugwarrior" target="_blank" rel="noopener noreffer ">https://github.com/GothenburgBitFactory/bugwarrior</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/311d13c3c24295daca4ddc406688fa9f1226a797" target="_blank" rel="noopener noreffer "><code>311d13c</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-03-22: <a href="https://github.com/GothenburgBitFactory/bugwarrior" target="_blank" rel="noopener noreffer ">GothenburgBitFactory/bugwarrior</a>.</em></p>]]></description></item><item><title>jonan/ForkHub</title><link>https://blog.emecas.net/posts/2019-10-05-jonan-forkhub/</link><pubDate>Sat, 05 Oct 2019 16:23:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-10-05-jonan-forkhub/</guid><description><![CDATA[<p>jonan/ForkHub<br>
+GitHub client for Android based on the abandoned official app<br>
+JavaScript repository by jonan, created in 2014, with 2,804 stars and 472 forks. License: Apache-2.0. Starred on 2019-10-05.<br>
+Homepage: <a href="https://play.google.com/store/apps/details?id=jp.forkhub" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=jp.forkhub</a><br>
+<a href="https://github.com/jonan/ForkHub" target="_blank" rel="noopener noreffer ">https://github.com/jonan/ForkHub</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-10-05: <a href="https://github.com/jonan/ForkHub" target="_blank" rel="noopener noreffer ">jonan/ForkHub</a>.</em></p>]]></description></item></channel></rss>

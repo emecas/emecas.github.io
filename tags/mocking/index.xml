@@ -23,7 +23,13 @@ Mocking<br>
 Labeling and filtering test execution<br>
 Extending the test framework</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/76d3a6ae17b0921e876b10adb93de4f8b0a1b88d" target="_blank" rel="noopener noreffer "><code>76d3a6a</code></a> in My-Notes.</em></p>]]></description></item><item><title>JSON Server - Get a full fake REST API with zero coding in less than 30 seconds</title><link>https://blog.emecas.net/posts/2017-11-09-json-server-get-a-full-fake-rest-api-with-zero-coding-in-les/</link><pubDate>Thu, 09 Nov 2017 13:57:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-09-json-server-get-a-full-fake-rest-api-with-zero-coding-in-les/</guid><description><![CDATA[<p>JSON Server<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/76d3a6ae17b0921e876b10adb93de4f8b0a1b88d" target="_blank" rel="noopener noreffer "><code>76d3a6a</code></a> in My-Notes.</em></p>]]></description></item><item><title>wiremock/wiremock</title><link>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</link><pubDate>Fri, 13 Sep 2019 21:21:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</guid><description><![CDATA[<p>wiremock/wiremock<br>
+A tool for mocking HTTP services<br>
+Java repository by wiremock, created in 2011, with 7,423 stars and 1,533 forks. License: Apache-2.0. Starred on 2019-09-13.<br>
+Homepage: <a href="https://wiremock.org/" target="_blank" rel="noopener noreffer ">https://wiremock.org/</a><br>
+<a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">https://github.com/wiremock/wiremock</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-09-13: <a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">wiremock/wiremock</a>.</em></p>]]></description></item><item><title>JSON Server - Get a full fake REST API with zero coding in less than 30 seconds</title><link>https://blog.emecas.net/posts/2017-11-09-json-server-get-a-full-fake-rest-api-with-zero-coding-in-les/</link><pubDate>Thu, 09 Nov 2017 13:57:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-09-json-server-get-a-full-fake-rest-api-with-zero-coding-in-les/</guid><description><![CDATA[<p>JSON Server<br>
 <a href="https://github.com/typicode/json-server" target="_blank" rel="noopener noreffer ">https://github.com/typicode/json-server</a><br>
 Get a full fake REST API with zero coding in less than 30 seconds (seriously)<br>
 Created with &lt;3 for front-end developers who need a quick back-end for prototyping and mocking.</p>
@@ -38,4 +44,9 @@ Created with &lt;3 for front-end developers who need a quick back-end for protot
 ],<br>
 &ldquo;profile&rdquo;: { &ldquo;name&rdquo;: &ldquo;typicode&rdquo; }<br>
 }</p>
-<p>Start JSON Server</p>]]></description></item></channel></rss>
+<p>Start JSON Server</p>]]></description></item><item><title>devlooped/moq</title><link>https://blog.emecas.net/posts/2017-07-03-devlooped-moq/</link><pubDate>Mon, 03 Jul 2017 15:49:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-devlooped-moq/</guid><description><![CDATA[<p>devlooped/moq<br>
+The most popular and friendly mocking framework for .NET<br>
+C# repository by devlooped, created in 2012, with 6,409 stars and 831 forks. License: MIT. Starred on 2017-07-03.<br>
+<a href="https://github.com/devlooped/moq" target="_blank" rel="noopener noreffer ">https://github.com/devlooped/moq</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-07-03: <a href="https://github.com/devlooped/moq" target="_blank" rel="noopener noreffer ">devlooped/moq</a>.</em></p>]]></description></item></channel></rss>

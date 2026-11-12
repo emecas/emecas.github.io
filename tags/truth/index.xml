@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Truth - Tag - My Notes</title><link>https://blog.emecas.net/tags/truth/</link><description>Truth - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 15 Feb 2020 10:51:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/truth/" rel="self" type="application/rss+xml"/><item><title>docker-library/official-images</title><link>https://blog.emecas.net/posts/2020-02-15-docker-library-official-images/</link><pubDate>Sat, 15 Feb 2020 10:51:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-15-docker-library-official-images/</guid><description><![CDATA[<p>docker-library/official-images<br>
+Primary source of truth for the Docker &ldquo;Official Images&rdquo; program<br>
+Shell repository by docker-library, created in 2013, with 7,040 stars and 2,544 forks. License: Apache-2.0. Starred on 2020-02-15.<br>
+Homepage: <a href="https://hub.docker.com/u/library" target="_blank" rel="noopener noreffer ">https://hub.docker.com/u/library</a><br>
+<a href="https://github.com/docker-library/official-images" target="_blank" rel="noopener noreffer ">https://github.com/docker-library/official-images</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-15: <a href="https://github.com/docker-library/official-images" target="_blank" rel="noopener noreffer ">docker-library/official-images</a>.</em></p>]]></description></item></channel></rss>

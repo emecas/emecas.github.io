@@ -1,75 +1,58 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Python - Tag - My Notes</title><link>https://blog.emecas.net/tags/python/</link><description>Python - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Nov 2025 12:55:25 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/python/" rel="self" type="application/rss+xml"/><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Python - Tag - My Notes</title><link>https://blog.emecas.net/tags/python/</link><description>Python - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 09 Oct 2026 02:16:27 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/python/" rel="self" type="application/rss+xml"/><item><title>paperless-ngx/paperless-ngx</title><link>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</link><pubDate>Fri, 09 Oct 2026 02:16:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</guid><description><![CDATA[<p>paperless-ngx/paperless-ngx<br>
+A community-supported supercharged document management system: scan, index and archive all your documents<br>
+Python repository by paperless-ngx, created in 2022, with 47,991 stars and 3,373 forks. License: GPL-3.0. Starred on 2026-10-09.<br>
+Homepage: <a href="http://docs.paperless-ngx.com/" target="_blank" rel="noopener noreffer ">http://docs.paperless-ngx.com/</a><br>
+<a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">https://github.com/paperless-ngx/paperless-ngx</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-10-09: <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">paperless-ngx/paperless-ngx</a>.</em></p>]]></description></item><item><title>debpalash/VoiceStudio</title><link>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</link><pubDate>Sun, 27 Sep 2026 13:22:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</guid><description><![CDATA[<p>debpalash/VoiceStudio<br>
+VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br>
+Python repository by debpalash, created in 2026, with 107,396 stars and 11,902 forks. License: AGPL-3.0. Starred on 2026-09-27.<br>
+Homepage: <a href="https://voicestudio.sh" target="_blank" rel="noopener noreffer ">https://voicestudio.sh</a><br>
+<a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">https://github.com/debpalash/VoiceStudio</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-09-27: <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">debpalash/VoiceStudio</a>.</em></p>]]></description></item><item><title>fastapi/fastapi</title><link>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</link><pubDate>Mon, 24 Aug 2026 20:13:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</guid><description><![CDATA[<p>fastapi/fastapi<br>
+FastAPI framework, high performance, easy to learn, fast to code, ready for production<br>
+Python repository by fastapi, created in 2018, with 104,633 stars and 10,214 forks. License: MIT. Starred on 2026-08-24.<br>
+Homepage: <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
+<a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">https://github.com/fastapi/fastapi</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-08-24: <a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">fastapi/fastapi</a>.</em></p>]]></description></item><item><title>henryhabib/CopilotResources</title><link>https://blog.emecas.net/posts/2026-07-02-henryhabib-copilotresources/</link><pubDate>Thu, 02 Jul 2026 15:17:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-02-henryhabib-copilotresources/</guid><description><![CDATA[<p>henryhabib/CopilotResources<br>
+Python repository by henryhabib, created in 2025, with 15 stars and 17 forks. Starred on 2026-07-02.<br>
+<a href="https://github.com/henryhabib/CopilotResources" target="_blank" rel="noopener noreffer ">https://github.com/henryhabib/CopilotResources</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-07-02: <a href="https://github.com/henryhabib/CopilotResources" target="_blank" rel="noopener noreffer ">henryhabib/CopilotResources</a>.</em></p>]]></description></item><item><title>xdavidhu/awesome-google-vrp-writeups</title><link>https://blog.emecas.net/posts/2026-05-11-xdavidhu-awesome-google-vrp-writeups/</link><pubDate>Mon, 11 May 2026 20:54:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-05-11-xdavidhu-awesome-google-vrp-writeups/</guid><description><![CDATA[<p>xdavidhu/awesome-google-vrp-writeups<br>
+🐛 A list of writeups from the Google VRP Bug Bounty program<br>
+Python repository by xdavidhu, created in 2020, with 1,692 stars and 280 forks. Starred on 2026-05-11.<br>
+<a href="https://github.com/xdavidhu/awesome-google-vrp-writeups" target="_blank" rel="noopener noreffer ">https://github.com/xdavidhu/awesome-google-vrp-writeups</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-05-11: <a href="https://github.com/xdavidhu/awesome-google-vrp-writeups" target="_blank" rel="noopener noreffer ">xdavidhu/awesome-google-vrp-writeups</a>.</em></p>]]></description></item><item><title>microsoft/VibeVoice</title><link>https://blog.emecas.net/posts/2026-04-08-microsoft-vibevoice/</link><pubDate>Wed, 08 Apr 2026 18:10:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-microsoft-vibevoice/</guid><description><![CDATA[<p>microsoft/VibeVoice<br>
+Open-Source Frontier Voice AI<br>
+Python repository by microsoft, created in 2025, with 56,981 stars and 6,421 forks. License: MIT. Starred on 2026-04-08.<br>
+Homepage: <a href="https://microsoft.github.io/VibeVoice/" target="_blank" rel="noopener noreffer ">https://microsoft.github.io/VibeVoice/</a><br>
+<a href="https://github.com/microsoft/VibeVoice" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/VibeVoice</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/microsoft/VibeVoice" target="_blank" rel="noopener noreffer ">microsoft/VibeVoice</a>.</em></p>]]></description></item><item><title>zai-org/GLM-Image</title><link>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-image/</link><pubDate>Wed, 01 Apr 2026 00:29:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-image/</guid><description><![CDATA[<p>zai-org/GLM-Image<br>
+GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation.<br>
+Python repository by zai-org, created in 2026, with 1,078 stars and 105 forks. License: Apache-2.0. Starred on 2026-04-01.<br>
+Homepage: <a href="https://z.ai/blog/glm-image" target="_blank" rel="noopener noreffer ">https://z.ai/blog/glm-image</a><br>
+<a href="https://github.com/zai-org/GLM-Image" target="_blank" rel="noopener noreffer ">https://github.com/zai-org/GLM-Image</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-01: <a href="https://github.com/zai-org/GLM-Image" target="_blank" rel="noopener noreffer ">zai-org/GLM-Image</a>.</em></p>]]></description></item><item><title>zai-org/GLM-OCR</title><link>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-ocr/</link><pubDate>Wed, 01 Apr 2026 00:26:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-ocr/</guid><description><![CDATA[<p>zai-org/GLM-OCR<br>
+GLM-OCR: Accurate × Fast × Comprehensive<br>
+Python repository by zai-org, created in 2026, with 7,591 stars and 676 forks. License: Apache-2.0. Starred on 2026-04-01.<br>
+<a href="https://github.com/zai-org/GLM-OCR" target="_blank" rel="noopener noreffer ">https://github.com/zai-org/GLM-OCR</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-04-01: <a href="https://github.com/zai-org/GLM-OCR" target="_blank" rel="noopener noreffer ">zai-org/GLM-OCR</a>.</em></p>]]></description></item><item><title>harvard-edge/cs249r_book</title><link>https://blog.emecas.net/posts/2025-12-14-harvard-edge-cs249r-book/</link><pubDate>Sun, 14 Dec 2025 11:04:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-12-14-harvard-edge-cs249r-book/</guid><description><![CDATA[<p>harvard-edge/cs249r_book<br>
+Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | <a href="https://mlsysbook.ai" target="_blank" rel="noopener noreffer ">https://mlsysbook.ai</a><br>
+Python repository by harvard-edge, created in 2023, with 30,132 stars and 3,738 forks. Starred on 2025-12-14.<br>
+Homepage: <a href="https://mlsysbook.ai" target="_blank" rel="noopener noreffer ">https://mlsysbook.ai</a><br>
+<a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener noreffer ">https://github.com/harvard-edge/cs249r_book</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-12-14: <a href="https://github.com/harvard-edge/cs249r_book" target="_blank" rel="noopener noreffer ">harvard-edge/cs249r_book</a>.</em></p>]]></description></item><item><title>Quarto</title><link>https://blog.emecas.net/posts/2025-11-08-quarto/</link><pubDate>Sat, 08 Nov 2025 12:55:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-08-quarto/</guid><description><![CDATA[<p>Quarto<br>
 <a href="https://quarto.org/" target="_blank" rel="noopener noreffer ">https://quarto.org/</a></p>
 <p>An open-source scientific and technical publishing system</p>
 <p>Author using Jupyter notebooks or with plain text markdown in your favorite editor.<br>
 Create dynamic content with Python, R, Julia, and Observable.<br>
 Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
 Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
-Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
-<a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">https://python-poetry.org/</a><br>
-Python packaging and dependency management made easy<br>
-REPO: <a href="https://github.com/python-poetry/poetry" target="_blank" rel="noopener noreffer ">https://github.com/python-poetry/poetry</a></p>
-<p>- Deterministic builds Develop<br>
-Poetry comes with all the tools you might need to manage your projects in a deterministic way.</p>
-<p>- Package with ease Build<br>
-Easily build and package your projects with a single command.</p>
-<p>- Share your work Publish<br>
-Make your work known by publishing it to PyPI.</p>
-<p>- Check the state of your dependencies Track<br>
-Having an insight of your project&rsquo;s dependencies is just one command away.</p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
-Generate easy-to-read web pages for your Architecture Decision Records<br>
-<a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
-repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
-demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
-<p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
-<a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
-Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
-<p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
-<p>Flavors:</p>
-<p>- Processing {tradicional] : <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
-- p5.js  : <a href="https://p5js.org/" target="_blank" rel="noopener noreffer ">https://p5js.org/</a><br>
-- Processing Android : <a href="https://android.processing.org/" target="_blank" rel="noopener noreffer ">https://android.processing.org/</a><br>
-- Processing Python : <a href="https://py.processing.org/" target="_blank" rel="noopener noreffer ">https://py.processing.org/</a></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
-Playwright enables reliable end-to-end testing for modern web apps.<br>
-<a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
-<p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
-<p>Support for all browsers</p>
-<p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
-Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
-Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
-Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>CherryTree</title><link>https://blog.emecas.net/posts/2020-04-23-cherrytree/</link><pubDate>Thu, 23 Apr 2020 19:08:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-23-cherrytree/</guid><description><![CDATA[<p>CherryTree 0.39.2<br>
-A Hierarchical Note Taking Application, featuring Rich Text and Syntax Highlighting<br>
-<a href="http://www.giuspen.com/cherrytree/" target="_blank" rel="noopener noreffer ">http://www.giuspen.com/cherrytree/</a><br>
-<a href="http://giuspen.com/cherrytreemanual/" target="_blank" rel="noopener noreffer ">http://giuspen.com/cherrytreemanual/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1dcda5f6496f48ecedc85f142003040c0b8a69c7" target="_blank" rel="noopener noreffer "><code>1dcda5f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Alembic</title><link>https://blog.emecas.net/posts/2020-04-07-alembic/</link><pubDate>Tue, 07 Apr 2020 19:22:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-07-alembic/</guid><description><![CDATA[<p>Alembic<br>
-<a href="https://alembic.sqlalchemy.org/en/latest/" target="_blank" rel="noopener noreffer ">https://alembic.sqlalchemy.org/en/latest/</a><br>
-Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
-Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>FastAPI</title><link>https://blog.emecas.net/posts/2020-03-18-fastapi/</link><pubDate>Wed, 18 Mar 2020 09:56:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-fastapi/</guid><description><![CDATA[<p>FastAPI<br>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
-FastAPI framework, high performance, easy to learn, fast to code, ready for production</p>
-<p>The key features are:</p>
-<p>Fast: Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.</p>
-<p>Fast to code: Increase the speed to develop features by about 200% to 300% *.</p>
-<p>Fewer bugs: Reduce about 40% of human (developer) induced errors. *</p>
-<p>Intuitive: Great editor support. Completion everywhere. Less time debugging.</p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
-<a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
-Python wrapper for the GitLab API</p>
-<p>python-gitlab is a Python package providing access to the GitLab server API.<br>
-It supports the v4 API of GitLab, and provides a CLI tool (gitlab).</p>
-<p>Docker:</p>
-<p>How to build</p>
-<p>docker build -t python-gitlab:TAG .</p>
-<p>How to use</p>
-<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg python-gitlab &lt;command&gt; &hellip;</p>
-<p>or run it directly from the upstream image:</p>
-<p>docker run -it --rm -e GITLAB_PRIVATE_TOKEN=&lt;your token&gt; -v /path/to/python-gitlab.cfg:/python-gitlab.cfg registry.gitlab.com/python-gitlab/python-gitlab:latest &lt;command&gt; &hellip;</p>]]></description></item><item><title>lxml</title><link>https://blog.emecas.net/posts/2019-08-08-lxml/</link><pubDate>Thu, 08 Aug 2019 16:06:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-08-lxml/</guid><description><![CDATA[<p>lxml<br>
-<a href="https://lxml.de/" target="_blank" rel="noopener noreffer ">https://lxml.de/</a><br>
-XML and HTML with Python<br>
-lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/d019561850ad41bc8b10cccdffdb35d262130042" target="_blank" rel="noopener noreffer "><code>d019561</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item></channel></rss>

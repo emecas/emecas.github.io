@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Docs - Tag - My Notes</title><link>https://blog.emecas.net/tags/docs/</link><description>Docs - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 May 2020 22:26:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/docs/" rel="self" type="application/rss+xml"/><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Docs - Tag - My Notes</title><link>https://blog.emecas.net/tags/docs/</link><description>Docs - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 06 Jun 2023 11:21:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/docs/" rel="self" type="application/rss+xml"/><item><title>fern-api/fern</title><link>https://blog.emecas.net/posts/2023-06-06-fern-api-fern/</link><pubDate>Tue, 06 Jun 2023 11:21:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-06-fern-api-fern/</guid><description><![CDATA[<p>fern-api/fern<br>
+Input OpenAPI. Output SDKs and Docs.<br>
+TypeScript repository by fern-api, created in 2022, with 3,837 stars and 376 forks. License: Apache-2.0. Starred on 2023-06-06.<br>
+Homepage: <a href="https://buildwithfern.com" target="_blank" rel="noopener noreffer ">https://buildwithfern.com</a><br>
+<a href="https://github.com/fern-api/fern" target="_blank" rel="noopener noreffer ">https://github.com/fern-api/fern</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-06: <a href="https://github.com/fern-api/fern" target="_blank" rel="noopener noreffer ">fern-api/fern</a>.</em></p>]]></description></item><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
 WildFly Full<br>
 <a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
 WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
@@ -32,4 +38,9 @@ WildFly is a flexible, lightweight, managed application runtime that helps you b
 &lt;/plugin&gt;<br>
 &lt;/plugins&gt;</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item><item><title>brentlaster/cdpjdocs</title><link>https://blog.emecas.net/posts/2017-08-01-brentlaster-cdpjdocs/</link><pubDate>Tue, 01 Aug 2017 19:51:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-08-01-brentlaster-cdpjdocs/</guid><description><![CDATA[<p>brentlaster/cdpjdocs<br>
+Docs for Creating a Deployment Pipeline with Jenkins training<br>
+Repository by brentlaster, created in 2017, with 20 stars and 21 forks. Starred on 2017-08-01.<br>
+<a href="https://github.com/brentlaster/cdpjdocs" target="_blank" rel="noopener noreffer ">https://github.com/brentlaster/cdpjdocs</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-08-01: <a href="https://github.com/brentlaster/cdpjdocs" target="_blank" rel="noopener noreffer ">brentlaster/cdpjdocs</a>.</em></p>]]></description></item></channel></rss>

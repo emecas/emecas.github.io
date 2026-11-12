@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Dapr - Tag - My Notes</title><link>https://blog.emecas.net/tags/dapr/</link><description>Dapr - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 14 Oct 2020 13:24:16 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/dapr/" rel="self" type="application/rss+xml"/><item><title>dapr/dapr</title><link>https://blog.emecas.net/posts/2020-10-14-dapr-dapr/</link><pubDate>Wed, 14 Oct 2020 13:24:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-14-dapr-dapr/</guid><description><![CDATA[<p>dapr/dapr<br>
+Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.<br>
+Go repository by dapr, created in 2019, with 26,183 stars and 2,178 forks. License: Apache-2.0. Starred on 2020-10-14.<br>
+Homepage: <a href="https://dapr.io" target="_blank" rel="noopener noreffer ">https://dapr.io</a><br>
+<a href="https://github.com/dapr/dapr" target="_blank" rel="noopener noreffer ">https://github.com/dapr/dapr</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-14: <a href="https://github.com/dapr/dapr" target="_blank" rel="noopener noreffer ">dapr/dapr</a>.</em></p>]]></description></item></channel></rss>

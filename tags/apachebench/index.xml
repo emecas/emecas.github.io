@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Apachebench - Tag - My Notes</title><link>https://blog.emecas.net/tags/apachebench/</link><description>Apachebench - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 18:07:49 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/apachebench/" rel="self" type="application/rss+xml"/><item><title>rakyll/hey</title><link>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</link><pubDate>Thu, 17 Oct 2024 18:07:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</guid><description><![CDATA[<p>rakyll/hey<br>
+HTTP load generator, ApacheBench (ab) replacement<br>
+Go repository by rakyll, created in 2016, with 20,778 stars and 1,326 forks. License: Apache-2.0. Starred on 2024-10-17.<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-17: <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">rakyll/hey</a>.</em></p>]]></description></item></channel></rss>

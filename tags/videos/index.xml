@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Videos - Tag - My Notes</title><link>https://blog.emecas.net/tags/videos/</link><description>Videos - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 19 Jan 2021 03:44:30 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/videos/" rel="self" type="application/rss+xml"/><item><title>ytdl-org/youtube-dl</title><link>https://blog.emecas.net/posts/2021-01-19-ytdl-org-youtube-dl/</link><pubDate>Tue, 19 Jan 2021 03:44:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-19-ytdl-org-youtube-dl/</guid><description><![CDATA[<p>ytdl-org/youtube-dl<br>
+Command-line program to download videos from YouTube.com and other video sites<br>
+Python repository by ytdl-org, created in 2010, with 141,526 stars and 10,685 forks. License: Unlicense. Starred on 2021-01-19.<br>
+Homepage: <a href="http://ytdl-org.github.io/youtube-dl/" target="_blank" rel="noopener noreffer ">http://ytdl-org.github.io/youtube-dl/</a><br>
+<a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener noreffer ">https://github.com/ytdl-org/youtube-dl</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-01-19: <a href="https://github.com/ytdl-org/youtube-dl" target="_blank" rel="noopener noreffer ">ytdl-org/youtube-dl</a>.</em></p>]]></description></item></channel></rss>

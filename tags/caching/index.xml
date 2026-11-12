@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Caching - Tag - My Notes</title><link>https://blog.emecas.net/tags/caching/</link><description>Caching - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Nov 2020 01:17:50 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/caching/" rel="self" type="application/rss+xml"/><item><title>ben-manes/caffeine</title><link>https://blog.emecas.net/posts/2020-11-01-ben-manes-caffeine/</link><pubDate>Sun, 01 Nov 2020 01:17:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-ben-manes-caffeine/</guid><description><![CDATA[<p>ben-manes/caffeine<br>
+A high performance caching library for Java<br>
+Java repository by ben-manes, created in 2014, with 17,941 stars and 1,721 forks. License: Apache-2.0. Starred on 2020-11-01.<br>
+<a href="https://github.com/ben-manes/caffeine" target="_blank" rel="noopener noreffer ">https://github.com/ben-manes/caffeine</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/ben-manes/caffeine" target="_blank" rel="noopener noreffer ">ben-manes/caffeine</a>.</em></p>]]></description></item></channel></rss>

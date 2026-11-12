@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Vector - Tag - My Notes</title><link>https://blog.emecas.net/tags/vector/</link><description>Vector - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 07 Apr 2025 03:37:07 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/vector/" rel="self" type="application/rss+xml"/><item><title>milvus-io/milvus</title><link>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</link><pubDate>Mon, 07 Apr 2025 03:37:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-04-07-milvus-io-milvus/</guid><description><![CDATA[<p>milvus-io/milvus<br>
+Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search<br>
+Go repository by milvus-io, created in 2019, with 46,633 stars and 4,327 forks. License: Apache-2.0. Starred on 2025-04-07.<br>
+Homepage: <a href="https://milvus.io" target="_blank" rel="noopener noreffer ">https://milvus.io</a><br>
+<a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">https://github.com/milvus-io/milvus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2025-04-07: <a href="https://github.com/milvus-io/milvus" target="_blank" rel="noopener noreffer ">milvus-io/milvus</a>.</em></p>]]></description></item><item><title>datastax/jvector</title><link>https://blog.emecas.net/posts/2024-06-09-datastax-jvector/</link><pubDate>Sun, 09 Jun 2024 03:44:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-09-datastax-jvector/</guid><description><![CDATA[<p>datastax/jvector<br>
+JVector: the most advanced embedded vector search engine<br>
+Java repository by datastax, created in 2023, with 1,757 stars and 163 forks. License: Apache-2.0. Starred on 2024-06-09.<br>
+<a href="https://github.com/datastax/jvector" target="_blank" rel="noopener noreffer ">https://github.com/datastax/jvector</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-06-09: <a href="https://github.com/datastax/jvector" target="_blank" rel="noopener noreffer ">datastax/jvector</a>.</em></p>]]></description></item></channel></rss>

@@ -25,7 +25,17 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 To preserve the name for its original owner, we renamed this project to hey.</p>
 <p>Previously known as github.com/rakyll/boom.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>rakyll/hey</title><link>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</link><pubDate>Thu, 17 Oct 2024 18:07:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-rakyll-hey/</guid><description><![CDATA[<p>rakyll/hey<br>
+HTTP load generator, ApacheBench (ab) replacement<br>
+Go repository by rakyll, created in 2016, with 20,778 stars and 1,326 forks. License: Apache-2.0. Starred on 2024-10-17.<br>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-17: <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">rakyll/hey</a>.</em></p>]]></description></item><item><title>zakirullin/cognitive-load</title><link>https://blog.emecas.net/posts/2024-10-09-zakirullin-cognitive-load/</link><pubDate>Wed, 09 Oct 2024 11:30:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-09-zakirullin-cognitive-load/</guid><description><![CDATA[<p>zakirullin/cognitive-load<br>
+🧠 Cognitive load is what matters<br>
+Repository by zakirullin, created in 2023, with 12,536 stars and 310 forks. License: CC-BY-4.0. Starred on 2024-10-09.<br>
+<a href="https://github.com/zakirullin/cognitive-load" target="_blank" rel="noopener noreffer ">https://github.com/zakirullin/cognitive-load</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-10-09: <a href="https://github.com/zakirullin/cognitive-load" target="_blank" rel="noopener noreffer ">zakirullin/cognitive-load</a>.</em></p>]]></description></item><item><title>Gatling</title><link>https://blog.emecas.net/posts/2020-08-23-gatling/</link><pubDate>Sun, 23 Aug 2020 20:11:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-23-gatling/</guid><description><![CDATA[<p>Gatling<br>
 <a href="https://gatling.io/" target="_blank" rel="noopener noreffer ">https://gatling.io/</a><br>
 Async Scala-Akka-Netty based Load Test Tool<br>
 Gatling is a powerful open-source load testing solution.<br>

@@ -16,7 +16,13 @@ January 29, 2020</p>
 - a semantic analysis clustering algorithm for on-site live debates. This uses a combination of unsupervised and then supervised learning in order to group and classify responses into topics<br>
 - an NLP algorithm designed to find actionable solutions in text<br>
 -<br>
-- precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring</p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+- precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring</p>]]></description></item><item><title>apache/dubbo</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</link><pubDate>Wed, 22 Jan 2020 03:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</guid><description><![CDATA[<p>apache/dubbo<br>
+The java implementation of Apache Dubbo. An RPC and microservice framework.<br>
+Java repository by apache, created in 2012, with 41,579 stars and 26,306 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org/" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org/</a><br>
+<a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">apache/dubbo</a>.</em></p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
 <p>A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.</p>
 <p><a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
 <a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>

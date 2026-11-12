@@ -6,7 +6,13 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>fern-api/fern</title><link>https://blog.emecas.net/posts/2023-06-06-fern-api-fern/</link><pubDate>Tue, 06 Jun 2023 11:21:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-06-fern-api-fern/</guid><description><![CDATA[<p>fern-api/fern<br>
+Input OpenAPI. Output SDKs and Docs.<br>
+TypeScript repository by fern-api, created in 2022, with 3,837 stars and 376 forks. License: Apache-2.0. Starred on 2023-06-06.<br>
+Homepage: <a href="https://buildwithfern.com" target="_blank" rel="noopener noreffer ">https://buildwithfern.com</a><br>
+<a href="https://github.com/fern-api/fern" target="_blank" rel="noopener noreffer ">https://github.com/fern-api/fern</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-06: <a href="https://github.com/fern-api/fern" target="_blank" rel="noopener noreffer ">fern-api/fern</a>.</em></p>]]></description></item><item><title>javalin</title><link>https://blog.emecas.net/posts/2020-06-01-javalin/</link><pubDate>Mon, 01 Jun 2020 22:12:59 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-01-javalin/</guid><description><![CDATA[<p>javalin<br>
 <a href="https://javalin.io/" target="_blank" rel="noopener noreffer ">https://javalin.io/</a><br>
 A simple web framework for Java and Kotlin<br>
 <a href="https://github.com/tipsy/javalin" target="_blank" rel="noopener noreffer ">https://github.com/tipsy/javalin</a></p>
@@ -20,4 +26,10 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 <p>Fast: Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.</p>
 <p>Fast to code: Increase the speed to develop features by about 200% to 300% *.</p>
 <p>Fewer bugs: Reduce about 40% of human (developer) induced errors. *</p>
-<p>Intuitive: Great editor support. Completion everywhere. Less time debugging.</p>]]></description></item></channel></rss>
+<p>Intuitive: Great editor support. Completion everywhere. Less time debugging.</p>]]></description></item><item><title>OAI/OpenAPI-Specification</title><link>https://blog.emecas.net/posts/2019-05-14-oai-openapi-specification/</link><pubDate>Tue, 14 May 2019 18:52:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-14-oai-openapi-specification/</guid><description><![CDATA[<p>OAI/OpenAPI-Specification<br>
+The OpenAPI Specification Repository<br>
+Markdown repository by OAI, created in 2014, with 31,314 stars and 9,141 forks. License: Apache-2.0. Starred on 2019-05-14.<br>
+Homepage: <a href="https://openapis.org" target="_blank" rel="noopener noreffer ">https://openapis.org</a><br>
+<a href="https://github.com/OAI/OpenAPI-Specification" target="_blank" rel="noopener noreffer ">https://github.com/OAI/OpenAPI-Specification</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-14: <a href="https://github.com/OAI/OpenAPI-Specification" target="_blank" rel="noopener noreffer ">OAI/OpenAPI-Specification</a>.</em></p>]]></description></item></channel></rss>

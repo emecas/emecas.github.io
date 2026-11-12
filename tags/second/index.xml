@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Second - Tag - My Notes</title><link>https://blog.emecas.net/tags/second/</link><description>Second - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 May 2024 17:16:00 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/second/" rel="self" type="application/rss+xml"/><item><title>khoj-ai/khoj</title><link>https://blog.emecas.net/posts/2024-05-27-khoj-ai-khoj/</link><pubDate>Mon, 27 May 2024 17:16:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-khoj-ai-khoj/</guid><description><![CDATA[<p>khoj-ai/khoj<br>
+Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.<br>
+Python repository by khoj-ai, created in 2021, with 38,104 stars and 2,543 forks. License: AGPL-3.0. Starred on 2024-05-27.<br>
+Homepage: <a href="https://khoj.dev" target="_blank" rel="noopener noreffer ">https://khoj.dev</a><br>
+<a href="https://github.com/khoj-ai/khoj" target="_blank" rel="noopener noreffer ">https://github.com/khoj-ai/khoj</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/khoj-ai/khoj" target="_blank" rel="noopener noreffer ">khoj-ai/khoj</a>.</em></p>]]></description></item><item><title>simdjson/simdjson</title><link>https://blog.emecas.net/posts/2020-04-27-simdjson-simdjson/</link><pubDate>Mon, 27 Apr 2020 13:46:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-simdjson-simdjson/</guid><description><![CDATA[<p>simdjson/simdjson<br>
+Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks<br>
+C++ repository by simdjson, created in 2018, with 24,540 stars and 1,358 forks. License: Apache-2.0. Starred on 2020-04-27.<br>
+Homepage: <a href="https://simdjson.org" target="_blank" rel="noopener noreffer ">https://simdjson.org</a><br>
+<a href="https://github.com/simdjson/simdjson" target="_blank" rel="noopener noreffer ">https://github.com/simdjson/simdjson</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-04-27: <a href="https://github.com/simdjson/simdjson" target="_blank" rel="noopener noreffer ">simdjson/simdjson</a>.</em></p>]]></description></item></channel></rss>

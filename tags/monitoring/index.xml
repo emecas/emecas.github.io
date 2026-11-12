@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Monitoring - Tag - My Notes</title><link>https://blog.emecas.net/tags/monitoring/</link><description>Monitoring - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Mar 2026 14:24:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/monitoring/" rel="self" type="application/rss+xml"/><item><title>OpenTelemetri</title><link>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</link><pubDate>Tue, 03 Mar 2026 14:24:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</guid><description><![CDATA[<p>OpenTelemetry<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Monitoring - Tag - My Notes</title><link>https://blog.emecas.net/tags/monitoring/</link><description>Monitoring - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Sep 2026 16:09:04 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/monitoring/" rel="self" type="application/rss+xml"/><item><title>louislam/uptime-kuma</title><link>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</link><pubDate>Fri, 18 Sep 2026 16:09:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</guid><description><![CDATA[<p>louislam/uptime-kuma<br>
+A fancy self-hosted monitoring tool<br>
+JavaScript repository by louislam, created in 2021, with 93,475 stars and 8,693 forks. License: MIT. Starred on 2026-09-18.<br>
+Homepage: <a href="https://uptime.kuma.pet" target="_blank" rel="noopener noreffer ">https://uptime.kuma.pet</a><br>
+<a href="https://github.com/louislam/uptime-kuma" target="_blank" rel="noopener noreffer ">https://github.com/louislam/uptime-kuma</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-09-18: <a href="https://github.com/louislam/uptime-kuma" target="_blank" rel="noopener noreffer ">louislam/uptime-kuma</a>.</em></p>]]></description></item><item><title>OpenTelemetri</title><link>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</link><pubDate>Tue, 03 Mar 2026 14:24:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-03-opentelemetri/</guid><description><![CDATA[<p>OpenTelemetry<br>
 <a href="https://opentelemetry.io/" target="_blank" rel="noopener noreffer ">https://opentelemetry.io/</a><br>
 The open standard for telemetry</p>
 <p>OpenTelemetry (OTel) is a leading open-source framework designed to help developers monitor and understand the performance of complex, cloud-native applications. It was created by merging two major projects, **OpenTracing** and **OpenCensus**, under the Cloud Native Computing Foundation (CNCF).</p>
@@ -6,10 +12,28 @@ The open standard for telemetry</p>
 <p>### Core Benefits</p>
 <p>* **Vendor Neutrality:** You can instrument your code once and send your data to any backend (like Prometheus, Jaeger, or commercial tools). This prevents &ldquo;vendor lock-in,&rdquo; allowing you to switch providers without rewriting your application code.<br>
 * **Unified Signals:** It brings together **Traces** (the journey of a request), **Metrics** (performance data over time), and **Logs** (timestamped events) into a single, correlated view.<br>
-* **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror/</link><pubDate>Sat, 07 Mar 2020 20:09:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror/</guid><description><![CDATA[<p>Monitoror<br>
+* **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>prometheus/prometheus</title><link>https://blog.emecas.net/posts/2020-07-11-prometheus-prometheus/</link><pubDate>Sat, 11 Jul 2020 19:38:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-11-prometheus-prometheus/</guid><description><![CDATA[<p>prometheus/prometheus<br>
+The Prometheus monitoring system and time series database.<br>
+Go repository by prometheus, created in 2012, with 67,625 stars and 11,019 forks. License: Apache-2.0. Starred on 2020-07-11.<br>
+Homepage: <a href="https://prometheus.io/" target="_blank" rel="noopener noreffer ">https://prometheus.io/</a><br>
+<a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">https://github.com/prometheus/prometheus</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">prometheus/prometheus</a>.</em></p>]]></description></item><item><title>Monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror/</link><pubDate>Sat, 07 Mar 2020 20:09:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror/</guid><description><![CDATA[<p>Monitoror<br>
 <a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
 Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
 <a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
 <a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item><item><title>monitoror/monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror-monitoror/</link><pubDate>Sat, 07 Mar 2020 04:49:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror-monitoror/</guid><description><![CDATA[<p>monitoror/monitoror<br>
+Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
+Go repository by monitoror, created in 2019, with 4,396 stars and 194 forks. License: MIT. Starred on 2020-03-07.<br>
+Homepage: <a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
+<a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-07: <a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">monitoror/monitoror</a>.</em></p>]]></description></item><item><title>osquery/osquery</title><link>https://blog.emecas.net/posts/2019-04-11-osquery-osquery/</link><pubDate>Thu, 11 Apr 2019 17:47:31 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-11-osquery-osquery/</guid><description><![CDATA[<p>osquery/osquery<br>
+SQL powered operating system instrumentation, monitoring, and analytics.<br>
+C++ repository by osquery, created in 2014, with 23,752 stars and 2,642 forks. Starred on 2019-04-11.<br>
+Homepage: <a href="https://osquery.io" target="_blank" rel="noopener noreffer ">https://osquery.io</a><br>
+<a href="https://github.com/osquery/osquery" target="_blank" rel="noopener noreffer ">https://github.com/osquery/osquery</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-04-11: <a href="https://github.com/osquery/osquery" target="_blank" rel="noopener noreffer ">osquery/osquery</a>.</em></p>]]></description></item></channel></rss>

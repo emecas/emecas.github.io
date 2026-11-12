@@ -1,31 +1,57 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Resources - Tag - My Notes</title><link>https://blog.emecas.net/tags/resources/</link><description>Resources - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 08 Sep 2022 16:22:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/resources/" rel="self" type="application/rss+xml"/><item><title>10 Resources to Improve Your Public Speaking Skills</title><link>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</link><pubDate>Thu, 08 Sep 2022 16:22:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</guid><description><![CDATA[<p>10 Resources to Improve Your Public Speaking Skills<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Resources - Tag - My Notes</title><link>https://blog.emecas.net/tags/resources/</link><description>Resources - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Oct 2026 01:37:58 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/resources/" rel="self" type="application/rss+xml"/><item><title>davidgasquez/awesome-duckdb</title><link>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</link><pubDate>Wed, 07 Oct 2026 01:37:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</guid><description><![CDATA[<p>davidgasquez/awesome-duckdb<br>
+🦆 A curated list of awesome DuckDB resources<br>
+Repository by davidgasquez, created in 2023, with 2,545 stars and 267 forks. License: CC0-1.0. Starred on 2026-10-07.<br>
+Homepage: <a href="https://davidgasquez.github.io/awesome-duckdb/" target="_blank" rel="noopener noreffer ">https://davidgasquez.github.io/awesome-duckdb/</a><br>
+<a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">https://github.com/davidgasquez/awesome-duckdb</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-10-07: <a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">davidgasquez/awesome-duckdb</a>.</em></p>]]></description></item><item><title>razi-rais/Zero-Trust-Security-Fundamentals</title><link>https://blog.emecas.net/posts/2024-07-12-razi-rais-zero-trust-security-fundamentals/</link><pubDate>Fri, 12 Jul 2024 16:10:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-07-12-razi-rais-zero-trust-security-fundamentals/</guid><description><![CDATA[<p>razi-rais/Zero-Trust-Security-Fundamentals<br>
+Zero Trust Security Fundamentals Course Resources<br>
+Repository by razi-rais, created in 2024, with 4 stars and 2 forks. Starred on 2024-07-12.<br>
+<a href="https://github.com/razi-rais/Zero-Trust-Security-Fundamentals" target="_blank" rel="noopener noreffer ">https://github.com/razi-rais/Zero-Trust-Security-Fundamentals</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-07-12: <a href="https://github.com/razi-rais/Zero-Trust-Security-Fundamentals" target="_blank" rel="noopener noreffer ">razi-rais/Zero-Trust-Security-Fundamentals</a>.</em></p>]]></description></item><item><title>fffaraz/awesome-cpp</title><link>https://blog.emecas.net/posts/2024-05-27-fffaraz-awesome-cpp/</link><pubDate>Mon, 27 May 2024 17:17:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-fffaraz-awesome-cpp/</guid><description><![CDATA[<p>fffaraz/awesome-cpp<br>
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-&hellip; stuff.<br>
+Repository by fffaraz, created in 2014, with 74,355 stars and 8,378 forks. License: MIT. Starred on 2024-05-27.<br>
+Homepage: <a href="http://fffaraz.github.io/awesome-cpp/" target="_blank" rel="noopener noreffer ">http://fffaraz.github.io/awesome-cpp/</a><br>
+<a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noopener noreffer ">https://github.com/fffaraz/awesome-cpp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noopener noreffer ">fffaraz/awesome-cpp</a>.</em></p>]]></description></item><item><title>charlax/professional-programming</title><link>https://blog.emecas.net/posts/2024-03-02-charlax-professional-programming/</link><pubDate>Sat, 02 Mar 2024 17:21:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-charlax-professional-programming/</guid><description><![CDATA[<p>charlax/professional-programming<br>
+A collection of learning resources for curious software engineers<br>
+Python repository by charlax, created in 2015, with 51,672 stars and 4,033 forks. License: MIT. Starred on 2024-03-02.<br>
+<a href="https://github.com/charlax/professional-programming" target="_blank" rel="noopener noreffer ">https://github.com/charlax/professional-programming</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-03-02: <a href="https://github.com/charlax/professional-programming" target="_blank" rel="noopener noreffer ">charlax/professional-programming</a>.</em></p>]]></description></item><item><title>thomasnield/oreilly_machine_learning_from_scratch</title><link>https://blog.emecas.net/posts/2023-06-26-thomasnield-oreilly-machine-learning-from-scratch/</link><pubDate>Mon, 26 Jun 2023 13:08:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-26-thomasnield-oreilly-machine-learning-from-scratch/</guid><description><![CDATA[<p>thomasnield/oreilly_machine_learning_from_scratch<br>
+Resources for the O&rsquo;Reilly Online Training &ldquo;Machine Learning from Scratch&rdquo;<br>
+Python repository by thomasnield, created in 2019, with 318 stars and 284 forks. Starred on 2023-06-26.<br>
+Homepage: <a href="https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&amp;extended_publisher_data=true&amp;highlight=true&amp;include_assessments=false&amp;include_case_studies=true&amp;include_courses=true&amp;include_orioles=true&amp;include_playlists=true&amp;include_collect" target="_blank" rel="noopener noreffer ">https://learning.oreilly.com/search/?query=machine%20learning%20from%20scratch&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collect</a><br>
+<a href="https://github.com/thomasnield/oreilly_machine_learning_from_scratch" target="_blank" rel="noopener noreffer ">https://github.com/thomasnield/oreilly_machine_learning_from_scratch</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-26: <a href="https://github.com/thomasnield/oreilly_machine_learning_from_scratch" target="_blank" rel="noopener noreffer ">thomasnield/oreilly_machine_learning_from_scratch</a>.</em></p>]]></description></item><item><title>10 Resources to Improve Your Public Speaking Skills</title><link>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</link><pubDate>Thu, 08 Sep 2022 16:22:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-08-10-resources-to-improve-your-public-speaking-skills/</guid><description><![CDATA[<p>10 Resources to Improve Your Public Speaking Skills<br>
 <a href="https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/" target="_blank" rel="noopener noreffer ">https://www.govloop.com/community/blog/10-resources-to-improve-your-public-speaking-skills/</a></p>
 <p>From:  <a href="https://2022.pgconf.nyc/callforpapers/" target="_blank" rel="noopener noreffer ">https://2022.pgconf.nyc/callforpapers/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df26058ca5d3b2e8f425f4fb6e1cb83aede9cb74" target="_blank" rel="noopener noreffer "><code>df26058</code></a> in My-Notes.</em></p>]]></description></item><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df26058ca5d3b2e8f425f4fb6e1cb83aede9cb74" target="_blank" rel="noopener noreffer "><code>df26058</code></a> in My-Notes.</em></p>]]></description></item><item><title>abhivaikar/howtheytest</title><link>https://blog.emecas.net/posts/2020-09-06-abhivaikar-howtheytest/</link><pubDate>Sun, 06 Sep 2020 01:57:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-abhivaikar-howtheytest/</guid><description><![CDATA[<p>abhivaikar/howtheytest<br>
+A collection of public resources about how software companies test their software<br>
+TypeScript repository by abhivaikar, created in 2020, with 6,888 stars and 643 forks. License: CC0-1.0. Starred on 2020-09-06.<br>
+Homepage: <a href="https://abhivaikar.github.io/howtheytest/" target="_blank" rel="noopener noreffer ">https://abhivaikar.github.io/howtheytest/</a><br>
+<a href="https://github.com/abhivaikar/howtheytest" target="_blank" rel="noopener noreffer ">https://github.com/abhivaikar/howtheytest</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/abhivaikar/howtheytest" target="_blank" rel="noopener noreffer ">abhivaikar/howtheytest</a>.</em></p>]]></description></item><item><title>lukasz-madon/awesome-remote-job</title><link>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</link><pubDate>Sat, 22 Feb 2020 20:34:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</guid><description><![CDATA[<p>lukasz-madon/awesome-remote-job<br>
+A curated list of awesome remote jobs and resources. Inspired by <a href="https://github.com/vinta/awesome-python" target="_blank" rel="noopener noreffer ">https://github.com/vinta/awesome-python</a><br>
+Repository by lukasz-madon, created in 2015, with 50,531 stars and 4,957 forks. Starred on 2020-02-22.<br>
+<a href="https://github.com/lukasz-madon/awesome-remote-job" target="_blank" rel="noopener noreffer ">https://github.com/lukasz-madon/awesome-remote-job</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-22: <a href="https://github.com/lukasz-madon/awesome-remote-job" target="_blank" rel="noopener noreffer ">lukasz-madon/awesome-remote-job</a>.</em></p>]]></description></item><item><title>veggiemonk/awesome-docker</title><link>https://blog.emecas.net/posts/2020-02-20-veggiemonk-awesome-docker/</link><pubDate>Thu, 20 Feb 2020 11:32:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-20-veggiemonk-awesome-docker/</guid><description><![CDATA[<p>veggiemonk/awesome-docker<br>
+&#x1f433; A curated list of Docker resources and projects<br>
+Repository by veggiemonk, created in 2014, with 37,215 stars and 3,414 forks. License: Apache-2.0. Starred on 2020-02-20.<br>
+Homepage: <a href="https://average.joe.dev/awesome-docker/" target="_blank" rel="noopener noreffer ">https://average.joe.dev/awesome-docker/</a><br>
+<a href="https://github.com/veggiemonk/awesome-docker" target="_blank" rel="noopener noreffer ">https://github.com/veggiemonk/awesome-docker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-20: <a href="https://github.com/veggiemonk/awesome-docker" target="_blank" rel="noopener noreffer ">veggiemonk/awesome-docker</a>.</em></p>]]></description></item><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
 <a href="https://www.crnk.io/" target="_blank" rel="noopener noreffer ">https://www.crnk.io/</a><br>
 Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods.<br>
 Model your application as resources and relationshipsand implement the repositories to access them.<br>
 This simplifies development and opens up many, powerful new possibilities</p>
 <p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/50822b8ad10126e24aaacca08bf1fe8c648747df" target="_blank" rel="noopener noreffer "><code>50822b8</code></a> in My-Notes.</em></p>]]></description></item><item><title>Netflixoss Eureka</title><link>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</link><pubDate>Wed, 08 Mar 2017 16:27:05 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-08-netflixoss-eureka/</guid><description><![CDATA[<p>Eureka</p>
-<p>Docker image:<br>
-<a href="https://store.docker.com/community/images/netflixoss/eureka" target="_blank" rel="noopener noreffer ">https://store.docker.com/community/images/netflixoss/eureka</a></p>
-<p>docker pull netflixoss/eureka:1.3.1</p>
-<p>github: <a href="https://github.com/netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/netflix/eureka</a></p>
-<p>Running images:<br>
-<a href="https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images" target="_blank" rel="noopener noreffer ">https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ea2fa4a19829c830645b68496fb3c0d4935eb739" target="_blank" rel="noopener noreffer "><code>ea2fa4a</code></a> in My-Notes.</em></p>]]></description></item><item><title>Bitcoin Resources</title><link>https://blog.emecas.net/posts/2013-11-22-bitcoin-resources/</link><pubDate>Fri, 22 Nov 2013 16:41:32 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-22-bitcoin-resources/</guid><description><![CDATA[<p>Bitcoin Resources</p>
-<p>Oficial Site<br>
-<a href="http://bitcoin.org" target="_blank" rel="noopener noreffer ">http://bitcoin.org</a><br>
-Sitio Oficial en español<br>
-<a href="http://bitcoin.org/es/" target="_blank" rel="noopener noreffer ">http://bitcoin.org/es/</a></p>
-<p>Otro sitio en español<br>
-<a href="http://elbitcoin.org" target="_blank" rel="noopener noreffer ">http://elbitcoin.org</a></p>
-<p>Libro en español<br>
-Bitcoin: La moneda del futuro - Qué es, cómo funciona y por qué cambiará el mundo<br>
-<a href="https://www.coindl.com/page/item/249" target="_blank" rel="noopener noreffer ">https://www.coindl.com/page/item/249</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f4596c7e1113a6b93250899ebff173277a95c4e2" target="_blank" rel="noopener noreffer "><code>f4596c7</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/50822b8ad10126e24aaacca08bf1fe8c648747df" target="_blank" rel="noopener noreffer "><code>50822b8</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
