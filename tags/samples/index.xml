@@ -19,7 +19,26 @@ The exercises and samples for the training &ldquo;Practical Go Modules&rdquo;.<b
 Go repository by bmuschko, created in 2020, with 36 stars and 31 forks. Starred on 2020-03-06.<br>
 <a href="https://github.com/bmuschko/practical-go-modules" target="_blank" rel="noopener noreffer ">https://github.com/bmuschko/practical-go-modules</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-03-06: <a href="https://github.com/bmuschko/practical-go-modules" target="_blank" rel="noopener noreffer ">bmuschko/practical-go-modules</a>.</em></p>]]></description></item><item><title>bmuschko/docker-for-jvm-projects</title><link>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</link><pubDate>Mon, 25 Mar 2019 16:17:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</guid><description><![CDATA[<p>bmuschko/docker-for-jvm-projects<br>
+<p><em>Source: starred on GitHub on 2020-03-06: <a href="https://github.com/bmuschko/practical-go-modules" target="_blank" rel="noopener noreffer ">bmuschko/practical-go-modules</a>.</em></p>]]></description></item><item><title>Automations Using Trello API</title><link>https://blog.emecas.net/posts/2020-03-02-automations-using-trello-api/</link><pubDate>Mon, 02 Mar 2020 02:23:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-automations-using-trello-api/</guid><description><![CDATA[<p>Automations Using Trello API<br>
+Doc:<br>
+<a href="https://developers.trello.com/reference#introduction" target="_blank" rel="noopener noreffer ">https://developers.trello.com/reference#introduction</a></p>
+<p>Power-Up Samples:<br>
+<a href="https://github.com/trello/power-up-template" target="_blank" rel="noopener noreffer ">https://github.com/trello/power-up-template</a><br>
+A static GitHub pages hosted sample Power-Up</p>
+<p>Wrappers</p>
+<p>Java</p>
+<p><a href="https://github.com/joelso/trello4j" target="_blank" rel="noopener noreffer ">https://github.com/joelso/trello4j</a><br>
+Java wrapper around Trello API</p>
+<p><a href="https://github.com/taskadapter/trello-java-wrapper" target="_blank" rel="noopener noreffer ">https://github.com/taskadapter/trello-java-wrapper</a><br>
+Java Wrapper for Trello API</p>
+<p>Go</p>
+<p><a href="https://github.com/adlio/trello" target="_blank" rel="noopener noreffer ">https://github.com/adlio/trello</a><br>
+Trello API wrapper for Go</p>
+<p><a href="https://github.com/VojtechVitek/go-trello" target="_blank" rel="noopener noreffer ">https://github.com/VojtechVitek/go-trello</a><br>
+Golang client pkg for accessing the Trello API</p>
+<p>Kotlin</p>
+<p><a href="https://github.com/MPSforca/trello-api" target="_blank" rel="noopener noreffer ">https://github.com/MPSforca/trello-api</a><br>
+An API to communicate with Trello API in Kotlin and Spring Boot</p>]]></description></item><item><title>bmuschko/docker-for-jvm-projects</title><link>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</link><pubDate>Mon, 25 Mar 2019 16:17:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</guid><description><![CDATA[<p>bmuschko/docker-for-jvm-projects<br>
 The exercises and samples for the training &ldquo;Docker for JVM projects&rdquo;.<br>
 Java repository by bmuschko, created in 2019, with 39 stars and 56 forks. Starred on 2019-03-25.<br>
 <a href="https://github.com/bmuschko/docker-for-jvm-projects" target="_blank" rel="noopener noreffer ">https://github.com/bmuschko/docker-for-jvm-projects</a></p>

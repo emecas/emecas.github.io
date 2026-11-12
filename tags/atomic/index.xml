@@ -12,7 +12,12 @@ RUN microdnf --enablerepo=rhel-7-server-rpms \\
 install java-1.8.0-openjdk-headless --nodocs ;\\
 microdnf clean all</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>Java 9 Variable Handles</title><link>https://blog.emecas.net/posts/2018-12-18-java-9-variable-handles/</link><pubDate>Tue, 18 Dec 2018 14:02:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-18-java-9-variable-handles/</guid><description><![CDATA[<p>Java 9 Variable Handles Demystified<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/02fa883c413b61cb71baa6480b32669b38d8aa46" target="_blank" rel="noopener noreffer "><code>02fa883</code></a> in My-Notes.</em></p>]]></description></item><item><title>Review: an atomic rant</title><link>https://blog.emecas.net/posts/2020-02-22-review-an-atomic-rant/</link><pubDate>Sat, 22 Feb 2020 16:45:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-22-review-an-atomic-rant/</guid><description><![CDATA[<p>Review: an atomic rant<br>
+<a href="https://nateware.com/2010/02/18/an-atomic-rant/" target="_blank" rel="noopener noreffer ">https://nateware.com/2010/02/18/an-atomic-rant/</a></p>
+<p>Issue #12 in emecas/commitit, open, opened on 2020-02-22.<br>
+<a href="https://github.com/emecas/commitit/issues/12" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/12</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/12" target="_blank" rel="noopener noreffer ">#12</a> in emecas/commitit, opened on 2020-02-22.</em></p>]]></description></item><item><title>Java 9 Variable Handles</title><link>https://blog.emecas.net/posts/2018-12-18-java-9-variable-handles/</link><pubDate>Tue, 18 Dec 2018 14:02:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-18-java-9-variable-handles/</guid><description><![CDATA[<p>Java 9 Variable Handles Demystified<br>
 <a href="https://www.baeldung.com/java-variable-handles" target="_blank" rel="noopener noreffer ">https://www.baeldung.com/java-variable-handles</a><br>
 Java 9 brought a number of new useful features for developers.</p>
 <p>One of those is the java.lang.invoke.VarHandle API – representing variable handles – which we’re going to explore in this article.</p>

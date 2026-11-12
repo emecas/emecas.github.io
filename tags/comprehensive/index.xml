@@ -3,4 +3,14 @@ GLM-OCR: Accurate × Fast × Comprehensive<br>
 Python repository by zai-org, created in 2026, with 7,591 stars and 676 forks. License: Apache-2.0. Starred on 2026-04-01.<br>
 <a href="https://github.com/zai-org/GLM-OCR" target="_blank" rel="noopener noreffer ">https://github.com/zai-org/GLM-OCR</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-04-01: <a href="https://github.com/zai-org/GLM-OCR" target="_blank" rel="noopener noreffer ">zai-org/GLM-OCR</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-04-01: <a href="https://github.com/zai-org/GLM-OCR" target="_blank" rel="noopener noreffer ">zai-org/GLM-OCR</a>.</em></p>]]></description></item><item><title>Perforce VS Git: A Comprehensive Comparison</title><link>https://blog.emecas.net/posts/2023-11-29-perforce-vs-git-a-comprehensive-comparison/</link><pubDate>Wed, 29 Nov 2023 03:54:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-29-perforce-vs-git-a-comprehensive-comparison/</guid><description><![CDATA[<p>Perforce VS Git: A Comprehensive Comparison<br>
+<a href="https://marketsplash.com/tutorials/git/perforce-vs-git/" target="_blank" rel="noopener noreffer ">https://marketsplash.com/tutorials/git/perforce-vs-git/</a></p>
+<p>Issue #135 in emecas/commitit, open, opened on 2023-11-29.<br>
+<a href="https://github.com/emecas/commitit/issues/135" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/135</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/135" target="_blank" rel="noopener noreffer ">#135</a> in emecas/commitit, opened on 2023-11-29.</em></p>]]></description></item><item><title>[Review] Spring Batch (4.3.6)</title><link>https://blog.emecas.net/posts/2022-08-17-review-spring-batch-4-3-6/</link><pubDate>Wed, 17 Aug 2022 12:08:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-review-spring-batch-4-3-6/</guid><description><![CDATA[<p>[Review] Spring Batch (4.3.6)<br>
+Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
+<p>Spring Batch 4.3.6</p>
+<p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
+<p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
+Features</p>]]></description></item></channel></rss>

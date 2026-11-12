@@ -3,7 +3,23 @@
 Repository by repo-sync, created in 2019, with 171 stars and 23 forks. License: MIT. Archived by its owner. Starred on 2020-10-16.<br>
 <a href="https://github.com/repo-sync/repo-sync" target="_blank" rel="noopener noreffer ">https://github.com/repo-sync/repo-sync</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/repo-sync/repo-sync" target="_blank" rel="noopener noreffer ">repo-sync/repo-sync</a>.</em></p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/repo-sync/repo-sync" target="_blank" rel="noopener noreffer ">repo-sync/repo-sync</a>.</em></p>]]></description></item><item><title>How to Sync Issues to/from Mirror Repo?</title><link>https://blog.emecas.net/posts/2020-02-09-how-to-sync-issues-to-from-mirror-repo/</link><pubDate>Sun, 09 Feb 2020 17:12:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-how-to-sync-issues-to-from-mirror-repo/</guid><description><![CDATA[<p>How to Sync Issues to/from Mirror Repo?</p>
+<p>Comment on 2020-02-13:<br>
+github</p>
+<p>curl -i &ldquo;<a href="https://api.github.com/repos/" target="_blank" rel="noopener noreffer ">https://api.github.com/repos/</a>&lt;repo-owner&gt;/&lt;repo-name&gt;/issues&rdquo; -u &ldquo;&lt;user-name&gt;&rdquo;</p>
+<p>curl -i &ldquo;<a href="https://api.github.com/repos/emecas/commitit/issues" target="_blank" rel="noopener noreffer ">https://api.github.com/repos/emecas/commitit/issues</a>&rdquo; -u &ldquo;emecas&rdquo;</p>
+<p>gitlab</p>
+<p><a href="https://docs.gitlab.com/ee/api/issues.html" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/issues.html</a></p>
+<p>curl --header &ldquo;PRIVATE-TOKEN: &lt;your_access_token&gt;&rdquo; <a href="https://gitlab.example.com/api/v4/issues" target="_blank" rel="noopener noreffer ">https://gitlab.example.com/api/v4/issues</a></p>
+<p>New Issue:</p>
+<p><a href="https://docs.gitlab.com/ee/api/issues.html#new-issue" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/issues.html#new-issue</a></p>
+<p>POST /projects/:id/issues</p>
+<p>curl --request POST --header &ldquo;PRIVATE-TOKEN: &lt;your_access_token&gt;&rdquo; <a href="https://gitlab.example.com/api/v4/projects/4/issues?title=Issues%20with%20auth&amp;labels=bug" target="_blank" rel="noopener noreffer ">https://gitlab.example.com/api/v4/projects/4/issues?title=Issues%20with%20auth&labels=bug</a></p>
+<p>Comments on issues</p>
+<p><a href="https://docs.gitlab.com/ee/api/issues.html#comments-on-issues" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/issues.html#comments-on-issues</a></p>
+<p>Comments are done via the notes resource</p>
+<p><a href="https://docs.gitlab.com/ee/api/notes.html" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/notes.html</a></p>
+<p>Create new issue note</p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
 <a href="https://distributedobjectprotocol.org/" target="_blank" rel="noopener noreffer ">https://distributedobjectprotocol.org/</a><br>
 by Josema Gonzalez <a href="https://github.com/Josema" target="_blank" rel="noopener noreffer ">https://github.com/Josema</a><br>
 Distributed Object Protocol is for<br>

@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Complex - Tag - My Notes</title><link>https://blog.emecas.net/tags/complex/</link><description>Complex - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2020 02:27:34 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/complex/" rel="self" type="application/rss+xml"/><item><title>Complex Event Processing (CEP) Workshop</title><link>https://blog.emecas.net/posts/2020-04-27-complex-event-processing-cep-workshop/</link><pubDate>Mon, 27 Apr 2020 02:27:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-complex-event-processing-cep-workshop/</guid><description><![CDATA[<p>Complex Event Processing (CEP) Workshop<br>
+- Esper<br>
+- IBM InfoSphere Streams<br>
+- Apama<br>
+- TIBCO StreamBase<br>
+- SQLstream<br>
+- Samza</p>
+<p>Apama by Software AG - monitors rapidly moving event streams, detects and analyzes important patterns, and takes action according to rules.</p>
+<p>Azure Stream Analytics</p>
+<p>BeepBeep 3 an open source event stream processing library with multiple extensions for various use cases, including temporal logic, finite-state machines, statistics, and more.</p>
+<p>Drools Fusion</p>]]></description></item></channel></rss>

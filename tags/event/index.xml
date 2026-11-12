@@ -1,9 +1,31 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Event - Tag - My Notes</title><link>https://blog.emecas.net/tags/event/</link><description>Event - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 10 Feb 2023 01:25:57 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/event/" rel="self" type="application/rss+xml"/><item><title>freeCodeCamp/chapter</title><link>https://blog.emecas.net/posts/2023-02-10-freecodecamp-chapter/</link><pubDate>Fri, 10 Feb 2023 01:25:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-02-10-freecodecamp-chapter/</guid><description><![CDATA[<p>freeCodeCamp/chapter<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Event - Tag - My Notes</title><link>https://blog.emecas.net/tags/event/</link><description>Event - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 06 Mar 2024 08:57:01 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/event/" rel="self" type="application/rss+xml"/><item><title>IntelliJ IDEA Conf 2024</title><link>https://blog.emecas.net/posts/2024-03-06-intellij-idea-conf-2024/</link><pubDate>Wed, 06 Mar 2024 08:57:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-06-intellij-idea-conf-2024/</guid><description><![CDATA[<p>IntelliJ IDEA Conf 2024<br>
+Free virtual event</p>
+<p>March 6 - 7, 2024</p>
+<p>11:00–18:00 UTC</p>
+<p>12:00–19:00 CET/CEST</p>
+<p>06:00–13:00 EST/EDT</p>
+<p>Agenda:<br>
+<a href="https://lp.jetbrains.com/intellij-idea-conf-2024/?utm_campaign=intellijideaconf&amp;utm_medium=idea&amp;utm_source=twitter&amp;s=09#agenda" target="_blank" rel="noopener noreffer ">https://lp.jetbrains.com/intellij-idea-conf-2024/?utm_campaign=intellijideaconf&utm_medium=idea&utm_source=twitter&s=09#agenda</a></p>
+<p>Day 1: <a href="https://www.youtube.com/live/ZD_YxTmQ16Q?si=SA7FvSk0kTiuMcee" target="_blank" rel="noopener noreffer ">https://www.youtube.com/live/ZD_YxTmQ16Q?si=SA7FvSk0kTiuMcee</a></p>
+<p>Issue #140 in emecas/commitit, open, opened on 2024-03-06.<br>
+<a href="https://github.com/emecas/commitit/issues/140" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/140</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/140" target="_blank" rel="noopener noreffer ">#140</a> in emecas/commitit, opened on 2024-03-06.</em></p>]]></description></item><item><title>freeCodeCamp/chapter</title><link>https://blog.emecas.net/posts/2023-02-10-freecodecamp-chapter/</link><pubDate>Fri, 10 Feb 2023 01:25:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-02-10-freecodecamp-chapter/</guid><description><![CDATA[<p>freeCodeCamp/chapter<br>
 A self-hosted event management tool for nonprofits<br>
 TypeScript repository by freeCodeCamp, created in 2019, with 1,919 stars and 351 forks. License: BSD-3-Clause. Archived by its owner. Starred on 2023-02-10.<br>
 <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/chapter</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2023-02-10: <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">freeCodeCamp/chapter</a>.</em></p>]]></description></item><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
+<p><em>Source: starred on GitHub on 2023-02-10: <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">freeCodeCamp/chapter</a>.</em></p>]]></description></item><item><title>Complex Event Processing (CEP) Workshop</title><link>https://blog.emecas.net/posts/2020-04-27-complex-event-processing-cep-workshop/</link><pubDate>Mon, 27 Apr 2020 02:27:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-complex-event-processing-cep-workshop/</guid><description><![CDATA[<p>Complex Event Processing (CEP) Workshop<br>
+- Esper<br>
+- IBM InfoSphere Streams<br>
+- Apama<br>
+- TIBCO StreamBase<br>
+- SQLstream<br>
+- Samza</p>
+<p>Apama by Software AG - monitors rapidly moving event streams, detects and analyzes important patterns, and takes action according to rules.</p>
+<p>Azure Stream Analytics</p>
+<p>BeepBeep 3 an open source event stream processing library with multiple extensions for various use cases, including temporal logic, finite-state machines, statistics, and more.</p>
+<p>Drools Fusion</p>]]></description></item><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
 Apache Kafka - A distributed event streaming platform<br>
 Java repository by apache, created in 2011, with 34,205 stars and 15,683 forks. License: Apache-2.0. Starred on 2019-04-30.<br>
 Homepage: <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreffer ">https://kafka.apache.org/</a><br>

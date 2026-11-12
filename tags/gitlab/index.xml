@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Gitlab - Tag - My Notes</title><link>https://blog.emecas.net/tags/gitlab/</link><description>Gitlab - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 12 Feb 2020 19:59:00 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/gitlab/" rel="self" type="application/rss+xml"/><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Gitlab - Tag - My Notes</title><link>https://blog.emecas.net/tags/gitlab/</link><description>Gitlab - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Aug 2022 18:17:11 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/gitlab/" rel="self" type="application/rss+xml"/><item><title>[Follow] Gitlab Client</title><link>https://blog.emecas.net/posts/2022-08-09-follow-gitlab-client/</link><pubDate>Tue, 09 Aug 2022 18:17:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-09-follow-gitlab-client/</guid><description><![CDATA[<p>[Follow] Gitlab Client<br>
+Repo: <a href="https://gitlab.com/gitlab-org/cli" target="_blank" rel="noopener noreffer ">https://gitlab.com/gitlab-org/cli</a></p>
+<p>Comment on 2022-08-10:<br>
+Installation:</p>
+<p>~/repos/GITLAB/reading-notes (master)<br>
+$ winget install glab.glab<br>
+The msstore source requires that you view the following agreements before using.<br>
+Terms of Transaction: <a href="https://aka.ms/microsoft-store-terms-of-transaction" target="_blank" rel="noopener noreffer ">https://aka.ms/microsoft-store-terms-of-transaction</a><br>
+The source requires the current machine&rsquo;s 2-letter geographic region to be sent to the backend service to function properly (ex. &ldquo;US&rdquo;).</p>
+<p>Do you agree to all the source agreements terms?<br>
+[Y] Yes  [N] No: Y<br>
+Found glab [GLab.GLab] Version 1.22.0<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+Downloading <a href="https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe" target="_blank" rel="noopener noreffer ">https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe</a><br>
+██████████████████████████████  9.80 MB / 9.80 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Successfully installed</p>]]></description></item><item><title>python-gitlab</title><link>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</link><pubDate>Wed, 12 Feb 2020 19:59:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-12-python-gitlab/</guid><description><![CDATA[<p>python-gitlab<br>
 <a href="https://github.com/python-gitlab/python-gitlab" target="_blank" rel="noopener noreffer ">https://github.com/python-gitlab/python-gitlab</a><br>
 Python wrapper for the GitLab API</p>
 <p>python-gitlab is a Python package providing access to the GitLab server API.<br>

@@ -3,7 +3,14 @@ SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, ex
 Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
 <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<p><em>Source: starred on GitHub on 2026-07-18: <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">xai-org/grok-build</a>.</em></p>]]></description></item><item><title>Bit - CLI/TUI ANSI Logo Maker</title><link>https://blog.emecas.net/posts/2025-11-04-bit-cli-tui-ansi-logo-maker/</link><pubDate>Tue, 04 Nov 2025 05:53:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-04-bit-cli-tui-ansi-logo-maker/</guid><description><![CDATA[<p>Bit - CLI/TUI ANSI Logo Maker<br>
+Bit - CLI/TUI ANSI Logo Maker</p>
+<p><a href="https://github.com/superstarryeyes/bit" target="_blank" rel="noopener noreffer ">https://github.com/superstarryeyes/bit</a></p>
+<p><a href="https://www.reddit.com/r/commandline/s/vlYRnC9dge" target="_blank" rel="noopener noreffer ">https://www.reddit.com/r/commandline/s/vlYRnC9dge</a></p>
+<p>Issue #201 in emecas/commitit, open, opened on 2025-11-04.<br>
+<a href="https://github.com/emecas/commitit/issues/201" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/201</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/201" target="_blank" rel="noopener noreffer ">#201</a> in emecas/commitit, opened on 2025-11-04.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
 <a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
 Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
 <p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>

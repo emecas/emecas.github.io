@@ -10,7 +10,12 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>apache/shenyu</title><link>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</link><pubDate>Sat, 16 Jan 2021 05:42:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</guid><description><![CDATA[<p>apache/shenyu<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>Zuplo - API GATEWAY</title><link>https://blog.emecas.net/posts/2024-03-30-zuplo-api-gateway/</link><pubDate>Sat, 30 Mar 2024 00:58:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-30-zuplo-api-gateway/</guid><description><![CDATA[<p>Zuplo - API GATEWAY<br>
+<a href="https://zuplo.com/?s=09" target="_blank" rel="noopener noreffer ">https://zuplo.com/?s=09</a></p>
+<p>Issue #153 in emecas/commitit, open, opened on 2024-03-30.<br>
+<a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/153</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">#153</a> in emecas/commitit, opened on 2024-03-30.</em></p>]]></description></item><item><title>apache/shenyu</title><link>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</link><pubDate>Sat, 16 Jan 2021 05:42:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</guid><description><![CDATA[<p>apache/shenyu<br>
 Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.<br>
 Java repository by apache, created in 2018, with 8,919 stars and 3,111 forks. License: Apache-2.0. Starred on 2021-01-16.<br>
 Homepage: <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a><br>

@@ -4,7 +4,12 @@ JavaScript repository by csvconf, created in 2013, with 93 stars and 48 forks. L
 Homepage: <a href="https://csvconf.com" target="_blank" rel="noopener noreffer ">https://csvconf.com</a><br>
 <a href="https://github.com/csvconf/csvconf.com" target="_blank" rel="noopener noreffer ">https://github.com/csvconf/csvconf.com</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2021-03-08: <a href="https://github.com/csvconf/csvconf.com" target="_blank" rel="noopener noreffer ">csvconf/csvconf.com</a>.</em></p>]]></description></item><item><title>Evostar and EvoMUSART 2021 (Sevilla, Spain)</title><link>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</link><pubDate>Fri, 07 Aug 2020 19:04:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</guid><description><![CDATA[<p>Evostar and EvoMUSART 2021 (Sevilla, Spain)<br>
+<p><em>Source: starred on GitHub on 2021-03-08: <a href="https://github.com/csvconf/csvconf.com" target="_blank" rel="noopener noreffer ">csvconf/csvconf.com</a>.</em></p>]]></description></item><item><title>The QUPER Model</title><link>https://blog.emecas.net/posts/2020-11-01-the-quper-model/</link><pubDate>Sun, 01 Nov 2020 22:55:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-the-quper-model/</guid><description><![CDATA[<p>The QUPER Model<br>
+Presented on Oresund Developer Conference 2009 by Bjorn Regnell</p>
+<p>&gt; QUPER visualizes sliding-scale requirements along the axes of cost, values , and quality, The idea of the model is to estimate cost-benefit breakpoints and barriers on the sliding scale and expose them for discussion _(Differentiation and Saturation)_</p>
+<p>To Do</p>
+<p>☐ Look for video oredev 2009 Supporting roadmapping of quality requirements<br>
+☐ Look for article in IEEE Software Journal Mar/Apr 2008</p>]]></description></item><item><title>Evostar and EvoMUSART 2021 (Sevilla, Spain)</title><link>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</link><pubDate>Fri, 07 Aug 2020 19:04:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-07-evostar-and-evomusart-2021-sevilla-spain/</guid><description><![CDATA[<p>Evostar and EvoMUSART 2021 (Sevilla, Spain)<br>
 <a href="http://www.evostar.org/2021/important-dates/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2021/important-dates/</a></p>
 <p>Important Dates</p>
 <p>EvoApplications Special Session proposals: 10 September, 2020<br>
@@ -21,7 +26,24 @@ Ref: <a href="https://papers.nips.cc/paper/7892-neural-ordinary-differential-equ
 github: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
 application: <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item><item><title>Jfokus Developers Conference</title><link>https://blog.emecas.net/posts/2019-02-06-jfokus-developers-conference/</link><pubDate>Wed, 06 Feb 2019 13:40:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-06-jfokus-developers-conference/</guid><description><![CDATA[<p>Jfokus Developers Conference<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a6f67e241a42b2d825491af2aa17c57fe02d853c" target="_blank" rel="noopener noreffer "><code>a6f67e2</code></a> in My-Notes.</em></p>]]></description></item><item><title>Computational Creativity - 2020-2021 Conferences</title><link>https://blog.emecas.net/posts/2020-02-23-computational-creativity-2020-2021-conferences/</link><pubDate>Sun, 23 Feb 2020 15:58:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-23-computational-creativity-2020-2021-conferences/</guid><description><![CDATA[<p>Computational Creativity - 2020-2021 Conferences<br>
+International Conference on Computational Creativity<br>
+Coimbra, Portugal.<br>
+June 29 – July 3, 2020<br>
+<a href="http://computationalcreativity.net/iccc20/" target="_blank" rel="noopener noreffer ">http://computationalcreativity.net/iccc20/</a></p>
+<p>EVO*<br>
+The Leading European Event on Bio‑Inspired Computation<br>
+Seville, Spain<br>
+15-17 April 2020<br>
+<a href="http://www.evostar.org/2020/" target="_blank" rel="noopener noreffer ">http://www.evostar.org/2020/</a></p>
+<p>GECCO 2020The Genetic and Evolutionary Computation Conference<br>
+Cancun, Mexico<br>
+July 8th-12th 2020<br>
+<a href="https://gecco-2020.sigevo.org/index.html/HomePage" target="_blank" rel="noopener noreffer ">https://gecco-2020.sigevo.org/index.html/HomePage</a></p>
+<p>Issue #15 in emecas/commitit, open, opened on 2020-02-23. Labels: EPIC.<br>
+<a href="https://github.com/emecas/commitit/issues/15" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/15</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/15" target="_blank" rel="noopener noreffer ">#15</a> in emecas/commitit, opened on 2020-02-23.</em></p>]]></description></item><item><title>Jfokus Developers Conference</title><link>https://blog.emecas.net/posts/2019-02-06-jfokus-developers-conference/</link><pubDate>Wed, 06 Feb 2019 13:40:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-06-jfokus-developers-conference/</guid><description><![CDATA[<p>Jfokus Developers Conference<br>
 <a href="https://www.jfokus.se" target="_blank" rel="noopener noreffer ">https://www.jfokus.se</a><br>
 4-6 February 2019Stockholm, Sweden<br>
 <a href="https://www.jfokus.se/jfokus19/speakers" target="_blank" rel="noopener noreffer ">https://www.jfokus.se/jfokus19/speakers</a><br>

@@ -4,4 +4,10 @@ JavaScript repository by thevahidal, created in 2022, with 1,676 stars and 59 fo
 Homepage: <a href="https://thevahidal.github.io/soul/" target="_blank" rel="noopener noreffer ">https://thevahidal.github.io/soul/</a><br>
 <a href="https://github.com/thevahidal/soul" target="_blank" rel="noopener noreffer ">https://github.com/thevahidal/soul</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2022-11-02: <a href="https://github.com/thevahidal/soul" target="_blank" rel="noopener noreffer ">thevahidal/soul</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2022-11-02: <a href="https://github.com/thevahidal/soul" target="_blank" rel="noopener noreffer ">thevahidal/soul</a>.</em></p>]]></description></item><item><title>Phi Accrual Failure Detector</title><link>https://blog.emecas.net/posts/2020-03-03-phi-accrual-failure-detector/</link><pubDate>Tue, 03 Mar 2020 12:55:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-03-phi-accrual-failure-detector/</guid><description><![CDATA[<p>Phi Accrual Failure Detector<br>
+Automatic adjust of time outs according to the observed response time distribution</p>
+<p>Ref.. Hayashibara, et al. The θ accrual failure detector. May 2004. Technical Report IS-RR-2004-10</p>
+<p>Issue #24 in emecas/commitit, open, opened on 2020-03-03.<br>
+<a href="https://github.com/emecas/commitit/issues/24" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/24</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/24" target="_blank" rel="noopener noreffer ">#24</a> in emecas/commitit, opened on 2020-03-03.</em></p>]]></description></item></channel></rss>

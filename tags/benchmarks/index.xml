@@ -3,7 +3,16 @@ JVM comparisons - using benchmarks<br>
 Java repository by c-guntur, created in 2019, with 20 stars and 5 forks. Starred on 2021-02-17.<br>
 <a href="https://github.com/c-guntur/jvms-compare" target="_blank" rel="noopener noreffer ">https://github.com/c-guntur/jvms-compare</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/c-guntur/jvms-compare" target="_blank" rel="noopener noreffer ">c-guntur/jvms-compare</a>.</em></p>]]></description></item><item><title>SonarQube - “Sonar”</title><link>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</link><pubDate>Wed, 08 Jul 2015 12:49:09 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</guid><description><![CDATA[<p>Web Framework Benchmarks<br>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/c-guntur/jvms-compare" target="_blank" rel="noopener noreffer ">c-guntur/jvms-compare</a>.</em></p>]]></description></item><item><title>Windows Server 2019</title><link>https://blog.emecas.net/posts/2020-02-21-windows-server-2019/</link><pubDate>Fri, 21 Feb 2020 13:42:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-21-windows-server-2019/</guid><description><![CDATA[<p>Windows Server 2019<br>
+<a href="https://en.m.wikipedia.org/wiki/Windows_Server_2019" target="_blank" rel="noopener noreffer ">https://en.m.wikipedia.org/wiki/Windows_Server_2019</a></p>
+<p>Advantages? Benchmarks?</p>
+<p>Ref:</p>
+<p><a href="https://github.com/docker/labs/issues/490" target="_blank" rel="noopener noreffer ">https://github.com/docker/labs/issues/490</a><br>
+<a href="https://github.com/docker/for-win/issues/1162" target="_blank" rel="noopener noreffer ">https://github.com/docker/for-win/issues/1162</a></p>
+<p>Issue #10 in emecas/commitit, open, opened on 2020-02-21.<br>
+<a href="https://github.com/emecas/commitit/issues/10" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/10</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/10" target="_blank" rel="noopener noreffer ">#10</a> in emecas/commitit, opened on 2020-02-21.</em></p>]]></description></item><item><title>SonarQube - “Sonar”</title><link>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</link><pubDate>Wed, 08 Jul 2015 12:49:09 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</guid><description><![CDATA[<p>Web Framework Benchmarks<br>
 Introduction<br>
 This is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The test implementations are largely community-contributed and all source is available at the GitHub repository.<br>
 <a href="http://www.techempower.com/benchmarks/#section=intro&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=intro&hw=peak&test=plaintext</a><br>

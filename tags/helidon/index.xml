@@ -9,7 +9,13 @@ Java repository by helidon-io, created in 2018, with 39 stars and 33 forks. Lice
 Homepage: <a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
 <a href="https://github.com/helidon-io/helidon-build-tools" target="_blank" rel="noopener noreffer ">https://github.com/helidon-io/helidon-build-tools</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-05-25: <a href="https://github.com/helidon-io/helidon-build-tools" target="_blank" rel="noopener noreffer ">helidon-io/helidon-build-tools</a>.</em></p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
+<p><em>Source: starred on GitHub on 2020-05-25: <a href="https://github.com/helidon-io/helidon-build-tools" target="_blank" rel="noopener noreffer ">helidon-io/helidon-build-tools</a>.</em></p>]]></description></item><item><title>Helidon JPA POC</title><link>https://blog.emecas.net/posts/2020-04-12-helidon-jpa-poc/</link><pubDate>Sun, 12 Apr 2020 16:08:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-12-helidon-jpa-poc/</guid><description><![CDATA[<p>Helidon JPA POC</p>
+<p>Comment on 2020-04-13:<br>
+Updated to 1.4.4 in:  <a href="https://github.com/emecas/helidon-poc/commit/dfa47818be5d1c411c194b0b038badb8a5c5baa6" target="_blank" rel="noopener noreffer ">https://github.com/emecas/helidon-poc/commit/dfa47818be5d1c411c194b0b038badb8a5c5baa6</a></p>
+<p>Issue #46 in emecas/commitit, open, opened on 2020-04-12. Labels: EPIC.<br>
+<a href="https://github.com/emecas/commitit/issues/46" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/46</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/46" target="_blank" rel="noopener noreffer ">#46</a> in emecas/commitit, opened on 2020-04-12.</em></p>]]></description></item><item><title>Metrics MP Guide</title><link>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</link><pubDate>Tue, 21 Jan 2020 14:04:07 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-21-metrics-mp-guide/</guid><description><![CDATA[<p>Metrics MP Guide<br>
 <a href="https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide" target="_blank" rel="noopener noreffer ">https://helidon.io/docs/latest/index.html#/guides/09_metrics_mp_guide</a><br>
 This guide describes how to create a sample MicroProfile (MP) project that can be used to run some basic examples<br>
 using both built-in and custom metrics with Helidon MP.</p>

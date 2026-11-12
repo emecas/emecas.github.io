@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mirroring - Tag - My Notes</title><link>https://blog.emecas.net/tags/mirroring/</link><description>Mirroring - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 08 Aug 2022 22:56:28 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mirroring/" rel="self" type="application/rss+xml"/><item><title>Set Mirroring in My-Notes Repository</title><link>https://blog.emecas.net/posts/2022-08-08-set-mirroring-in-my-notes-repository/</link><pubDate>Mon, 08 Aug 2022 22:56:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-08-set-mirroring-in-my-notes-repository/</guid><description><![CDATA[<p>Set Mirroring in My-Notes Repository<br>
+Documentation:</p>
+<p><a href="https://github.com/marketplace/actions/mirroring-repository" target="_blank" rel="noopener noreffer ">https://github.com/marketplace/actions/mirroring-repository</a><br>
+<a href="https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair</a></p>
+<p>Comment on 2022-08-08:<br>
+Solved : View this pull request on GitHub: <a href="https://github.com/emecas/My-Notes/pull/11" target="_blank" rel="noopener noreffer ">https://github.com/emecas/My-Notes/pull/11</a></p>
+<p>Issue #89 in emecas/commitit, closed, opened on 2022-08-08. Labels: DONE.<br>
+<a href="https://github.com/emecas/commitit/issues/89" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/89</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/89" target="_blank" rel="noopener noreffer ">#89</a> in emecas/commitit, opened on 2022-08-08.</em></p>]]></description></item></channel></rss>

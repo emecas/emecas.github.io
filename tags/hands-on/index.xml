@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hands-On - Tag - My Notes</title><link>https://blog.emecas.net/tags/hands-on/</link><description>Hands-On - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 20 Apr 2017 15:48:37 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/hands-on/" rel="self" type="application/rss+xml"/><item><title>nurkiewicz/rxjava-workshop</title><link>https://blog.emecas.net/posts/2017-04-20-nurkiewicz-rxjava-workshop/</link><pubDate>Thu, 20 Apr 2017 15:48:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-20-nurkiewicz-rxjava-workshop/</guid><description><![CDATA[<p>nurkiewicz/rxjava-workshop<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hands-On - Tag - My Notes</title><link>https://blog.emecas.net/tags/hands-on/</link><description>Hands-On - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2026 19:34:59 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/hands-on/" rel="self" type="application/rss+xml"/><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
+<a href="https://github.com/walkinglabs/learn-harness-engineering" target="_blank" rel="noopener noreffer ">https://github.com/walkinglabs/learn-harness-engineering</a></p>
+<p>Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:</p>
+<p>how Claude Code, Codex, DeepSeek build their harness<br>
+loop &amp; graph engineering<br>
+automated agent loops<br>
+observability, testing and verification<br>
+really good source for learning harness essentials by doing.</p>
+<p>Ref: <a href="https://x.com/i/status/2105980972558627237" target="_blank" rel="noopener noreffer ">https://x.com/i/status/2105980972558627237</a></p>
+<p>Issue #217 in emecas/commitit, open, opened on 2026-10-04.<br>
+<a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/217</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">#217</a> in emecas/commitit, opened on 2026-10-04.</em></p>]]></description></item><item><title>nurkiewicz/rxjava-workshop</title><link>https://blog.emecas.net/posts/2017-04-20-nurkiewicz-rxjava-workshop/</link><pubDate>Thu, 20 Apr 2017 15:48:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-20-nurkiewicz-rxjava-workshop/</guid><description><![CDATA[<p>nurkiewicz/rxjava-workshop<br>
 1 day RxJava 2 hands-on workshop<br>
 Java repository by nurkiewicz, created in 2016, with 65 stars and 44 forks. Starred on 2017-04-20.<br>
 <a href="https://github.com/nurkiewicz/rxjava-workshop" target="_blank" rel="noopener noreffer ">https://github.com/nurkiewicz/rxjava-workshop</a></p>

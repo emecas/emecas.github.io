@@ -7,65 +7,81 @@ Repository by joelparkerhenderson, created in 2017, with 1,305 stars and 122 for
 Repository by skilldocs, created in 2021, with 14 stars and 14 forks. License: MIT. Starred on 2024-05-07.<br>
 <a href="https://github.com/skilldocs/git-ts" target="_blank" rel="noopener noreffer ">https://github.com/skilldocs/git-ts</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-05-07: <a href="https://github.com/skilldocs/git-ts" target="_blank" rel="noopener noreffer ">skilldocs/git-ts</a>.</em></p>]]></description></item><item><title>cli/cli</title><link>https://blog.emecas.net/posts/2020-02-14-cli-cli/</link><pubDate>Fri, 14 Feb 2020 04:01:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-cli-cli/</guid><description><![CDATA[<p>cli/cli<br>
+<p><em>Source: starred on GitHub on 2024-05-07: <a href="https://github.com/skilldocs/git-ts" target="_blank" rel="noopener noreffer ">skilldocs/git-ts</a>.</em></p>]]></description></item><item><title>Perforce VS Git: A Comprehensive Comparison</title><link>https://blog.emecas.net/posts/2023-11-29-perforce-vs-git-a-comprehensive-comparison/</link><pubDate>Wed, 29 Nov 2023 03:54:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-29-perforce-vs-git-a-comprehensive-comparison/</guid><description><![CDATA[<p>Perforce VS Git: A Comprehensive Comparison<br>
+<a href="https://marketsplash.com/tutorials/git/perforce-vs-git/" target="_blank" rel="noopener noreffer ">https://marketsplash.com/tutorials/git/perforce-vs-git/</a></p>
+<p>Issue #135 in emecas/commitit, open, opened on 2023-11-29.<br>
+<a href="https://github.com/emecas/commitit/issues/135" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/135</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/135" target="_blank" rel="noopener noreffer ">#135</a> in emecas/commitit, opened on 2023-11-29.</em></p>]]></description></item><item><title>[Follow] Gitlab Client</title><link>https://blog.emecas.net/posts/2022-08-09-follow-gitlab-client/</link><pubDate>Tue, 09 Aug 2022 18:17:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-09-follow-gitlab-client/</guid><description><![CDATA[<p>[Follow] Gitlab Client<br>
+Repo: <a href="https://gitlab.com/gitlab-org/cli" target="_blank" rel="noopener noreffer ">https://gitlab.com/gitlab-org/cli</a></p>
+<p>Comment on 2022-08-10:<br>
+Installation:</p>
+<p>~/repos/GITLAB/reading-notes (master)<br>
+$ winget install glab.glab<br>
+The msstore source requires that you view the following agreements before using.<br>
+Terms of Transaction: <a href="https://aka.ms/microsoft-store-terms-of-transaction" target="_blank" rel="noopener noreffer ">https://aka.ms/microsoft-store-terms-of-transaction</a><br>
+The source requires the current machine&rsquo;s 2-letter geographic region to be sent to the backend service to function properly (ex. &ldquo;US&rdquo;).</p>
+<p>Do you agree to all the source agreements terms?<br>
+[Y] Yes  [N] No: Y<br>
+Found glab [GLab.GLab] Version 1.22.0<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+Downloading <a href="https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe" target="_blank" rel="noopener noreffer ">https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe</a><br>
+██████████████████████████████  9.80 MB / 9.80 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Successfully installed</p>]]></description></item><item><title>Set Mirroring in My-Notes Repository</title><link>https://blog.emecas.net/posts/2022-08-08-set-mirroring-in-my-notes-repository/</link><pubDate>Mon, 08 Aug 2022 22:56:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-08-set-mirroring-in-my-notes-repository/</guid><description><![CDATA[<p>Set Mirroring in My-Notes Repository<br>
+Documentation:</p>
+<p><a href="https://github.com/marketplace/actions/mirroring-repository" target="_blank" rel="noopener noreffer ">https://github.com/marketplace/actions/mirroring-repository</a><br>
+<a href="https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/user/ssh.html#generate-an-ssh-key-pair</a></p>
+<p>Comment on 2022-08-08:<br>
+Solved : View this pull request on GitHub: <a href="https://github.com/emecas/My-Notes/pull/11" target="_blank" rel="noopener noreffer ">https://github.com/emecas/My-Notes/pull/11</a></p>
+<p>Issue #89 in emecas/commitit, closed, opened on 2022-08-08. Labels: DONE.<br>
+<a href="https://github.com/emecas/commitit/issues/89" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/89</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/89" target="_blank" rel="noopener noreffer ">#89</a> in emecas/commitit, opened on 2022-08-08.</em></p>]]></description></item><item><title>README.md for Your GitHub Profile</title><link>https://blog.emecas.net/posts/2021-02-17-readme-md-for-your-github-profile/</link><pubDate>Wed, 17 Feb 2021 20:54:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-readme-md-for-your-github-profile/</guid><description><![CDATA[<p>README.md for Your GitHub Profile<br>
+How to Create a Self-Updating README.md for Your GitHub Profile<br>
+A good tutorial to do your first steps with GitHub Actions<br>
+Thomas Guibert<br>
+Jul 23, 2020 · 5 min read<br>
+<a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91" target="_blank" rel="noopener noreffer ">https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91</a></p>
+<p>Add an Interactive and beautiful Readme about you to Your Github Profile.<br>
+Digvijay Pawar<br>
+Aug 20, 2020·2 min read<br>
+<a href="https://medium.com/@djaypawar17/add-interactive-and-beautiful-readme-to-your-github-profile-in-few-minutes-58a3dfc520d0" target="_blank" rel="noopener noreffer ">https://medium.com/@djaypawar17/add-interactive-and-beautiful-readme-to-your-github-profile-in-few-minutes-58a3dfc520d0</a></p>
+<p>GitHub formatting for README.md section<br>
+<a href="https://medium.com/@syakirharis25/github-formatting-for-readme-md-section-ec212975adf4" target="_blank" rel="noopener noreffer ">https://medium.com/@syakirharis25/github-formatting-for-readme-md-section-ec212975adf4</a></p>
+<p>Issue #76 in emecas/commitit, open, opened on 2021-02-17. Labels: TODO.<br>
+<a href="https://github.com/emecas/commitit/issues/76" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/76</a></p>]]></description></item><item><title>Experiment with GitHub Milestones and priorities, as well as Crossover Projects</title><link>https://blog.emecas.net/posts/2021-01-06-experiment-with-github-milestones-and-priorities-as-well-as/</link><pubDate>Wed, 06 Jan 2021 16:29:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-06-experiment-with-github-milestones-and-priorities-as-well-as/</guid><description><![CDATA[<p>Experiment with GitHub Milestones and priorities, as well as Crossover Projects</p>
+<p>Issue #72 in emecas/commitit, open, opened on 2021-01-06. Labels: WIP.<br>
+<a href="https://github.com/emecas/commitit/issues/72" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/72</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/72" target="_blank" rel="noopener noreffer ">#72</a> in emecas/commitit, opened on 2021-01-06.</em></p>]]></description></item><item><title>Enable Discussions and Research API available options</title><link>https://blog.emecas.net/posts/2021-01-05-enable-discussions-and-research-api-available-options/</link><pubDate>Tue, 05 Jan 2021 23:56:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-05-enable-discussions-and-research-api-available-options/</guid><description><![CDATA[<p>Enable Discussions and Research API available options<br>
+Explore on this repo initially</p>
+<p>Comment on 2021-01-06:<br>
+Announcement</p>
+<p>December 8, 2020<br>
+GitHub Discussions now available as a public beta<br>
+<a href="https://github.blog/changelog/2020-12-08-github-discussions-now-available-as-a-public-beta/" target="_blank" rel="noopener noreffer ">https://github.blog/changelog/2020-12-08-github-discussions-now-available-as-a-public-beta/</a></p>
+<p>Howto Enable Discussions</p>
+<p>Quickstart for GitHub Discussions<br>
+<a href="https://docs.github.com/en/free-pro-team@latest/discussions/quickstart" target="_blank" rel="noopener noreffer ">https://docs.github.com/en/free-pro-team@latest/discussions/quickstart</a></p>
+<p>API Options [WIP]</p>
+<p>Discussions API #43<br>
+<a href="https://github.com/github/feedback/discussions/43" target="_blank" rel="noopener noreffer ">https://github.com/github/feedback/discussions/43</a></p>
+<p>Possibility to &ldquo;import&rdquo; data from other forum platform? #36<br>
+<a href="https://github.com/github/feedback/discussions/36" target="_blank" rel="noopener noreffer ">https://github.com/github/feedback/discussions/36</a></p>
+<p>Issue #70 in emecas/commitit, open, opened on 2021-01-05. Labels: TODO.<br>
+<a href="https://github.com/emecas/commitit/issues/70" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/70</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/70" target="_blank" rel="noopener noreffer ">#70</a> in emecas/commitit, opened on 2021-01-05.</em></p>]]></description></item><item><title>Facts Collection for the SVN-GIT internal debate</title><link>https://blog.emecas.net/posts/2020-02-28-facts-collection-for-the-svn-git-internal-debate/</link><pubDate>Fri, 28 Feb 2020 11:52:44 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-28-facts-collection-for-the-svn-git-internal-debate/</guid><description><![CDATA[<p>Facts Collection for the SVN-GIT internal debate</p>
+<p>Issue #20 in emecas/commitit, open, opened on 2020-02-28.<br>
+<a href="https://github.com/emecas/commitit/issues/20" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/20</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/20" target="_blank" rel="noopener noreffer ">#20</a> in emecas/commitit, opened on 2020-02-28.</em></p>]]></description></item><item><title>cli/cli</title><link>https://blog.emecas.net/posts/2020-02-14-cli-cli/</link><pubDate>Fri, 14 Feb 2020 04:01:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-cli-cli/</guid><description><![CDATA[<p>cli/cli<br>
 GitHub’s official command line tool<br>
 Go repository by cli, created in 2019, with 46,957 stars and 9,272 forks. License: MIT. Starred on 2020-02-14.<br>
 Homepage: <a href="https://cli.github.com" target="_blank" rel="noopener noreffer ">https://cli.github.com</a><br>
 <a href="https://github.com/cli/cli" target="_blank" rel="noopener noreffer ">https://github.com/cli/cli</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-02-14: <a href="https://github.com/cli/cli" target="_blank" rel="noopener noreffer ">cli/cli</a>.</em></p>]]></description></item><item><title>Developing and Deploying with Branches</title><link>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</link><pubDate>Tue, 05 Feb 2019 12:27:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-05-developing-and-deploying-with-branches/</guid><description><![CDATA[<p>Developing and Deploying with Branches<br>
-<a href="http://guides.beanstalkapp.com/version-control/branching-best-practices.html" target="_blank" rel="noopener noreffer ">http://guides.beanstalkapp.com/version-control/branching-best-practices.html</a><br>
-By beanstalk<br>
-See too: <a href="http://guides.beanstalkapp.com/" target="_blank" rel="noopener noreffer ">http://guides.beanstalkapp.com/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e2a401f8926b760934761baf6f09824efe91b0ae" target="_blank" rel="noopener noreffer "><code>e2a401f</code></a> in My-Notes.</em></p>]]></description></item><item><title>.gitignore nice pattern</title><link>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</link><pubDate>Fri, 01 Feb 2019 12:55:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-01-gitignore-nice-pattern/</guid><description><![CDATA[<p>.gitignore nice pattern</p>
-<p>[TIL] : there is not other place where you can see a practical example<br>
-Ref: <a href="https://stackoverflow.com/a/8527645/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/8527645/833336</a></p>
-<p>Line Examples:</p>
-<p>#<br>
-[Tt]est[Rr]esult*/</p>
-<p># Build results<br>
-[Dd]ebug/<br>
-[Dd]ebugPublic/<br>
-[Rr]elease/<br>
-[Rr]eleases/<br>
-x64/<br>
-x86/<br>
-bld/<br>
-[Bb]in/<br>
-[Oo]bj/<br>
-[Ll]og/</p>
-<p>More refs:<br>
-<a href="https://git-scm.com/docs/gitignore" target="_blank" rel="noopener noreffer ">https://git-scm.com/docs/gitignore</a><br>
-<a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
-[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df05c293725e3941cfbe0f13f56b867cd4d777b9" target="_blank" rel="noopener noreffer "><code>df05c29</code></a> in My-Notes.</em></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
-<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
-By: Kent Beck<br>
-Sep 28, 2018</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d4aaaaf7ebd2030f6376c8ac3942911eba7868d" target="_blank" rel="noopener noreffer "><code>0d4aaaa</code></a> in My-Notes.</em></p>]]></description></item><item><title>How to Write a Git Commit Message</title><link>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</link><pubDate>Fri, 25 Jan 2019 13:28:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-25-how-to-write-a-git-commit-message/</guid><description><![CDATA[<p>How to Write a Git Commit Message<br>
-<a href="https://chris.beams.io/posts/git-commit/" target="_blank" rel="noopener noreffer ">https://chris.beams.io/posts/git-commit/</a><br>
-Introduction: Why good commit messages matter<br>
-By Chris Beams</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/378b16fb7fd842677dc9af4ab6073d681b16f6c1" target="_blank" rel="noopener noreffer "><code>378b16f</code></a> in My-Notes.</em></p>]]></description></item><item><title>github/gitignore</title><link>https://blog.emecas.net/posts/2018-06-06-github-gitignore/</link><pubDate>Wed, 06 Jun 2018 14:35:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-06-06-github-gitignore/</guid><description><![CDATA[<p>github/gitignore<br>
-A collection of useful .gitignore templates<br>
-Repository by github, created in 2010, with 176,541 stars and 82,017 forks. License: CC0-1.0. Starred on 2018-06-06.<br>
-<a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2018-06-06: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">github/gitignore</a>.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
-Text-mode interface for git<br>
-<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
-What is Tig?</p>
-<p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
-<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/afb52a1c60c23f7015432f0f1c20c6c3f15a098a" target="_blank" rel="noopener noreffer "><code>afb52a1</code></a> in My-Notes.</em></p>]]></description></item><item><title>jonas/tig</title><link>https://blog.emecas.net/posts/2017-11-21-jonas-tig/</link><pubDate>Tue, 21 Nov 2017 02:21:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-21-jonas-tig/</guid><description><![CDATA[<p>jonas/tig<br>
-Text-mode interface for git<br>
-C repository by jonas, created in 2009, with 13,378 stars and 675 forks. License: GPL-2.0. Starred on 2017-11-21.<br>
-Homepage: <a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
-<a href="https://github.com/jonas/tig" target="_blank" rel="noopener noreffer ">https://github.com/jonas/tig</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2017-11-21: <a href="https://github.com/jonas/tig" target="_blank" rel="noopener noreffer ">jonas/tig</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-02-14: <a href="https://github.com/cli/cli" target="_blank" rel="noopener noreffer ">cli/cli</a>.</em></p>]]></description></item></channel></rss>

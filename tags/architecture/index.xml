@@ -3,7 +3,8 @@
 C# repository by thangchung, created in 2021, with 1,363 stars and 288 forks. License: MIT. Starred on 2026-09-14.<br>
 <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">https://github.com/thangchung/clean-architecture-dotnet</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">thangchung/clean-architecture-dotnet</a>.</em></p>]]></description></item><item><title>nanoapi-io/napi</title><link>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</link><pubDate>Wed, 30 Oct 2024 02:02:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</guid><description><![CDATA[<p>nanoapi-io/napi<br>
+<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">thangchung/clean-architecture-dotnet</a>.</em></p>]]></description></item><item><title>[Conf][Session][JavaZone] Offline-first Architecture - How to survive without internet? Ref: https://www.i-programmer.info/news/80-java/17575-javazone-the-conference-we-missed-.html</title><link>https://blog.emecas.net/posts/2024-11-03-conf-session-javazone-offline-first-architecture-how-to-surv/</link><pubDate>Sun, 03 Nov 2024 12:29:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-11-03-conf-session-javazone-offline-first-architecture-how-to-surv/</guid><description><![CDATA[<p>[Conf][Session][JavaZone] Offline-first Architecture - How to survive without internet? Ref: <a href="https://www.i-programmer.info/news/80-java/17575-javazone-the-conference-we-missed-.html" target="_blank" rel="noopener noreffer ">https://www.i-programmer.info/news/80-java/17575-javazone-the-conference-we-missed-.html</a><br>
+What is and why use a offline-first architecture, a design principle which assumes the lack of internet connectivity as the default state in software development. At Iprogrammer we&rsquo;ve looked at local first applications in the past, explaining their use cases, like in &ldquo;TinyBase And The Local First Movement&rdquo;, a in-memory reactive tabular data store&quot;. We pondered &ldquo;What&rsquo;s the deal with that kind of Store?&rdquo;. The answer is that :</p>]]></description></item><item><title>nanoapi-io/napi</title><link>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</link><pubDate>Wed, 30 Oct 2024 02:02:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-30-nanoapi-io-napi/</guid><description><![CDATA[<p>nanoapi-io/napi<br>
 Software architecture tooling for the AI age<br>
 TypeScript repository by nanoapi-io, created in 2022, with 324 stars and 13 forks. Starred on 2024-10-30.<br>
 Homepage: <a href="https://nanoapi.io" target="_blank" rel="noopener noreffer ">https://nanoapi.io</a><br>
@@ -20,7 +21,12 @@ Repository by chanakaudaya, created in 2019, with 3,479 stars and 674 forks. Lic
 Homepage: <a href="https://chanakaudaya.github.io/solution-architecture-patterns/" target="_blank" rel="noopener noreffer ">https://chanakaudaya.github.io/solution-architecture-patterns/</a><br>
 <a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">https://github.com/chanakaudaya/solution-architecture-patterns</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-06-01: <a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">chanakaudaya/solution-architecture-patterns</a>.</em></p>]]></description></item><item><title>architecture-decision-record/architecture-decision-record</title><link>https://blog.emecas.net/posts/2024-05-10-architecture-decision-record-architecture-decision-record/</link><pubDate>Fri, 10 May 2024 19:52:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-10-architecture-decision-record-architecture-decision-record/</guid><description><![CDATA[<p>architecture-decision-record/architecture-decision-record<br>
+<p><em>Source: starred on GitHub on 2024-06-01: <a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">chanakaudaya/solution-architecture-patterns</a>.</em></p>]]></description></item><item><title>Solution Architecture Patterns | solution-architecture-patterns</title><link>https://blog.emecas.net/posts/2024-06-01-solution-architecture-patterns-solution-architecture-pattern/</link><pubDate>Sat, 01 Jun 2024 15:26:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-01-solution-architecture-patterns-solution-architecture-pattern/</guid><description><![CDATA[<p>Solution Architecture Patterns | solution-architecture-patterns<br>
+<a href="https://chanakaudaya.github.io/solution-architecture-patterns/" target="_blank" rel="noopener noreffer ">https://chanakaudaya.github.io/solution-architecture-patterns/</a></p>
+<p>Issue #176 in emecas/commitit, open, opened on 2024-06-01.<br>
+<a href="https://github.com/emecas/commitit/issues/176" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/176</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/176" target="_blank" rel="noopener noreffer ">#176</a> in emecas/commitit, opened on 2024-06-01.</em></p>]]></description></item><item><title>architecture-decision-record/architecture-decision-record</title><link>https://blog.emecas.net/posts/2024-05-10-architecture-decision-record-architecture-decision-record/</link><pubDate>Fri, 10 May 2024 19:52:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-10-architecture-decision-record-architecture-decision-record/</guid><description><![CDATA[<p>architecture-decision-record/architecture-decision-record<br>
 Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation<br>
 CSS repository by architecture-decision-record, created in 2016, with 17,446 stars and 2,822 forks. Starred on 2024-05-10.<br>
 <a href="https://github.com/architecture-decision-record/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/architecture-decision-record/architecture-decision-record</a></p>
@@ -30,52 +36,12 @@ Revolutionizing Design—ChatGPT&rsquo;s Role in Next-Generation Software Archit
 Repository by rohitbhardwaj, created in 2024, with 12 stars and 8 forks. Starred on 2024-01-24.<br>
 <a href="https://github.com/rohitbhardwaj/ChatGPTSoftwareArchitecture" target="_blank" rel="noopener noreffer ">https://github.com/rohitbhardwaj/ChatGPTSoftwareArchitecture</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-01-24: <a href="https://github.com/rohitbhardwaj/ChatGPTSoftwareArchitecture" target="_blank" rel="noopener noreffer ">rohitbhardwaj/ChatGPTSoftwareArchitecture</a>.</em></p>]]></description></item><item><title>ArchUnit - checking the architecture of your Java code</title><link>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</link><pubDate>Tue, 19 Feb 2019 13:37:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</guid><description><![CDATA[<p>ArchUnit<br>
+<p><em>Source: starred on GitHub on 2024-01-24: <a href="https://github.com/rohitbhardwaj/ChatGPTSoftwareArchitecture" target="_blank" rel="noopener noreffer ">rohitbhardwaj/ChatGPTSoftwareArchitecture</a>.</em></p>]]></description></item><item><title>Check Hackernoon and Project That's why we decided to take a step back and really focus on software architecture. We dug deep into Hexagonal Architecture, Event Driven Architecture, and other patterns like CQRS and Event Sourcing. We also dove into Domain Driven Design and Behaviour Driven Development.</title><link>https://blog.emecas.net/posts/2023-04-24-check-hackernoon-and-project-that-s-why-we-decided-to-take-a/</link><pubDate>Mon, 24 Apr 2023 01:34:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-04-24-check-hackernoon-and-project-that-s-why-we-decided-to-take-a/</guid><description><![CDATA[<p>Check Hackernoon and Project That&rsquo;s why we decided to take a step back and really focus on software architecture. We dug deep into Hexagonal Architecture, Event Driven Architecture, and other patterns like CQRS and Event Sourcing. We also dove into Domain Driven Design and Behaviour Driven Development.<br>
+<a href="https://hackernoon.com/how-to-boost-your-dev-skills-with-the-ultimate-todo-app-level-up-from-padawan-to-jedi" target="_blank" rel="noopener noreffer ">https://hackernoon.com/how-to-boost-your-dev-skills-with-the-ultimate-todo-app-level-up-from-padawan-to-jedi</a></p>
+<p>Issue #118 in emecas/commitit, open, opened on 2023-04-24.<br>
+<a href="https://github.com/emecas/commitit/issues/118" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/118</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/118" target="_blank" rel="noopener noreffer ">#118</a> in emecas/commitit, opened on 2023-04-24.</em></p>]]></description></item><item><title>ArchUnit - checking the architecture of your Java code</title><link>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</link><pubDate>Tue, 19 Feb 2019 13:37:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-19-archunit-checking-the-architecture-of-your-java-code/</guid><description><![CDATA[<p>ArchUnit<br>
 <a href="https://www.archunit.org/" target="_blank" rel="noopener noreffer ">https://www.archunit.org/</a><br>
 ArchUnit is a free, simple and extensible library for checking the architecture of your Java code using any plain Java unit test framework. That is, ArchUnit can check dependencies between packages and classes, layers and slices, check for cyclic dependencies and more. It does so by analyzing given Java bytecode, importing all classes into a Java code structure. You can find examples for the current release at ArchUnit Examples and the sources on GitHub.<br>
-<a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">https://github.com/TNG/ArchUnit</a></p>]]></description></item><item><title>TNG/ArchUnit</title><link>https://blog.emecas.net/posts/2019-02-19-tng-archunit/</link><pubDate>Tue, 19 Feb 2019 18:01:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-19-tng-archunit/</guid><description><![CDATA[<p>TNG/ArchUnit<br>
-A Java architecture test library, to specify and assert architecture rules in plain Java<br>
-Java repository by TNG, created in 2017, with 3,896 stars and 357 forks. License: Apache-2.0. Starred on 2019-02-19.<br>
-Homepage: <a href="https://archunit.org" target="_blank" rel="noopener noreffer ">https://archunit.org</a><br>
-<a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">https://github.com/TNG/ArchUnit</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-02-19: <a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">TNG/ArchUnit</a>.</em></p>]]></description></item><item><title>Hexagonal Architecture</title><link>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</link><pubDate>Tue, 21 Feb 2017 13:38:10 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-21-hexagonal-architecture/</guid><description><![CDATA[<p>Active Directory Federation Services<br>
-<a href="https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services" target="_blank" rel="noopener noreffer ">https://technet.microsoft.com/windows-server-docs/identity/active-directory-federation-services</a><br>
-Applies To: Windows Server 2016, Windows Server 2012 R2, Windows Server 2012<br>
-This document contains a list of all of the documentation areas for AD FS for Windows Server 2016, 2012 R2, and 2012. This includes the following:<br>
-•AD FS Overview<br>
-•AD FS Design<br>
-•AD FS Deployment<br>
-•AD FS Development<br>
-•AD FS Operations<br>
-•AD FS Technical Reference</p>
-<p>Hexagonal architecture<br>
-Aditional Ref: <a href="http://alistair.cockburn.us/Hexagonal&#43;architecture" target="_blank" rel="noopener noreffer ">http://alistair.cockburn.us/Hexagonal+architecture</a><br>
-By Alistair Cockburn.<br>
-The Pattern: Ports and Adapters (‘’Object Structural’’)<br>
-Alternative name: ‘’Ports &amp; Adapters’’<br>
-Alternative name: ‘’Hexagonal Architecture’’<br>
-Intent<br>
-Motivation<br>
-Nature of the Solution<br>
-Structure<br>
-Sample Code<br>
-Stage 1: FIT  App  constant-as-mock-database<br>
-Stage 2: UI  App  constant-as-mock-database<br>
-Stage 3: (FIT or UI)  App  mock database<br>
-Application Notes<br>
-The Left-Right Asymmetry<br>
-Use Cases And The Application Boundary<br>
-How Many Ports?<br>
-Known Uses<br>
-Distributed, Large-Team Development<br>
-Related Patterns<br>
-Adapter<br>
-Model-View-Controller<br>
-Mock Objects and Loopback<br>
-Pedestals<br>
-Checks<br>
-References and Related Reading</p>]]></description></item><item><title>Hexagonal Architecture</title><link>https://blog.emecas.net/posts/2017-02-20-hexagonal-architecture/</link><pubDate>Mon, 20 Feb 2017 17:18:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-20-hexagonal-architecture/</guid><description><![CDATA[<p>Hexagonal Architecture Is Powerful<br>
-<a href="https://dzone.com/articles/hexagonal-architecture-is-powerful" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/hexagonal-architecture-is-powerful</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/692d7c019757d4c96963885479c902beaf67a8b5" target="_blank" rel="noopener noreffer "><code>692d7c0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<a href="https://github.com/TNG/ArchUnit" target="_blank" rel="noopener noreffer ">https://github.com/TNG/ArchUnit</a></p>]]></description></item></channel></rss>

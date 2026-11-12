@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Serializable - Tag - My Notes</title><link>https://blog.emecas.net/tags/serializable/</link><description>Serializable - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 21 Feb 2020 17:55:35 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/serializable/" rel="self" type="application/rss+xml"/><item><title>On [Serializable] Snapshot Isolation (SSI)</title><link>https://blog.emecas.net/posts/2020-02-21-on-serializable-snapshot-isolation-ssi/</link><pubDate>Fri, 21 Feb 2020 17:55:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-21-on-serializable-snapshot-isolation-ssi/</guid><description><![CDATA[<p>On [Serializable] Snapshot Isolation (SSI)<br>
+<a href="https://en.m.wikipedia.org/wiki/Snapshot_isolation" target="_blank" rel="noopener noreffer ">https://en.m.wikipedia.org/wiki/Snapshot_isolation</a></p>
+<p>Look for b1 here -&gt;</p>
+<p><a href="https://dblp.org/pers/c/Cahill:Michael_J=.html" target="_blank" rel="noopener noreffer ">https://dblp.org/pers/c/Cahill:Michael_J=.html</a></p>
+<p><a href="https://dl.acm.org/doi/10.1145/1376616.1376690" target="_blank" rel="noopener noreffer ">https://dl.acm.org/doi/10.1145/1376616.1376690</a></p>
+<p>Issue #11 in emecas/commitit, open, opened on 2020-02-21.<br>
+<a href="https://github.com/emecas/commitit/issues/11" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/11</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/11" target="_blank" rel="noopener noreffer ">#11</a> in emecas/commitit, opened on 2020-02-21.</em></p>]]></description></item></channel></rss>

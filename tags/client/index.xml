@@ -9,7 +9,25 @@ TypeScript repository by f5devcentral, created in 2020, with 62 stars and 19 for
 Homepage: <a href="https://f5devcentral.github.io/vscode-f5/#/" target="_blank" rel="noopener noreffer ">https://f5devcentral.github.io/vscode-f5/#/</a><br>
 <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">https://github.com/f5devcentral/vscode-f5</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-01-23: <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">f5devcentral/vscode-f5</a>.</em></p>]]></description></item><item><title>Docile-Alligator/Infinity-For-Reddit</title><link>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</link><pubDate>Tue, 12 Jan 2021 13:43:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</guid><description><![CDATA[<p>Docile-Alligator/Infinity-For-Reddit<br>
+<p><em>Source: starred on GitHub on 2024-01-23: <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">f5devcentral/vscode-f5</a>.</em></p>]]></description></item><item><title>[Follow] Gitlab Client</title><link>https://blog.emecas.net/posts/2022-08-09-follow-gitlab-client/</link><pubDate>Tue, 09 Aug 2022 18:17:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-09-follow-gitlab-client/</guid><description><![CDATA[<p>[Follow] Gitlab Client<br>
+Repo: <a href="https://gitlab.com/gitlab-org/cli" target="_blank" rel="noopener noreffer ">https://gitlab.com/gitlab-org/cli</a></p>
+<p>Comment on 2022-08-10:<br>
+Installation:</p>
+<p>~/repos/GITLAB/reading-notes (master)<br>
+$ winget install glab.glab<br>
+The msstore source requires that you view the following agreements before using.<br>
+Terms of Transaction: <a href="https://aka.ms/microsoft-store-terms-of-transaction" target="_blank" rel="noopener noreffer ">https://aka.ms/microsoft-store-terms-of-transaction</a><br>
+The source requires the current machine&rsquo;s 2-letter geographic region to be sent to the backend service to function properly (ex. &ldquo;US&rdquo;).</p>
+<p>Do you agree to all the source agreements terms?<br>
+[Y] Yes  [N] No: Y<br>
+Found glab [GLab.GLab] Version 1.22.0<br>
+This application is licensed to you by its owner.<br>
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
+Downloading <a href="https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe" target="_blank" rel="noopener noreffer ">https://github.com/profclems/glab/releases/download/v1.22.0/glab_1.22.0_Windows_x86_64_installer.exe</a><br>
+██████████████████████████████  9.80 MB / 9.80 MB<br>
+Successfully verified installer hash<br>
+Starting package install&hellip;<br>
+Successfully installed</p>]]></description></item><item><title>Docile-Alligator/Infinity-For-Reddit</title><link>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</link><pubDate>Tue, 12 Jan 2021 13:43:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-12-docile-alligator-infinity-for-reddit/</guid><description><![CDATA[<p>Docile-Alligator/Infinity-For-Reddit<br>
 A Reddit client for Android<br>
 Java repository by Docile-Alligator, created in 2018, with 5,543 stars and 538 forks. License: AGPL-3.0. Starred on 2021-01-12.<br>
 Homepage: <a href="https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit.plus</a><br>
@@ -61,10 +79,4 @@ Github client for Android<br>
 Java repository by slapperwan, created in 2011, with 2,009 stars and 251 forks. License: Apache-2.0. Starred on 2019-10-03.<br>
 <a href="https://github.com/slapperwan/gh4a" target="_blank" rel="noopener noreffer ">https://github.com/slapperwan/gh4a</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-10-03: <a href="https://github.com/slapperwan/gh4a" target="_blank" rel="noopener noreffer ">slapperwan/gh4a</a>.</em></p>]]></description></item><item><title>dbeaver/dbeaver</title><link>https://blog.emecas.net/posts/2019-09-09-dbeaver-dbeaver/</link><pubDate>Mon, 09 Sep 2019 20:08:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-09-dbeaver-dbeaver/</guid><description><![CDATA[<p>dbeaver/dbeaver<br>
-Free universal database tool and SQL client<br>
-Java repository by dbeaver, created in 2015, with 52,391 stars and 4,454 forks. License: Apache-2.0. Starred on 2019-09-09.<br>
-Homepage: <a href="https://dbeaver.io" target="_blank" rel="noopener noreffer ">https://dbeaver.io</a><br>
-<a href="https://github.com/dbeaver/dbeaver" target="_blank" rel="noopener noreffer ">https://github.com/dbeaver/dbeaver</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-09-09: <a href="https://github.com/dbeaver/dbeaver" target="_blank" rel="noopener noreffer ">dbeaver/dbeaver</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-10-03: <a href="https://github.com/slapperwan/gh4a" target="_blank" rel="noopener noreffer ">slapperwan/gh4a</a>.</em></p>]]></description></item></channel></rss>

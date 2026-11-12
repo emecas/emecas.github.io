@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Selection - Tag - My Notes</title><link>https://blog.emecas.net/tags/selection/</link><description>Selection - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Apr 2024 18:45:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/selection/" rel="self" type="application/rss+xml"/><item><title>Predictive test selection to ensure reliable code changes - Engineering at Meta</title><link>https://blog.emecas.net/posts/2024-04-09-predictive-test-selection-to-ensure-reliable-code-changes-en/</link><pubDate>Tue, 09 Apr 2024 18:45:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-09-predictive-test-selection-to-ensure-reliable-code-changes-en/</guid><description><![CDATA[<p>Predictive test selection to ensure reliable code changes - Engineering at Meta<br>
+<a href="https://engineering.fb.com/2018/11/21/developer-tools/predictive-test-selection/" target="_blank" rel="noopener noreffer ">https://engineering.fb.com/2018/11/21/developer-tools/predictive-test-selection/</a></p>
+<p>Comment on 2024-04-09:<br>
+Paper: <a href="https://arxiv.org/abs/1810.05286" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.05286</a></p>
+<p>Issue #157 in emecas/commitit, open, opened on 2024-04-09.<br>
+<a href="https://github.com/emecas/commitit/issues/157" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/157</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/157" target="_blank" rel="noopener noreffer ">#157</a> in emecas/commitit, opened on 2024-04-09.</em></p>]]></description></item></channel></rss>

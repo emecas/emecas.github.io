@@ -18,7 +18,12 @@ examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the n
 examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
 <a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
 <p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
-<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
+<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>Mill Build Tool Hits Promises Faster JVM Builds Than Maven and Gradle</title><link>https://blog.emecas.net/posts/2025-07-20-mill-build-tool-hits-promises-faster-jvm-builds-than-maven-a/</link><pubDate>Sun, 20 Jul 2025 23:24:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-07-20-mill-build-tool-hits-promises-faster-jvm-builds-than-maven-a/</guid><description><![CDATA[<p>Mill Build Tool Hits Promises Faster JVM Builds Than Maven and Gradle<br>
+<a href="https://www.webpronews.com/mill-build-tool-hits-promises-faster-jvm-builds-than-maven-and-gradle/" target="_blank" rel="noopener noreffer ">https://www.webpronews.com/mill-build-tool-hits-promises-faster-jvm-builds-than-maven-and-gradle/</a></p>
+<p>Issue #192 in emecas/commitit, open, opened on 2025-07-20.<br>
+<a href="https://github.com/emecas/commitit/issues/192" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/192</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/192" target="_blank" rel="noopener noreffer ">#192</a> in emecas/commitit, opened on 2025-07-20.</em></p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
 <a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">https://python-poetry.org/</a><br>
 Python packaging and dependency management made easy<br>
 REPO: <a href="https://github.com/python-poetry/poetry" target="_blank" rel="noopener noreffer ">https://github.com/python-poetry/poetry</a></p>
@@ -29,7 +34,12 @@ Easily build and package your projects with a single command.</p>
 <p>- Share your work Publish<br>
 Make your work known by publishing it to PyPI.</p>
 <p>- Check the state of your dependencies Track<br>
-Having an insight of your project&rsquo;s dependencies is just one command away.</p>]]></description></item><item><title>renovatebot/renovate</title><link>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</link><pubDate>Thu, 07 Sep 2023 22:30:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</guid><description><![CDATA[<p>renovatebot/renovate<br>
+Having an insight of your project&rsquo;s dependencies is just one command away.</p>]]></description></item><item><title>5 Ways to Improve Your Maven Projects Using Build Scans</title><link>https://blog.emecas.net/posts/2024-04-09-5-ways-to-improve-your-maven-projects-using-build-scans/</link><pubDate>Tue, 09 Apr 2024 18:25:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-09-5-ways-to-improve-your-maven-projects-using-build-scans/</guid><description><![CDATA[<p>5 Ways to Improve Your Maven Projects Using Build Scans<br>
+<a href="https://blog.bdemers.io/presentations/2024/maven-build-scans-devnexus/" target="_blank" rel="noopener noreffer ">https://blog.bdemers.io/presentations/2024/maven-build-scans-devnexus/</a></p>
+<p>Issue #156 in emecas/commitit, open, opened on 2024-04-09.<br>
+<a href="https://github.com/emecas/commitit/issues/156" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/156</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/156" target="_blank" rel="noopener noreffer ">#156</a> in emecas/commitit, opened on 2024-04-09.</em></p>]]></description></item><item><title>renovatebot/renovate</title><link>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</link><pubDate>Thu, 07 Sep 2023 22:30:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-07-renovatebot-renovate/</guid><description><![CDATA[<p>renovatebot/renovate<br>
 Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io<br>
 TypeScript repository by renovatebot, created in 2016, with 23,080 stars and 3,436 forks. License: AGPL-3.0. Starred on 2023-09-07.<br>
 Homepage: <a href="https://mend.io/renovate" target="_blank" rel="noopener noreffer ">https://mend.io/renovate</a><br>
@@ -51,27 +61,22 @@ switch, s   Switch to use the specified version.<br>
 remove, rm  Remove a specific version.<br>
 rls         Show a list of versions available for download.<br>
 proxy       Set a proxy to use for downloads.<br>
-help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>olivierlacan/keep-a-changelog</title><link>https://blog.emecas.net/posts/2022-03-31-olivierlacan-keep-a-changelog/</link><pubDate>Thu, 31 Mar 2022 18:20:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-03-31-olivierlacan-keep-a-changelog/</guid><description><![CDATA[<p>olivierlacan/keep-a-changelog<br>
-If you build software, keep a changelog.<br>
-Haml repository by olivierlacan, created in 2014, with 6,754 stars and 3,534 forks. License: MIT. Starred on 2022-03-31.<br>
-Homepage: <a href="http://keepachangelog.com" target="_blank" rel="noopener noreffer ">http://keepachangelog.com</a><br>
-<a href="https://github.com/olivierlacan/keep-a-changelog" target="_blank" rel="noopener noreffer ">https://github.com/olivierlacan/keep-a-changelog</a></p>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>There is a new Java build system named Bld</title><link>https://blog.emecas.net/posts/2023-04-09-there-is-a-new-java-build-system-named-bld/</link><pubDate>Sun, 09 Apr 2023 20:18:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-04-09-there-is-a-new-java-build-system-named-bld/</guid><description><![CDATA[<p>There is a new Java build system named Bld<br>
+<a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Theres-a-new-Java-build-system-named-bld" target="_blank" rel="noopener noreffer ">https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Theres-a-new-Java-build-system-named-bld</a></p>
+<p>Github repo: <a href="https://github.com/rife2/rife2" target="_blank" rel="noopener noreffer ">https://github.com/rife2/rife2</a></p>
+<p>Installation, configuration and advanced usage instructions can be found on the Bld project’s GitHub page<br>
+<a href="https://github.com/rife2/rife2/wiki/What-Is-Bld" target="_blank" rel="noopener noreffer ">https://github.com/rife2/rife2/wiki/What-Is-Bld</a></p>
+<p>Issue #117 in emecas/commitit, open, opened on 2023-04-09.<br>
+<a href="https://github.com/emecas/commitit/issues/117" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/117</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2022-03-31: <a href="https://github.com/olivierlacan/keep-a-changelog" target="_blank" rel="noopener noreffer ">olivierlacan/keep-a-changelog</a>.</em></p>]]></description></item><item><title>codecrafters-io/build-your-own-x</title><link>https://blog.emecas.net/posts/2020-09-02-codecrafters-io-build-your-own-x/</link><pubDate>Wed, 02 Sep 2020 23:53:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-02-codecrafters-io-build-your-own-x/</guid><description><![CDATA[<p>codecrafters-io/build-your-own-x<br>
-Master programming by recreating your favorite technologies from scratch.<br>
-Markdown repository by codecrafters-io, created in 2018, with 561,637 stars and 52,548 forks. Starred on 2020-09-02.<br>
-Homepage: <a href="https://codecrafters.io" target="_blank" rel="noopener noreffer ">https://codecrafters.io</a><br>
-<a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreffer ">https://github.com/codecrafters-io/build-your-own-x</a></p>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/117" target="_blank" rel="noopener noreffer ">#117</a> in emecas/commitit, opened on 2023-04-09.</em></p>]]></description></item><item><title>[Complete] Troubleshooting SDKMAN switching java versions and Maven Interaction</title><link>https://blog.emecas.net/posts/2022-08-11-complete-troubleshooting-sdkman-switching-java-versions-and/</link><pubDate>Thu, 11 Aug 2022 01:57:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-11-complete-troubleshooting-sdkman-switching-java-versions-and/</guid><description><![CDATA[<p>[Complete] Troubleshooting SDKMAN switching java versions and Maven Interaction<br>
+☑ Dependencies -&gt; zip: <a href="https://sourceforge.net/projects/gnuwin32/" target="_blank" rel="noopener noreffer ">https://sourceforge.net/projects/gnuwin32/</a><br>
+☑ Installation<br>
+☑ SDKs Installations:  sdk install java 8.0.302-open<br>
+☐ Additional Config<br>
+☐ Maven Config<br>
+☐ Figure out how to switch java version without changing environment variables manually</p>
+<p>Issue #92 in emecas/commitit, open, opened on 2022-08-11. Labels: WIP, P-Medium.<br>
+<a href="https://github.com/emecas/commitit/issues/92" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/92</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-09-02: <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreffer ">codecrafters-io/build-your-own-x</a>.</em></p>]]></description></item><item><title>leangen/graphql-spqr</title><link>https://blog.emecas.net/posts/2020-08-14-leangen-graphql-spqr/</link><pubDate>Fri, 14 Aug 2020 03:45:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-14-leangen-graphql-spqr/</guid><description><![CDATA[<p>leangen/graphql-spqr<br>
-Build a GraphQL service in seconds<br>
-Java repository by leangen, created in 2016, with 1,105 stars and 182 forks. License: Apache-2.0. Starred on 2020-08-14.<br>
-<a href="https://github.com/leangen/graphql-spqr" target="_blank" rel="noopener noreffer ">https://github.com/leangen/graphql-spqr</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-08-14: <a href="https://github.com/leangen/graphql-spqr" target="_blank" rel="noopener noreffer ">leangen/graphql-spqr</a>.</em></p>]]></description></item><item><title>helidon-io/helidon-build-tools</title><link>https://blog.emecas.net/posts/2020-05-25-helidon-io-helidon-build-tools/</link><pubDate>Mon, 25 May 2020 02:54:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-25-helidon-io-helidon-build-tools/</guid><description><![CDATA[<p>helidon-io/helidon-build-tools<br>
-Build tools for the Helidon Project<br>
-Java repository by helidon-io, created in 2018, with 39 stars and 33 forks. License: Apache-2.0. Starred on 2020-05-25.<br>
-Homepage: <a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
-<a href="https://github.com/helidon-io/helidon-build-tools" target="_blank" rel="noopener noreffer ">https://github.com/helidon-io/helidon-build-tools</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-05-25: <a href="https://github.com/helidon-io/helidon-build-tools" target="_blank" rel="noopener noreffer ">helidon-io/helidon-build-tools</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/92" target="_blank" rel="noopener noreffer ">#92</a> in emecas/commitit, opened on 2022-08-11.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Documentation and Diagrams - Category - My Notes</title><link>https://blog.emecas.net/categories/documentation-and-diagrams/</link><description>Documentation and Diagrams - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 23 Apr 2026 19:19:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/documentation-and-diagrams/" rel="self" type="application/rss+xml"/><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Documentation and Diagrams - Category - My Notes</title><link>https://blog.emecas.net/categories/documentation-and-diagrams/</link><description>Documentation and Diagrams - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Aug 2026 20:17:18 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/documentation-and-diagrams/" rel="self" type="application/rss+xml"/><item><title>vitepress</title><link>https://blog.emecas.net/posts/2026-08-24-vitepress/</link><pubDate>Mon, 24 Aug 2026 20:17:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-vitepress/</guid><description><![CDATA[<p>vitepress<br>
+<a href="https://github.com/vuejs/vitepress" target="_blank" rel="noopener noreffer ">https://github.com/vuejs/vitepress</a></p>
+<p>Issue #213 in emecas/commitit, open, opened on 2026-08-24.<br>
+<a href="https://github.com/emecas/commitit/issues/213" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/213</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/213" target="_blank" rel="noopener noreffer ">#213</a> in emecas/commitit, opened on 2026-08-24.</em></p>]]></description></item><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
 <a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
 <p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
 <p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>KindleModding/kindlemodding.github.io</title><link>https://blog.emecas.net/posts/2026-04-10-kindlemodding-kindlemodding-github-io/</link><pubDate>Fri, 10 Apr 2026 17:09:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-10-kindlemodding-kindlemodding-github-io/</guid><description><![CDATA[<p>KindleModding/kindlemodding.github.io<br>
@@ -14,7 +19,26 @@ Homepage: <a href="https://kindlemodding.org/" target="_blank" rel="noopener nor
 Create dynamic content with Python, R, Julia, and Observable.<br>
 Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
 Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
-Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>mermaid-js/mermaid-cli</title><link>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</link><pubDate>Sat, 05 Oct 2024 00:15:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</guid><description><![CDATA[<p>mermaid-js/mermaid-cli<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>About the OMG System Modeling Language Specification Version 2.0 beta 2</title><link>https://blog.emecas.net/posts/2025-02-25-about-the-omg-system-modeling-language-specification-version/</link><pubDate>Tue, 25 Feb 2025 13:55:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-25-about-the-omg-system-modeling-language-specification-version/</guid><description><![CDATA[<p>About the OMG System Modeling Language Specification Version 2.0 beta 2<br>
+<a href="https://www.omg.org/spec/SysML" target="_blank" rel="noopener noreffer ">https://www.omg.org/spec/SysML</a></p>
+<p>Issue #190 in emecas/commitit, open, opened on 2025-02-25.<br>
+<a href="https://github.com/emecas/commitit/issues/190" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/190</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/190" target="_blank" rel="noopener noreffer ">#190</a> in emecas/commitit, opened on 2025-02-25.</em></p>]]></description></item><item><title>About the Unified Modeling Language Specification Version 2.5.1</title><link>https://blog.emecas.net/posts/2025-02-25-about-the-unified-modeling-language-specification-version-2/</link><pubDate>Tue, 25 Feb 2025 13:53:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-25-about-the-unified-modeling-language-specification-version-2/</guid><description><![CDATA[<p>About the Unified Modeling Language Specification Version 2.5.1<br>
+<a href="https://www.omg.org/spec/UML" target="_blank" rel="noopener noreffer ">https://www.omg.org/spec/UML</a></p>
+<p>Issue #189 in emecas/commitit, open, opened on 2025-02-25.<br>
+<a href="https://github.com/emecas/commitit/issues/189" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/189</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/189" target="_blank" rel="noopener noreffer ">#189</a> in emecas/commitit, opened on 2025-02-25.</em></p>]]></description></item><item><title>The Limits of SysML v1 and how SysML v2 addresses them (2) | KnowGravity</title><link>https://blog.emecas.net/posts/2025-02-23-the-limits-of-sysml-v1-and-how-sysml-v2-addresses-them-2-kno/</link><pubDate>Sun, 23 Feb 2025 20:16:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-23-the-limits-of-sysml-v1-and-how-sysml-v2-addresses-them-2-kno/</guid><description><![CDATA[<p>The Limits of SysML v1 and how SysML v2 addresses them (2) | KnowGravity<br>
+<a href="https://www.knowgravity.com/the-limits-of-sysml-v1-and-how-sysml-v2-addresses-them-2" target="_blank" rel="noopener noreffer ">https://www.knowgravity.com/the-limits-of-sysml-v1-and-how-sysml-v2-addresses-them-2</a></p>
+<p>Issue #188 in emecas/commitit, open, opened on 2025-02-23.<br>
+<a href="https://github.com/emecas/commitit/issues/188" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/188</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/188" target="_blank" rel="noopener noreffer ">#188</a> in emecas/commitit, opened on 2025-02-23.</em></p>]]></description></item><item><title>Diagram(s) generator from OpenAPI documentation</title><link>https://blog.emecas.net/posts/2024-10-25-diagram-s-generator-from-openapi-documentation/</link><pubDate>Fri, 25 Oct 2024 02:48:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-25-diagram-s-generator-from-openapi-documentation/</guid><description><![CDATA[<p>Diagram(s) generator from OpenAPI documentation</p>
+<p>Issue #184 in emecas/commitit, open, opened on 2024-10-25.<br>
+<a href="https://github.com/emecas/commitit/issues/184" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/184</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/184" target="_blank" rel="noopener noreffer ">#184</a> in emecas/commitit, opened on 2024-10-25.</em></p>]]></description></item><item><title>mermaid-js/mermaid-cli</title><link>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</link><pubDate>Sat, 05 Oct 2024 00:15:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-05-mermaid-js-mermaid-cli/</guid><description><![CDATA[<p>mermaid-js/mermaid-cli<br>
 Command line tool for the Mermaid library<br>
 JavaScript repository by mermaid-js, created in 2020, with 5,161 stars and 396 forks. License: MIT. Starred on 2024-10-05.<br>
 <a href="https://github.com/mermaid-js/mermaid-cli" target="_blank" rel="noopener noreffer ">https://github.com/mermaid-js/mermaid-cli</a></p>
@@ -26,46 +50,4 @@ repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noop
 demo: <a href="https://mrwilson.github.io/adr-viewer/index.html" target="_blank" rel="noopener noreffer ">https://mrwilson.github.io/adr-viewer/index.html</a></p>
 <p>Ref: in <a href="https://formulae.brew.sh/formula/" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/</a> index</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
-CLI tool for working with Architecture Decision Records<br>
-<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
-repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
-<p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
-<a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
-<p>Joel Parker Henderson<br>
-<a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
-<a href="http://www.joelparkerhenderson.com/" target="_blank" rel="noopener noreffer ">http://www.joelparkerhenderson.com/</a></p>
-<p>About</p>
-<p>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</p>
-<p>Contents:</p>
-<p>What is an architecture decision record?<br>
-How to start using ADRs<br>
-How to start using ADRs with tools<br>
-How to start using ADRs with git<br>
-File name conventions for ADRs<br>
-Suggestions for writing good ADRs<br>
-ADR example templates<br>
-Teamwork advice for ADRs<br>
-For more information</p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
-API Documentation Browser<br>
-Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
-Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
-<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2024-03-02: <a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">freeCodeCamp/devdocs</a>.</em></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
-Generate beautiful API documentation from OpenAPI</p>
-<p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
-<p>By default Redoc offers a three-panel, responsive layout:</p>
-<p>The left panel contains a search bar and navigation menu.<br>
-The central panel contains the documentation.<br>
-The right panel contains request and response examples.</p>
-<p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>jekyll/jekyll</title><link>https://blog.emecas.net/posts/2022-07-24-jekyll-jekyll/</link><pubDate>Sun, 24 Jul 2022 00:10:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-24-jekyll-jekyll/</guid><description><![CDATA[<p>jekyll/jekyll<br>
-:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby<br>
-Ruby repository by jekyll, created in 2008, with 51,762 stars and 10,299 forks. License: MIT. Starred on 2022-07-24.<br>
-Homepage: <a href="https://jekyllrb.com" target="_blank" rel="noopener noreffer ">https://jekyllrb.com</a><br>
-<a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreffer ">https://github.com/jekyll/jekyll</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2022-07-24: <a href="https://github.com/jekyll/jekyll" target="_blank" rel="noopener noreffer ">jekyll/jekyll</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ed9f24c0d047a498fd2d537a0dca09f285816802" target="_blank" rel="noopener noreffer "><code>ed9f24c</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

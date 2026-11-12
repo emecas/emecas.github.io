@@ -10,7 +10,12 @@ Apache Superset is an open-source modern data exploration and visualization plat
 • Semantic layer for SQL data transformations<br>
 • Cross-filters, drill-to-detail, and drill-by features for deeper data analysis<br>
 • Virtual datasets for ad-hoc data exploration<br>
-• Access to new functionalities through feature flags</p>]]></description></item><item><title>FFDA/SourCherry</title><link>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</link><pubDate>Sun, 24 Sep 2023 16:36:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</guid><description><![CDATA[<p>FFDA/SourCherry<br>
+• Access to new functionalities through feature flags</p>]]></description></item><item><title>NewSQL Databases Concept</title><link>https://blog.emecas.net/posts/2024-10-30-newsql-databases-concept/</link><pubDate>Wed, 30 Oct 2024 16:24:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-30-newsql-databases-concept/</guid><description><![CDATA[<p>NewSQL Databases Concept<br>
+From SATHP</p>
+<p>Issue #185 in emecas/commitit, open, opened on 2024-10-30.<br>
+<a href="https://github.com/emecas/commitit/issues/185" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/185</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/185" target="_blank" rel="noopener noreffer ">#185</a> in emecas/commitit, opened on 2024-10-30.</em></p>]]></description></item><item><title>FFDA/SourCherry</title><link>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</link><pubDate>Sun, 24 Sep 2023 16:36:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-09-24-ffda-sourcherry/</guid><description><![CDATA[<p>FFDA/SourCherry<br>
 Android app to open CherryTree databases<br>
 Java repository by FFDA, created in 2022, with 120 stars and 5 forks. License: GPL-3.0. Starred on 2023-09-24.<br>
 <a href="https://github.com/FFDA/SourCherry" target="_blank" rel="noopener noreffer ">https://github.com/FFDA/SourCherry</a></p>

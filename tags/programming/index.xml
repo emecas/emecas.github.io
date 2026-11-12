@@ -1,4 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming - Tag - My Notes</title><link>https://blog.emecas.net/tags/programming/</link><description>Programming - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Aug 2022 21:08:52 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/programming/" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming - Tag - My Notes</title><link>https://blog.emecas.net/tags/programming/</link><description>Programming - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 11 Apr 2024 15:52:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/programming/" rel="self" type="application/rss+xml"/><item><title>Mojo 🔥: Programming language for all of AI</title><link>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</link><pubDate>Thu, 11 Apr 2024 15:52:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</guid><description><![CDATA[<p>Mojo 🔥: Programming language for all of AI<br>
+<a href="https://www.modular.com/max/mojo" target="_blank" rel="noopener noreffer ">https://www.modular.com/max/mojo</a></p>
+<p>MAX Platform<br>
+Mojo<br>
+Mojo 🔥 — the programming language for all AI developers</p>
+<p>Issue #162 in emecas/commitit, open, opened on 2024-04-11.<br>
+<a href="https://github.com/emecas/commitit/issues/162" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/162</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/162" target="_blank" rel="noopener noreffer ">#162</a> in emecas/commitit, opened on 2024-04-11.</em></p>]]></description></item><item><title>A Retrospective on Paradigms of AI Programming</title><link>https://blog.emecas.net/posts/2024-04-06-a-retrospective-on-paradigms-of-ai-programming/</link><pubDate>Sat, 06 Apr 2024 20:38:31 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-06-a-retrospective-on-paradigms-of-ai-programming/</guid><description><![CDATA[<p>A Retrospective on Paradigms of AI Programming<br>
+<a href="https://norvig.com/Lisp-retro.html" target="_blank" rel="noopener noreffer ">https://norvig.com/Lisp-retro.html</a></p>
+<p>Issue #155 in emecas/commitit, open, opened on 2024-04-06.<br>
+<a href="https://github.com/emecas/commitit/issues/155" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/155</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/155" target="_blank" rel="noopener noreffer ">#155</a> in emecas/commitit, opened on 2024-04-06.</em></p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
 <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
 Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
 <p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
@@ -12,7 +25,13 @@ Markdown repository by codecrafters-io, created in 2018, with 561,637 stars and 
 Homepage: <a href="https://codecrafters.io" target="_blank" rel="noopener noreffer ">https://codecrafters.io</a><br>
 <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreffer ">https://github.com/codecrafters-io/build-your-own-x</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-09-02: <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreffer ">codecrafters-io/build-your-own-x</a>.</em></p>]]></description></item><item><title>analysis-tools-dev/dynamic-analysis</title><link>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-dynamic-analysis/</link><pubDate>Tue, 18 Feb 2020 11:24:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-dynamic-analysis/</guid><description><![CDATA[<p>analysis-tools-dev/dynamic-analysis<br>
+<p><em>Source: starred on GitHub on 2020-09-02: <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank" rel="noopener noreffer ">codecrafters-io/build-your-own-x</a>.</em></p>]]></description></item><item><title>The Byzantine Generals Problem</title><link>https://blog.emecas.net/posts/2020-03-06-the-byzantine-generals-problem/</link><pubDate>Fri, 06 Mar 2020 12:59:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-06-the-byzantine-generals-problem/</guid><description><![CDATA[<p>The Byzantine Generals Problem<br>
+ACM Transactions on Programming Language and Systems (TOPLAS), V4 N3 382-401 Jul 1982</p>
+<p><a href="https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf" target="_blank" rel="noopener noreffer ">https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf</a></p>
+<p>Issue #28 in emecas/commitit, open, opened on 2020-03-06.<br>
+<a href="https://github.com/emecas/commitit/issues/28" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/28</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/28" target="_blank" rel="noopener noreffer ">#28</a> in emecas/commitit, opened on 2020-03-06.</em></p>]]></description></item><item><title>analysis-tools-dev/dynamic-analysis</title><link>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-dynamic-analysis/</link><pubDate>Tue, 18 Feb 2020 11:24:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-18-analysis-tools-dev-dynamic-analysis/</guid><description><![CDATA[<p>analysis-tools-dev/dynamic-analysis<br>
 ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.<br>
 Rust repository by analysis-tools-dev, created in 2018, with 1,110 stars and 120 forks. License: MIT. Starred on 2020-02-18.<br>
 Homepage: <a href="https://analysis-tools.dev" target="_blank" rel="noopener noreffer ">https://analysis-tools.dev</a><br>
@@ -39,22 +58,4 @@ Scala repository by milessabin, created in 2011, with 3,400 stars and 519 forks.
 By: Kent BeckF<br>
 Oct 9, 2018</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/14638572f5df19888f9e6c0ca02641b70fff285f" target="_blank" rel="noopener noreffer "><code>1463857</code></a> in My-Notes.</em></p>]]></description></item><item><title>test &amp;&amp; commit \|\| revert</title><link>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</link><pubDate>Tue, 29 Jan 2019 19:45:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-29-test-commit-revert/</guid><description><![CDATA[<p>test &amp;&amp; commit || revert<br>
-<a href="https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864</a><br>
-By: Kent Beck<br>
-Sep 28, 2018</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d4aaaaf7ebd2030f6376c8ac3942911eba7868d" target="_blank" rel="noopener noreffer "><code>0d4aaaa</code></a> in My-Notes.</em></p>]]></description></item><item><title>JVM Calendar: 19 Lessons in a Kata</title><link>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</link><pubDate>Mon, 28 Jan 2019 18:13:17 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-28-jvm-calendar-19-lessons-in-a-kata/</guid><description><![CDATA[<p>JVM Calendar: 19 Lessons in a Kata<br>
-<a href="https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/jvm-calendar-19-lessons-in-a-kata</a><br>
-Here&rsquo;s how you can truly master Kata.</p>
-<p>We Learn Best by Doing:<br>
-In this blog, I will show you how to get started coding the Eclipse Collections Pet Kata.<br>
-If you want to become proficient in Eclipse Collections, you should practice the Kata on your own.<br>
-In order to truly master the Kata, try teaching the Kata to others, teaching results in deeper learning.<br>
-Git repo: <a href="https://github.com/eclipse/eclipse-collections-kata" target="_blank" rel="noopener noreffer ">https://github.com/eclipse/eclipse-collections-kata</a></p>]]></description></item><item><title>Efficient Programming with Components</title><link>https://blog.emecas.net/posts/2019-01-28-efficient-programming-with-components/</link><pubDate>Mon, 28 Jan 2019 11:07:40 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-28-efficient-programming-with-components/</guid><description><![CDATA[<p>Efficient Programming with Components (39 videos)<br>
-<a href="https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD" target="_blank" rel="noopener noreffer ">https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD</a><br>
-By Alexander Stepanov<br>
-A9 Videos<br>
-Published on Apr 22, 2013</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0dc08da016adad81c7702d459960e8b2d1bd25a7" target="_blank" rel="noopener noreffer "><code>0dc08da</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/14638572f5df19888f9e6c0ca02641b70fff285f" target="_blank" rel="noopener noreffer "><code>1463857</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

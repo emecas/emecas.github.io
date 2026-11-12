@@ -9,7 +9,12 @@ Go repository by prometheus, created in 2012, with 67,625 stars and 11,019 forks
 Homepage: <a href="https://prometheus.io/" target="_blank" rel="noopener noreffer ">https://prometheus.io/</a><br>
 <a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">https://github.com/prometheus/prometheus</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">prometheus/prometheus</a>.</em></p>]]></description></item><item><title>YuliaRubanova/latent_ode</title><link>https://blog.emecas.net/posts/2020-02-24-yuliarubanova-latent-ode/</link><pubDate>Mon, 24 Feb 2020 11:00:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-yuliarubanova-latent-ode/</guid><description><![CDATA[<p>YuliaRubanova/latent_ode<br>
+<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/prometheus/prometheus" target="_blank" rel="noopener noreffer ">prometheus/prometheus</a>.</em></p>]]></description></item><item><title>Review Lamport Timestamp</title><link>https://blog.emecas.net/posts/2020-04-03-review-lamport-timestamp/</link><pubDate>Fri, 03 Apr 2020 19:13:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-03-review-lamport-timestamp/</guid><description><![CDATA[<p>Review Lamport Timestamp<br>
+Leslie Lamport. Time, Clocks, and the Ordering of Events in a Distributed System. Communications of the ACM. Vol 21 num 7 558-565 Jul 1978</p>
+<p>Issue #43 in emecas/commitit, open, opened on 2020-04-03.<br>
+<a href="https://github.com/emecas/commitit/issues/43" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/43</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/43" target="_blank" rel="noopener noreffer ">#43</a> in emecas/commitit, opened on 2020-04-03.</em></p>]]></description></item><item><title>YuliaRubanova/latent_ode</title><link>https://blog.emecas.net/posts/2020-02-24-yuliarubanova-latent-ode/</link><pubDate>Mon, 24 Feb 2020 11:00:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-24-yuliarubanova-latent-ode/</guid><description><![CDATA[<p>YuliaRubanova/latent_ode<br>
 Code for &ldquo;Latent ODEs for Irregularly-Sampled Time Series&rdquo; paper<br>
 Python repository by YuliaRubanova, created in 2019, with 601 stars and 135 forks. License: MIT. Starred on 2020-02-24.<br>
 <a href="https://github.com/YuliaRubanova/latent_ode" target="_blank" rel="noopener noreffer ">https://github.com/YuliaRubanova/latent_ode</a></p>

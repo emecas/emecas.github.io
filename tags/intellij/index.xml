@@ -1,4 +1,27 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Intellij - Tag - My Notes</title><link>https://blog.emecas.net/tags/intellij/</link><description>Intellij - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jan 2018 13:10:43 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/intellij/" rel="self" type="application/rss+xml"/><item><title>Project Lombok - Never write another getter or equals method again</title><link>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</link><pubDate>Tue, 02 Jan 2018 13:10:43 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</guid><description><![CDATA[<p>Project Lombok<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Intellij - Tag - My Notes</title><link>https://blog.emecas.net/tags/intellij/</link><description>Intellij - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Apr 2024 19:54:57 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/intellij/" rel="self" type="application/rss+xml"/><item><title>Developer Productivity With IntelliJ IDEA - Trisha Gee</title><link>https://blog.emecas.net/posts/2024-04-09-developer-productivity-with-intellij-idea-trisha-gee/</link><pubDate>Tue, 09 Apr 2024 19:54:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-09-developer-productivity-with-intellij-idea-trisha-gee/</guid><description><![CDATA[<p>Developer Productivity With IntelliJ IDEA - Trisha Gee<br>
+<a href="https://trishagee.com/developer-productivity-with-intellij-idea/" target="_blank" rel="noopener noreffer ">https://trishagee.com/developer-productivity-with-intellij-idea/</a></p>
+<p>Issue #158 in emecas/commitit, open, opened on 2024-04-09.<br>
+<a href="https://github.com/emecas/commitit/issues/158" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/158</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/158" target="_blank" rel="noopener noreffer ">#158</a> in emecas/commitit, opened on 2024-04-09.</em></p>]]></description></item><item><title>IntelliJ IDEA a Conf 2024: Mastering Java Testing With JUnit, Mockito, and Assert in IntelliJ IDEA</title><link>https://blog.emecas.net/posts/2024-03-15-intellij-idea-a-conf-2024-mastering-java-testing-with-junit/</link><pubDate>Fri, 15 Mar 2024 14:33:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-15-intellij-idea-a-conf-2024-mastering-java-testing-with-junit/</guid><description><![CDATA[<p>IntelliJ IDEA a Conf 2024: Mastering Java Testing With JUnit, Mockito, and Assert in IntelliJ IDEA<br>
+<a href="https://youtube.com/shorts/Fyg0SI7jwWc?feature=shared" target="_blank" rel="noopener noreffer ">https://youtube.com/shorts/Fyg0SI7jwWc?feature=shared</a></p>
+<p>To Do: Look/wait for full recording</p>
+<p>Issue #147 in emecas/commitit, open, opened on 2024-03-15.<br>
+<a href="https://github.com/emecas/commitit/issues/147" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/147</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/147" target="_blank" rel="noopener noreffer ">#147</a> in emecas/commitit, opened on 2024-03-15.</em></p>]]></description></item><item><title>IntelliJ IDEA Conf 2024</title><link>https://blog.emecas.net/posts/2024-03-06-intellij-idea-conf-2024/</link><pubDate>Wed, 06 Mar 2024 08:57:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-06-intellij-idea-conf-2024/</guid><description><![CDATA[<p>IntelliJ IDEA Conf 2024<br>
+Free virtual event</p>
+<p>March 6 - 7, 2024</p>
+<p>11:00–18:00 UTC</p>
+<p>12:00–19:00 CET/CEST</p>
+<p>06:00–13:00 EST/EDT</p>
+<p>Agenda:<br>
+<a href="https://lp.jetbrains.com/intellij-idea-conf-2024/?utm_campaign=intellijideaconf&amp;utm_medium=idea&amp;utm_source=twitter&amp;s=09#agenda" target="_blank" rel="noopener noreffer ">https://lp.jetbrains.com/intellij-idea-conf-2024/?utm_campaign=intellijideaconf&utm_medium=idea&utm_source=twitter&s=09#agenda</a></p>
+<p>Day 1: <a href="https://www.youtube.com/live/ZD_YxTmQ16Q?si=SA7FvSk0kTiuMcee" target="_blank" rel="noopener noreffer ">https://www.youtube.com/live/ZD_YxTmQ16Q?si=SA7FvSk0kTiuMcee</a></p>
+<p>Issue #140 in emecas/commitit, open, opened on 2024-03-06.<br>
+<a href="https://github.com/emecas/commitit/issues/140" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/140</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/140" target="_blank" rel="noopener noreffer ">#140</a> in emecas/commitit, opened on 2024-03-06.</em></p>]]></description></item><item><title>Project Lombok - Never write another getter or equals method again</title><link>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</link><pubDate>Tue, 02 Jan 2018 13:10:43 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-02-project-lombok-never-write-another-getter-or-equals-method-a/</guid><description><![CDATA[<p>Project Lombok<br>
 <a href="https://projectlombok.org/" target="_blank" rel="noopener noreffer ">https://projectlombok.org/</a><br>
 Project Lombok is a java library that automatically plugs into your editor and build tools, spicing up your java.<br>
 Never write another getter or equals method again. Early access to future java features such as val, and much more.<br>

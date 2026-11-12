@@ -1,8 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kotlin - Tag - My Notes</title><link>https://blog.emecas.net/tags/kotlin/</link><description>Kotlin - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Dec 2023 17:47:35 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kotlin/" rel="self" type="application/rss+xml"/><item><title>dogriffiths/HFKotlin</title><link>https://blog.emecas.net/posts/2023-12-07-dogriffiths-hfkotlin/</link><pubDate>Thu, 07 Dec 2023 17:47:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-12-07-dogriffiths-hfkotlin/</guid><description><![CDATA[<p>dogriffiths/HFKotlin<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kotlin - Tag - My Notes</title><link>https://blog.emecas.net/tags/kotlin/</link><description>Kotlin - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 Mar 2024 19:25:50 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kotlin/" rel="self" type="application/rss+xml"/><item><title>Ktor: Build Asynchronous Servers and Clients in Kotlin | Ktor Framework</title><link>https://blog.emecas.net/posts/2024-03-17-ktor-build-asynchronous-servers-and-clients-in-kotlin-ktor-f/</link><pubDate>Sun, 17 Mar 2024 19:25:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-17-ktor-build-asynchronous-servers-and-clients-in-kotlin-ktor-f/</guid><description><![CDATA[<p>Ktor: Build Asynchronous Servers and Clients in Kotlin | Ktor Framework<br>
+<a href="https://ktor.io/" target="_blank" rel="noopener noreffer ">https://ktor.io/</a></p>
+<p>2024  Ktor roadmap</p>
+<p><a href="https://blog.jetbrains.com/kotlin/2024/03/the-ktor-roadmap-for-2024/" target="_blank" rel="noopener noreffer ">https://blog.jetbrains.com/kotlin/2024/03/the-ktor-roadmap-for-2024/</a></p>
+<p>Issue #151 in emecas/commitit, open, opened on 2024-03-17.<br>
+<a href="https://github.com/emecas/commitit/issues/151" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/151</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/151" target="_blank" rel="noopener noreffer ">#151</a> in emecas/commitit, opened on 2024-03-17.</em></p>]]></description></item><item><title>dogriffiths/HFKotlin</title><link>https://blog.emecas.net/posts/2023-12-07-dogriffiths-hfkotlin/</link><pubDate>Thu, 07 Dec 2023 17:47:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-12-07-dogriffiths-hfkotlin/</guid><description><![CDATA[<p>dogriffiths/HFKotlin<br>
 Kotlin repository by dogriffiths, created in 2018, with 48 stars and 21 forks. Starred on 2023-12-07.<br>
 <a href="https://github.com/dogriffiths/HFKotlin" target="_blank" rel="noopener noreffer ">https://github.com/dogriffiths/HFKotlin</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2023-12-07: <a href="https://github.com/dogriffiths/HFKotlin" target="_blank" rel="noopener noreffer ">dogriffiths/HFKotlin</a>.</em></p>]]></description></item><item><title>moezbhatti/qksms</title><link>https://blog.emecas.net/posts/2023-11-06-moezbhatti-qksms/</link><pubDate>Mon, 06 Nov 2023 23:12:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-06-moezbhatti-qksms/</guid><description><![CDATA[<p>moezbhatti/qksms<br>
+<p><em>Source: starred on GitHub on 2023-12-07: <a href="https://github.com/dogriffiths/HFKotlin" target="_blank" rel="noopener noreffer ">dogriffiths/HFKotlin</a>.</em></p>]]></description></item><item><title>ki: The Next Interactive Shell for Kotlin | The Kotlin Blog</title><link>https://blog.emecas.net/posts/2023-11-10-ki-the-next-interactive-shell-for-kotlin-the-kotlin-blog/</link><pubDate>Fri, 10 Nov 2023 03:58:54 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-10-ki-the-next-interactive-shell-for-kotlin-the-kotlin-blog/</guid><description><![CDATA[<p>ki: The Next Interactive Shell for Kotlin | The Kotlin Blog<br>
+<a href="https://blog.jetbrains.com/kotlin/2021/04/ki-the-next-interactive-shell-for-kotlin/" target="_blank" rel="noopener noreffer ">https://blog.jetbrains.com/kotlin/2021/04/ki-the-next-interactive-shell-for-kotlin/</a></p>
+<p>Issue #128 in emecas/commitit, open, opened on 2023-11-10.<br>
+<a href="https://github.com/emecas/commitit/issues/128" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/128</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/128" target="_blank" rel="noopener noreffer ">#128</a> in emecas/commitit, opened on 2023-11-10.</em></p>]]></description></item><item><title>moezbhatti/qksms</title><link>https://blog.emecas.net/posts/2023-11-06-moezbhatti-qksms/</link><pubDate>Mon, 06 Nov 2023 23:12:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-06-moezbhatti-qksms/</guid><description><![CDATA[<p>moezbhatti/qksms<br>
 The most beautiful SMS messenger for Android<br>
 Kotlin repository by moezbhatti, created in 2015, with 4,599 stars and 1,066 forks. License: GPL-3.0. Starred on 2023-11-06.<br>
 Homepage: <a href="https://qklabs.com/download" target="_blank" rel="noopener noreffer ">https://qklabs.com/download</a><br>
@@ -54,16 +66,4 @@ A plugin for the Gradle build system that allows specifying test sets (like inte
 Kotlin repository by unbroken-dome, created in 2015, with 233 stars and 49 forks. License: MIT. Starred on 2020-04-30.<br>
 <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">https://github.com/unbroken-dome/gradle-testsets-plugin</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-04-30: <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">unbroken-dome/gradle-testsets-plugin</a>.</em></p>]]></description></item><item><title>tasks/tasks</title><link>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</link><pubDate>Mon, 02 Mar 2020 01:25:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</guid><description><![CDATA[<p>tasks/tasks<br>
-Bringing Astrid Tasks back from the dead<br>
-Kotlin repository by tasks, created in 2013, with 5,733 stars and 676 forks. License: GPL-3.0. Starred on 2020-03-02.<br>
-Homepage: <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>
-<a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">https://github.com/tasks/tasks</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-03-02: <a href="https://github.com/tasks/tasks" target="_blank" rel="noopener noreffer ">tasks/tasks</a>.</em></p>]]></description></item><item><title>JetBrains/kotlin</title><link>https://blog.emecas.net/posts/2020-02-04-jetbrains-kotlin/</link><pubDate>Tue, 04 Feb 2020 18:01:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-04-jetbrains-kotlin/</guid><description><![CDATA[<p>JetBrains/kotlin<br>
-The Kotlin Programming Language.<br>
-Kotlin repository by JetBrains, created in 2012, with 53,562 stars and 6,460 forks. Starred on 2020-02-04.<br>
-Homepage: <a href="https://kotlinlang.org" target="_blank" rel="noopener noreffer ">https://kotlinlang.org</a><br>
-<a href="https://github.com/JetBrains/kotlin" target="_blank" rel="noopener noreffer ">https://github.com/JetBrains/kotlin</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-02-04: <a href="https://github.com/JetBrains/kotlin" target="_blank" rel="noopener noreffer ">JetBrains/kotlin</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-04-30: <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">unbroken-dome/gradle-testsets-plugin</a>.</em></p>]]></description></item></channel></rss>

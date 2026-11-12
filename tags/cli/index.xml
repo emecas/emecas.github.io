@@ -3,7 +3,14 @@
 Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
 <p>Everything in its place, before you code.<br>
 In a professional kitchen, mise en place is the ritual of prep: knives sharpened, onions diced, stock warm, station clean. The work before the work.<br>
-mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+mise does the same for your dev env. It activates the right language versions, loads the right env vars, and wires up the right tasks for the commands you run.</p>]]></description></item><item><title>Bit - CLI/TUI ANSI Logo Maker</title><link>https://blog.emecas.net/posts/2025-11-04-bit-cli-tui-ansi-logo-maker/</link><pubDate>Tue, 04 Nov 2025 05:53:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-04-bit-cli-tui-ansi-logo-maker/</guid><description><![CDATA[<p>Bit - CLI/TUI ANSI Logo Maker<br>
+Bit - CLI/TUI ANSI Logo Maker</p>
+<p><a href="https://github.com/superstarryeyes/bit" target="_blank" rel="noopener noreffer ">https://github.com/superstarryeyes/bit</a></p>
+<p><a href="https://www.reddit.com/r/commandline/s/vlYRnC9dge" target="_blank" rel="noopener noreffer ">https://www.reddit.com/r/commandline/s/vlYRnC9dge</a></p>
+<p>Issue #201 in emecas/commitit, open, opened on 2025-11-04.<br>
+<a href="https://github.com/emecas/commitit/issues/201" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/201</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/201" target="_blank" rel="noopener noreffer ">#201</a> in emecas/commitit, opened on 2025-11-04.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
 <a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
 Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
 <p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
@@ -76,38 +83,4 @@ Homepage: <a href="https://dxscanner.io" target="_blank" rel="noopener noreffer 
 <a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
 The Software Development Kit Manager</p>
 <p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
-<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item><item><title>HAL Management Console</title><link>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</link><pubDate>Mon, 04 May 2020 22:26:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-04-hal-management-console/</guid><description><![CDATA[<p>HAL Management Console<br>
-WildFly Full<br>
-<a href="https://www.wildfly.org/" target="_blank" rel="noopener noreffer ">https://www.wildfly.org/</a><br>
-WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications.</p>
-<p>Doc: <a href="https://docs.wildfly.org/19/" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/</a><br>
-<a href="https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface" target="_blank" rel="noopener noreffer ">https://docs.wildfly.org/19/Admin_Guide.html#web-management-interface</a></p>
-<p>Configuration sample:</p>
-<p>&lt;plugins&gt;</p>
-<p>&lt;plugin&gt;<br>
-&lt;groupId&gt;org.wildfly.plugins&lt;/groupId&gt;<br>
-&lt;artifactId&gt;wildfly-maven-plugin&lt;/artifactId&gt;<br>
-&lt;version&gt;2.0.2.Final&lt;/version&gt;<br>
-&lt;configuration&gt;<br>
-&lt;version&gt;19.0.0.Final&lt;/version&gt;<br>
-&lt;server-config&gt;standalone-microprofile.xml&lt;/server-config&gt;<br>
-&lt;systemProperties&gt;<br>
-&lt;jboss.tx.node.id&gt;1&lt;/jboss.tx.node.id&gt;<br>
-&lt;/systemProperties&gt;<br>
-&lt;!-- So that you can log into localhost:9990 --&gt;<br>
-&lt;add-user&gt;<br>
-&lt;users&gt;<br>
-&lt;user&gt;<br>
-&lt;username&gt;admin&lt;/username&gt;<br>
-&lt;password&gt;password&lt;/password&gt;<br>
-&lt;groups&gt;<br>
-&lt;group&gt;admin&lt;/group&gt;<br>
-&lt;/groups&gt;<br>
-&lt;/user&gt;<br>
-&lt;/users&gt;<br>
-&lt;/add-user&gt;<br>
-&lt;/configuration&gt;<br>
-&lt;/plugin&gt;<br>
-&lt;/plugins&gt;</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c05edce7842a327a90d56129ec3be12fdfb7448c" target="_blank" rel="noopener noreffer "><code>c05edce</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item></channel></rss>

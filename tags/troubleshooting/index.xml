@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Troubleshooting - Tag - My Notes</title><link>https://blog.emecas.net/tags/troubleshooting/</link><description>Troubleshooting - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 11 Aug 2022 01:57:22 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/troubleshooting/" rel="self" type="application/rss+xml"/><item><title>[Complete] Troubleshooting SDKMAN switching java versions and Maven Interaction</title><link>https://blog.emecas.net/posts/2022-08-11-complete-troubleshooting-sdkman-switching-java-versions-and/</link><pubDate>Thu, 11 Aug 2022 01:57:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-11-complete-troubleshooting-sdkman-switching-java-versions-and/</guid><description><![CDATA[<p>[Complete] Troubleshooting SDKMAN switching java versions and Maven Interaction<br>
+☑ Dependencies -&gt; zip: <a href="https://sourceforge.net/projects/gnuwin32/" target="_blank" rel="noopener noreffer ">https://sourceforge.net/projects/gnuwin32/</a><br>
+☑ Installation<br>
+☑ SDKs Installations:  sdk install java 8.0.302-open<br>
+☐ Additional Config<br>
+☐ Maven Config<br>
+☐ Figure out how to switch java version without changing environment variables manually</p>
+<p>Issue #92 in emecas/commitit, open, opened on 2022-08-11. Labels: WIP, P-Medium.<br>
+<a href="https://github.com/emecas/commitit/issues/92" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/92</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/92" target="_blank" rel="noopener noreffer ">#92</a> in emecas/commitit, opened on 2022-08-11.</em></p>]]></description></item></channel></rss>

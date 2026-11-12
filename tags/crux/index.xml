@@ -7,4 +7,17 @@ Java, Clojure and HTTP APIs are provided.<br>
 Ref: Introducing Crux JDBC<br>
 <a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/26c5fba502a08f3578b4ab73e6c2e4904dbc1a50" target="_blank" rel="noopener noreffer "><code>26c5fba</code></a> in My-Notes.</em></p>]]></description></item><item><title>Crux JDBC</title><link>https://blog.emecas.net/posts/2020-02-09-crux-jdbc/</link><pubDate>Sun, 09 Feb 2020 00:00:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-crux-jdbc/</guid><description><![CDATA[<p>Crux JDBC<br>
+Introducing Crux JDBC</p>
+<p>Alternative to Kafka</p>
+<p><a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
+<p>Comment on 2020-02-09:<br>
+<a href="https://github.com/emecas/My-Notes.git" target="_blank" rel="noopener noreffer ">https://github.com/emecas/My-Notes.git</a></p>
+<p>commit 26c5fba502a08f3578b4ab73e6c2e4904dbc1a50<br>
+Author: Castaneda, Emerson &lt;emecas@users.noreply.github.com&gt;<br>
+Date:   Sat Feb 8 19:07:00 2020 -0500</p>
+<p>Crux Open Time Store [Time] [graph] [Open-Source] [MIT] [API]</p>
+<p>Issue #3 in emecas/commitit, closed, opened on 2020-02-09.<br>
+<a href="https://github.com/emecas/commitit/issues/3" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/3</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/3" target="_blank" rel="noopener noreffer ">#3</a> in emecas/commitit, opened on 2020-02-09.</em></p>]]></description></item></channel></rss>

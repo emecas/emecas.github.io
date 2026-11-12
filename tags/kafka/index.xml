@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kafka - Tag - My Notes</title><link>https://blog.emecas.net/tags/kafka/</link><description>Kafka - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Apr 2019 18:28:01 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kafka/" rel="self" type="application/rss+xml"/><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Kafka - Tag - My Notes</title><link>https://blog.emecas.net/tags/kafka/</link><description>Kafka - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 26 Jun 2026 12:42:57 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/kafka/" rel="self" type="application/rss+xml"/><item><title>Kafka is easier to understand when you can break it — Monedula</title><link>https://blog.emecas.net/posts/2026-06-26-kafka-is-easier-to-understand-when-you-can-break-it-monedula/</link><pubDate>Fri, 26 Jun 2026 12:42:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-06-26-kafka-is-easier-to-understand-when-you-can-break-it-monedula/</guid><description><![CDATA[<p>Kafka is easier to understand when you can break it — Monedula<br>
+<a href="https://monedula.dev/blog/kafka-simulator-learn-kafka-by-breaking-it/" target="_blank" rel="noopener noreffer ">https://monedula.dev/blog/kafka-simulator-learn-kafka-by-breaking-it/</a></p>
+<p>Issue #209 in emecas/commitit, open, opened on 2026-06-26.<br>
+<a href="https://github.com/emecas/commitit/issues/209" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/209</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/209" target="_blank" rel="noopener noreffer ">#209</a> in emecas/commitit, opened on 2026-06-26.</em></p>]]></description></item><item><title>Crux JDBC</title><link>https://blog.emecas.net/posts/2020-02-09-crux-jdbc/</link><pubDate>Sun, 09 Feb 2020 00:00:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-crux-jdbc/</guid><description><![CDATA[<p>Crux JDBC<br>
+Introducing Crux JDBC</p>
+<p>Alternative to Kafka</p>
+<p><a href="https://juxt.pro/blog/posts/crux-jdbc.html" target="_blank" rel="noopener noreffer ">https://juxt.pro/blog/posts/crux-jdbc.html</a></p>
+<p>Comment on 2020-02-09:<br>
+<a href="https://github.com/emecas/My-Notes.git" target="_blank" rel="noopener noreffer ">https://github.com/emecas/My-Notes.git</a></p>
+<p>commit 26c5fba502a08f3578b4ab73e6c2e4904dbc1a50<br>
+Author: Castaneda, Emerson &lt;emecas@users.noreply.github.com&gt;<br>
+Date:   Sat Feb 8 19:07:00 2020 -0500</p>
+<p>Crux Open Time Store [Time] [graph] [Open-Source] [MIT] [API]</p>
+<p>Issue #3 in emecas/commitit, closed, opened on 2020-02-09.<br>
+<a href="https://github.com/emecas/commitit/issues/3" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/3</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/3" target="_blank" rel="noopener noreffer ">#3</a> in emecas/commitit, opened on 2020-02-09.</em></p>]]></description></item><item><title>apache/kafka</title><link>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</link><pubDate>Tue, 30 Apr 2019 18:28:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-30-apache-kafka/</guid><description><![CDATA[<p>apache/kafka<br>
 Apache Kafka - A distributed event streaming platform<br>
 Java repository by apache, created in 2011, with 34,205 stars and 15,683 forks. License: Apache-2.0. Starred on 2019-04-30.<br>
 Homepage: <a href="https://kafka.apache.org/" target="_blank" rel="noopener noreffer ">https://kafka.apache.org/</a><br>

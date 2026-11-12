@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Discussions - Tag - My Notes</title><link>https://blog.emecas.net/tags/discussions/</link><description>Discussions - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 05 Jan 2021 23:56:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/discussions/" rel="self" type="application/rss+xml"/><item><title>Enable Discussions and Research API available options</title><link>https://blog.emecas.net/posts/2021-01-05-enable-discussions-and-research-api-available-options/</link><pubDate>Tue, 05 Jan 2021 23:56:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-05-enable-discussions-and-research-api-available-options/</guid><description><![CDATA[<p>Enable Discussions and Research API available options<br>
+Explore on this repo initially</p>
+<p>Comment on 2021-01-06:<br>
+Announcement</p>
+<p>December 8, 2020<br>
+GitHub Discussions now available as a public beta<br>
+<a href="https://github.blog/changelog/2020-12-08-github-discussions-now-available-as-a-public-beta/" target="_blank" rel="noopener noreffer ">https://github.blog/changelog/2020-12-08-github-discussions-now-available-as-a-public-beta/</a></p>
+<p>Howto Enable Discussions</p>
+<p>Quickstart for GitHub Discussions<br>
+<a href="https://docs.github.com/en/free-pro-team@latest/discussions/quickstart" target="_blank" rel="noopener noreffer ">https://docs.github.com/en/free-pro-team@latest/discussions/quickstart</a></p>
+<p>API Options [WIP]</p>
+<p>Discussions API #43<br>
+<a href="https://github.com/github/feedback/discussions/43" target="_blank" rel="noopener noreffer ">https://github.com/github/feedback/discussions/43</a></p>
+<p>Possibility to &ldquo;import&rdquo; data from other forum platform? #36<br>
+<a href="https://github.com/github/feedback/discussions/36" target="_blank" rel="noopener noreffer ">https://github.com/github/feedback/discussions/36</a></p>
+<p>Issue #70 in emecas/commitit, open, opened on 2021-01-05. Labels: TODO.<br>
+<a href="https://github.com/emecas/commitit/issues/70" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/70</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/70" target="_blank" rel="noopener noreffer ">#70</a> in emecas/commitit, opened on 2021-01-05.</em></p>]]></description></item></channel></rss>

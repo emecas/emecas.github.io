@@ -3,7 +3,23 @@ Mirror of Apache Empire-db<br>
 Java repository by apache, created in 2011, with 95 stars and 26 forks. License: Apache-2.0. Starred on 2020-05-13.<br>
 <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">https://github.com/apache/empire-db</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-05-13: <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">apache/empire-db</a>.</em></p>]]></description></item><item><title>postgres/postgres</title><link>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</link><pubDate>Wed, 11 Sep 2019 11:00:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</guid><description><![CDATA[<p>postgres/postgres<br>
+<p><em>Source: starred on GitHub on 2020-05-13: <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">apache/empire-db</a>.</em></p>]]></description></item><item><title>How to Sync Issues to/from Mirror Repo?</title><link>https://blog.emecas.net/posts/2020-02-09-how-to-sync-issues-to-from-mirror-repo/</link><pubDate>Sun, 09 Feb 2020 17:12:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-09-how-to-sync-issues-to-from-mirror-repo/</guid><description><![CDATA[<p>How to Sync Issues to/from Mirror Repo?</p>
+<p>Comment on 2020-02-13:<br>
+github</p>
+<p>curl -i &ldquo;<a href="https://api.github.com/repos/" target="_blank" rel="noopener noreffer ">https://api.github.com/repos/</a>&lt;repo-owner&gt;/&lt;repo-name&gt;/issues&rdquo; -u &ldquo;&lt;user-name&gt;&rdquo;</p>
+<p>curl -i &ldquo;<a href="https://api.github.com/repos/emecas/commitit/issues" target="_blank" rel="noopener noreffer ">https://api.github.com/repos/emecas/commitit/issues</a>&rdquo; -u &ldquo;emecas&rdquo;</p>
+<p>gitlab</p>
+<p><a href="https://docs.gitlab.com/ee/api/issues.html" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/issues.html</a></p>
+<p>curl --header &ldquo;PRIVATE-TOKEN: &lt;your_access_token&gt;&rdquo; <a href="https://gitlab.example.com/api/v4/issues" target="_blank" rel="noopener noreffer ">https://gitlab.example.com/api/v4/issues</a></p>
+<p>New Issue:</p>
+<p><a href="https://docs.gitlab.com/ee/api/issues.html#new-issue" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/issues.html#new-issue</a></p>
+<p>POST /projects/:id/issues</p>
+<p>curl --request POST --header &ldquo;PRIVATE-TOKEN: &lt;your_access_token&gt;&rdquo; <a href="https://gitlab.example.com/api/v4/projects/4/issues?title=Issues%20with%20auth&amp;labels=bug" target="_blank" rel="noopener noreffer ">https://gitlab.example.com/api/v4/projects/4/issues?title=Issues%20with%20auth&labels=bug</a></p>
+<p>Comments on issues</p>
+<p><a href="https://docs.gitlab.com/ee/api/issues.html#comments-on-issues" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/issues.html#comments-on-issues</a></p>
+<p>Comments are done via the notes resource</p>
+<p><a href="https://docs.gitlab.com/ee/api/notes.html" target="_blank" rel="noopener noreffer ">https://docs.gitlab.com/ee/api/notes.html</a></p>
+<p>Create new issue note</p>]]></description></item><item><title>postgres/postgres</title><link>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</link><pubDate>Wed, 11 Sep 2019 11:00:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-11-postgres-postgres/</guid><description><![CDATA[<p>postgres/postgres<br>
 Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don&rsquo;t work with pull requests on github. To contribute, please see <a href="https://wiki.postgresql.org/wiki/Submitting_a_Patch" target="_blank" rel="noopener noreffer ">https://wiki.postgresql.org/wiki/Submitting_a_Patch</a><br>
 C repository by postgres, created in 2010, with 22,782 stars and 6,103 forks. Starred on 2019-09-11.<br>
 Homepage: <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreffer ">https://www.postgresql.org/</a><br>

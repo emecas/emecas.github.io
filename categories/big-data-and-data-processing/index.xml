@@ -3,13 +3,28 @@ Java repository by anastaciocintra, created in 2020, with 53 stars and 18 forks.
 Homepage: <a href="https://anastaciocintra.github.io/escpos-coffee" target="_blank" rel="noopener noreffer ">https://anastaciocintra.github.io/escpos-coffee</a><br>
 <a href="https://github.com/anastaciocintra/escpos-coffee-samples" target="_blank" rel="noopener noreffer ">https://github.com/anastaciocintra/escpos-coffee-samples</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-07-28: <a href="https://github.com/anastaciocintra/escpos-coffee-samples" target="_blank" rel="noopener noreffer ">anastaciocintra/escpos-coffee-samples</a>.</em></p>]]></description></item><item><title>rodrigolgraciano/batch-demo</title><link>https://blog.emecas.net/posts/2022-08-17-rodrigolgraciano-batch-demo/</link><pubDate>Wed, 17 Aug 2022 15:31:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-rodrigolgraciano-batch-demo/</guid><description><![CDATA[<p>rodrigolgraciano/batch-demo<br>
+<p><em>Source: starred on GitHub on 2026-07-28: <a href="https://github.com/anastaciocintra/escpos-coffee-samples" target="_blank" rel="noopener noreffer ">anastaciocintra/escpos-coffee-samples</a>.</em></p>]]></description></item><item><title>Kafka is easier to understand when you can break it — Monedula</title><link>https://blog.emecas.net/posts/2026-06-26-kafka-is-easier-to-understand-when-you-can-break-it-monedula/</link><pubDate>Fri, 26 Jun 2026 12:42:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-06-26-kafka-is-easier-to-understand-when-you-can-break-it-monedula/</guid><description><![CDATA[<p>Kafka is easier to understand when you can break it — Monedula<br>
+<a href="https://monedula.dev/blog/kafka-simulator-learn-kafka-by-breaking-it/" target="_blank" rel="noopener noreffer ">https://monedula.dev/blog/kafka-simulator-learn-kafka-by-breaking-it/</a></p>
+<p>Issue #209 in emecas/commitit, open, opened on 2026-06-26.<br>
+<a href="https://github.com/emecas/commitit/issues/209" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/209</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/209" target="_blank" rel="noopener noreffer ">#209</a> in emecas/commitit, opened on 2026-06-26.</em></p>]]></description></item><item><title>Details – MOA</title><link>https://blog.emecas.net/posts/2024-09-29-details-moa/</link><pubDate>Sun, 29 Sep 2024 18:20:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-29-details-moa/</guid><description><![CDATA[<p>Details – MOA<br>
+<a href="https://moa.cms.waikato.ac.nz/details/#nav-mobile" target="_blank" rel="noopener noreffer ">https://moa.cms.waikato.ac.nz/details/#nav-mobile</a></p>
+<p>Issue #179 in emecas/commitit, open, opened on 2024-09-29.<br>
+<a href="https://github.com/emecas/commitit/issues/179" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/179</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/179" target="_blank" rel="noopener noreffer ">#179</a> in emecas/commitit, opened on 2024-09-29.</em></p>]]></description></item><item><title>rodrigolgraciano/batch-demo</title><link>https://blog.emecas.net/posts/2022-08-17-rodrigolgraciano-batch-demo/</link><pubDate>Wed, 17 Aug 2022 15:31:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-rodrigolgraciano-batch-demo/</guid><description><![CDATA[<p>rodrigolgraciano/batch-demo<br>
 Code demo for Spring Batch Presentation<br>
 Java repository by rodrigolgraciano, created in 2022, with 5 stars and 1 forks. Starred on 2022-08-17.<br>
 <a href="https://github.com/rodrigolgraciano/batch-demo" target="_blank" rel="noopener noreffer ">https://github.com/rodrigolgraciano/batch-demo</a></p>
 <hr>
 <p><em>Source: starred on GitHub on 2022-08-17: <a href="https://github.com/rodrigolgraciano/batch-demo" target="_blank" rel="noopener noreffer ">rodrigolgraciano/batch-demo</a>.</em></p>]]></description></item><item><title>Spring Batch</title><link>https://blog.emecas.net/posts/2022-08-17-spring-batch/</link><pubDate>Wed, 17 Aug 2022 08:14:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-spring-batch/</guid><description><![CDATA[<p>Spring Batch<br>
 Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
+<p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
+<p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
+Features</p>]]></description></item><item><title>[Review] Spring Batch (4.3.6)</title><link>https://blog.emecas.net/posts/2022-08-17-review-spring-batch-4-3-6/</link><pubDate>Wed, 17 Aug 2022 12:08:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-review-spring-batch-4-3-6/</guid><description><![CDATA[<p>[Review] Spring Batch (4.3.6)<br>
+Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
+<p>Spring Batch 4.3.6</p>
 <p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
 <p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
 Features</p>]]></description></item><item><title>berndruecker/flowing-retail</title><link>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</link><pubDate>Tue, 27 Oct 2020 12:12:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</guid><description><![CDATA[<p>berndruecker/flowing-retail<br>
@@ -20,48 +35,20 @@ Java repository by berndruecker, created in 2017, with 1,332 stars and 470 forks
 <p><em>Source: starred on GitHub on 2020-10-27: <a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">berndruecker/flowing-retail</a>.</em></p>]]></description></item><item><title>microsoft/Peregrine</title><link>https://blog.emecas.net/posts/2020-09-03-microsoft-peregrine/</link><pubDate>Thu, 03 Sep 2020 22:32:44 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-03-microsoft-peregrine/</guid><description><![CDATA[<p>microsoft/Peregrine<br>
 Peregrine is a workload optimization platform for cloud query engines. The goal of Peregrine is three-fold: 1. make it easier to ingest and analyze query workload telemetry into a common engine-agnostic representation, 2. help developers to quickly build workload optimization applications to reduce overall costs and improve operational efficiency, and 3. providing better experience to the customers in the form of workload insights, actionable recommendations, and self-tuning capabilities.<br>
 Python repository by microsoft, created in 2019, with 23 stars and 1 forks. License: MIT. Archived by its owner. Starred on 2020-09-03.<br>
-<a href="https://github.com/microsoft/Peregrine" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/Peregrine</a></p>]]></description></item><item><title>deeplearning4j/deeplearning4j-examples</title><link>https://blog.emecas.net/posts/2020-02-29-deeplearning4j-deeplearning4j-examples/</link><pubDate>Sat, 29 Feb 2020 05:16:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-deeplearning4j-deeplearning4j-examples/</guid><description><![CDATA[<p>deeplearning4j/deeplearning4j-examples<br>
+<a href="https://github.com/microsoft/Peregrine" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/Peregrine</a></p>]]></description></item><item><title>Complex Event Processing (CEP) Workshop</title><link>https://blog.emecas.net/posts/2020-04-27-complex-event-processing-cep-workshop/</link><pubDate>Mon, 27 Apr 2020 02:27:34 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-27-complex-event-processing-cep-workshop/</guid><description><![CDATA[<p>Complex Event Processing (CEP) Workshop<br>
+- Esper<br>
+- IBM InfoSphere Streams<br>
+- Apama<br>
+- TIBCO StreamBase<br>
+- SQLstream<br>
+- Samza</p>
+<p>Apama by Software AG - monitors rapidly moving event streams, detects and analyzes important patterns, and takes action according to rules.</p>
+<p>Azure Stream Analytics</p>
+<p>BeepBeep 3 an open source event stream processing library with multiple extensions for various use cases, including temporal logic, finite-state machines, statistics, and more.</p>
+<p>Drools Fusion</p>]]></description></item><item><title>deeplearning4j/deeplearning4j-examples</title><link>https://blog.emecas.net/posts/2020-02-29-deeplearning4j-deeplearning4j-examples/</link><pubDate>Sat, 29 Feb 2020 05:16:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-deeplearning4j-deeplearning4j-examples/</guid><description><![CDATA[<p>deeplearning4j/deeplearning4j-examples<br>
 Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)<br>
 Java repository by deeplearning4j, created in 2015, with 2,504 stars and 1,805 forks. Starred on 2020-02-29.<br>
 Homepage: <a href="http://deeplearning4j.konduit.ai" target="_blank" rel="noopener noreffer ">http://deeplearning4j.konduit.ai</a><br>
 <a href="https://github.com/deeplearning4j/deeplearning4j-examples" target="_blank" rel="noopener noreffer ">https://github.com/deeplearning4j/deeplearning4j-examples</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/deeplearning4j/deeplearning4j-examples" target="_blank" rel="noopener noreffer ">deeplearning4j/deeplearning4j-examples</a>.</em></p>]]></description></item><item><title>Dataflow Model</title><link>https://blog.emecas.net/posts/2020-01-26-dataflow-model/</link><pubDate>Sun, 26 Jan 2020 19:23:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-26-dataflow-model/</guid><description><![CDATA[<p>The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing<br>
-<a href="https://research.google/pubs/pub43864/" target="_blank" rel="noopener noreffer ">https://research.google/pubs/pub43864/</a><br>
-<a href="http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf" target="_blank" rel="noopener noreffer ">http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf</a><br>
-Ref: <a href="https://www.se-radio.net/2016/10/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/10/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e84f726a54aebc65b278ec87b955616eb7d1530e" target="_blank" rel="noopener noreffer "><code>e84f726</code></a> in My-Notes.</em></p>]]></description></item><item><title>dflib/dflib</title><link>https://blog.emecas.net/posts/2019-12-23-dflib-dflib/</link><pubDate>Mon, 23 Dec 2019 13:26:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-12-23-dflib-dflib/</guid><description><![CDATA[<p>dflib/dflib<br>
-In-memory Java DataFrame library<br>
-Java repository by dflib, created in 2019, with 326 stars and 31 forks. License: Apache-2.0. Starred on 2019-12-23.<br>
-Homepage: <a href="https://dflib.org" target="_blank" rel="noopener noreffer ">https://dflib.org</a><br>
-<a href="https://github.com/dflib/dflib" target="_blank" rel="noopener noreffer ">https://github.com/dflib/dflib</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-12-23: <a href="https://github.com/dflib/dflib" target="_blank" rel="noopener noreffer ">dflib/dflib</a>.</em></p>]]></description></item><item><title>Apache NiFi</title><link>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</link><pubDate>Fri, 02 Aug 2019 16:59:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-02-apache-nifi/</guid><description><![CDATA[<p>Apache NiFi<br>
-<a href="https://nifi.apache.org/index.html" target="_blank" rel="noopener noreffer ">https://nifi.apache.org/index.html</a><br>
-<a href="https://gitbox.apache.org/repos/asf?p=nifi.git" target="_blank" rel="noopener noreffer ">https://gitbox.apache.org/repos/asf?p=nifi.git</a></p>
-<p>An easy to use, powerful, and reliable system to process and distribute data.</p>
-<p>Features</p>
-<p>Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic. Some of the high-level capabilities and objectives of Apache NiFi include:</p>
-<p>Web-based user interface<br>
-Seamless experience between design, control, feedback, and monitoring<br>
-Highly configurable<br>
-Loss tolerant vs guaranteed delivery<br>
-Low latency vs high throughput<br>
-Dynamic prioritization<br>
-Flow can be modified at runtime<br>
-Back pressure<br>
-Data Provenance<br>
-Track dataflow from beginning to end<br>
-Designed for extension<br>
-Build your own processors and more<br>
-Enables rapid development and effective testing<br>
-Secure<br>
-SSL, SSH, HTTPS, encrypted content, etc&hellip;<br>
-Multi-tenant authorization and internal authorization/policy management</p>]]></description></item><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
-<a href="https://dask.org/" target="_blank" rel="noopener noreffer ">https://dask.org/</a></p>
-<p>Dask is a flexible library for parallel computing in Python.</p>
-<p><a href="https://docs.dask.org/en/latest/" target="_blank" rel="noopener noreffer ">https://docs.dask.org/en/latest/</a><br>
-Dask is composed of two parts:</p>
-<p>Dynamic task scheduling optimized for computation. This is similar to Airflow, Luigi, Celery, or Make, but optimized for interactive computational workloads.<br>
-“Big Data” collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/deeplearning4j/deeplearning4j-examples" target="_blank" rel="noopener noreffer ">deeplearning4j/deeplearning4j-examples</a>.</em></p>]]></description></item></channel></rss>

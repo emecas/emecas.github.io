@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Locking - Tag - My Notes</title><link>https://blog.emecas.net/tags/locking/</link><description>Locking - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 30 Mar 2020 14:44:19 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/locking/" rel="self" type="application/rss+xml"/><item><title>Coordination Services Based on Linearizable Storage Service</title><link>https://blog.emecas.net/posts/2020-03-30-coordination-services-based-on-linearizable-storage-service/</link><pubDate>Mon, 30 Mar 2020 14:44:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-30-coordination-services-based-on-linearizable-storage-service/</guid><description><![CDATA[<p>Coordination Services Based on Linearizable Storage Service<br>
+Locking and Leader Election</p>
+<p>- Apache ZooKeeper<br>
+- etcd<br>
+- Apache Curator<br>
+- Oracle Real Aplication Clusters (RAC)</p>
+<p>Constrains and Uniquess Guarantees</p>
+<p>Cross-channel Timing Dependencies</p>
+<p>Issue #42 in emecas/commitit, open, opened on 2020-03-30.<br>
+<a href="https://github.com/emecas/commitit/issues/42" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/42</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/42" target="_blank" rel="noopener noreffer ">#42</a> in emecas/commitit, opened on 2020-03-30.</em></p>]]></description></item></channel></rss>

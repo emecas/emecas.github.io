@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Language - Tag - My Notes</title><link>https://blog.emecas.net/tags/language/</link><description>Language - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 16 Aug 2022 21:08:52 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/language/" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Language - Tag - My Notes</title><link>https://blog.emecas.net/tags/language/</link><description>Language - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Feb 2025 13:55:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/language/" rel="self" type="application/rss+xml"/><item><title>About the OMG System Modeling Language Specification Version 2.0 beta 2</title><link>https://blog.emecas.net/posts/2025-02-25-about-the-omg-system-modeling-language-specification-version/</link><pubDate>Tue, 25 Feb 2025 13:55:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-25-about-the-omg-system-modeling-language-specification-version/</guid><description><![CDATA[<p>About the OMG System Modeling Language Specification Version 2.0 beta 2<br>
+<a href="https://www.omg.org/spec/SysML" target="_blank" rel="noopener noreffer ">https://www.omg.org/spec/SysML</a></p>
+<p>Issue #190 in emecas/commitit, open, opened on 2025-02-25.<br>
+<a href="https://github.com/emecas/commitit/issues/190" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/190</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/190" target="_blank" rel="noopener noreffer ">#190</a> in emecas/commitit, opened on 2025-02-25.</em></p>]]></description></item><item><title>About the Unified Modeling Language Specification Version 2.5.1</title><link>https://blog.emecas.net/posts/2025-02-25-about-the-unified-modeling-language-specification-version-2/</link><pubDate>Tue, 25 Feb 2025 13:53:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-25-about-the-unified-modeling-language-specification-version-2/</guid><description><![CDATA[<p>About the Unified Modeling Language Specification Version 2.5.1<br>
+<a href="https://www.omg.org/spec/UML" target="_blank" rel="noopener noreffer ">https://www.omg.org/spec/UML</a></p>
+<p>Issue #189 in emecas/commitit, open, opened on 2025-02-25.<br>
+<a href="https://github.com/emecas/commitit/issues/189" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/189</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/189" target="_blank" rel="noopener noreffer ">#189</a> in emecas/commitit, opened on 2025-02-25.</em></p>]]></description></item><item><title>Mojo 🔥: Programming language for all of AI</title><link>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</link><pubDate>Thu, 11 Apr 2024 15:52:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</guid><description><![CDATA[<p>Mojo 🔥: Programming language for all of AI<br>
+<a href="https://www.modular.com/max/mojo" target="_blank" rel="noopener noreffer ">https://www.modular.com/max/mojo</a></p>
+<p>MAX Platform<br>
+Mojo<br>
+Mojo 🔥 — the programming language for all AI developers</p>
+<p>Issue #162 in emecas/commitit, open, opened on 2024-04-11.<br>
+<a href="https://github.com/emecas/commitit/issues/162" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/162</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/162" target="_blank" rel="noopener noreffer ">#162</a> in emecas/commitit, opened on 2024-04-11.</em></p>]]></description></item><item><title>Processing</title><link>https://blog.emecas.net/posts/2022-08-16-processing/</link><pubDate>Tue, 16 Aug 2022 21:08:52 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-processing/</guid><description><![CDATA[<p>Processing<br>
 <a href="https://processing.org/" target="_blank" rel="noopener noreffer ">https://processing.org/</a><br>
 Processing is a flexible software sketchbook and a language for learning how to code. Since 2001, Processing has promoted software literacy within the visual arts and visual literacy within technology. There are tens of thousands of students, artists, designers, researchers, and hobbyists who use Processing for learning and prototyping.</p>
 <p>Processing Foundation: <a href="https://processingfoundation.org/" target="_blank" rel="noopener noreffer ">https://processingfoundation.org/</a></p>
@@ -37,21 +55,4 @@ Kotlin Koans is a series of exercises to get you familiar with the Kotlin syntax
 OCaml is an industrial strength programming language supporting functional, imperative and object-oriented styles<br>
 <a href="https://en.wikipedia.org/wiki/OCaml" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/OCaml</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ce94ecc140a9886858464fb1f252ef9d69c58af" target="_blank" rel="noopener noreffer "><code>0ce94ec</code></a> in My-Notes.</em></p>]]></description></item><item><title>Rust</title><link>https://blog.emecas.net/posts/2018-10-03-rust/</link><pubDate>Wed, 03 Oct 2018 20:46:27 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-03-rust/</guid><description><![CDATA[<p>Rust (programming language)<br>
-<a href="https://www.rust-lang.org/en-US/" target="_blank" rel="noopener noreffer ">https://www.rust-lang.org/en-US/</a><br>
-Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.<br>
-<a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Rust_(programming_language)</a><br>
-<a href="https://github.com/rust-lang/rust" target="_blank" rel="noopener noreffer ">https://github.com/rust-lang/rust</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/1b667f9bb8608b85b8976a31b5c32c4e1beb2ac7" target="_blank" rel="noopener noreffer "><code>1b667f9</code></a> in My-Notes.</em></p>]]></description></item><item><title>Haskell</title><link>https://blog.emecas.net/posts/2018-10-02-haskell/</link><pubDate>Tue, 02 Oct 2018 13:12:30 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-02-haskell/</guid><description><![CDATA[<p>Haskell<br>
-An advanced, purely functional programming language<br>
-<a href="https://www.haskell.org/" target="_blank" rel="noopener noreffer ">https://www.haskell.org/</a><br>
-<a href="https://en.wikipedia.org/wiki/Haskell_%28programming_language%29" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Haskell_(programming_language)</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ef47015cf113ce9eb656f0d7db1de02c055cea7" target="_blank" rel="noopener noreffer "><code>0ef4701</code></a> in My-Notes.</em></p>]]></description></item><item><title>projectlombok/lombok</title><link>https://blog.emecas.net/posts/2018-01-02-projectlombok-lombok/</link><pubDate>Tue, 02 Jan 2018 18:32:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-01-02-projectlombok-lombok/</guid><description><![CDATA[<p>projectlombok/lombok<br>
-Very spicy additions to the Java programming language.<br>
-Java repository by projectlombok, created in 2009, with 13,483 stars and 2,472 forks. Starred on 2018-01-02.<br>
-Homepage: <a href="https://projectlombok.org/" target="_blank" rel="noopener noreffer ">https://projectlombok.org/</a><br>
-<a href="https://github.com/projectlombok/lombok" target="_blank" rel="noopener noreffer ">https://github.com/projectlombok/lombok</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2018-01-02: <a href="https://github.com/projectlombok/lombok" target="_blank" rel="noopener noreffer ">projectlombok/lombok</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0ce94ecc140a9886858464fb1f252ef9d69c58af" target="_blank" rel="noopener noreffer "><code>0ce94ec</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

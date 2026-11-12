@@ -1,4 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rules - Tag - My Notes</title><link>https://blog.emecas.net/tags/rules/</link><description>Rules - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 19 Feb 2019 18:01:39 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rules/" rel="self" type="application/rss+xml"/><item><title>TNG/ArchUnit</title><link>https://blog.emecas.net/posts/2019-02-19-tng-archunit/</link><pubDate>Tue, 19 Feb 2019 18:01:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-19-tng-archunit/</guid><description><![CDATA[<p>TNG/ArchUnit<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rules - Tag - My Notes</title><link>https://blog.emecas.net/tags/rules/</link><description>Rules - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 Mar 2024 16:07:24 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rules/" rel="self" type="application/rss+xml"/><item><title>PM &amp; EM: Rules of Engagement</title><link>https://blog.emecas.net/posts/2024-03-17-pm-em-rules-of-engagement/</link><pubDate>Sun, 17 Mar 2024 16:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-17-pm-em-rules-of-engagement/</guid><description><![CDATA[<p>PM &amp; EM: Rules of Engagement<br>
+A guiding framework for how EMs + PMs should partner together.</p>
+<p>Segment Blog<br>
+Engineers &amp; Developers<br>
+PM &amp; EM: Rules of Engagement<br>
+A guiding framework for how EMs + PMs should partner together.</p>
+<p>May 31, 2021</p>
+<p>By Stephanie Evans, Kevin Niparko, Gerhard Esterhuizen</p>
+<p>Share article</p>
+<p>Picture this: you just landed the Product Management (PM) job of your dreams. On day one, you meet your partner-in-crime Engineering Manager (EM) at your new gig. Before you know it, you’ve been assigned your first problem to solve. Now, it’s time to get to work.</p>]]></description></item><item><title>TNG/ArchUnit</title><link>https://blog.emecas.net/posts/2019-02-19-tng-archunit/</link><pubDate>Tue, 19 Feb 2019 18:01:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-19-tng-archunit/</guid><description><![CDATA[<p>TNG/ArchUnit<br>
 A Java architecture test library, to specify and assert architecture rules in plain Java<br>
 Java repository by TNG, created in 2017, with 3,896 stars and 357 forks. License: Apache-2.0. Starred on 2019-02-19.<br>
 Homepage: <a href="https://archunit.org" target="_blank" rel="noopener noreffer ">https://archunit.org</a><br>

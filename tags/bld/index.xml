@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Bld - Tag - My Notes</title><link>https://blog.emecas.net/tags/bld/</link><description>Bld - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Apr 2023 20:18:59 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/bld/" rel="self" type="application/rss+xml"/><item><title>There is a new Java build system named Bld</title><link>https://blog.emecas.net/posts/2023-04-09-there-is-a-new-java-build-system-named-bld/</link><pubDate>Sun, 09 Apr 2023 20:18:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-04-09-there-is-a-new-java-build-system-named-bld/</guid><description><![CDATA[<p>There is a new Java build system named Bld<br>
+<a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Theres-a-new-Java-build-system-named-bld" target="_blank" rel="noopener noreffer ">https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Theres-a-new-Java-build-system-named-bld</a></p>
+<p>Github repo: <a href="https://github.com/rife2/rife2" target="_blank" rel="noopener noreffer ">https://github.com/rife2/rife2</a></p>
+<p>Installation, configuration and advanced usage instructions can be found on the Bld project’s GitHub page<br>
+<a href="https://github.com/rife2/rife2/wiki/What-Is-Bld" target="_blank" rel="noopener noreffer ">https://github.com/rife2/rife2/wiki/What-Is-Bld</a></p>
+<p>Issue #117 in emecas/commitit, open, opened on 2023-04-09.<br>
+<a href="https://github.com/emecas/commitit/issues/117" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/117</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/117" target="_blank" rel="noopener noreffer ">#117</a> in emecas/commitit, opened on 2023-04-09.</em></p>]]></description></item></channel></rss>

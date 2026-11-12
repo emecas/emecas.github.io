@@ -22,12 +22,31 @@ Go repository by apache, created in 2018, with 937 stars and 414 forks. License:
 Homepage: <a href="https://camel.apache.org/camel-k" target="_blank" rel="noopener noreffer ">https://camel.apache.org/camel-k</a><br>
 <a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">https://github.com/apache/camel-k</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">apache/camel-k</a>.</em></p>]]></description></item><item><title>apache/empire-db</title><link>https://blog.emecas.net/posts/2020-05-13-apache-empire-db/</link><pubDate>Wed, 13 May 2020 23:55:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-13-apache-empire-db/</guid><description><![CDATA[<p>apache/empire-db<br>
+<p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">apache/camel-k</a>.</em></p>]]></description></item><item><title>Evaluate Apache EmpireDB</title><link>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</link><pubDate>Thu, 14 May 2020 23:19:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</guid><description><![CDATA[<p>Evaluate Apache EmpireDB<br>
+☐ Build from source<br>
+☐ Test/Run Basic DB example<br>
+☐ Test/Run Advanced DB example<br>
+☐ Modify DB example to connect MySQL DB<br>
+☐ Understand Reverse Engineering Functionality</p>
+<p>Issue #54 in emecas/commitit, open, opened on 2020-05-14.<br>
+<a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/54</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">#54</a> in emecas/commitit, opened on 2020-05-14.</em></p>]]></description></item><item><title>apache/empire-db</title><link>https://blog.emecas.net/posts/2020-05-13-apache-empire-db/</link><pubDate>Wed, 13 May 2020 23:55:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-13-apache-empire-db/</guid><description><![CDATA[<p>apache/empire-db<br>
 Mirror of Apache Empire-db<br>
 Java repository by apache, created in 2011, with 95 stars and 26 forks. License: Apache-2.0. Starred on 2020-05-13.<br>
 <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">https://github.com/apache/empire-db</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-05-13: <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">apache/empire-db</a>.</em></p>]]></description></item><item><title>apache/zookeeper</title><link>https://blog.emecas.net/posts/2020-02-25-apache-zookeeper/</link><pubDate>Tue, 25 Feb 2020 01:03:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-25-apache-zookeeper/</guid><description><![CDATA[<p>apache/zookeeper<br>
+<p><em>Source: starred on GitHub on 2020-05-13: <a href="https://github.com/apache/empire-db" target="_blank" rel="noopener noreffer ">apache/empire-db</a>.</em></p>]]></description></item><item><title>Evaluate Apache Isis</title><link>https://blog.emecas.net/posts/2020-05-11-evaluate-apache-isis/</link><pubDate>Mon, 11 May 2020 17:52:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-11-evaluate-apache-isis/</guid><description><![CDATA[<p>Evaluate Apache Isis</p>
+<p>Issue #50 in emecas/commitit, open, opened on 2020-05-11.<br>
+<a href="https://github.com/emecas/commitit/issues/50" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/50</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/50" target="_blank" rel="noopener noreffer ">#50</a> in emecas/commitit, opened on 2020-05-11.</em></p>]]></description></item><item><title>Review Apache Curator on top of ZooKeeper/Chubby Model</title><link>https://blog.emecas.net/posts/2020-04-20-review-apache-curator-on-top-of-zookeeper-chubby-model/</link><pubDate>Mon, 20 Apr 2020 16:35:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-20-review-apache-curator-on-top-of-zookeeper-chubby-model/</guid><description><![CDATA[<p>Review Apache Curator on top of ZooKeeper/Chubby Model<br>
+<a href="http://curator.apache.org" target="_blank" rel="noopener noreffer ">http://curator.apache.org</a></p>
+<p>Allocating work to nodes</p>
+<p>Issue #48 in emecas/commitit, open, opened on 2020-04-20.<br>
+<a href="https://github.com/emecas/commitit/issues/48" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/48</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/48" target="_blank" rel="noopener noreffer ">#48</a> in emecas/commitit, opened on 2020-04-20.</em></p>]]></description></item><item><title>apache/zookeeper</title><link>https://blog.emecas.net/posts/2020-02-25-apache-zookeeper/</link><pubDate>Tue, 25 Feb 2020 01:03:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-25-apache-zookeeper/</guid><description><![CDATA[<p>apache/zookeeper<br>
 Apache ZooKeeper<br>
 Java repository by apache, created in 2009, with 12,832 stars and 7,326 forks. License: Apache-2.0. Starred on 2020-02-25.<br>
 Homepage: <a href="https://zookeeper.apache.org" target="_blank" rel="noopener noreffer ">https://zookeeper.apache.org</a><br>
@@ -39,33 +58,4 @@ Java repository by apache, created in 2009, with 4,465 stars and 2,292 forks. Li
 Homepage: <a href="https://shiro.apache.org/" target="_blank" rel="noopener noreffer ">https://shiro.apache.org/</a><br>
 <a href="https://github.com/apache/shiro" target="_blank" rel="noopener noreffer ">https://github.com/apache/shiro</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-02-23: <a href="https://github.com/apache/shiro" target="_blank" rel="noopener noreffer ">apache/shiro</a>.</em></p>]]></description></item><item><title>Kibana Filters</title><link>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</link><pubDate>Tue, 04 Feb 2020 23:27:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-04-kibana-filters/</guid><description><![CDATA[<p>Kibana Filters</p>
-<p>tomcat</p>
-<p>message:	Written [{&ldquo;sp&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:57013,&ldquo;message&rdquo;:&ldquo;java.lang.NullPointerException ZRESIDENCE.TRANSACT.fci_complete_with_get_budget{p_term_code=202020, p_pidm=12345678}&rdquo;},&ldquo;stz&rdquo;:{&ldquo;success&rdquo;:false,&ldquo;code&rdquo;:-1,&ldquo;message&rdquo;:&ldquo;NOT_CALLED&rdquo;}}] as &ldquo;application/json&rdquo; using [org.springframework.http.converter.StringHttpMessageConverter@bdc8014]</p>
-<p>log.file.path: 	/opt/tomcat/embedded/contex-path/logs/service.log</p>
-<p>host.name: 	node#.tomcat.freedom.edu</p>
-<p>container: contex-path</p>
-<p>application: contex-path</p>
-<p>log_type: 	tomcat</p>
-<p>web log</p>
-<p>request.path = [/contex-path/end-point]</p>
-<p>request.status = HTTP STATUS CODE (200 201 404 401)</p>
-<p>request.worker.name  =	sb_[jcpport]</p>
-<p>source = 	/var/log/httpd/access_log</p>
-<p>topic =	apache</p>
-<p>request.domain = 	<a href="http://www.freedom.edu" target="_blank" rel="noopener noreffer ">http://www.freedom.edu</a></p>
-<p>request.method = POST</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2bdf6a33ca498ae0690481c905f411c0c34160bc" target="_blank" rel="noopener noreffer "><code>2bdf6a3</code></a> in My-Notes.</em></p>]]></description></item><item><title>apache/dubbo-spring-boot-project</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</link><pubDate>Wed, 22 Jan 2020 03:44:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo-spring-boot-project/</guid><description><![CDATA[<p>apache/dubbo-spring-boot-project<br>
-Spring Boot Project for Apache Dubbo<br>
-Java repository by apache, created in 2018, with 5,371 stars and 1,842 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
-Homepage: <a href="https://dubbo.apache.org" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org</a><br>
-<a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo-spring-boot-project</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo-spring-boot-project" target="_blank" rel="noopener noreffer ">apache/dubbo-spring-boot-project</a>.</em></p>]]></description></item><item><title>apache/dubbo</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</link><pubDate>Wed, 22 Jan 2020 03:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</guid><description><![CDATA[<p>apache/dubbo<br>
-The java implementation of Apache Dubbo. An RPC and microservice framework.<br>
-Java repository by apache, created in 2012, with 41,579 stars and 26,306 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
-Homepage: <a href="https://dubbo.apache.org/" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org/</a><br>
-<a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">apache/dubbo</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-02-23: <a href="https://github.com/apache/shiro" target="_blank" rel="noopener noreffer ">apache/shiro</a>.</em></p>]]></description></item></channel></rss>

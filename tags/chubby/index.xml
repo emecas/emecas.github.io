@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Chubby - Tag - My Notes</title><link>https://blog.emecas.net/tags/chubby/</link><description>Chubby - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2020 16:35:17 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/chubby/" rel="self" type="application/rss+xml"/><item><title>Review Apache Curator on top of ZooKeeper/Chubby Model</title><link>https://blog.emecas.net/posts/2020-04-20-review-apache-curator-on-top-of-zookeeper-chubby-model/</link><pubDate>Mon, 20 Apr 2020 16:35:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-20-review-apache-curator-on-top-of-zookeeper-chubby-model/</guid><description><![CDATA[<p>Review Apache Curator on top of ZooKeeper/Chubby Model<br>
+<a href="http://curator.apache.org" target="_blank" rel="noopener noreffer ">http://curator.apache.org</a></p>
+<p>Allocating work to nodes</p>
+<p>Issue #48 in emecas/commitit, open, opened on 2020-04-20.<br>
+<a href="https://github.com/emecas/commitit/issues/48" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/48</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/48" target="_blank" rel="noopener noreffer ">#48</a> in emecas/commitit, opened on 2020-04-20.</em></p>]]></description></item></channel></rss>

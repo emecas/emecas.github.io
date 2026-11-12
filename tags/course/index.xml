@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Course - Tag - My Notes</title><link>https://blog.emecas.net/tags/course/</link><description>Course - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 26 May 2026 22:15:11 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/course/" rel="self" type="application/rss+xml"/><item><title>kousen/AiJavaLabs</title><link>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</link><pubDate>Tue, 26 May 2026 22:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</guid><description><![CDATA[<p>kousen/AiJavaLabs<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Course - Tag - My Notes</title><link>https://blog.emecas.net/tags/course/</link><description>Course - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2026 19:34:59 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/course/" rel="self" type="application/rss+xml"/><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
+<a href="https://github.com/walkinglabs/learn-harness-engineering" target="_blank" rel="noopener noreffer ">https://github.com/walkinglabs/learn-harness-engineering</a></p>
+<p>Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:</p>
+<p>how Claude Code, Codex, DeepSeek build their harness<br>
+loop &amp; graph engineering<br>
+automated agent loops<br>
+observability, testing and verification<br>
+really good source for learning harness essentials by doing.</p>
+<p>Ref: <a href="https://x.com/i/status/2105980972558627237" target="_blank" rel="noopener noreffer ">https://x.com/i/status/2105980972558627237</a></p>
+<p>Issue #217 in emecas/commitit, open, opened on 2026-10-04.<br>
+<a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/217</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">#217</a> in emecas/commitit, opened on 2026-10-04.</em></p>]]></description></item><item><title>kousen/AiJavaLabs</title><link>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</link><pubDate>Tue, 26 May 2026 22:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</guid><description><![CDATA[<p>kousen/AiJavaLabs<br>
 Exercises for a course on integrating AI services with Java.<br>
 Java repository by kousen, created in 2024, with 39 stars and 35 forks. License: MIT. Starred on 2026-05-26.<br>
 <a href="https://github.com/kousen/AiJavaLabs" target="_blank" rel="noopener noreffer ">https://github.com/kousen/AiJavaLabs</a></p>
@@ -23,7 +35,17 @@ Made for the O&rsquo;Reilly media course: Go for Web Development in 3 Weeks-A Gu
 Go repository by Soypete, created in 2023, with 27 stars and 10 forks. Starred on 2024-06-03.<br>
 <a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">https://github.com/Soypete/WebServices-in-3-weeks</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-06-03: <a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">Soypete/WebServices-in-3-weeks</a>.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
+<p><em>Source: starred on GitHub on 2024-06-03: <a href="https://github.com/Soypete/WebServices-in-3-weeks" target="_blank" rel="noopener noreffer ">Soypete/WebServices-in-3-weeks</a>.</em></p>]]></description></item><item><title>Generative AI for Beginners Course by MS</title><link>https://blog.emecas.net/posts/2024-03-06-generative-ai-for-beginners-course-by-ms/</link><pubDate>Wed, 06 Mar 2024 09:21:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-06-generative-ai-for-beginners-course-by-ms/</guid><description><![CDATA[<p>Generative AI for Beginners Course by MS<br>
+<a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/generative-ai-for-beginners</a></p>
+<p>------</p>
+<p>Ref</p>
+<p>Microsoft launched the best course on Generative AI!</p>
+<p>The free 18 lesson course is available on Github and will teach you everything you need to know to start building Generative AI applications.</p>
+<p><a href="https://twitter.com/Sumanth_077/status/1764297648977432808?t=Wd1ZBVrUx_fYxi5k1qXc5w&amp;s=19" target="_blank" rel="noopener noreffer ">https://twitter.com/Sumanth_077/status/1764297648977432808?t=Wd1ZBVrUx_fYxi5k1qXc5w&s=19</a></p>
+<p>Issue #142 in emecas/commitit, open, opened on 2024-03-06.<br>
+<a href="https://github.com/emecas/commitit/issues/142" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/142</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/142" target="_blank" rel="noopener noreffer ">#142</a> in emecas/commitit, opened on 2024-03-06.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
 This repository contains all the source code examples from my LiveLessons course on &ldquo;Java Concurrent Programming&rdquo; and my various LiveTraining courses, as described at <a href="http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning" target="_blank" rel="noopener noreffer ">http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning</a>.<br>
 Java repository by douglascraigschmidt, created in 2014, with 614 stars and 657 forks. Starred on 2021-05-27.<br>
 <a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">https://github.com/douglascraigschmidt/LiveLessons</a></p>
@@ -52,14 +74,4 @@ Business &amp; Finance<br>
 Diverse Workspace</p>
 <p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d81463f08101f441a84e83e11b372f264a0db75" target="_blank" rel="noopener noreffer "><code>0d81463</code></a> in My-Notes.</em></p>]]></description></item><item><title>CleanCut/rust_programming</title><link>https://blog.emecas.net/posts/2019-07-29-cleancut-rust-programming/</link><pubDate>Mon, 29 Jul 2019 17:05:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-07-29-cleancut-rust-programming/</guid><description><![CDATA[<p>CleanCut/rust_programming<br>
-Rust Programming: A Crash Course<br>
-Repository by CleanCut, created in 2018, with 68 stars and 20 forks. License: MIT. Starred on 2019-07-29.<br>
-<a href="https://github.com/CleanCut/rust_programming" target="_blank" rel="noopener noreffer ">https://github.com/CleanCut/rust_programming</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-07-29: <a href="https://github.com/CleanCut/rust_programming" target="_blank" rel="noopener noreffer ">CleanCut/rust_programming</a>.</em></p>]]></description></item><item><title>kousen/mockito-hamcrest</title><link>https://blog.emecas.net/posts/2018-06-20-kousen-mockito-hamcrest/</link><pubDate>Wed, 20 Jun 2018 12:28:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-06-20-kousen-mockito-hamcrest/</guid><description><![CDATA[<p>kousen/mockito-hamcrest<br>
-Examples for Mockito and Hamcrest Matchers course<br>
-Java repository by kousen, created in 2018, with 59 stars and 62 forks. Starred on 2018-06-20.<br>
-<a href="https://github.com/kousen/mockito-hamcrest" target="_blank" rel="noopener noreffer ">https://github.com/kousen/mockito-hamcrest</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2018-06-20: <a href="https://github.com/kousen/mockito-hamcrest" target="_blank" rel="noopener noreffer ">kousen/mockito-hamcrest</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d81463f08101f441a84e83e11b372f264a0db75" target="_blank" rel="noopener noreffer "><code>0d81463</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

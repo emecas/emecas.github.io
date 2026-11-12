@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Oresund - Tag - My Notes</title><link>https://blog.emecas.net/tags/oresund/</link><description>Oresund - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 01 Nov 2020 22:55:53 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/oresund/" rel="self" type="application/rss+xml"/><item><title>The QUPER Model</title><link>https://blog.emecas.net/posts/2020-11-01-the-quper-model/</link><pubDate>Sun, 01 Nov 2020 22:55:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-01-the-quper-model/</guid><description><![CDATA[<p>The QUPER Model<br>
+Presented on Oresund Developer Conference 2009 by Bjorn Regnell</p>
+<p>&gt; QUPER visualizes sliding-scale requirements along the axes of cost, values , and quality, The idea of the model is to estimate cost-benefit breakpoints and barriers on the sliding scale and expose them for discussion _(Differentiation and Saturation)_</p>
+<p>To Do</p>
+<p>☐ Look for video oredev 2009 Supporting roadmapping of quality requirements<br>
+☐ Look for article in IEEE Software Journal Mar/Apr 2008</p>]]></description></item></channel></rss>

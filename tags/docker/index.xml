@@ -10,7 +10,33 @@ examples/project-setup - prompt users for configuration and generate a .env file
 examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
 examples/init-named-volume - create or update the files in a named docker volume.<br>
 examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
-examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>docker/roadmap</title><link>https://blog.emecas.net/posts/2022-05-10-docker-roadmap/</link><pubDate>Tue, 10 May 2022 14:56:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-05-10-docker-roadmap/</guid><description><![CDATA[<p>docker/roadmap<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>[Follow] Docker Open Source initiatives from Docker Community All Hand # 6</title><link>https://blog.emecas.net/posts/2022-09-01-follow-docker-open-source-initiatives-from-docker-community/</link><pubDate>Thu, 01 Sep 2022 17:22:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-01-follow-docker-open-source-initiatives-from-docker-community/</guid><description><![CDATA[<p>[Follow] Docker Open Source initiatives from Docker Community All Hand # 6<br>
+Image: <a href="https://user-images.githubusercontent.com/849502/187975000-665babc1-74ad-4e41-a9b9-b250581e31a0.png" target="_blank" rel="noopener noreffer ">https://user-images.githubusercontent.com/849502/187975000-665babc1-74ad-4e41-a9b9-b250581e31a0.png</a><br>
+<a href="https://cdn-1.tulu.la/media/prod/images/9814d03481d902c2593a516630bad19cc20311c3620b705c2f7623682f9bfd2a.png" target="_blank" rel="noopener noreffer ">https://cdn-1.tulu.la/media/prod/images/9814d03481d902c2593a516630bad19cc20311c3620b705c2f7623682f9bfd2a.png</a></p>
+<p><a href="https://cdn-1.tulu.la/media/prod/images/f246fc20ca75e2b74ce272411be75c69cfad23db1617c3a090232ca7b4016c1d.png" target="_blank" rel="noopener noreffer ">https://cdn-1.tulu.la/media/prod/images/f246fc20ca75e2b74ce272411be75c69cfad23db1617c3a090232ca7b4016c1d.png</a><br>
+Image: <a href="https://user-images.githubusercontent.com/849502/187975051-3fec179a-8a62-4044-8668-3f8d39e8e344.png" target="_blank" rel="noopener noreffer ">https://user-images.githubusercontent.com/849502/187975051-3fec179a-8a62-4044-8668-3f8d39e8e344.png</a></p>
+<p>Comment on 2022-09-01:<br>
+Application link for:<br>
+Docker-Sponsored Open Source Program<br>
+<a href="https://www.docker.com/community/open-source/application/" target="_blank" rel="noopener noreffer ">https://www.docker.com/community/open-source/application/</a></p>
+<p>Issue #106 in emecas/commitit, open, opened on 2022-09-01. Labels: TODO, P-High.<br>
+<a href="https://github.com/emecas/commitit/issues/106" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/106</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/106" target="_blank" rel="noopener noreffer ">#106</a> in emecas/commitit, opened on 2022-09-01.</em></p>]]></description></item><item><title>[Follow] Docker Community Leders and Captains Programs</title><link>https://blog.emecas.net/posts/2022-09-01-follow-docker-community-leders-and-captains-programs/</link><pubDate>Thu, 01 Sep 2022 16:14:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-01-follow-docker-community-leders-and-captains-programs/</guid><description><![CDATA[<p>[Follow] Docker Community Leders and Captains Programs<br>
+Aurélien Suarez 🐳<br>
+12:09 PM</p>
+<p>Join the Docker Community Leaders Program : <a href="https://dockr.ly/3R4Bz2W" target="_blank" rel="noopener noreffer ">https://dockr.ly/3R4Bz2W</a></p>
+<p>Pranav Yadav ✔️<br>
+12:07 PM</p>
+<p>Direct Link: <a href="https://dockr.ly/captains" target="_blank" rel="noopener noreffer ">https://dockr.ly/captains</a></p>
+<p>From:  Docker - 6th Community All-Hands on September 1st!</p>
+<p>Comment on 2022-09-01:<br>
+Awards</p>
+<p>Alba Roza 🐳: <a href="https://tulu.la/chat/docker-000014/u/alba-roza-000oll" target="_blank" rel="noopener noreffer ">https://tulu.la/chat/docker-000014/u/alba-roza-000oll</a><br>
+12:14 PM</p>
+<p>@Mohammad-Ali A&rsquo;râbi: <a href="https://tulu.la/chat/docker-000014/u/mohammad-ali-a-rabi-000p2i" target="_blank" rel="noopener noreffer ">https://tulu.la/chat/docker-000014/u/mohammad-ali-a-rabi-000p2i</a> &amp; @Camilla Martins: <a href="https://tulu.la/chat/docker-000014/u/camilla-martins-000hhi" target="_blank" rel="noopener noreffer ">https://tulu.la/chat/docker-000014/u/camilla-martins-000hhi</a> congrats!!</p>
+<p>Issue #105 in emecas/commitit, open, opened on 2022-09-01. Labels: WIP, P-High.<br>
+<a href="https://github.com/emecas/commitit/issues/105" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/105</a></p>]]></description></item><item><title>docker/roadmap</title><link>https://blog.emecas.net/posts/2022-05-10-docker-roadmap/</link><pubDate>Tue, 10 May 2022 14:56:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-05-10-docker-roadmap/</guid><description><![CDATA[<p>docker/roadmap<br>
 Welcome to the Public Roadmap for All Things Docker! We welcome your ideas.<br>
 Repository by docker, created in 2020, with 1,927 stars and 288 forks. License: CC0-1.0. Starred on 2022-05-10.<br>
 Homepage: <a href="https://www.docker.com" target="_blank" rel="noopener noreffer ">https://www.docker.com</a><br>
@@ -51,30 +77,11 @@ A small, more complete, Python Docker image based on Alpine Linux.<br>
 Dockerfile repository by jfloff, created in 2015, with 483 stars and 96 forks. License: MIT. Starred on 2020-03-26.<br>
 <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">https://github.com/jfloff/alpine-python</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-03-26: <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">jfloff/alpine-python</a>.</em></p>]]></description></item><item><title>Open Hospital</title><link>https://blog.emecas.net/posts/2020-03-05-open-hospital/</link><pubDate>Thu, 05 Mar 2020 20:28:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-05-open-hospital/</guid><description><![CDATA[<p>Open Hospital<br>
-is a free and open source software for healthcare data management.</p>
-<p>The organization web page:<br>
-<a href="https://www.open-hospital.org/en/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/</a></p>
-<p>contribution section:<br>
-<a href="https://www.open-hospital.org/en/contribute-actively/" target="_blank" rel="noopener noreffer ">https://www.open-hospital.org/en/contribute-actively/</a></p>
-<p>The git repo:<br>
-<a href="https://github.com/informatici/openhospital" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital</a><br>
-This repository is used to build its portable releases.</p>
-<p>Other repos:<br>
-<a href="https://github.com/informatici/openhospital-gui" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-gui</a><br>
-<a href="https://github.com/informatici/openhospital-doc" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-doc</a><br>
-<a href="https://github.com/informatici/openhospital-core" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-core</a><br>
-<a href="https://github.com/informatici/openhospital-api" target="_blank" rel="noopener noreffer ">https://github.com/informatici/openhospital-api</a></p>
+<p><em>Source: starred on GitHub on 2020-03-26: <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">jfloff/alpine-python</a>.</em></p>]]></description></item><item><title>Housing Hub Project</title><link>https://blog.emecas.net/posts/2020-03-10-housing-hub-project/</link><pubDate>Tue, 10 Mar 2020 22:59:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-10-housing-hub-project/</guid><description><![CDATA[<p>Housing Hub Project<br>
+☐ #31 Section 8<br>
+☑ Docker image size optimization<br>
+☑ Docker image build optimization by caching dependencies</p>
+<p>Issue #30 in emecas/commitit, open, opened on 2020-03-10. Labels: EPIC.<br>
+<a href="https://github.com/emecas/commitit/issues/30" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/30</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f262870586c0479dda30a4f580eb343a4cde0c74" target="_blank" rel="noopener noreffer "><code>f262870</code></a> in My-Notes.</em></p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
-<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a><br>
-Build and run Docker containers leveraging NVIDIA GPUs<br>
-The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
-<a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>NVIDIA/nvidia-docker</title><link>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</link><pubDate>Sat, 29 Feb 2020 05:17:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</guid><description><![CDATA[<p>NVIDIA/nvidia-docker<br>
-Build and run Docker containers leveraging NVIDIA GPUs<br>
-Repository by NVIDIA, created in 2015, with 17,622 stars and 2,052 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-02-29.<br>
-<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">NVIDIA/nvidia-docker</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/30" target="_blank" rel="noopener noreffer ">#30</a> in emecas/commitit, opened on 2020-03-10.</em></p>]]></description></item></channel></rss>

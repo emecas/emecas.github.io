@@ -1,4 +1,11 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Test - Tag - My Notes</title><link>https://blog.emecas.net/tags/test/</link><description>Test - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 25 Jun 2021 17:37:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/test/" rel="self" type="application/rss+xml"/><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Test - Tag - My Notes</title><link>https://blog.emecas.net/tags/test/</link><description>Test - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Apr 2024 18:45:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/test/" rel="self" type="application/rss+xml"/><item><title>Predictive test selection to ensure reliable code changes - Engineering at Meta</title><link>https://blog.emecas.net/posts/2024-04-09-predictive-test-selection-to-ensure-reliable-code-changes-en/</link><pubDate>Tue, 09 Apr 2024 18:45:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-09-predictive-test-selection-to-ensure-reliable-code-changes-en/</guid><description><![CDATA[<p>Predictive test selection to ensure reliable code changes - Engineering at Meta<br>
+<a href="https://engineering.fb.com/2018/11/21/developer-tools/predictive-test-selection/" target="_blank" rel="noopener noreffer ">https://engineering.fb.com/2018/11/21/developer-tools/predictive-test-selection/</a></p>
+<p>Comment on 2024-04-09:<br>
+Paper: <a href="https://arxiv.org/abs/1810.05286" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.05286</a></p>
+<p>Issue #157 in emecas/commitit, open, opened on 2024-04-09.<br>
+<a href="https://github.com/emecas/commitit/issues/157" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/157</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/157" target="_blank" rel="noopener noreffer ">#157</a> in emecas/commitit, opened on 2024-04-09.</em></p>]]></description></item><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
 <a href="https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26" target="_blank" rel="noopener noreffer ">https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26</a></p>
 <p>import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;<br>
 import org.junit.jupiter.api.Order;</p>
@@ -48,7 +55,16 @@ Homepage: <a href="https://abhivaikar.github.io/howtheytest/" target="_blank" re
 • JT Harness project : <a href="http://jtharness.java.net/" target="_blank" rel="noopener noreffer ">http://jtharness.java.net/</a><br>
 • Download page : <a href="http://download.java.net/jtharness/download.html" target="_blank" rel="noopener noreffer ">http://download.java.net/jtharness/download.html</a><br>
 • Documentation : <a href="http://jtharness.java.net/jt_docs.html" target="_blank" rel="noopener noreffer ">http://jtharness.java.net/jt_docs.html</a><br>
-JT harness is the open source version of the JavaTest harness. JT harness is a general purpose, fully-featured, flexible, and configurable test harness very well suited for most types of unit testing, especially TCK test suites. The JT harness is an excellent tool for configuring, sequencing, and running test suites that consist of large numbers of discrete, independent tests. It is especially good at testing APIs and compilers. Originally developed as a test harness to run the JCK test suite, it has since evolved into a general purpose test platform well suited for use with all TCK test suites and other types of test suites.</p>]]></description></item><item><title>unbroken-dome/gradle-testsets-plugin</title><link>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</link><pubDate>Thu, 30 Apr 2020 20:03:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</guid><description><![CDATA[<p>unbroken-dome/gradle-testsets-plugin<br>
+JT harness is the open source version of the JavaTest harness. JT harness is a general purpose, fully-featured, flexible, and configurable test harness very well suited for most types of unit testing, especially TCK test suites. The JT harness is an excellent tool for configuring, sequencing, and running test suites that consist of large numbers of discrete, independent tests. It is especially good at testing APIs and compilers. Originally developed as a test harness to run the JCK test suite, it has since evolved into a general purpose test platform well suited for use with all TCK test suites and other types of test suites.</p>]]></description></item><item><title>Evaluate Apache EmpireDB</title><link>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</link><pubDate>Thu, 14 May 2020 23:19:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</guid><description><![CDATA[<p>Evaluate Apache EmpireDB<br>
+☐ Build from source<br>
+☐ Test/Run Basic DB example<br>
+☐ Test/Run Advanced DB example<br>
+☐ Modify DB example to connect MySQL DB<br>
+☐ Understand Reverse Engineering Functionality</p>
+<p>Issue #54 in emecas/commitit, open, opened on 2020-05-14.<br>
+<a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/54</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">#54</a> in emecas/commitit, opened on 2020-05-14.</em></p>]]></description></item><item><title>unbroken-dome/gradle-testsets-plugin</title><link>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</link><pubDate>Thu, 30 Apr 2020 20:03:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-30-unbroken-dome-gradle-testsets-plugin/</guid><description><![CDATA[<p>unbroken-dome/gradle-testsets-plugin<br>
 A plugin for the Gradle build system that allows specifying test sets (like integration or acceptance tests).<br>
 Kotlin repository by unbroken-dome, created in 2015, with 233 stars and 49 forks. License: MIT. Starred on 2020-04-30.<br>
 <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">https://github.com/unbroken-dome/gradle-testsets-plugin</a></p>
@@ -80,27 +96,4 @@ When_AgeLessThan18_Expect_isAdultAsFalse<br>
 When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
 When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
 7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
-Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item><item><title>JUnit 5 vs. Spock</title><link>https://blog.emecas.net/posts/2020-03-12-junit-5-vs-spock/</link><pubDate>Thu, 12 Mar 2020 08:45:57 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-12-junit-5-vs-spock/</guid><description><![CDATA[<p>JUnit 5 vs. Spock feature showdown<br>
-<a href="https://bmuschko.com/blog/junit5-vs-spock-showdown/" target="_blank" rel="noopener noreffer ">https://bmuschko.com/blog/junit5-vs-spock-showdown/</a><br>
-January 1, 2018</p>
-<p>For a quick reference, you can directly jump to a specific test framework feature:<br>
-Test execution<br>
-Fixture set up and tear down<br>
-Descriptive test names<br>
-Disabling tests<br>
-Expecting thrown exceptions<br>
-Repeating test execution<br>
-Declaring test execution timeouts<br>
-Conditional test execution<br>
-Data-driven tests<br>
-Mocking<br>
-Labeling and filtering test execution<br>
-Extending the test framework</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/76d3a6ae17b0921e876b10adb93de4f8b0a1b88d" target="_blank" rel="noopener noreffer "><code>76d3a6a</code></a> in My-Notes.</em></p>]]></description></item><item><title>karatelabs/karate</title><link>https://blog.emecas.net/posts/2020-02-21-karatelabs-karate/</link><pubDate>Fri, 21 Feb 2020 12:18:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-21-karatelabs-karate/</guid><description><![CDATA[<p>karatelabs/karate<br>
-Test Automation Made Simple<br>
-Java repository by karatelabs, created in 2017, with 9,007 stars and 2,047 forks. License: MIT. Starred on 2020-02-21.<br>
-Homepage: <a href="https://docs.karatelabs.io" target="_blank" rel="noopener noreffer ">https://docs.karatelabs.io</a><br>
-<a href="https://github.com/karatelabs/karate" target="_blank" rel="noopener noreffer ">https://github.com/karatelabs/karate</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-02-21: <a href="https://github.com/karatelabs/karate" target="_blank" rel="noopener noreffer ">karatelabs/karate</a>.</em></p>]]></description></item></channel></rss>
+Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item></channel></rss>

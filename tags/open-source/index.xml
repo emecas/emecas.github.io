@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Apr 2026 18:10:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>microsoft/VibeVoice</title><link>https://blog.emecas.net/posts/2026-04-08-microsoft-vibevoice/</link><pubDate>Wed, 08 Apr 2026 18:10:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-microsoft-vibevoice/</guid><description><![CDATA[<p>microsoft/VibeVoice<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Aug 2026 17:29:43 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>open-source a multi-agent harness used internally at YC.</title><link>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</link><pubDate>Sat, 01 Aug 2026 17:29:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</guid><description><![CDATA[<p>open-source a multi-agent harness used internally at YC.<br>
+<a href="https://github.com/yc-software/qm" target="_blank" rel="noopener noreffer ">https://github.com/yc-software/qm</a></p>
+<p>Issue #212 in emecas/commitit, open, opened on 2026-08-01.<br>
+<a href="https://github.com/emecas/commitit/issues/212" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/212</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/212" target="_blank" rel="noopener noreffer ">#212</a> in emecas/commitit, opened on 2026-08-01.</em></p>]]></description></item><item><title>microsoft/VibeVoice</title><link>https://blog.emecas.net/posts/2026-04-08-microsoft-vibevoice/</link><pubDate>Wed, 08 Apr 2026 18:10:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-microsoft-vibevoice/</guid><description><![CDATA[<p>microsoft/VibeVoice<br>
 Open-Source Frontier Voice AI<br>
 Python repository by microsoft, created in 2025, with 56,981 stars and 6,421 forks. License: MIT. Starred on 2026-04-08.<br>
 Homepage: <a href="https://microsoft.github.io/VibeVoice/" target="_blank" rel="noopener noreffer ">https://microsoft.github.io/VibeVoice/</a><br>
@@ -31,7 +36,12 @@ Apache Superset is an open-source modern data exploration and visualization plat
 Create dynamic content with Python, R, Julia, and Observable.<br>
 Publish reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more.<br>
 Share knowledge and insights organization-wide by publishing to Posit Connect, Confluence, or other publishing systems.<br>
-Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>Automattic/harper</title><link>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</link><pubDate>Sat, 21 Jun 2025 01:39:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</guid><description><![CDATA[<p>Automattic/harper<br>
+Write using Pandoc markdown, including equations, citations, crossrefs, figure panels, callouts, advanced layout, and more.</p>]]></description></item><item><title>ZED: I’m moving on from VS Code — and this is the open-source editor I'm switching to</title><link>https://blog.emecas.net/posts/2025-10-26-zed-im-moving-on-from-vs-code-and-this-is-the-open-source-ed/</link><pubDate>Sun, 26 Oct 2025 23:12:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-10-26-zed-im-moving-on-from-vs-code-and-this-is-the-open-source-ed/</guid><description><![CDATA[<p>ZED: I’m moving on from VS Code — and this is the open-source editor I&rsquo;m switching to<br>
+<a href="https://www.xda-developers.com/moving-on-from-vs-code-open-source-editor-switching-to/" target="_blank" rel="noopener noreffer ">https://www.xda-developers.com/moving-on-from-vs-code-open-source-editor-switching-to/</a></p>
+<p>Issue #200 in emecas/commitit, open, opened on 2025-10-26.<br>
+<a href="https://github.com/emecas/commitit/issues/200" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/200</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/200" target="_blank" rel="noopener noreffer ">#200</a> in emecas/commitit, opened on 2025-10-26.</em></p>]]></description></item><item><title>Automattic/harper</title><link>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</link><pubDate>Sat, 21 Jun 2025 01:39:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</guid><description><![CDATA[<p>Automattic/harper<br>
 Offline, privacy-first grammar checker. Fast, open-source, Rust-powered<br>
 Rust repository by Automattic, created in 2023, with 17,575 stars and 815 forks. License: Apache-2.0. Starred on 2025-06-21.<br>
 Homepage: <a href="https://writewithharper.com" target="_blank" rel="noopener noreffer ">https://writewithharper.com</a><br>
@@ -69,19 +79,4 @@ To preserve the name for its original owner, we renamed this project to hey.</p>
 Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
 <p>Features:</p>
 <p>- Clean and Flexible Interface</p>
-<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item><item><title>ToolJet/ToolJet</title><link>https://blog.emecas.net/posts/2024-05-27-tooljet-tooljet/</link><pubDate>Mon, 27 May 2024 17:15:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-tooljet-tooljet/</guid><description><![CDATA[<p>ToolJet/ToolJet<br>
-Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀<br>
-HTML repository by ToolJet, created in 2021, with 41,219 stars and 5,507 forks. License: AGPL-3.0. Starred on 2024-05-27.<br>
-Homepage: <a href="https://tooljet.com" target="_blank" rel="noopener noreffer ">https://tooljet.com</a><br>
-<a href="https://github.com/ToolJet/ToolJet" target="_blank" rel="noopener noreffer ">https://github.com/ToolJet/ToolJet</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/ToolJet/ToolJet" target="_blank" rel="noopener noreffer ">ToolJet/ToolJet</a>.</em></p>]]></description></item><item><title>Democracy Lab</title><link>https://blog.emecas.net/posts/2024-05-15-democracy-lab/</link><pubDate>Wed, 15 May 2024 20:17:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-15-democracy-lab/</guid><description><![CDATA[<p>Democracy Lab<br>
-<a href="https://www.democracylab.org/" target="_blank" rel="noopener noreffer ">https://www.democracylab.org/</a><br>
-Civic Infrastructure</p>
-<p>DemocracyLab empowers people who use technology for public good by connecting tech-for-good projects with skilled volunteers and companies.</p>
-<p>Make Tech. Do Good.</p>
-<p>We connect tech-for-good projects with skilled volunteers and socially responsible companies.</p>
-<p>GitHub main repo: <a href="https://github.com/DemocracyLab/CivicTechExchange" target="_blank" rel="noopener noreffer ">https://github.com/DemocracyLab/CivicTechExchange</a></p>
-<p>Blog: <a href="https://blog.democracylab.org/" target="_blank" rel="noopener noreffer ">https://blog.democracylab.org/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3d00911d4754c92fdbe5149074dd4ae4753c359b" target="_blank" rel="noopener noreffer "><code>3d00911</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item></channel></rss>

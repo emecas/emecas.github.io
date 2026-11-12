@@ -1,4 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Harness - Tag - My Notes</title><link>https://blog.emecas.net/tags/harness/</link><description>Harness - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Jul 2026 00:00:02 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/harness/" rel="self" type="application/rss+xml"/><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Harness - Tag - My Notes</title><link>https://blog.emecas.net/tags/harness/</link><description>Harness - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2026 19:34:59 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/harness/" rel="self" type="application/rss+xml"/><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
+<a href="https://github.com/walkinglabs/learn-harness-engineering" target="_blank" rel="noopener noreffer ">https://github.com/walkinglabs/learn-harness-engineering</a></p>
+<p>Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:</p>
+<p>how Claude Code, Codex, DeepSeek build their harness<br>
+loop &amp; graph engineering<br>
+automated agent loops<br>
+observability, testing and verification<br>
+really good source for learning harness essentials by doing.</p>
+<p>Ref: <a href="https://x.com/i/status/2105980972558627237" target="_blank" rel="noopener noreffer ">https://x.com/i/status/2105980972558627237</a></p>
+<p>Issue #217 in emecas/commitit, open, opened on 2026-10-04.<br>
+<a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/217</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">#217</a> in emecas/commitit, opened on 2026-10-04.</em></p>]]></description></item><item><title>open-source a multi-agent harness used internally at YC.</title><link>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</link><pubDate>Sat, 01 Aug 2026 17:29:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</guid><description><![CDATA[<p>open-source a multi-agent harness used internally at YC.<br>
+<a href="https://github.com/yc-software/qm" target="_blank" rel="noopener noreffer ">https://github.com/yc-software/qm</a></p>
+<p>Issue #212 in emecas/commitit, open, opened on 2026-08-01.<br>
+<a href="https://github.com/emecas/commitit/issues/212" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/212</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/212" target="_blank" rel="noopener noreffer ">#212</a> in emecas/commitit, opened on 2026-08-01.</em></p>]]></description></item><item><title>xai-org/grok-build</title><link>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</link><pubDate>Sat, 18 Jul 2026 00:00:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-07-18-xai-org-grok-build/</guid><description><![CDATA[<p>xai-org/grok-build<br>
 SpaceXAI&rsquo;s coding agent harness and TUI. Fullscreen, mouse interactive, extensible.<br>
 Rust repository by xai-org, created in 2026, with 27,739 stars and 5,244 forks. License: Apache-2.0. Starred on 2026-07-18.<br>
 <a href="https://github.com/xai-org/grok-build" target="_blank" rel="noopener noreffer ">https://github.com/xai-org/grok-build</a></p>

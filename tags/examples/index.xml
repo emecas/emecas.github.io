@@ -31,7 +31,21 @@ Reactive examples with Java, Project Reactor, and R2DBC<br>
 Java repository by mariadb-developers, created in 2022, with 9 stars and 1 forks. License: MIT. Starred on 2022-09-13.<br>
 <a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">https://github.com/mariadb-developers/reactive-programming-java-examples</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2022-09-13: <a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">mariadb-developers/reactive-programming-java-examples</a>.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
+<p><em>Source: starred on GitHub on 2022-09-13: <a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">mariadb-developers/reactive-programming-java-examples</a>.</em></p>]]></description></item><item><title>[Follow] What Is Passive-Aggressive Behavior?</title><link>https://blog.emecas.net/posts/2022-08-16-follow-what-is-passive-aggressive-behavior/</link><pubDate>Tue, 16 Aug 2022 14:31:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-16-follow-what-is-passive-aggressive-behavior/</guid><description><![CDATA[<p>[Follow] What Is Passive-Aggressive Behavior?<br>
+Ref: What Is Passive-Aggressive Behavior?<br>
+<a href="https://www.verywellmind.com/what-is-passive-aggressive-behavior-2795481" target="_blank" rel="noopener noreffer ">https://www.verywellmind.com/what-is-passive-aggressive-behavior-2795481</a></p>
+<p>Table of Contents</p>
+<p>Definition<br>
+Examples<br>
+Effects<br>
+Causes<br>
+How to Recognize<br>
+How to Respond<br>
+When You Are Passive-Aggressive</p>
+<p>Issue #95 in emecas/commitit, open, opened on 2022-08-16. Labels: TODO, P-Low.<br>
+<a href="https://github.com/emecas/commitit/issues/95" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/95</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/95" target="_blank" rel="noopener noreffer ">#95</a> in emecas/commitit, opened on 2022-08-16.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
 This repository contains all the source code examples from my LiveLessons course on &ldquo;Java Concurrent Programming&rdquo; and my various LiveTraining courses, as described at <a href="http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning" target="_blank" rel="noopener noreffer ">http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning</a>.<br>
 Java repository by douglascraigschmidt, created in 2014, with 614 stars and 657 forks. Starred on 2021-05-27.<br>
 <a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">https://github.com/douglascraigschmidt/LiveLessons</a></p>
@@ -84,31 +98,4 @@ Evolution of Enterprise Java -  Optimised for microservice architectures<br>
 Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
 examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
 <p>Mature<br>
-Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>7 Popular Unit Test Naming Conventions</title><link>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</link><pubDate>Wed, 29 Apr 2020 18:54:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-29-7-popular-unit-test-naming-conventions/</guid><description><![CDATA[<p>7 Popular Unit Test Naming Conventions<br>
-<a href="https://dzone.com/articles/7-popular-unit-test-naming" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/7-popular-unit-test-naming</a></p>
-<p>1. MethodName_StateUnderTest_ExpectedBehavior: There are arguments against this strategy that if method names change as part of code refactoring 	than test name like this should also change or it becomes difficult to comprehend at a later stage. Following are some of the example:<br>
-isAdult_AgeLessThan18_False<br>
-withdrawMoney_InvalidAccount_ExceptionThrown<br>
-admitStudent_MissingMandatoryFields_FailToAdmit<br>
-2. MethodName_ExpectedBehavior_StateUnderTest: Slightly tweeked from above, but a section of developers also recommend using this naming technique. This technique also has disadvantage that if method names get changed, it becomes difficult to comprehend at a later stage. Following is how tests in first example would read like if named using this technique:<br>
-isAdult_False_AgeLessThan18<br>
-withdrawMoney_ThrowsException_IfAccountIsInvalid<br>
-admitStudent_FailToAdmit_IfMandatoryFieldsAreMissing<br>
-3. test[Feature being tested]: This one makes it easy to read the test as the feature to be tested is written as part of test name. Although, there are arguments that the “test” prefix is redundant. However, some sections of developer love to use this technique. Following is how the above tests would read like if named using this technique:<br>
-testIsNotAnAdultIfAgeLessThan18<br>
-testFailToWithdrawMoneyIfAccountIsInvalid<br>
-testStudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
-4. Feature to be tested: Many suggests that it is better to simply write the feature to be tested because one is anyway using annotations to identify method as test methods. It is also recommended for the reason that it makes unit tests as alternate form of documentation and avoid code smells. Following is how tests in first example would read like if named using this technique:<br>
-IsNotAnAdultIfAgeLessThan18<br>
-FailToWithdrawMoneyIfAccountIsInvalid<br>
-StudentIsNotAdmittedIfMandatoryFieldsAreMissing<br>
-5. Should_ExpectedBehavior_When_StateUnderTest: This technique is also used by many as it makes it easy to read the tests. Following is how tests in first example would read like if named using this technique:<br>
-Should_ThrowException_When_AgeLessThan18<br>
-Should_FailToWithdrawMoney_ForInvalidAccount<br>
-Should_FailToAdmit_IfMandatoryFieldsAreMissing<br>
-6. When_StateUnderTest_Expect_ExpectedBehavior: Following is how tests in first example would read like if named using this technique:<br>
-When_AgeLessThan18_Expect_isAdultAsFalse<br>
-When_InvalidAccount_Expect_WithdrawMoneyToFail<br>
-When_MandatoryFieldsAreMissing_Expect_StudentAdmissionToFail<br>
-7. Given_Preconditions_When_StateUnderTest_Then_ExpectedBehavior: This approach is based on naming convention developed as part of Behavior-Driven Development (BDD). The idea is to break down the tests into three part such that one could come up with preconditions, state under test and expected behavior to be written in above format. Following is how tests in first example would read like if named using this technique:<br>
-Given_UserIsAuthenticated_When_InvalidAccountNumberIsUsedToWithdrawMoney_Then_TransactionsWillFail</p>]]></description></item></channel></rss>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item></channel></rss>

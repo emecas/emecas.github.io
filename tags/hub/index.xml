@@ -4,7 +4,14 @@ Python repository by huggingface, created in 2020, with 22,124 stars and 3,629 f
 Homepage: <a href="https://huggingface.co/docs/datasets" target="_blank" rel="noopener noreffer ">https://huggingface.co/docs/datasets</a><br>
 <a href="https://github.com/huggingface/datasets" target="_blank" rel="noopener noreffer ">https://github.com/huggingface/datasets</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/huggingface/datasets" target="_blank" rel="noopener noreffer ">huggingface/datasets</a>.</em></p>]]></description></item><item><title>Docker Containers on the Desktop</title><link>https://blog.emecas.net/posts/2017-03-24-docker-containers-on-the-desktop/</link><pubDate>Fri, 24 Mar 2017 15:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-24-docker-containers-on-the-desktop/</guid><description><![CDATA[<p>Docker Containers on the Desktop<br>
+<p><em>Source: starred on GitHub on 2020-07-11: <a href="https://github.com/huggingface/datasets" target="_blank" rel="noopener noreffer ">huggingface/datasets</a>.</em></p>]]></description></item><item><title>Housing Hub Project</title><link>https://blog.emecas.net/posts/2020-03-10-housing-hub-project/</link><pubDate>Tue, 10 Mar 2020 22:59:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-10-housing-hub-project/</guid><description><![CDATA[<p>Housing Hub Project<br>
+☐ #31 Section 8<br>
+☑ Docker image size optimization<br>
+☑ Docker image build optimization by caching dependencies</p>
+<p>Issue #30 in emecas/commitit, open, opened on 2020-03-10. Labels: EPIC.<br>
+<a href="https://github.com/emecas/commitit/issues/30" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/30</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/30" target="_blank" rel="noopener noreffer ">#30</a> in emecas/commitit, opened on 2020-03-10.</em></p>]]></description></item><item><title>Docker Containers on the Desktop</title><link>https://blog.emecas.net/posts/2017-03-24-docker-containers-on-the-desktop/</link><pubDate>Fri, 24 Mar 2017 15:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-24-docker-containers-on-the-desktop/</guid><description><![CDATA[<p>Docker Containers on the Desktop<br>
 By  Jessie Frazelle<br>
 <a href="https://blog.jessfraz.com/post/docker-containers-on-the-desktop/" target="_blank" rel="noopener noreffer ">https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</a></p>
 <p>Main idea: &ldquo;I hate installing things on my host and the files getting everywhere. I wanted the ability to delete an app and know it is gone fully without some random file hanging around. This gave me that. Not only that, I can control how much CPU and Memory the app uses. Yes, the cpu/memory hungry chrome is now perfectly contained!</p>]]></description></item></channel></rss>

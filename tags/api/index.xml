@@ -21,7 +21,23 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>LFopen Website API Reference and Documentation</title><link>https://blog.emecas.net/posts/2024-05-04-lfopen-website-api-reference-and-documentation/</link><pubDate>Sat, 04 May 2024 23:33:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-04-lfopen-website-api-reference-and-documentation/</guid><description><![CDATA[<p>LFopen Website API Reference and Documentation<br>
+<a href="https://software.lfconnect.com/lfopen/webapidocs/1.0/index.html" target="_blank" rel="noopener noreffer ">https://software.lfconnect.com/lfopen/webapidocs/1.0/index.html</a></p>
+<p>Issue #172 in emecas/commitit, open, opened on 2024-05-04.<br>
+<a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/172</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">#172</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item><item><title>Rescuing REST From the API Winter</title><link>https://blog.emecas.net/posts/2024-05-04-rescuing-rest-from-the-api-winter/</link><pubDate>Sat, 04 May 2024 21:57:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-04-rescuing-rest-from-the-api-winter/</guid><description><![CDATA[<p>Rescuing REST From the API Winter<br>
+<a href="https://intercoolerjs.org/2016/01/18/rescuing-rest.html?s=09" target="_blank" rel="noopener noreffer ">https://intercoolerjs.org/2016/01/18/rescuing-rest.html?s=09</a></p>
+<p><a href="https://github.com/bigskysoftware/intercooler-js" target="_blank" rel="noopener noreffer ">https://github.com/bigskysoftware/intercooler-js</a></p>
+<p>Issue #170 in emecas/commitit, open, opened on 2024-05-04.<br>
+<a href="https://github.com/emecas/commitit/issues/170" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/170</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/170" target="_blank" rel="noopener noreffer ">#170</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item><item><title>Zuplo - API GATEWAY</title><link>https://blog.emecas.net/posts/2024-03-30-zuplo-api-gateway/</link><pubDate>Sat, 30 Mar 2024 00:58:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-30-zuplo-api-gateway/</guid><description><![CDATA[<p>Zuplo - API GATEWAY<br>
+<a href="https://zuplo.com/?s=09" target="_blank" rel="noopener noreffer ">https://zuplo.com/?s=09</a></p>
+<p>Issue #153 in emecas/commitit, open, opened on 2024-03-30.<br>
+<a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/153</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">#153</a> in emecas/commitit, opened on 2024-03-30.</em></p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
 API Documentation Browser<br>
 Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
 Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
@@ -35,36 +51,14 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
-Repo: <a href="https://github.com/inboxSDK/inboxsdk" target="_blank" rel="noopener noreffer ">https://github.com/inboxSDK/inboxsdk</a><br>
-Documentation: <a href="https://inboxsdk.github.io/inboxsdk-docs/" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/</a><br>
-Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" rel="noopener noreffer ">https://github.com/InboxSDK/inboxsdk-docs</a><br>
-The InboxSDK lets you build apps for Gmail.</p>
-<p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
-<p>Getting Started<br>
-<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>The Jira Cloud platform REST API</title><link>https://blog.emecas.net/posts/2024-02-29-the-jira-cloud-platform-rest-api/</link><pubDate>Thu, 29 Feb 2024 18:42:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-02-29-the-jira-cloud-platform-rest-api/</guid><description><![CDATA[<p>The Jira Cloud platform REST API<br>
+<a href="https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-issue-issueidorkey-worklog-post" target="_blank" rel="noopener noreffer ">https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-issue-issueidorkey-worklog-post</a></p>
+<p>Issue #137 in emecas/commitit, open, opened on 2024-02-29.<br>
+<a href="https://github.com/emecas/commitit/issues/137" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/137</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>tomitribe/jamira</title><link>https://blog.emecas.net/posts/2021-04-27-tomitribe-jamira/</link><pubDate>Tue, 27 Apr 2021 16:27:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-04-27-tomitribe-jamira/</guid><description><![CDATA[<p>tomitribe/jamira<br>
-Command-line API for Atlassian JIRA using the Tomitribe CREST library<br>
-Java repository by tomitribe, created in 2021, with 13 stars and 4 forks. License: Apache-2.0. Starred on 2021-04-27.<br>
-<a href="https://github.com/tomitribe/jamira" target="_blank" rel="noopener noreffer ">https://github.com/tomitribe/jamira</a></p>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/137" target="_blank" rel="noopener noreffer ">#137</a> in emecas/commitit, opened on 2024-02-29.</em></p>]]></description></item><item><title>Table API | ServiceNow Developers</title><link>https://blog.emecas.net/posts/2023-11-11-table-api-servicenow-developers/</link><pubDate>Sat, 11 Nov 2023 16:20:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-11-table-api-servicenow-developers/</guid><description><![CDATA[<p>Table API | ServiceNow Developers<br>
+<a href="https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest/c_TableAPI" target="_blank" rel="noopener noreffer ">https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest/c_TableAPI</a></p>
+<p>Issue #130 in emecas/commitit, open, opened on 2023-11-11.<br>
+<a href="https://github.com/emecas/commitit/issues/130" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/130</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2021-04-27: <a href="https://github.com/tomitribe/jamira" target="_blank" rel="noopener noreffer ">tomitribe/jamira</a>.</em></p>]]></description></item><item><title>openmrs/openmrs-core</title><link>https://blog.emecas.net/posts/2021-02-02-openmrs-openmrs-core/</link><pubDate>Tue, 02 Feb 2021 10:47:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-02-openmrs-openmrs-core/</guid><description><![CDATA[<p>openmrs/openmrs-core<br>
-OpenMRS API and web application code<br>
-Java repository by openmrs, created in 2012, with 1,988 stars and 4,472 forks. Starred on 2021-02-02.<br>
-Homepage: <a href="http://openmrs.org" target="_blank" rel="noopener noreffer ">http://openmrs.org</a><br>
-<a href="https://github.com/openmrs/openmrs-core" target="_blank" rel="noopener noreffer ">https://github.com/openmrs/openmrs-core</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2021-02-02: <a href="https://github.com/openmrs/openmrs-core" target="_blank" rel="noopener noreffer ">openmrs/openmrs-core</a>.</em></p>]]></description></item><item><title>apache/shenyu</title><link>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</link><pubDate>Sat, 16 Jan 2021 05:42:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-16-apache-shenyu/</guid><description><![CDATA[<p>apache/shenyu<br>
-Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.<br>
-Java repository by apache, created in 2018, with 8,919 stars and 3,111 forks. License: Apache-2.0. Starred on 2021-01-16.<br>
-Homepage: <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a><br>
-<a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2021-01-16: <a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">apache/shenyu</a>.</em></p>]]></description></item><item><title>hoppscotch/hoppscotch</title><link>https://blog.emecas.net/posts/2020-09-04-hoppscotch-hoppscotch/</link><pubDate>Fri, 04 Sep 2020 09:40:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-04-hoppscotch-hoppscotch/</guid><description><![CDATA[<p>hoppscotch/hoppscotch<br>
-Open-Source API Development Ecosystem • <a href="https://hoppscotch.io" target="_blank" rel="noopener noreffer ">https://hoppscotch.io</a> • Offline, On-Prem &amp; Cloud • Web, Desktop &amp; CLI • Open-Source Alternative to Postman, Insomnia<br>
-TypeScript repository by hoppscotch, created in 2019, with 80,773 stars and 6,233 forks. License: MIT. Starred on 2020-09-04.<br>
-Homepage: <a href="https://hoppscotch.io" target="_blank" rel="noopener noreffer ">https://hoppscotch.io</a><br>
-<a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener noreffer ">https://github.com/hoppscotch/hoppscotch</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-09-04: <a href="https://github.com/hoppscotch/hoppscotch" target="_blank" rel="noopener noreffer ">hoppscotch/hoppscotch</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/130" target="_blank" rel="noopener noreffer ">#130</a> in emecas/commitit, opened on 2023-11-11.</em></p>]]></description></item></channel></rss>

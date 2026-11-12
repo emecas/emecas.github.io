@@ -14,7 +14,26 @@ File name conventions for ADRs<br>
 Suggestions for writing good ADRs<br>
 ADR example templates<br>
 Teamwork advice for ADRs<br>
-For more information</p>]]></description></item><item><title>Unpaywall is transforming Open Science</title><link>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</link><pubDate>Thu, 24 Dec 2020 18:52:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</guid><description><![CDATA[<p>Unpaywall is transforming Open Science<br>
+For more information</p>]]></description></item><item><title>Understanding GraalVM, AOT &amp; JIT</title><link>https://blog.emecas.net/posts/2024-03-06-understanding-graalvm-aot-jit/</link><pubDate>Wed, 06 Mar 2024 09:15:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-06-understanding-graalvm-aot-jit/</guid><description><![CDATA[<p>Understanding GraalVM, AOT &amp; JIT<br>
+<a href="https://www.marcobehler.com/guides/graalvm-aot-jit?s=09" target="_blank" rel="noopener noreffer ">https://www.marcobehler.com/guides/graalvm-aot-jit?s=09</a></p>
+<p>Content</p>
+<p>Quick Links<br>
+- Intro<br>
+- What Is GraalVM?<br>
+- What Is Javac?<br>
+- What Happens to Your Bytecode?<br>
+- What Is a JIT Compiler, Again?<br>
+- So, What Are the Advantages of the JIT Approach?<br>
+- What Is an AOT Compiler, Then?<br>
+- OK, OK, but What About GraalVM Already?<br>
+- Are There Any Issues With AOT, Then?<br>
+- A Warm-Up Reflection Example<br>
+- Any Real World Examples?<br>
+- Any Other Potential Issues?<br>
+- So do you REALLY have experience with this?<br>
+- Why Do We Want AOT in the First Place?<br>
+- Acknowledgements<br>
+- Fin</p>]]></description></item><item><title>Unpaywall is transforming Open Science</title><link>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</link><pubDate>Thu, 24 Dec 2020 18:52:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-24-unpaywall-is-transforming-open-science/</guid><description><![CDATA[<p>Unpaywall is transforming Open Science<br>
 <a href="https://unpaywall.org/" target="_blank" rel="noopener noreffer ">https://unpaywall.org/</a><br>
 An open database of 27,932,682 free scholarly articles.<br>
 We harvest Open Access content from over 50,000 publishers and repositories, and make it easy to find, track, and use.</p>

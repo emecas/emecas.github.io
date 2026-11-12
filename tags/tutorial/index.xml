@@ -1,4 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tutorial - Tag - My Notes</title><link>https://blog.emecas.net/tags/tutorial/</link><description>Tutorial - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 21 Sep 2020 12:35:13 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tutorial/" rel="self" type="application/rss+xml"/><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tutorial - Tag - My Notes</title><link>https://blog.emecas.net/tags/tutorial/</link><description>Tutorial - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Feb 2021 20:54:19 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/tutorial/" rel="self" type="application/rss+xml"/><item><title>README.md for Your GitHub Profile</title><link>https://blog.emecas.net/posts/2021-02-17-readme-md-for-your-github-profile/</link><pubDate>Wed, 17 Feb 2021 20:54:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-readme-md-for-your-github-profile/</guid><description><![CDATA[<p>README.md for Your GitHub Profile<br>
+How to Create a Self-Updating README.md for Your GitHub Profile<br>
+A good tutorial to do your first steps with GitHub Actions<br>
+Thomas Guibert<br>
+Jul 23, 2020 · 5 min read<br>
+<a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91" target="_blank" rel="noopener noreffer ">https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91</a></p>
+<p>Add an Interactive and beautiful Readme about you to Your Github Profile.<br>
+Digvijay Pawar<br>
+Aug 20, 2020·2 min read<br>
+<a href="https://medium.com/@djaypawar17/add-interactive-and-beautiful-readme-to-your-github-profile-in-few-minutes-58a3dfc520d0" target="_blank" rel="noopener noreffer ">https://medium.com/@djaypawar17/add-interactive-and-beautiful-readme-to-your-github-profile-in-few-minutes-58a3dfc520d0</a></p>
+<p>GitHub formatting for README.md section<br>
+<a href="https://medium.com/@syakirharis25/github-formatting-for-readme-md-section-ec212975adf4" target="_blank" rel="noopener noreffer ">https://medium.com/@syakirharis25/github-formatting-for-readme-md-section-ec212975adf4</a></p>
+<p>Issue #76 in emecas/commitit, open, opened on 2021-02-17. Labels: TODO.<br>
+<a href="https://github.com/emecas/commitit/issues/76" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/76</a></p>]]></description></item><item><title>web-ext</title><link>https://blog.emecas.net/posts/2020-09-21-web-ext/</link><pubDate>Mon, 21 Sep 2020 12:35:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-21-web-ext/</guid><description><![CDATA[<p>Getting started with web-ext<br>
 <a href="https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/" target="_blank" rel="noopener noreffer ">https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/</a><br>
 web-ext is a command line tool designed to speed up various parts of the extension development process, making development faster and easier. This article explains how to install and use web-ext.</p>
 <hr>
@@ -78,10 +91,4 @@ String lastName = faker.name().lastName(); // Barton</p>]]></description></item>
 Alembic tweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python.<br>
 Alembic is hosted on GitHub at <a href="https://github.com/sqlalchemy/alembic" target="_blank" rel="noopener noreffer ">https://github.com/sqlalchemy/alembic</a> under the SQLAlchemy organization.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item><item><title>HTTPS in a Spring Boot</title><link>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</link><pubDate>Thu, 23 Jan 2020 19:21:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-23-https-in-a-spring-boot/</guid><description><![CDATA[<p>How to enable HTTPS in a Spring Boot Java application<br>
-<a href="https://www.thomasvitale.com/https-spring-boot-ssl-certificate/" target="_blank" rel="noopener noreffer ">https://www.thomasvitale.com/https-spring-boot-ssl-certificate/</a><br>
-Setting up HTTPS for Spring Boot requires two steps: getting an SSL certificate and configuring SSL in Spring Boot.<br>
-Whether you&rsquo;re going to generate a self-signed certificate or you have already got one by a CA,<br>
-I&rsquo;ll show you how to enable HTTPS in a Spring Boot application.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cb732917ebe04fe2ff33cafaf4fa27b411231a2b" target="_blank" rel="noopener noreffer "><code>cb73291</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/957a7919dcb08b0eb886269965ae61d1ef447241" target="_blank" rel="noopener noreffer "><code>957a791</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -10,7 +10,12 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>Using the SpotBugs Eclipse plugin</title><link>https://blog.emecas.net/posts/2020-11-21-using-the-spotbugs-eclipse-plugin/</link><pubDate>Sat, 21 Nov 2020 03:52:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-21-using-the-spotbugs-eclipse-plugin/</guid><description><![CDATA[<p>Using the SpotBugs Eclipse plugin<br>
+<a href="https://spotbugs.readthedocs.io/en/latest/eclipse.html" target="_blank" rel="noopener noreffer ">https://spotbugs.readthedocs.io/en/latest/eclipse.html</a></p>
+<p>Issue #67 in emecas/commitit, open, opened on 2020-11-21. Labels: WIP.<br>
+<a href="https://github.com/emecas/commitit/issues/67" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/67</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/67" target="_blank" rel="noopener noreffer ">#67</a> in emecas/commitit, opened on 2020-11-21.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
 <p>POM:</p>
 <p>&lt;plugin&gt;<br>
 &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>
@@ -105,10 +110,4 @@ A SonarQube plugin for Netbeans<br>
 Java repository by hmvictor, created in 2015, with 34 stars and 22 forks. Starred on 2017-02-21.<br>
 <a href="https://github.com/hmvictor/radar-netbeans" target="_blank" rel="noopener noreffer ">https://github.com/hmvictor/radar-netbeans</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2017-02-21: <a href="https://github.com/hmvictor/radar-netbeans" target="_blank" rel="noopener noreffer ">hmvictor/radar-netbeans</a>.</em></p>]]></description></item><item><title>NotePad++ Compare Plugin is back</title><link>https://blog.emecas.net/posts/2017-01-23-notepad-compare-plugin-is-back/</link><pubDate>Mon, 23 Jan 2017 13:22:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-23-notepad-compare-plugin-is-back/</guid><description><![CDATA[<p>NotePad++ Compare Plugin<br>
-Compare plugin is back!<br>
-<a href="https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back" target="_blank" rel="noopener noreffer ">https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back</a><br>
-<a href="https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0</a><br>
-<a href="https://github.com/pnedev/compare-plugin" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/compare-plugin</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e5cb362f3c2cd4612a9b23f9f88e5e506977abd5" target="_blank" rel="noopener noreffer "><code>e5cb362</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2017-02-21: <a href="https://github.com/hmvictor/radar-netbeans" target="_blank" rel="noopener noreffer ">hmvictor/radar-netbeans</a>.</em></p>]]></description></item></channel></rss>

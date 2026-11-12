@@ -1,4 +1,13 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Basic - Tag - My Notes</title><link>https://blog.emecas.net/tags/basic/</link><description>Basic - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 22 Oct 2018 12:08:18 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/basic/" rel="self" type="application/rss+xml"/><item><title>kousen/HelloKotlinAndroid</title><link>https://blog.emecas.net/posts/2018-10-22-kousen-hellokotlinandroid/</link><pubDate>Mon, 22 Oct 2018 12:08:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-22-kousen-hellokotlinandroid/</guid><description><![CDATA[<p>kousen/HelloKotlinAndroid<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Basic - Tag - My Notes</title><link>https://blog.emecas.net/tags/basic/</link><description>Basic - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 14 May 2020 23:19:48 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/basic/" rel="self" type="application/rss+xml"/><item><title>Evaluate Apache EmpireDB</title><link>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</link><pubDate>Thu, 14 May 2020 23:19:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</guid><description><![CDATA[<p>Evaluate Apache EmpireDB<br>
+☐ Build from source<br>
+☐ Test/Run Basic DB example<br>
+☐ Test/Run Advanced DB example<br>
+☐ Modify DB example to connect MySQL DB<br>
+☐ Understand Reverse Engineering Functionality</p>
+<p>Issue #54 in emecas/commitit, open, opened on 2020-05-14.<br>
+<a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/54</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">#54</a> in emecas/commitit, opened on 2020-05-14.</em></p>]]></description></item><item><title>kousen/HelloKotlinAndroid</title><link>https://blog.emecas.net/posts/2018-10-22-kousen-hellokotlinandroid/</link><pubDate>Mon, 22 Oct 2018 12:08:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-22-kousen-hellokotlinandroid/</guid><description><![CDATA[<p>kousen/HelloKotlinAndroid<br>
 Basic Hello, World! Android app written in Kotlin<br>
 Kotlin repository by kousen, created in 2018, with 25 stars and 23 forks. License: Apache-2.0. Starred on 2018-10-22.<br>
 <a href="https://github.com/kousen/HelloKotlinAndroid" target="_blank" rel="noopener noreffer ">https://github.com/kousen/HelloKotlinAndroid</a></p>

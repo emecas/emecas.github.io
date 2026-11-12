@@ -19,7 +19,12 @@ switch, s   Switch to use the specified version.<br>
 remove, rm  Remove a specific version.<br>
 rls         Show a list of versions available for download.<br>
 proxy       Set a proxy to use for downloads.<br>
-help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>openjdk/jdk</title><link>https://blog.emecas.net/posts/2020-09-06-openjdk-jdk/</link><pubDate>Sun, 06 Sep 2020 19:41:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-openjdk-jdk/</guid><description><![CDATA[<p>openjdk/jdk<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>[Read] JDK 19: The new features in Java 19</title><link>https://blog.emecas.net/posts/2022-09-04-read-jdk-19-the-new-features-in-java-19/</link><pubDate>Sun, 04 Sep 2022 14:01:25 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-04-read-jdk-19-the-new-features-in-java-19/</guid><description><![CDATA[<p>[Read] JDK 19: The new features in Java 19<br>
+<a href="https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html" target="_blank" rel="noopener noreffer ">https://www.infoworld.com/article/3653331/jdk-19-the-new-features-in-java-19.html</a></p>
+<p>Issue #107 in emecas/commitit, open, opened on 2022-09-04. Labels: TODO, P-High.<br>
+<a href="https://github.com/emecas/commitit/issues/107" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/107</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/107" target="_blank" rel="noopener noreffer ">#107</a> in emecas/commitit, opened on 2022-09-04.</em></p>]]></description></item><item><title>openjdk/jdk</title><link>https://blog.emecas.net/posts/2020-09-06-openjdk-jdk/</link><pubDate>Sun, 06 Sep 2020 19:41:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-openjdk-jdk/</guid><description><![CDATA[<p>openjdk/jdk<br>
 JDK main-line development <a href="https://openjdk.org/projects/jdk" target="_blank" rel="noopener noreffer ">https://openjdk.org/projects/jdk</a><br>
 Java repository by openjdk, created in 2018, with 23,513 stars and 6,601 forks. License: GPL-2.0. Starred on 2020-09-06.<br>
 <a href="https://github.com/openjdk/jdk" target="_blank" rel="noopener noreffer ">https://github.com/openjdk/jdk</a></p>

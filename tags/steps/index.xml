@@ -1,4 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Steps - Tag - My Notes</title><link>https://blog.emecas.net/tags/steps/</link><description>Steps - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Apr 2017 14:24:37 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/steps/" rel="self" type="application/rss+xml"/><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Steps - Tag - My Notes</title><link>https://blog.emecas.net/tags/steps/</link><description>Steps - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Feb 2021 20:54:19 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/steps/" rel="self" type="application/rss+xml"/><item><title>README.md for Your GitHub Profile</title><link>https://blog.emecas.net/posts/2021-02-17-readme-md-for-your-github-profile/</link><pubDate>Wed, 17 Feb 2021 20:54:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-readme-md-for-your-github-profile/</guid><description><![CDATA[<p>README.md for Your GitHub Profile<br>
+How to Create a Self-Updating README.md for Your GitHub Profile<br>
+A good tutorial to do your first steps with GitHub Actions<br>
+Thomas Guibert<br>
+Jul 23, 2020 · 5 min read<br>
+<a href="https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91" target="_blank" rel="noopener noreffer ">https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91</a></p>
+<p>Add an Interactive and beautiful Readme about you to Your Github Profile.<br>
+Digvijay Pawar<br>
+Aug 20, 2020·2 min read<br>
+<a href="https://medium.com/@djaypawar17/add-interactive-and-beautiful-readme-to-your-github-profile-in-few-minutes-58a3dfc520d0" target="_blank" rel="noopener noreffer ">https://medium.com/@djaypawar17/add-interactive-and-beautiful-readme-to-your-github-profile-in-few-minutes-58a3dfc520d0</a></p>
+<p>GitHub formatting for README.md section<br>
+<a href="https://medium.com/@syakirharis25/github-formatting-for-readme-md-section-ec212975adf4" target="_blank" rel="noopener noreffer ">https://medium.com/@syakirharis25/github-formatting-for-readme-md-section-ec212975adf4</a></p>
+<p>Issue #76 in emecas/commitit, open, opened on 2021-02-17. Labels: TODO.<br>
+<a href="https://github.com/emecas/commitit/issues/76" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/76</a></p>]]></description></item><item><title>Installing Scala on CentOS</title><link>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</link><pubDate>Mon, 10 Apr 2017 14:24:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-10-installing-scala-on-centos/</guid><description><![CDATA[<p>Installing Scala on CentOS<br>
 <a href="https://decisionstats.com/2014/04/15/installing-scala-on-centos/" target="_blank" rel="noopener noreffer ">https://decisionstats.com/2014/04/15/installing-scala-on-centos/</a></p>
 <p>wget <a href="http://www.scala-lang.org/files/archive/scala-2.10.1.tgz" target="_blank" rel="noopener noreffer ">http://www.scala-lang.org/files/archive/scala-2.10.1.tgz</a><br>
 tar xvf scala-2.10.1.tgz<br>

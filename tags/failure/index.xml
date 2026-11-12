@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Failure - Tag - My Notes</title><link>https://blog.emecas.net/tags/failure/</link><description>Failure - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Mar 2020 12:55:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/failure/" rel="self" type="application/rss+xml"/><item><title>Phi Accrual Failure Detector</title><link>https://blog.emecas.net/posts/2020-03-03-phi-accrual-failure-detector/</link><pubDate>Tue, 03 Mar 2020 12:55:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-03-phi-accrual-failure-detector/</guid><description><![CDATA[<p>Phi Accrual Failure Detector<br>
+Automatic adjust of time outs according to the observed response time distribution</p>
+<p>Ref.. Hayashibara, et al. The θ accrual failure detector. May 2004. Technical Report IS-RR-2004-10</p>
+<p>Issue #24 in emecas/commitit, open, opened on 2020-03-03.<br>
+<a href="https://github.com/emecas/commitit/issues/24" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/24</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/24" target="_blank" rel="noopener noreffer ">#24</a> in emecas/commitit, opened on 2020-03-03.</em></p>]]></description></item></channel></rss>

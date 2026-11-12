@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Current - Tag - My Notes</title><link>https://blog.emecas.net/tags/current/</link><description>Current - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 21 Mar 2020 23:43:07 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/current/" rel="self" type="application/rss+xml"/><item><title>[idea] Evaluate using gRCP to replace current management end points in REST APIs</title><link>https://blog.emecas.net/posts/2020-03-21-idea-evaluate-using-grcp-to-replace-current-management-end-p/</link><pubDate>Sat, 21 Mar 2020 23:43:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-21-idea-evaluate-using-grcp-to-replace-current-management-end-p/</guid><description><![CDATA[<p>[idea] Evaluate using gRCP to replace current management end points in REST APIs<br>
+For actions like:</p>
+<p>- controlling logging level<br>
+- expiring caches<br>
+- refreshing security tokens<br>
+- checking health and status<br>
+- triggering process<br>
+- debugging</p>
+<p>See recommendation for a container approach about exposing host port and network configuration here: <a href="https://stackoverflow.com/a/44642449/833336" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/44642449/833336</a></p>
+<p>Issue #35 in emecas/commitit, open, opened on 2020-03-21.<br>
+<a href="https://github.com/emecas/commitit/issues/35" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/35</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/35" target="_blank" rel="noopener noreffer ">#35</a> in emecas/commitit, opened on 2020-03-21.</em></p>]]></description></item></channel></rss>

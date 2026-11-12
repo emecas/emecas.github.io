@@ -13,7 +13,21 @@ Repository for Example Code to demonstrate Payara specific features<br>
 Java repository by payara, created in 2015, with 147 stars and 168 forks. Starred on 2020-09-30.<br>
 <a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara-Examples</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">payara/Payara-Examples</a>.</em></p>]]></description></item><item><title>kousen/HelloWorldAS</title><link>https://blog.emecas.net/posts/2019-02-09-kousen-helloworldas/</link><pubDate>Sat, 09 Feb 2019 16:14:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-09-kousen-helloworldas/</guid><description><![CDATA[<p>kousen/HelloWorldAS<br>
+<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">payara/Payara-Examples</a>.</em></p>]]></description></item><item><title>Evaluate Apache EmpireDB</title><link>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</link><pubDate>Thu, 14 May 2020 23:19:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-14-evaluate-apache-empiredb/</guid><description><![CDATA[<p>Evaluate Apache EmpireDB<br>
+☐ Build from source<br>
+☐ Test/Run Basic DB example<br>
+☐ Test/Run Advanced DB example<br>
+☐ Modify DB example to connect MySQL DB<br>
+☐ Understand Reverse Engineering Functionality</p>
+<p>Issue #54 in emecas/commitit, open, opened on 2020-05-14.<br>
+<a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/54</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/54" target="_blank" rel="noopener noreffer ">#54</a> in emecas/commitit, opened on 2020-05-14.</em></p>]]></description></item><item><title>Add Example for Tomee 8.0.2 embedded</title><link>https://blog.emecas.net/posts/2020-05-13-add-example-for-tomee-8-0-2-embedded/</link><pubDate>Wed, 13 May 2020 02:44:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-13-add-example-for-tomee-8-0-2-embedded/</guid><description><![CDATA[<p>Add Example for Tomee 8.0.2 embedded<br>
+Maven</p>
+<p>Issue #52 in emecas/commitit, open, opened on 2020-05-13.<br>
+<a href="https://github.com/emecas/commitit/issues/52" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/52</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/52" target="_blank" rel="noopener noreffer ">#52</a> in emecas/commitit, opened on 2020-05-13.</em></p>]]></description></item><item><title>kousen/HelloWorldAS</title><link>https://blog.emecas.net/posts/2019-02-09-kousen-helloworldas/</link><pubDate>Sat, 09 Feb 2019 16:14:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-09-kousen-helloworldas/</guid><description><![CDATA[<p>kousen/HelloWorldAS<br>
 Android &ldquo;Hello, World&rdquo; example, using Android Studio<br>
 Java repository by kousen, created in 2014, with 40 stars and 49 forks. Starred on 2019-02-09.<br>
 <a href="https://github.com/kousen/HelloWorldAS" target="_blank" rel="noopener noreffer ">https://github.com/kousen/HelloWorldAS</a></p>

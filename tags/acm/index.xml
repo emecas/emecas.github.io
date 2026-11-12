@@ -1,0 +1,7 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Acm - Tag - My Notes</title><link>https://blog.emecas.net/tags/acm/</link><description>Acm - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2020 12:59:56 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/acm/" rel="self" type="application/rss+xml"/><item><title>The Byzantine Generals Problem</title><link>https://blog.emecas.net/posts/2020-03-06-the-byzantine-generals-problem/</link><pubDate>Fri, 06 Mar 2020 12:59:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-06-the-byzantine-generals-problem/</guid><description><![CDATA[<p>The Byzantine Generals Problem<br>
+ACM Transactions on Programming Language and Systems (TOPLAS), V4 N3 382-401 Jul 1982</p>
+<p><a href="https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf" target="_blank" rel="noopener noreffer ">https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf</a></p>
+<p>Issue #28 in emecas/commitit, open, opened on 2020-03-06.<br>
+<a href="https://github.com/emecas/commitit/issues/28" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/28</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/28" target="_blank" rel="noopener noreffer ">#28</a> in emecas/commitit, opened on 2020-03-06.</em></p>]]></description></item></channel></rss>

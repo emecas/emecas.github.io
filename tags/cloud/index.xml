@@ -1,4 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cloud - Tag - My Notes</title><link>https://blog.emecas.net/tags/cloud/</link><description>Cloud - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Jan 2021 18:09:18 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cloud/" rel="self" type="application/rss+xml"/><item><title>eclipse-theia/theia</title><link>https://blog.emecas.net/posts/2021-01-21-eclipse-theia-theia/</link><pubDate>Thu, 21 Jan 2021 18:09:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-21-eclipse-theia-theia/</guid><description><![CDATA[<p>eclipse-theia/theia<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Cloud - Tag - My Notes</title><link>https://blog.emecas.net/tags/cloud/</link><description>Cloud - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 29 Feb 2024 18:42:43 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/cloud/" rel="self" type="application/rss+xml"/><item><title>The Jira Cloud platform REST API</title><link>https://blog.emecas.net/posts/2024-02-29-the-jira-cloud-platform-rest-api/</link><pubDate>Thu, 29 Feb 2024 18:42:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-02-29-the-jira-cloud-platform-rest-api/</guid><description><![CDATA[<p>The Jira Cloud platform REST API<br>
+<a href="https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-issue-issueidorkey-worklog-post" target="_blank" rel="noopener noreffer ">https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-issue-issueidorkey-worklog-post</a></p>
+<p>Issue #137 in emecas/commitit, open, opened on 2024-02-29.<br>
+<a href="https://github.com/emecas/commitit/issues/137" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/137</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/137" target="_blank" rel="noopener noreffer ">#137</a> in emecas/commitit, opened on 2024-02-29.</em></p>]]></description></item><item><title>The Jira Cloud platform REST API - Issue worklogs</title><link>https://blog.emecas.net/posts/2023-11-11-the-jira-cloud-platform-rest-api-issue-worklogs/</link><pubDate>Sat, 11 Nov 2023 16:12:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-11-the-jira-cloud-platform-rest-api-issue-worklogs/</guid><description><![CDATA[<p>The Jira Cloud platform REST API - Issue worklogs<br>
+<a href="https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-worklog-list-post" target="_blank" rel="noopener noreffer ">https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-worklog-list-post</a></p>
+<p>Issue #129 in emecas/commitit, open, opened on 2023-11-11.<br>
+<a href="https://github.com/emecas/commitit/issues/129" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/129</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/129" target="_blank" rel="noopener noreffer ">#129</a> in emecas/commitit, opened on 2023-11-11.</em></p>]]></description></item><item><title>eclipse-theia/theia</title><link>https://blog.emecas.net/posts/2021-01-21-eclipse-theia-theia/</link><pubDate>Thu, 21 Jan 2021 18:09:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-21-eclipse-theia-theia/</guid><description><![CDATA[<p>eclipse-theia/theia<br>
 Eclipse Theia is a cloud &amp; desktop IDE framework implemented in TypeScript.<br>
 TypeScript repository by eclipse-theia, created in 2017, with 21,751 stars and 2,936 forks. License: EPL-2.0. Starred on 2021-01-21.<br>
 Homepage: <a href="http://theia-ide.org" target="_blank" rel="noopener noreffer ">http://theia-ide.org</a><br>
@@ -44,19 +54,4 @@ C repository by yugabyte, created in 2017, with 10,659 stars and 1,472 forks. St
 Homepage: <a href="https://www.yugabyte.com" target="_blank" rel="noopener noreffer ">https://www.yugabyte.com</a><br>
 <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">https://github.com/yugabyte/yugabyte-db</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">yugabyte/yugabyte-db</a>.</em></p>]]></description></item><item><title>7labs keep up with the latest technology inventions</title><link>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</link><pubDate>Wed, 14 Aug 2019 11:04:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</guid><description><![CDATA[<p>7labs<br>
-<a href="https://7labs.io/" target="_blank" rel="noopener noreffer ">https://7labs.io/</a><br>
-The Mission<br>
-We are a small team of tech savvy people who just love to keep up with the latest technology inventions.<br>
-Be it computer, mobile phones, applications or any other software, we just want to test everything.<br>
-We try to find out how to make the best use of a particular product.<br>
-In our ventures, we have also tried to figure out ways of making things work.<br>
-Whenever we wanted to achieve some goal, first we used to search for a solution on the one place everybody looks for – the Internet.<br>
-Yeah, sometimes we did find solution there, but at other times when we didn’t, we tried our own ways to find a suitable alternative.<br>
-And if we were lucky enough, a solution would be discovered.</p>]]></description></item><item><title>nats-io/nats-server</title><link>https://blog.emecas.net/posts/2019-06-11-nats-io-nats-server/</link><pubDate>Tue, 11 Jun 2019 20:11:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-11-nats-io-nats-server/</guid><description><![CDATA[<p>nats-io/nats-server<br>
-High-Performance server for NATS.io, the cloud and edge native messaging system.<br>
-Go repository by nats-io, created in 2012, with 21,030 stars and 2,034 forks. License: Apache-2.0. Starred on 2019-06-11.<br>
-Homepage: <a href="https://nats.io" target="_blank" rel="noopener noreffer ">https://nats.io</a><br>
-<a href="https://github.com/nats-io/nats-server" target="_blank" rel="noopener noreffer ">https://github.com/nats-io/nats-server</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-06-11: <a href="https://github.com/nats-io/nats-server" target="_blank" rel="noopener noreffer ">nats-io/nats-server</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-09-11: <a href="https://github.com/yugabyte/yugabyte-db" target="_blank" rel="noopener noreffer ">yugabyte/yugabyte-db</a>.</em></p>]]></description></item></channel></rss>
