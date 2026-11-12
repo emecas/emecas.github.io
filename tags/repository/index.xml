@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Repository - Tag - My Notes</title><link>https://blog.emecas.net/tags/repository/</link><description>Repository - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 07 Dec 2017 10:26:16 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/repository/" rel="self" type="application/rss+xml"/><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
-Text-mode interface for git<br>
-<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
-What is Tig?</p>
-<p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
-<a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/afb52a1c60c23f7015432f0f1c20c6c3f15a098a" target="_blank" rel="noopener noreffer "><code>afb52a1</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

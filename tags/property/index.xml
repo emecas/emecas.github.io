@@ -3,4 +3,9 @@ Property based testing for Java 8<br>
 Java repository by quicktheories, created in 2015, with 519 stars and 50 forks. License: Apache-2.0. Starred on 2018-09-20.<br>
 <a href="https://github.com/quicktheories/QuickTheories" target="_blank" rel="noopener noreffer ">https://github.com/quicktheories/QuickTheories</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2018-09-20: <a href="https://github.com/quicktheories/QuickTheories" target="_blank" rel="noopener noreffer ">quicktheories/QuickTheories</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2018-09-20: <a href="https://github.com/quicktheories/QuickTheories" target="_blank" rel="noopener noreffer ">quicktheories/QuickTheories</a>.</em></p>]]></description></item><item><title>QuickCheck</title><link>https://blog.emecas.net/posts/2018-09-20-quickcheck/</link><pubDate>Thu, 20 Sep 2018 14:13:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-20-quickcheck/</guid><description><![CDATA[<p>QuickCheck<br>
+<a href="http://www.cse.chalmers.se/~rjmh/QuickCheck/" target="_blank" rel="noopener noreffer ">http://www.cse.chalmers.se/~rjmh/QuickCheck/</a><br>
+QuickCheck is a tool for testing Haskell programs automatically. The programmer provides a specification of the program,<br>
+in the form of properties which functions should satisfy, and QuickCheck then tests that the properties hold in a large number<br>
+of randomly generated cases. Specifications are expressed in Haskell, using combinators defined in the QuickCheck library.<br>
+QuickCheck provides combinators to define properties, observe the distribution of test data, and define test data generators.</p>]]></description></item></channel></rss>

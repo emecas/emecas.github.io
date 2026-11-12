@@ -1,9 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Types - Tag - My Notes</title><link>https://blog.emecas.net/tags/types/</link><description>Types - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Feb 2019 18:11:48 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/types/" rel="self" type="application/rss+xml"/><item><title>Primitive Obsession</title><link>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</link><pubDate>Sat, 09 Feb 2019 18:11:48 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-09-primitive-obsession/</guid><description><![CDATA[<p>Primitive Obsession<br>
-<a href="https://www.devteams.at/2019/02/04/primitive-obsession.html" target="_blank" rel="noopener noreffer ">https://www.devteams.at/2019/02/04/primitive-obsession.html</a><br>
-by David Tanzer<br>
-<a href="https://www.devteams.at/" target="_blank" rel="noopener noreffer ">https://www.devteams.at/</a></p>
-<p>Did you ever see some piece of code that uses primitive data types, like Strings or integers,<br>
-in it’s public API? I am sure you have, because most code is written like that.</p>
-<p>But that can cause problems. Today, I want to talk about a code smell called “Primitive Obsession”.<br>
-And I want to show you how code often becomes easier to understand and “nicer”<br>
-by eliminating primitive data types - especially, but not only, from it’s public API.</p>]]></description></item></channel></rss>

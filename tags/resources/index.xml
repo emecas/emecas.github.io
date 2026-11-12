@@ -36,7 +36,23 @@ TypeScript repository by abhivaikar, created in 2020, with 6,888 stars and 643 f
 Homepage: <a href="https://abhivaikar.github.io/howtheytest/" target="_blank" rel="noopener noreffer ">https://abhivaikar.github.io/howtheytest/</a><br>
 <a href="https://github.com/abhivaikar/howtheytest" target="_blank" rel="noopener noreffer ">https://github.com/abhivaikar/howtheytest</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/abhivaikar/howtheytest" target="_blank" rel="noopener noreffer ">abhivaikar/howtheytest</a>.</em></p>]]></description></item><item><title>lukasz-madon/awesome-remote-job</title><link>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</link><pubDate>Sat, 22 Feb 2020 20:34:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</guid><description><![CDATA[<p>lukasz-madon/awesome-remote-job<br>
+<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/abhivaikar/howtheytest" target="_blank" rel="noopener noreffer ">abhivaikar/howtheytest</a>.</em></p>]]></description></item><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
+<a href="https://jcp.org/en/jsr/detail?id=377" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=377</a><br>
+<a href="http://jsr377.github.io/site/" target="_blank" rel="noopener noreffer ">http://jsr377.github.io/site/</a></p>
+<p>The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features</p>
+<p>dependency injection via JSR330.<br>
+common application structure.<br>
+application life-cycle.<br>
+localized resources.<br>
+resource injection.<br>
+localized configuration.<br>
+decouple state from UI (binding).<br>
+persistence session state (preferences).<br>
+action management.<br>
+component life-cycle.<br>
+light-weight event bus.<br>
+honor threading concerns (specific to UI toolkit).<br>
+application extensibility via plugins (implies modularity).</p>]]></description></item><item><title>lukasz-madon/awesome-remote-job</title><link>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</link><pubDate>Sat, 22 Feb 2020 20:34:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-22-lukasz-madon-awesome-remote-job/</guid><description><![CDATA[<p>lukasz-madon/awesome-remote-job<br>
 A curated list of awesome remote jobs and resources. Inspired by <a href="https://github.com/vinta/awesome-python" target="_blank" rel="noopener noreffer ">https://github.com/vinta/awesome-python</a><br>
 Repository by lukasz-madon, created in 2015, with 50,531 stars and 4,957 forks. Starred on 2020-02-22.<br>
 <a href="https://github.com/lukasz-madon/awesome-remote-job" target="_blank" rel="noopener noreffer ">https://github.com/lukasz-madon/awesome-remote-job</a></p>
@@ -47,11 +63,4 @@ Repository by veggiemonk, created in 2014, with 37,215 stars and 3,414 forks. Li
 Homepage: <a href="https://average.joe.dev/awesome-docker/" target="_blank" rel="noopener noreffer ">https://average.joe.dev/awesome-docker/</a><br>
 <a href="https://github.com/veggiemonk/awesome-docker" target="_blank" rel="noopener noreffer ">https://github.com/veggiemonk/awesome-docker</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-02-20: <a href="https://github.com/veggiemonk/awesome-docker" target="_blank" rel="noopener noreffer ">veggiemonk/awesome-docker</a>.</em></p>]]></description></item><item><title>CRNK</title><link>https://blog.emecas.net/posts/2020-01-13-crnk/</link><pubDate>Mon, 13 Jan 2020 10:51:45 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-13-crnk/</guid><description><![CDATA[<p>CRNK<br>
-<a href="https://www.crnk.io/" target="_blank" rel="noopener noreffer ">https://www.crnk.io/</a><br>
-Crnk is a native resource-oriented rest library where resources and relationships are first class citizens and not just path mappings on methods.<br>
-Model your application as resources and relationshipsand implement the repositories to access them.<br>
-This simplifies development and opens up many, powerful new possibilities</p>
-<p>REF: <a href="https://dev.to/nchrisz/creating-rest-with-crnk-3a6m" target="_blank" rel="noopener noreffer ">https://dev.to/nchrisz/creating-rest-with-crnk-3a6m</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/50822b8ad10126e24aaacca08bf1fe8c648747df" target="_blank" rel="noopener noreffer "><code>50822b8</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-02-20: <a href="https://github.com/veggiemonk/awesome-docker" target="_blank" rel="noopener noreffer ">veggiemonk/awesome-docker</a>.</em></p>]]></description></item></channel></rss>

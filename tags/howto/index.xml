@@ -2,7 +2,13 @@
 <a href="https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap" target="_blank" rel="noopener noreffer ">https://www.xceno.io/posts/2019-05-15-install-lombok-to-eclipse-snap</a><br>
 ref: <a href="https://stackoverflow.com/a/67207195" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/a/67207195</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/82ef19fc5e2c59f50a8967fe8447a1c5a4eac304" target="_blank" rel="noopener noreffer "><code>82ef19f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/82ef19fc5e2c59f50a8967fe8447a1c5a4eac304" target="_blank" rel="noopener noreffer "><code>82ef19f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Becoming a Technical Leader</title><link>https://blog.emecas.net/posts/2020-01-10-becoming-a-technical-leader/</link><pubDate>Fri, 10 Jan 2020 17:38:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-10-becoming-a-technical-leader/</guid><description><![CDATA[<p>Becoming a Technical Leader: An Organic Problem-Solving Approach (Paperback)<br>
+by Gerald M. Weinberg (Author), Ken Orr (Foreword)<br>
+ISBN-13: 978-0932633026<br>
+ISBN-10: 9780932633026<br>
+Ref: from <a href="https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/08/se-radio-episode-265-pat-kua-on-becoming-a-tech-lead/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2cdfec637e467e3a4c5fdee03382c935508a23a0" target="_blank" rel="noopener noreffer "><code>2cdfec6</code></a> in My-Notes.</em></p>]]></description></item><item><title>Spring Boot and H2 in memory database</title><link>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</link><pubDate>Tue, 18 Dec 2018 13:47:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-18-spring-boot-and-h2-in-memory-database/</guid><description><![CDATA[<p>Spring Boot and H2 in memory database - Why, What and How?<br>
 <a href="http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database" target="_blank" rel="noopener noreffer ">http://www.springboottutorial.com/spring-boot-and-h2-in-memory-database</a><br>
 This guide will help you understand the concept of in memory database. We will look at simple JPA example to understand the best practices in using in memory databases.<br>
 You will learn</p>

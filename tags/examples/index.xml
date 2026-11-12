@@ -26,7 +26,12 @@ File name conventions for ADRs<br>
 Suggestions for writing good ADRs<br>
 ADR example templates<br>
 Teamwork advice for ADRs<br>
-For more information</p>]]></description></item><item><title>mariadb-developers/reactive-programming-java-examples</title><link>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</link><pubDate>Tue, 13 Sep 2022 15:49:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</guid><description><![CDATA[<p>mariadb-developers/reactive-programming-java-examples<br>
+For more information</p>]]></description></item><item><title>mscottford/clean-code-by-example</title><link>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</link><pubDate>Wed, 21 Jun 2023 15:01:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-21-mscottford-clean-code-by-example/</guid><description><![CDATA[<p>mscottford/clean-code-by-example<br>
+Example code and exercises used in the O&rsquo;Reilly course, Clean Code by Example<br>
+C# repository by mscottford, created in 2022, with 24 stars and 12 forks. Starred on 2023-06-21.<br>
+<a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">https://github.com/mscottford/clean-code-by-example</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-06-21: <a href="https://github.com/mscottford/clean-code-by-example" target="_blank" rel="noopener noreffer ">mscottford/clean-code-by-example</a>.</em></p>]]></description></item><item><title>mariadb-developers/reactive-programming-java-examples</title><link>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</link><pubDate>Tue, 13 Sep 2022 15:49:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-09-13-mariadb-developers-reactive-programming-java-examples/</guid><description><![CDATA[<p>mariadb-developers/reactive-programming-java-examples<br>
 Reactive examples with Java, Project Reactor, and R2DBC<br>
 Java repository by mariadb-developers, created in 2022, with 9 stars and 1 forks. License: MIT. Starred on 2022-09-13.<br>
 <a href="https://github.com/mariadb-developers/reactive-programming-java-examples" target="_blank" rel="noopener noreffer ">https://github.com/mariadb-developers/reactive-programming-java-examples</a></p>
@@ -45,7 +50,12 @@ When You Are Passive-Aggressive</p>
 <p>Issue #95 in emecas/commitit, open, opened on 2022-08-16. Labels: TODO, P-Low.<br>
 <a href="https://github.com/emecas/commitit/issues/95" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/95</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/95" target="_blank" rel="noopener noreffer ">#95</a> in emecas/commitit, opened on 2022-08-16.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/95" target="_blank" rel="noopener noreffer ">#95</a> in emecas/commitit, opened on 2022-08-16.</em></p>]]></description></item><item><title>nickrusso42518/slt-py-example</title><link>https://blog.emecas.net/posts/2022-03-31-nickrusso42518-slt-py-example/</link><pubDate>Thu, 31 Mar 2022 02:53:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-03-31-nickrusso42518-slt-py-example/</guid><description><![CDATA[<p>nickrusso42518/slt-py-example<br>
+Safari Live Training - Python by Example<br>
+Python repository by nickrusso42518, created in 2018, with 149 stars and 189 forks. License: GPL-3.0. Starred on 2022-03-31.<br>
+<a href="https://github.com/nickrusso42518/slt-py-example" target="_blank" rel="noopener noreffer ">https://github.com/nickrusso42518/slt-py-example</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2022-03-31: <a href="https://github.com/nickrusso42518/slt-py-example" target="_blank" rel="noopener noreffer ">nickrusso42518/slt-py-example</a>.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
 This repository contains all the source code examples from my LiveLessons course on &ldquo;Java Concurrent Programming&rdquo; and my various LiveTraining courses, as described at <a href="http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning" target="_blank" rel="noopener noreffer ">http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning</a>.<br>
 Java repository by douglascraigschmidt, created in 2014, with 614 stars and 657 forks. Starred on 2021-05-27.<br>
 <a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">https://github.com/douglascraigschmidt/LiveLessons</a></p>
@@ -61,41 +71,9 @@ Ruby repository by chefspec, created in 2011, with 820 stars and 331 forks. Lice
 Homepage: <a href="https://chefspec.github.io/chefspec/" target="_blank" rel="noopener noreffer ">https://chefspec.github.io/chefspec/</a><br>
 <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">https://github.com/chefspec/chefspec</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
-<a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
-HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
-<p>CURL Call:<br>
-$ curl -d &lsquo;{&ldquo;query&rdquo;:&quot;{people{ surname }}&quot;}&rsquo; -H &ldquo;Content-Type: application/json&rdquo; -X POST <a href="http://localhost:8080/graphql" target="_blank" rel="noopener noreffer ">http://localhost:8080/graphql</a></p>
-<p>Reponse:<br>
-{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item><item><title>payara/Payara-Examples</title><link>https://blog.emecas.net/posts/2020-09-30-payara-payara-examples/</link><pubDate>Wed, 30 Sep 2020 10:32:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-30-payara-payara-examples/</guid><description><![CDATA[<p>payara/Payara-Examples<br>
+Repository for Example Code to demonstrate Payara specific features<br>
+Java repository by payara, created in 2015, with 147 stars and 168 forks. Starred on 2020-09-30.<br>
+<a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara-Examples</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5b74c13f15716b2c46c9b95139126cf2a8b05475" target="_blank" rel="noopener noreffer "><code>5b74c13</code></a> in My-Notes.</em></p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
-<a href="http://nealford.com/katas/list.html" target="_blank" rel="noopener noreffer ">http://nealford.com/katas/list.html</a></p>
-<p>Agile Dead Trees<br>
-All Stuff, No Cruft<br>
-Am.I.Sck<br>
-Check Your Work<br>
-E(xperimental) College<br>
-Gird the Grid<br>
-Going Green<br>
-Going&hellip;Going&hellip;Gone!<br>
-Hot Diggety Dog!<br>
-I Can Haz Cheezborger?<br>
-I&rsquo;ll Have the BLT<br>
-Lights, Please<br>
-Make the Grade<br>
-Room with a View<br>
-Sysop Squad<br>
-Tales Of A Fourth Grade<br>
-The Road Warrior<br>
-Where&rsquo;s Fluffymon?<br>
-World of Webcraft<br>
-You Look Good In Print</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/dbad4e19e379436f156181393aba9ce852e7edb9" target="_blank" rel="noopener noreffer "><code>dbad4e1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
-<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
-Evolution of Enterprise Java -  Optimised for microservice architectures<br>
-Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
-examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
-<p>Mature<br>
-Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">payara/Payara-Examples</a>.</em></p>]]></description></item></channel></rss>

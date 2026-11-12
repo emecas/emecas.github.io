@@ -8,7 +8,13 @@ RESTFul Microservices APIs Bootcamp<br>
 HTML repository by rohitbhardwaj, created in 2023, with 21 stars and 33 forks. Starred on 2024-05-20.<br>
 <a href="https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp" target="_blank" rel="noopener noreffer ">https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-05-20: <a href="https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp" target="_blank" rel="noopener noreffer ">rohitbhardwaj/MicroservicesAPIsBootcamp</a>.</em></p>]]></description></item><item><title>User Stories for APIs / Services / Backend / Microservices</title><link>https://blog.emecas.net/posts/2020-03-24-user-stories-for-apis-services-backend-microservices/</link><pubDate>Tue, 24 Mar 2020 04:29:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-user-stories-for-apis-services-backend-microservices/</guid><description><![CDATA[<p>User Stories for APIs / Services / Backend / Microservices<br>
+<p><em>Source: starred on GitHub on 2024-05-20: <a href="https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp" target="_blank" rel="noopener noreffer ">rohitbhardwaj/MicroservicesAPIsBootcamp</a>.</em></p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
+Evolution of Enterprise Java -  Optimised for microservice architectures<br>
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
+examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
+<p>Mature<br>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>User Stories for APIs / Services / Backend / Microservices</title><link>https://blog.emecas.net/posts/2020-03-24-user-stories-for-apis-services-backend-microservices/</link><pubDate>Tue, 24 Mar 2020 04:29:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-user-stories-for-apis-services-backend-microservices/</guid><description><![CDATA[<p>User Stories for APIs / Services / Backend / Microservices<br>
 Agile Microservices in Minutes<br>
 <a href="https://dzone.com/articles/agile-microservices-in-minutes" target="_blank" rel="noopener noreffer ">https://dzone.com/articles/agile-microservices-in-minutes</a></p>
 <p>Be Good To Your Devs: Write User Stories That Are Easy To Understand<br>
@@ -20,7 +26,19 @@ Agile Microservices in Minutes<br>
 <p>Writing Great User Stories For Developing APIs<br>
 <a href="https://www.jeremyjarrell.com/user-stories-apis/" target="_blank" rel="noopener noreffer ">https://www.jeremyjarrell.com/user-stories-apis/</a></p>
 <p>Best Practices for Defining API Integration User Stories<br>
-<a href="https://blog.cloud-elements.com/best-practices-api-integration-user-stories" target="_blank" rel="noopener noreffer ">https://blog.cloud-elements.com/best-practices-api-integration-user-stories</a></p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
+<a href="https://blog.cloud-elements.com/best-practices-api-integration-user-stories" target="_blank" rel="noopener noreffer ">https://blog.cloud-elements.com/best-practices-api-integration-user-stories</a></p>]]></description></item><item><title>Collective Intelligence</title><link>https://blog.emecas.net/posts/2020-02-23-collective-intelligence/</link><pubDate>Sun, 23 Feb 2020 17:34:00 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-23-collective-intelligence/</guid><description><![CDATA[<p>A Stack to Build Collective Intelligence Technology<br>
+<a href="https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove" target="_blank" rel="noopener noreffer ">https://www.welcometothejungle.com/en/articles/btc-collective-intelligence-stack-bluenove</a><br>
+January 29, 2020</p>
+<p>- a rich schema that models concepts such as themes, ideas, messages, reactions, sentiments<br>
+- how the different personas or actors need to interact with the system<br>
+- every post being tied into the IBM Watson Natural Language Understanding API<br>
+- a microservice called Holmes to communicate with the IBM Watson APIs<br>
+- a developer should not have to step out of their comfort zone in order to generate their microservice—or in other words, we don’t force a Python developer to install Node.js in order to generate their Python microservice<br>
+- 3 different algorithm<br>
+- a semantic analysis clustering algorithm for on-site live debates. This uses a combination of unsupervised and then supervised learning in order to group and classify responses into topics<br>
+- an NLP algorithm designed to find actionable solutions in text<br>
+-<br>
+- precision, recall, and F1-score (harmonic average of precision and recall) as part of our scoring</p>]]></description></item><item><title>correlation-ids</title><link>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</link><pubDate>Wed, 05 Feb 2020 19:53:46 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-05-correlation-ids/</guid><description><![CDATA[<p>correlation-ids</p>
 <p>- The Value of Correlation IDs<br>
 <a href="https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/" target="_blank" rel="noopener noreffer ">https://blog.rapid7.com/2016/12/23/the-value-of-correlation-ids/</a><br>
 - Correlation IDs for microservices architectures<br>
@@ -30,7 +48,13 @@ Agile Microservices in Minutes<br>
 - Best Practices for Building a Microservice Architecture (#correlation-ids)<br>
 <a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids" target="_blank" rel="noopener noreffer ">https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture#correlation-ids</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</title><link>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</link><pubDate>Sun, 11 Aug 2019 14:29:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</guid><description><![CDATA[<p>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/34ecb3d8ae7642373efb8e1b27b2b4d222db3cf7" target="_blank" rel="noopener noreffer "><code>34ecb3d</code></a> in My-Notes.</em></p>]]></description></item><item><title>apache/dubbo</title><link>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</link><pubDate>Wed, 22 Jan 2020 03:43:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-22-apache-dubbo/</guid><description><![CDATA[<p>apache/dubbo<br>
+The java implementation of Apache Dubbo. An RPC and microservice framework.<br>
+Java repository by apache, created in 2012, with 41,579 stars and 26,306 forks. License: Apache-2.0. Starred on 2020-01-22.<br>
+Homepage: <a href="https://dubbo.apache.org/" target="_blank" rel="noopener noreffer ">https://dubbo.apache.org/</a><br>
+<a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">https://github.com/apache/dubbo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-01-22: <a href="https://github.com/apache/dubbo" target="_blank" rel="noopener noreffer ">apache/dubbo</a>.</em></p>]]></description></item><item><title>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</title><link>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</link><pubDate>Sun, 11 Aug 2019 14:29:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-11-discovery-services-consul-vs-eureka-vs-zookeeper-vs-zuul/</guid><description><![CDATA[<p>Discovery Services Consul vs. Eureka vs. Zookeeper vs. Zuul</p>
 <p>Consul vs. Eureka<br>
 <a href="https://www.consul.io/intro/vs/eureka.html" target="_blank" rel="noopener noreffer ">https://www.consul.io/intro/vs/eureka.html</a></p>
 <p>Comparison of Spring Cloud with Eureka vs. Consul.io<br>
@@ -50,29 +74,9 @@ Agile Microservices in Minutes<br>
 <a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
 NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
 <p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
-<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>helidon-io/helidon</title><link>https://blog.emecas.net/posts/2018-12-17-helidon-io-helidon/</link><pubDate>Mon, 17 Dec 2018 23:22:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-12-17-helidon-io-helidon/</guid><description><![CDATA[<p>helidon-io/helidon<br>
-Java libraries for writing microservices<br>
-Java repository by helidon-io, created in 2018, with 3,843 stars and 617 forks. License: Apache-2.0. Starred on 2018-12-17.<br>
-Homepage: <a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
-<a href="https://github.com/helidon-io/helidon" target="_blank" rel="noopener noreffer ">https://github.com/helidon-io/helidon</a></p>
+<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p>A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.</p>
+<p><a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
+<a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2018-12-17: <a href="https://github.com/helidon-io/helidon" target="_blank" rel="noopener noreffer ">helidon-io/helidon</a>.</em></p>]]></description></item><item><title>Project Helidon</title><link>https://blog.emecas.net/posts/2018-09-25-project-helidon/</link><pubDate>Tue, 25 Sep 2018 22:20:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-25-project-helidon/</guid><description><![CDATA[<p>Project Helidon<br>
-Lightweight. Fast. Crafted for Microservices.<br>
-<a href="https://helidon.io" target="_blank" rel="noopener noreffer ">https://helidon.io</a><br>
-Helidon is a collection of Java libraries for writing microservices that run on a fast web core powered by Netty.</p>
-<p>Simple and fast<br>
-Helidon is designed to be simple to use, with tooling and examples to get you going quickly. Since Helidon is just a collection of libraries running on a fast Netty core, there is no extra overhead or bloat.<br>
-border_clear</p>]]></description></item><item><title>Imixs Workflow</title><link>https://blog.emecas.net/posts/2017-10-31-imixs-workflow/</link><pubDate>Tue, 31 Oct 2017 09:49:47 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-10-31-imixs-workflow/</guid><description><![CDATA[<p>SE-Radio<br>
-Software Engineering Radio for Professional Software Developers<br>
-<a href="http://www.se-radio.net/" target="_blank" rel="noopener noreffer ">http://www.se-radio.net/</a></p>
-<p>About:<br>
-<a href="http://www.se-radio.net/about-software-engineering-radio/" target="_blank" rel="noopener noreffer ">http://www.se-radio.net/about-software-engineering-radio/</a></p>
-<p>Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Three to four times per month, we publish a new episode talking to experts from the software engineering world about the full range of topics that matter to professional developers.<br>
-All SE Radio episodes feature original content; we don’t record conferences or talks given in other venues.<br>
-SE Radio is managed by the volunteers and staff of IEEE Software, a leading technical magazine for software professionals published by the IEEE Computer Society. All content is licensed under the Creative Commons 2.5 license.<br>
-SE Radio was founded in January 2006 by Markus Voelter.  It joined forces with IEEE Software in February 2012.</p>]]></description></item><item><title>christian-posta/envoy-microservices-patterns</title><link>https://blog.emecas.net/posts/2017-05-27-christian-posta-envoy-microservices-patterns/</link><pubDate>Sat, 27 May 2017 11:37:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-27-christian-posta-envoy-microservices-patterns/</guid><description><![CDATA[<p>christian-posta/envoy-microservices-patterns<br>
-Set of demos to demonstrate Envoy Proxy for resilient microservices patterns<br>
-Java repository by christian-posta, created in 2017, with 218 stars and 52 forks. Starred on 2017-05-27.<br>
-<a href="https://github.com/christian-posta/envoy-microservices-patterns" target="_blank" rel="noopener noreffer ">https://github.com/christian-posta/envoy-microservices-patterns</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2017-05-27: <a href="https://github.com/christian-posta/envoy-microservices-patterns" target="_blank" rel="noopener noreffer ">christian-posta/envoy-microservices-patterns</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7c554b4eeba04470edd606130edd13af30e8f1ab" target="_blank" rel="noopener noreffer "><code>7c554b4</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -1,7 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Dataframes - Tag - My Notes</title><link>https://blog.emecas.net/tags/dataframes/</link><description>Dataframes - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 17 Jun 2019 15:49:45 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/dataframes/" rel="self" type="application/rss+xml"/><item><title>dask</title><link>https://blog.emecas.net/posts/2019-06-17-dask/</link><pubDate>Mon, 17 Jun 2019 15:49:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-06-17-dask/</guid><description><![CDATA[<p>DASK<br>
-<a href="https://dask.org/" target="_blank" rel="noopener noreffer ">https://dask.org/</a></p>
-<p>Dask is a flexible library for parallel computing in Python.</p>
-<p><a href="https://docs.dask.org/en/latest/" target="_blank" rel="noopener noreffer ">https://docs.dask.org/en/latest/</a><br>
-Dask is composed of two parts:</p>
-<p>Dynamic task scheduling optimized for computation. This is similar to Airflow, Luigi, Celery, or Make, but optimized for interactive computational workloads.<br>
-“Big Data” collections like parallel arrays, dataframes, and lists that extend common interfaces like NumPy, Pandas, or Python iterators to larger-than-memory or distributed environments. These parallel collections run on top of dynamic task schedulers.</p>]]></description></item></channel></rss>

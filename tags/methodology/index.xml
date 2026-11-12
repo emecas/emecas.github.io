@@ -1,4 +1,97 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Methodology - Tag - My Notes</title><link>https://blog.emecas.net/tags/methodology/</link><description>Methodology - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Dec 2016 09:21:34 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/methodology/" rel="self" type="application/rss+xml"/><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Methodology - Tag - My Notes</title><link>https://blog.emecas.net/tags/methodology/</link><description>Methodology - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Sep 2018 16:09:21 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/methodology/" rel="self" type="application/rss+xml"/><item><title>List of Software Development Philosophies</title><link>https://blog.emecas.net/posts/2018-09-05-list-of-software-development-philosophies/</link><pubDate>Wed, 05 Sep 2018 16:09:21 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-05-list-of-software-development-philosophies/</guid><description><![CDATA[<p>List of Software Development Philosophies<br>
+<a href="https://en.wikipedia.org/wiki/List_of_software_development_philosophies" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/List_of_software_development_philosophies</a><br>
+This is a list of approaches, styles, and philosophies in software development not included in the category tree of software development philosophies. It contains also software development processes, software development methodologies and single practices, principles and laws.</p>
+<p>Contents</p>
+<p>1 Software development philosophies<br>
+2 Programming paradigms<br>
+3 Software development methodologies<br>
+4 Software development processes<br>
+5 See also<br>
+6 References</p>
+<p>Programming principles<br>
+Abstraction principle (computer programming)<br>
+Black box<br>
+Code reuse<br>
+Cohesion (computer science)<br>
+Command–query separation<br>
+Composition over inheritance<br>
+Coupling (computer programming)<br>
+Defensive programming<br>
+Dependency inversion principle<br>
+Deutsch limit<br>
+Discoverability<br>
+Don&rsquo;t repeat yourself<br>
+Fail-fast<br>
+GRASP (object-oriented design)<br>
+If it ain&rsquo;t broke, don&rsquo;t fix it<br>
+Information hiding<br>
+Interface segregation principle<br>
+Inversion of control<br>
+KISS principle<br>
+Law of Demeter<br>
+Liskov substitution principle<br>
+Loose coupling<br>
+Ninety-ninety rule<br>
+Offensive programming<br>
+Open–closed principle<br>
+Principle of least astonishment<br>
+Pristine Sources<br>
+Separation of concerns<br>
+Separation of mechanism and policy<br>
+Single responsibility principle<br>
+SOLID<br>
+Uniform access principle<br>
+Worse is better<br>
+You aren&rsquo;t gonna need it<br>
+Zen of Python<br>
+Zero one infinity rule<br>
+List of software development philosophies<br>
+Acceptance test–driven development<br>
+After the Software Wars<br>
+Agile Manifesto<br>
+Agile software development<br>
+Pull-based agile coaching<br>
+Behavior-driven development<br>
+Best practice<br>
+The Cathedral and the Bazaar<br>
+Comment programming<br>
+Composition filters<br>
+Cowboy coding<br>
+Design-driven development<br>
+Domain-driven design<br>
+Extreme programming<br>
+Fibonacci scale (agile)<br>
+Formal methods<br>
+Homesteading the Noosphere<br>
+Integration competency center<br>
+Iterative and incremental development<br>
+Kanban (development)<br>
+KISS principle<br>
+Lean integration<br>
+Lean software development<br>
+Lightweight methodology<br>
+The Magic Cauldron (essay)<br>
+Mayo-Smith pyramid<br>
+Micro-innovation<br>
+Minimalism (computing)<br>
+Open–closed principle<br>
+Planning poker<br>
+PM Declaration of Interdependence<br>
+Release early, release often<br>
+Retrenchment (computing)<br>
+Rule of least power<br>
+Scaled agile framework<br>
+Secure by design<br>
+Specification by example<br>
+Test double<br>
+Continuous test-driven development<br>
+Test-driven development<br>
+There&rsquo;s more than one way to do it<br>
+Transformation Priority Premise<br>
+Unix philosophy<br>
+Waterfall model<br>
+Worse is better<br>
+You aren&rsquo;t gonna need it</p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
 <a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
 <p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
 <p>The Twelve Factors<br>

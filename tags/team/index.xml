@@ -45,7 +45,32 @@ TypeScript repository by DXHeroes, created in 2019, with 84 stars and 45 forks. 
 Homepage: <a href="https://dxscanner.io" target="_blank" rel="noopener noreffer ">https://dxscanner.io</a><br>
 <a href="https://github.com/DXHeroes/dx-scanner" target="_blank" rel="noopener noreffer ">https://github.com/DXHeroes/dx-scanner</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/DXHeroes/dx-scanner" target="_blank" rel="noopener noreffer ">DXHeroes/dx-scanner</a>.</em></p>]]></description></item><item><title>Expert Excuses for Not Writing Unit Tests</title><link>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</link><pubDate>Sun, 03 Feb 2019 07:59:26 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</guid><description><![CDATA[<p>Expert Excuses for Not Writing Unit Tests<br>
+<p><em>Source: starred on GitHub on 2020-10-03: <a href="https://github.com/DXHeroes/dx-scanner" target="_blank" rel="noopener noreffer ">DXHeroes/dx-scanner</a>.</em></p>]]></description></item><item><title>tilt</title><link>https://blog.emecas.net/posts/2020-03-24-tilt/</link><pubDate>Tue, 24 Mar 2020 19:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-24-tilt/</guid><description><![CDATA[<p>Tilt<br>
+<a href="https://tilt.dev/" target="_blank" rel="noopener noreffer ">https://tilt.dev/</a><br>
+Tilt Up and Get Stuff Done<br>
+Tilt manages local development instances for teams that deploy to Kubernetes.</p>
+<p>Transition easily from any setup<br>
+Tilt is super fast to set up for greenfield projects, but it really shines when your setup requires some “extra love”<br>
+(and even then it’s still pretty quick!) Any setup, any architecture, no matter how complex. Any engineer can run tilt up to see the app live instantly.</p>]]></description></item><item><title>Remoter Library</title><link>https://blog.emecas.net/posts/2020-03-19-remoter-library/</link><pubDate>Thu, 19 Mar 2020 12:00:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-19-remoter-library/</guid><description><![CDATA[<p>The Remoter Library<br>
+<a href="https://www.remoter.com/" target="_blank" rel="noopener noreffer ">https://www.remoter.com/</a><br>
+Learn about recruiting, leadership, management and scaling remote teams from seasoned remoters.</p>
+<p>Explore by type<br>
+Articles<br>
+Podcasts<br>
+Interviews<br>
+Events<br>
+Templates</p>
+<p>Explore by topic<br>
+HR &amp; Legal<br>
+Culture<br>
+Guest<br>
+Work-Life Integration<br>
+Productivity<br>
+Business &amp; Finance<br>
+Diverse Workspace</p>
+<p>REF: torre.bio/torrenegra  -&gt; <a href="https://bio.torre.co/en/torrenegra" target="_blank" rel="noopener noreffer ">https://bio.torre.co/en/torrenegra</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0d81463f08101f441a84e83e11b372f264a0db75" target="_blank" rel="noopener noreffer "><code>0d81463</code></a> in My-Notes.</em></p>]]></description></item><item><title>Expert Excuses for Not Writing Unit Tests</title><link>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</link><pubDate>Sun, 03 Feb 2019 07:59:26 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-03-expert-excuses-for-not-writing-unit-tests/</guid><description><![CDATA[<p>Expert Excuses for Not Writing Unit Tests<br>
 <a href="https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/" target="_blank" rel="noopener noreffer ">https://boyter.org/posts/expert-excuses-for-not-writing-unit-tests/</a><br>
 By Ben E. C. Boyter</p>
 <p>The Promise of Bad Tests<br>

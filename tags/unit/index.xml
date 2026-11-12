@@ -64,4 +64,20 @@ Comparing  : API Blueprint vs RAML vs Swagger<br>
 <a href="http://blog.testproject.io/" target="_blank" rel="noopener noreffer ">http://blog.testproject.io/</a><br>
 TestProject’s blog is about providing you everything you need to know about test automation. We created this helpful platform in order to share interesting yet informative articles for any test automation enthusiast. Starting today, you can stay updated with news and latest trends, researches and best practice magazine articles on JavaScript, Selenium, Appium, unit testing, API, mobile testing etc.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/261889cf4e953a6fc45bda68112831079f98e47f" target="_blank" rel="noopener noreffer "><code>261889c</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/261889cf4e953a6fc45bda68112831079f98e47f" target="_blank" rel="noopener noreffer "><code>261889c</code></a> in My-Notes.</em></p>]]></description></item><item><title>Digital Units of Measure</title><link>https://blog.emecas.net/posts/2013-05-07-digital-units-of-measure/</link><pubDate>Tue, 07 May 2013 15:12:27 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-05-07-digital-units-of-measure/</guid><description><![CDATA[<p>Digital Units of Measure<br>
+<a href="http://simple.be/tech/reference/bit" target="_blank" rel="noopener noreffer ">http://simple.be/tech/reference/bit</a><br>
+yottabyte = 1 yottabyte<br>
+= 1024 zettabytes<br>
+= 1048576 exabytes<br>
+= 1073741824 petabytes<br>
+= 1099511627776 terabytes<br>
+= 1125899906842624 gigabytes<br>
+= 1152921504606846976 megabytes<br>
+= 9223372036854775808 Megabits<br>
+= 1180591620717411303424 kilobytes<br>
+= 9444732965739290427392 Kilobits<br>
+= 1208925819614629174706176 bytes<br>
+= 2417851639229258349412352 nibbles<br>
+= 9671406556917033397649408 bits</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e630effe1ce65188de1646dadf7c2dd3832bc61d" target="_blank" rel="noopener noreffer "><code>e630eff</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

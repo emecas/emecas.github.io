@@ -1,4 +1,35 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Framework - Tag - My Notes</title><link>https://blog.emecas.net/tags/framework/</link><description>Framework - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 17 Aug 2022 08:14:33 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/framework/" rel="self" type="application/rss+xml"/><item><title>Spring Batch</title><link>https://blog.emecas.net/posts/2022-08-17-spring-batch/</link><pubDate>Wed, 17 Aug 2022 08:14:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-spring-batch/</guid><description><![CDATA[<p>Spring Batch<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Framework - Tag - My Notes</title><link>https://blog.emecas.net/tags/framework/</link><description>Framework - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 May 2024 17:17:17 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/framework/" rel="self" type="application/rss+xml"/><item><title>fffaraz/awesome-cpp</title><link>https://blog.emecas.net/posts/2024-05-27-fffaraz-awesome-cpp/</link><pubDate>Mon, 27 May 2024 17:17:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-27-fffaraz-awesome-cpp/</guid><description><![CDATA[<p>fffaraz/awesome-cpp<br>
+A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-&hellip; stuff.<br>
+Repository by fffaraz, created in 2014, with 74,355 stars and 8,378 forks. License: MIT. Starred on 2024-05-27.<br>
+Homepage: <a href="http://fffaraz.github.io/awesome-cpp/" target="_blank" rel="noopener noreffer ">http://fffaraz.github.io/awesome-cpp/</a><br>
+<a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noopener noreffer ">https://github.com/fffaraz/awesome-cpp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-27: <a href="https://github.com/fffaraz/awesome-cpp" target="_blank" rel="noopener noreffer ">fffaraz/awesome-cpp</a>.</em></p>]]></description></item><item><title>Top business frameworks</title><link>https://blog.emecas.net/posts/2024-03-17-top-business-frameworks/</link><pubDate>Sun, 17 Mar 2024 01:35:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-17-top-business-frameworks/</guid><description><![CDATA[<p>Top business frameworks<br>
+1. SWOT Analysis<br>
+Used to identify &amp; analyze the Strengths,<br>
+Weaknesses, Opportunities, and Threats of an<br>
+organization<br>
+How to Use the SWOT Analysis?<br>
+Strengths: Evaluate what sets your organization<br>
+apart, like skills &amp; resources<br>
+Weaknesses: Be aware of them and mitigate them<br>
+Opportunities: ldentify market or industry chances<br>
+to leverage trends<br>
+Threats: Recognize external challenges that could<br>
+affect your organization</p>
+<p>2. 4P&rsquo;s Marketing Mix<br>
+Helps businesses strategize their offerings in terms<br>
+of what a product represents, how it is priced, where<br>
+it is made available, &amp; how it is promoted in the<br>
+market.<br>
+Product: Define what it solves &amp; its unique features,<br>
+design, quality, &amp; branding<br>
+Price: Decide on pricing strategies considering<br>
+costs, competitor pricing, &amp; perceived value<br>
+Place: Choose distribution channels and manage<br>
+inventory and logistics<br>
+Promotion: Craft diverse promotion across ads, PR,<br>
+and social media</p>]]></description></item><item><title>Spring Batch</title><link>https://blog.emecas.net/posts/2022-08-17-spring-batch/</link><pubDate>Wed, 17 Aug 2022 08:14:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-17-spring-batch/</guid><description><![CDATA[<p>Spring Batch<br>
 Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
 <p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
 <p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
@@ -56,22 +87,4 @@ The AWS CDK is a new software development framework from AWS with the sole purpo
 and easy to define cloud infrastructure in your favorite programming language and deploy it using AWS CloudFormation.</p>
 <p>Next, we’ll introduce the powerful concept of CDK constructs.<br>
 Constructs allow you to bundle up a bunch of infrastructure into reusable components which<br>
-anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item><item><title>Qiskit</title><link>https://blog.emecas.net/posts/2020-03-23-qiskit/</link><pubDate>Mon, 23 Mar 2020 21:30:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-23-qiskit/</guid><description><![CDATA[<p>Qiskit<br>
-<a href="https://qiskit.org/" target="_blank" rel="noopener noreffer ">https://qiskit.org/</a><br>
-<a href="https://github.com/Qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit</a><br>
-An open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.</p>
-<p><a href="https://github.com/Qiskit/qiskit" target="_blank" rel="noopener noreffer ">https://github.com/Qiskit/qiskit</a><br>
-Qiskit is an open-source framework for working with noisy quantum computers at the level of pulses, circuits, and algorithms.<br>
-Qiskit is made up elements that each work together to enable quantum computing. This is a simple meta-package to install the elements of Qiskit altogether.</p>
-<p>The four elements of Qiskit are the essential parts that give Qiskit its power<br>
-Qiskit Terra <a href="https://qiskit.org/terra" target="_blank" rel="noopener noreffer ">https://qiskit.org/terra</a><br>
-Qiskit Aer   <a href="https://qiskit.org/aer" target="_blank" rel="noopener noreffer ">https://qiskit.org/aer</a><br>
-Qiskit Ignis <a href="https://qiskit.org/ignis" target="_blank" rel="noopener noreffer ">https://qiskit.org/ignis</a><br>
-Qiskit Aqua  <a href="https://qiskit.org/aqua" target="_blank" rel="noopener noreffer ">https://qiskit.org/aqua</a></p>]]></description></item><item><title>FastAPI</title><link>https://blog.emecas.net/posts/2020-03-18-fastapi/</link><pubDate>Wed, 18 Mar 2020 09:56:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-18-fastapi/</guid><description><![CDATA[<p>FastAPI<br>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
-FastAPI framework, high performance, easy to learn, fast to code, ready for production</p>
-<p>The key features are:</p>
-<p>Fast: Very high performance, on par with NodeJS and Go (thanks to Starlette and Pydantic). One of the fastest Python frameworks available.</p>
-<p>Fast to code: Increase the speed to develop features by about 200% to 300% *.</p>
-<p>Fewer bugs: Reduce about 40% of human (developer) induced errors. *</p>
-<p>Intuitive: Great editor support. Completion everywhere. Less time debugging.</p>]]></description></item></channel></rss>
+anyone can compose into their apps. We’ll walk you through writing your own construct.</p>]]></description></item></channel></rss>

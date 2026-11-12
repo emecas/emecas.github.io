@@ -2,7 +2,35 @@
 Jupyter Notebook repository by sinanuozdemir, created in 2023, with 27 stars and 19 forks. Starred on 2024-05-21.<br>
 <a href="https://github.com/sinanuozdemir/pearson-llm-production-integration" target="_blank" rel="noopener noreffer ">https://github.com/sinanuozdemir/pearson-llm-production-integration</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-05-21: <a href="https://github.com/sinanuozdemir/pearson-llm-production-integration" target="_blank" rel="noopener noreffer ">sinanuozdemir/pearson-llm-production-integration</a>.</em></p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
+<p><em>Source: starred on GitHub on 2024-05-21: <a href="https://github.com/sinanuozdemir/pearson-llm-production-integration" target="_blank" rel="noopener noreffer ">sinanuozdemir/pearson-llm-production-integration</a>.</em></p>]]></description></item><item><title>miro</title><link>https://blog.emecas.net/posts/2021-01-03-miro/</link><pubDate>Sun, 03 Jan 2021 19:16:23 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-03-miro/</guid><description><![CDATA[<p>miro<br>
+<a href="https://miro.com/" target="_blank" rel="noopener noreffer ">https://miro.com/</a><br>
+The online collaborative whiteboard platform to bring teams together, anytime, anywhere.</p>
+<p>Use Cases</p>
+<p>Meetings and Workshops<br>
+Agile Workflows<br>
+Brainstorming &amp; Ideation<br>
+Mapping &amp; Diagramming<br>
+UX &amp; Design Thinking<br>
+Strategy &amp; Planning<br>
+Concept Mapping<br>
+Mind Mapping</p>
+<p>By Team</p>
+<p>Agile<br>
+Development<br>
+Product<br>
+Project Management<br>
+Sales<br>
+UX</p>
+<p>Integrations</p>
+<p>Voting Plugin<br>
+by Miro<br>
+Vote on ideas with a distributed team.</p>
+<p>Countdown Timer<br>
+by Miro<br>
+Timebox your team activities.</p>
+<p>Clusterizer<br>
+by Refractive Strategy<br>
+Affinity-cluster your tagged stickies and cards in one click</p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
 <a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
 Get everyone on the same page with Markdown<br>
 Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
@@ -22,7 +50,13 @@ Homepage: <a href="https://camel.apache.org/camel-k" target="_blank" rel="noopen
 <p><em>Source: starred on GitHub on 2020-10-13: <a href="https://github.com/apache/camel-k" target="_blank" rel="noopener noreffer ">apache/camel-k</a>.</em></p>]]></description></item><item><title>DbUnit</title><link>https://blog.emecas.net/posts/2020-06-10-dbunit/</link><pubDate>Wed, 10 Jun 2020 18:48:29 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-10-dbunit/</guid><description><![CDATA[<p>DbUnit<br>
 <a href="http://www.dbunit.org/" target="_blank" rel="noopener noreffer ">http://www.dbunit.org/</a><br>
 DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven projects that, among other things, puts your database into a known state between test runs. This is an excellent way to avoid the myriad of problems that can occur when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage.</p>
-<p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item><item><title>Testcontainers</title><link>https://blog.emecas.net/posts/2019-03-26-testcontainers/</link><pubDate>Tue, 26 Mar 2019 20:43:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-26-testcontainers/</guid><description><![CDATA[<p>Testcontainers<br>
+<p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item><item><title>Thorntail</title><link>https://blog.emecas.net/posts/2020-05-10-thorntail/</link><pubDate>Sun, 10 May 2020 21:19:55 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-10-thorntail/</guid><description><![CDATA[<p>Thorntail<br>
+<a href="https://thorntail.io/" target="_blank" rel="noopener noreffer ">https://thorntail.io/</a><br>
+Evolution of Enterprise Java -  Optimised for microservice architectures<br>
+Thorntail offers an innovative approach to packaging and running Java EE applications by packaging them with just enough of the server runtime to &ldquo;java -jar&rdquo; your application. It&rsquo;s MicroProfile compatible, too. And, it&rsquo;s all much, much cooler than that<br>
+examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
+<p>Mature<br>
+Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>Testcontainers</title><link>https://blog.emecas.net/posts/2019-03-26-testcontainers/</link><pubDate>Tue, 26 Mar 2019 20:43:00 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-26-testcontainers/</guid><description><![CDATA[<p>Testcontainers<br>
 Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.<br>
 <a href="https://www.testcontainers.org/" target="_blank" rel="noopener noreffer ">https://www.testcontainers.org/</a><br>
 Testcontainers make the following kinds of tests easier:</p>
@@ -44,16 +78,4 @@ Comparing  : API Blueprint vs RAML vs Swagger<br>
 <a href="https://www.gitbook.com/about" target="_blank" rel="noopener noreffer ">https://www.gitbook.com/about</a></p>
 <p>GitBook was created mid 2014 with the vision of creating a modern and simple solution to documentation, digital writing and publishing.</p>
 <p>We&rsquo;ve started by building an open source format. The philosophy is to be simple to the point of elegance, removing distractions and concerns from content creators, so that they can write freely.</p>
-<p>Since then, we&rsquo;ve grown to helping more than 250,000 people working together into writing 150,000 books served to 20M visitors every month.</p>]]></description></item><item><title>spring-cloud/spring-cloud-netflix</title><link>https://blog.emecas.net/posts/2017-05-20-spring-cloud-spring-cloud-netflix/</link><pubDate>Sat, 20 May 2017 21:39:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-20-spring-cloud-spring-cloud-netflix/</guid><description><![CDATA[<p>spring-cloud/spring-cloud-netflix<br>
-Integration with Netflix OSS components<br>
-Java repository by spring-cloud, created in 2014, with 4,976 stars and 2,452 forks. License: Apache-2.0. Starred on 2017-05-20.<br>
-Homepage: <a href="http://cloud.spring.io/spring-cloud-netflix/" target="_blank" rel="noopener noreffer ">http://cloud.spring.io/spring-cloud-netflix/</a><br>
-<a href="https://github.com/spring-cloud/spring-cloud-netflix" target="_blank" rel="noopener noreffer ">https://github.com/spring-cloud/spring-cloud-netflix</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2017-05-20: <a href="https://github.com/spring-cloud/spring-cloud-netflix" target="_blank" rel="noopener noreffer ">spring-cloud/spring-cloud-netflix</a>.</em></p>]]></description></item><item><title>apache/camel</title><link>https://blog.emecas.net/posts/2016-08-03-apache-camel/</link><pubDate>Wed, 03 Aug 2016 19:29:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-08-03-apache-camel/</guid><description><![CDATA[<p>apache/camel<br>
-Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.<br>
-Java repository by apache, created in 2009, with 6,403 stars and 5,182 forks. License: Apache-2.0. Starred on 2016-08-03.<br>
-Homepage: <a href="https://camel.apache.org" target="_blank" rel="noopener noreffer ">https://camel.apache.org</a><br>
-<a href="https://github.com/apache/camel" target="_blank" rel="noopener noreffer ">https://github.com/apache/camel</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2016-08-03: <a href="https://github.com/apache/camel" target="_blank" rel="noopener noreffer ">apache/camel</a>.</em></p>]]></description></item></channel></rss>
+<p>Since then, we&rsquo;ve grown to helping more than 250,000 people working together into writing 150,000 books served to 20M visitors every month.</p>]]></description></item></channel></rss>

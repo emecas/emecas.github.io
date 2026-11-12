@@ -40,7 +40,17 @@ switch, s   Switch to use the specified version.<br>
 remove, rm  Remove a specific version.<br>
 rls         Show a list of versions available for download.<br>
 proxy       Set a proxy to use for downloads.<br>
-help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>jeonghopark/SketchSynthVideo-Simple</title><link>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</link><pubDate>Mon, 26 Oct 2020 21:18:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</guid><description><![CDATA[<p>jeonghopark/SketchSynthVideo-Simple<br>
+help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>[Complete] Troubleshooting SDKMAN switching java versions and Maven Interaction</title><link>https://blog.emecas.net/posts/2022-08-11-complete-troubleshooting-sdkman-switching-java-versions-and/</link><pubDate>Thu, 11 Aug 2022 01:57:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-11-complete-troubleshooting-sdkman-switching-java-versions-and/</guid><description><![CDATA[<p>[Complete] Troubleshooting SDKMAN switching java versions and Maven Interaction<br>
+☑ Dependencies -&gt; zip: <a href="https://sourceforge.net/projects/gnuwin32/" target="_blank" rel="noopener noreffer ">https://sourceforge.net/projects/gnuwin32/</a><br>
+☑ Installation<br>
+☑ SDKs Installations:  sdk install java 8.0.302-open<br>
+☐ Additional Config<br>
+☐ Maven Config<br>
+☐ Figure out how to switch java version without changing environment variables manually</p>
+<p>Issue #92 in emecas/commitit, open, opened on 2022-08-11. Labels: WIP, P-Medium.<br>
+<a href="https://github.com/emecas/commitit/issues/92" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/92</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/92" target="_blank" rel="noopener noreffer ">#92</a> in emecas/commitit, opened on 2022-08-11.</em></p>]]></description></item><item><title>jeonghopark/SketchSynthVideo-Simple</title><link>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</link><pubDate>Mon, 26 Oct 2020 21:18:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-26-jeonghopark-sketchsynthvideo-simple/</guid><description><![CDATA[<p>jeonghopark/SketchSynthVideo-Simple<br>
 A video version of SketchSynth.<br>
 C++ repository by jeonghopark, created in 2020, with 55 stars and 5 forks. License: MIT. Starred on 2020-10-26.<br>
 <a href="https://github.com/jeonghopark/SketchSynthVideo-Simple" target="_blank" rel="noopener noreffer ">https://github.com/jeonghopark/SketchSynthVideo-Simple</a></p>
@@ -50,27 +60,8 @@ A dockerized version of Morgue by Etsy<br>
 ApacheConf repository by ninoabbate, created in 2016, with 9 stars and 7 forks. License: GPL-2.0. Starred on 2020-09-16.<br>
 <a href="https://github.com/ninoabbate/docker-morgue" target="_blank" rel="noopener noreffer ">https://github.com/ninoabbate/docker-morgue</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-09-16: <a href="https://github.com/ninoabbate/docker-morgue" target="_blank" rel="noopener noreffer ">ninoabbate/docker-morgue</a>.</em></p>]]></description></item><item><title>Semantic Versioning 2.0.0</title><link>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</link><pubDate>Thu, 02 Apr 2020 16:55:34 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-02-semantic-versioning-2-0-0/</guid><description><![CDATA[<p>Semantic Versioning 2.0.0<br>
-<a href="https://semver.org/" target="_blank" rel="noopener noreffer ">https://semver.org/</a><br>
-Summary</p>
-<p>Given a version number MAJOR.MINOR.PATCH, increment the:</p>
-<p>MAJOR version when you make incompatible API changes,<br>
-MINOR version when you add functionality in a backwards compatible manner, and<br>
-PATCH version when you make backwards compatible bug fixes.</p>
-<p>Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ac6c027d7207a41502168e13410bcad9d76eb0b4" target="_blank" rel="noopener noreffer "><code>ac6c027</code></a> in My-Notes.</em></p>]]></description></item><item><title>Chanakya Bio, Legends, and Literary Works</title><link>https://blog.emecas.net/posts/2020-03-03-chanakya-bio-legends-and-literary-works/</link><pubDate>Tue, 03 Mar 2020 00:54:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-03-chanakya-bio-legends-and-literary-works/</guid><description><![CDATA[<p>Chanakya Bio, Legends, and Literary Works<br>
-BIO<br>
-Ref: <a href="https://en.wikipedia.org/wiki/Chanakya" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Chanakya</a></p>
-<p>Legends</p>
-<p>- Buddhist version<br>
-- Jain version<br>
-- Kashmiri version<br>
-- Mudrarakshasa version</p>
-<p>Works</p>
-<p>- Arthashastra<br>
-- Chanakya Niti (Chanakya Neeti-shastra)</p>
-<p>Issue #23 in emecas/commitit, open, opened on 2020-03-03.<br>
-<a href="https://github.com/emecas/commitit/issues/23" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/23</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/23" target="_blank" rel="noopener noreffer ">#23</a> in emecas/commitit, opened on 2020-03-03.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-09-16: <a href="https://github.com/ninoabbate/docker-morgue" target="_blank" rel="noopener noreffer ">ninoabbate/docker-morgue</a>.</em></p>]]></description></item><item><title>sdkman</title><link>https://blog.emecas.net/posts/2020-05-22-sdkman/</link><pubDate>Fri, 22 May 2020 20:35:47 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-22-sdkman/</guid><description><![CDATA[<p>sdkman<br>
+<a href="https://sdkman.io/" target="_blank" rel="noopener noreffer ">https://sdkman.io/</a><br>
+The Software Development Kit Manager</p>
+<p>SDKMAN! is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates. Formerly known as GVM the Groovy enVironment Manager, it was inspired by the very useful RVM and rbenv tools, used at large by the Ruby community.</p>
+<p><a href="https://github.com/sdkman/sdkman-cli" target="_blank" rel="noopener noreffer ">https://github.com/sdkman/sdkman-cli</a></p>]]></description></item></channel></rss>

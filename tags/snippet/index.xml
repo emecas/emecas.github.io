@@ -4,4 +4,8 @@
 it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
 No need to create any temperory classes (like I did in the previous para).<br>
 You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
-You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item></channel></rss>
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item><item><title>JPAD - Java Scratchpad - Instantly write java snippets and see nicely formatted results</title><link>https://blog.emecas.net/posts/2017-03-02-jpad-java-scratchpad-instantly-write-java-snippets-and-see-n/</link><pubDate>Thu, 02 Mar 2017 17:35:24 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-02-jpad-java-scratchpad-instantly-write-java-snippets-and-see-n/</guid><description><![CDATA[<p>JPad<br>
+<a href="http://jpad.io/" target="_blank" rel="noopener noreffer ">http://jpad.io/</a><br>
+Java Scratchpad - Instantly write java snippets and see nicely formatted results.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3d0a140a7d665d042fe420f9ef56558027ed6625" target="_blank" rel="noopener noreffer "><code>3d0a140</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

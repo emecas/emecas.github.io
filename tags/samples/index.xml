@@ -7,14 +7,36 @@ Homepage: <a href="https://anastaciocintra.github.io/escpos-coffee" target="_bla
 Link: <a href="https://spring.io/projects/spring-batch" target="_blank" rel="noopener noreffer ">https://spring.io/projects/spring-batch</a></p>
 <p>A lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.</p>
 <p>Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information.<br>
-Features</p>]]></description></item><item><title>TCK tools and documentation</title><link>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</link><pubDate>Tue, 25 Aug 2020 21:42:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</guid><description><![CDATA[<p>TCK tools and documentation<br>
+Features</p>]]></description></item><item><title>fturizo/ConferenceDemo</title><link>https://blog.emecas.net/posts/2021-02-17-fturizo-conferencedemo/</link><pubDate>Wed, 17 Feb 2021 20:44:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-fturizo-conferencedemo/</guid><description><![CDATA[<p>fturizo/ConferenceDemo<br>
+Sample demo project to showcase use of Jakarta EE and Eclipse MicroProfile using Payara Micro and Testcontainers for testing<br>
+Java repository by fturizo, created in 2018, with 6 stars and 6 forks. Starred on 2021-02-17.<br>
+<a href="https://github.com/fturizo/ConferenceDemo" target="_blank" rel="noopener noreffer ">https://github.com/fturizo/ConferenceDemo</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/fturizo/ConferenceDemo" target="_blank" rel="noopener noreffer ">fturizo/ConferenceDemo</a>.</em></p>]]></description></item><item><title>berndruecker/flowing-retail</title><link>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</link><pubDate>Tue, 27 Oct 2020 12:12:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-27-berndruecker-flowing-retail/</guid><description><![CDATA[<p>berndruecker/flowing-retail<br>
+Sample application demonstrating an order fulfillment system decomposed into multiple independant components (e.g. microservices). Showing concrete implementation alternatives using e.g. Java, Spring Boot, Apache Kafka, Camunda, Zeebe, &hellip;<br>
+Java repository by berndruecker, created in 2017, with 1,332 stars and 470 forks. License: Apache-2.0. Starred on 2020-10-27.<br>
+<a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">https://github.com/berndruecker/flowing-retail</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-27: <a href="https://github.com/berndruecker/flowing-retail" target="_blank" rel="noopener noreffer ">berndruecker/flowing-retail</a>.</em></p>]]></description></item><item><title>TCK tools and documentation</title><link>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</link><pubDate>Tue, 25 Aug 2020 21:42:44 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-25-tck-tools-and-documentation/</guid><description><![CDATA[<p>TCK tools and documentation<br>
 <a href="https://jcp.org/en/resources/tdk" target="_blank" rel="noopener noreffer ">https://jcp.org/en/resources/tdk</a></p>
 <p>Tools</p>
 <p>JavaTest/JT Harness<br>
 • JT Harness project : <a href="http://jtharness.java.net/" target="_blank" rel="noopener noreffer ">http://jtharness.java.net/</a><br>
 • Download page : <a href="http://download.java.net/jtharness/download.html" target="_blank" rel="noopener noreffer ">http://download.java.net/jtharness/download.html</a><br>
 • Documentation : <a href="http://jtharness.java.net/jt_docs.html" target="_blank" rel="noopener noreffer ">http://jtharness.java.net/jt_docs.html</a><br>
-JT harness is the open source version of the JavaTest harness. JT harness is a general purpose, fully-featured, flexible, and configurable test harness very well suited for most types of unit testing, especially TCK test suites. The JT harness is an excellent tool for configuring, sequencing, and running test suites that consist of large numbers of discrete, independent tests. It is especially good at testing APIs and compilers. Originally developed as a test harness to run the JCK test suite, it has since evolved into a general purpose test platform well suited for use with all TCK test suites and other types of test suites.</p>]]></description></item><item><title>bmuschko/practical-go-modules</title><link>https://blog.emecas.net/posts/2020-03-06-bmuschko-practical-go-modules/</link><pubDate>Fri, 06 Mar 2020 21:13:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-06-bmuschko-practical-go-modules/</guid><description><![CDATA[<p>bmuschko/practical-go-modules<br>
+JT harness is the open source version of the JavaTest harness. JT harness is a general purpose, fully-featured, flexible, and configurable test harness very well suited for most types of unit testing, especially TCK test suites. The JT harness is an excellent tool for configuring, sequencing, and running test suites that consist of large numbers of discrete, independent tests. It is especially good at testing APIs and compilers. Originally developed as a test harness to run the JCK test suite, it has since evolved into a general purpose test platform well suited for use with all TCK test suites and other types of test suites.</p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
+<a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>
+HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity. Here are some guidelines for setting up a GraphQL server to operate over HTTP.</p>
+<p>CURL Call:<br>
+$ curl -d &lsquo;{&ldquo;query&rdquo;:&quot;{people{ surname }}&quot;}&rsquo; -H &ldquo;Content-Type: application/json&rdquo; -X POST <a href="http://localhost:8080/graphql" target="_blank" rel="noopener noreffer ">http://localhost:8080/graphql</a></p>
+<p>Reponse:<br>
+{&ldquo;data&rdquo;:{&ldquo;people&rdquo;:[{&ldquo;surname&rdquo;:&ldquo;Fahey&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Kuhn&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Marks&rdquo;},{&ldquo;surname&rdquo;:&ldquo;Runolfsdottir&rdquo;}]}}</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5b74c13f15716b2c46c9b95139126cf2a8b05475" target="_blank" rel="noopener noreffer "><code>5b74c13</code></a> in My-Notes.</em></p>]]></description></item><item><title>How to remove testing classes being used to run tomee-embedded-maven-shade sample</title><link>https://blog.emecas.net/posts/2020-05-21-how-to-remove-testing-classes-being-used-to-run-tomee-embedd/</link><pubDate>Thu, 21 May 2020 03:35:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-21-how-to-remove-testing-classes-being-used-to-run-tomee-embedd/</guid><description><![CDATA[<p>How to remove testing classes being used to run tomee-embedded-maven-shade sample</p>
+<p>Issue #56 in emecas/commitit, open, opened on 2020-05-21.<br>
+<a href="https://github.com/emecas/commitit/issues/56" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/56</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/56" target="_blank" rel="noopener noreffer ">#56</a> in emecas/commitit, opened on 2020-05-21.</em></p>]]></description></item><item><title>bmuschko/practical-go-modules</title><link>https://blog.emecas.net/posts/2020-03-06-bmuschko-practical-go-modules/</link><pubDate>Fri, 06 Mar 2020 21:13:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-06-bmuschko-practical-go-modules/</guid><description><![CDATA[<p>bmuschko/practical-go-modules<br>
 The exercises and samples for the training &ldquo;Practical Go Modules&rdquo;.<br>
 Go repository by bmuschko, created in 2020, with 36 stars and 31 forks. Starred on 2020-03-06.<br>
 <a href="https://github.com/bmuschko/practical-go-modules" target="_blank" rel="noopener noreffer ">https://github.com/bmuschko/practical-go-modules</a></p>
@@ -38,46 +60,10 @@ Trello API wrapper for Go</p>
 Golang client pkg for accessing the Trello API</p>
 <p>Kotlin</p>
 <p><a href="https://github.com/MPSforca/trello-api" target="_blank" rel="noopener noreffer ">https://github.com/MPSforca/trello-api</a><br>
-An API to communicate with Trello API in Kotlin and Spring Boot</p>]]></description></item><item><title>bmuschko/docker-for-jvm-projects</title><link>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</link><pubDate>Mon, 25 Mar 2019 16:17:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</guid><description><![CDATA[<p>bmuschko/docker-for-jvm-projects<br>
-The exercises and samples for the training &ldquo;Docker for JVM projects&rdquo;.<br>
-Java repository by bmuschko, created in 2019, with 39 stars and 56 forks. Starred on 2019-03-25.<br>
-<a href="https://github.com/bmuschko/docker-for-jvm-projects" target="_blank" rel="noopener noreffer ">https://github.com/bmuschko/docker-for-jvm-projects</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-03-25: <a href="https://github.com/bmuschko/docker-for-jvm-projects" target="_blank" rel="noopener noreffer ">bmuschko/docker-for-jvm-projects</a>.</em></p>]]></description></item><item><title>burrsutter/9stepsawesome</title><link>https://blog.emecas.net/posts/2018-11-07-burrsutter-9stepsawesome/</link><pubDate>Wed, 07 Nov 2018 17:51:41 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-11-07-burrsutter-9stepsawesome/</guid><description><![CDATA[<p>burrsutter/9stepsawesome<br>
-The exercises/samples repo for bit.ly/9stepsawesome presentation<br>
-Java repository by burrsutter, created in 2018, with 596 stars and 357 forks. Starred on 2018-11-07.<br>
-<a href="https://github.com/burrsutter/9stepsawesome" target="_blank" rel="noopener noreffer ">https://github.com/burrsutter/9stepsawesome</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2018-11-07: <a href="https://github.com/burrsutter/9stepsawesome" target="_blank" rel="noopener noreffer ">burrsutter/9stepsawesome</a>.</em></p>]]></description></item><item><title>JIRA REST Java Client Library</title><link>https://blog.emecas.net/posts/2017-03-31-jira-rest-java-client-library/</link><pubDate>Fri, 31 Mar 2017 14:34:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-31-jira-rest-java-client-library/</guid><description><![CDATA[<p>JIRA REST Java Client Library<br>
-<a href="https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview" target="_blank" rel="noopener noreffer ">https://ecosystem.atlassian.net/wiki/spaces/JRJC/overview</a><br>
-Repo: <a href="https://bitbucket.org/atlassian/jira-rest-java-client" target="_blank" rel="noopener noreffer ">https://bitbucket.org/atlassian/jira-rest-java-client</a></p>
-<p>About</p>
-<p>JIRA REST Java Client is a Java library (usable from any JVM language) which allows to easily talk to any JIRA 4.2+ instance using new (and still evolving) REST API.</p>
-<p>JRJC currently provides a thin layer of abstraction on top of REST API and related HTTP(S) communication. It provides a domain object model of JIRA entities on the client side - objects representing issues, priorities, resolutions, statuses, users, etc.</p>]]></description></item><item><title>Windows Symbolic Links - MKLINK</title><link>https://blog.emecas.net/posts/2017-03-07-windows-symbolic-links-mklink/</link><pubDate>Tue, 07 Mar 2017 15:54:05 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-07-windows-symbolic-links-mklink/</guid><description><![CDATA[<p>Windows Symbolic Links<br>
-Using &ldquo;MKLINK&rdquo;:<br>
-<a href="http://www.howtogeek.com/howto/windows-vista/using-symlinks-in-windows-vista/" target="_blank" rel="noopener noreffer ">http://www.howtogeek.com/howto/windows-vista/using-symlinks-in-windows-vista/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/08c1128c00ba61ac30d536d78a753e4644472ab0" target="_blank" rel="noopener noreffer "><code>08c1128</code></a> in My-Notes.</em></p>]]></description></item><item><title>An easier path to functional programming in Java</title><link>https://blog.emecas.net/posts/2017-02-27-an-easier-path-to-functional-programming-in-java/</link><pubDate>Mon, 27 Feb 2017 16:47:45 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-27-an-easier-path-to-functional-programming-in-java/</guid><description><![CDATA[<p>An easier path to functional programming in Java<br>
-<a href="http://www.ibm.com/developerworks/library/j-java8idioms1/index.html" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-java8idioms1/index.html</a><br>
-By Venkat Subramaniam<br>
-Published on February 15, 2017/Updated: February 24, 2017<br>
-Contents</p>
-<p>Introduction<br>
-The imperative style<br>
-The declarative style<br>
-The functional style<br>
-A functional programming example<br>
-Conclusion<br>
-Downloadable resources<br>
-Related topics<br>
-Comments</p>
-<p>PDF: <a href="http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-java8idioms1/j-java8idioms1-pdf.pdf</a></p>
-<p>Related topics</p>
-<p>Java 8 language changes<br>
-<a href="https://www.ibm.com/developerworks/library/j-java8lambdas/" target="_blank" rel="noopener noreffer ">https://www.ibm.com/developerworks/library/j-java8lambdas/</a><br>
-Java 8 concurrency basics<br>
-<a href="http://www.ibm.com/developerworks/library/j-jvmc2/index.html" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-jvmc2/index.html</a><br>
-Functional thinking, Part 1: Learn to think like a functional programmer<br>
-<a href="http://www.ibm.com/developerworks/library/j-ft1/" target="_blank" rel="noopener noreffer ">http://www.ibm.com/developerworks/library/j-ft1/</a><br>
-Functional Programming in Java: The Pragmatic Bookshelf, 2014<br>
-<a href="https://pragprog.com/book/vsjava8/functional-programming-in-java" target="_blank" rel="noopener noreffer ">https://pragprog.com/book/vsjava8/functional-programming-in-java</a></p>]]></description></item></channel></rss>
+An API to communicate with Trello API in Kotlin and Spring Boot</p>]]></description></item><item><title>ScrapBook Pages</title><link>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</link><pubDate>Wed, 15 Jan 2020 11:16:38 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-15-scrapbook-pages/</guid><description><![CDATA[<p>ScrapBook Pages<br>
+<a href="https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/" target="_blank" rel="noopener noreffer ">https://veerasundar.com/blog/2009/10/eclipse-tip-how-to-use-scrapbook-pages-in-eclipse/</a></p>
+<p>So, what is Scrapbook Page? To put it simply,<br>
+it’s just a file where you can place your Java code snippet and execute it directly from the Scrapbook.<br>
+No need to create any temperory classes (like I did in the previous para).<br>
+You can even put one line of Java statement like System.out.println(‘Hello’) in the Scrapbook and execute it.<br>
+You’ll get the ‘Hello’ printed on your console. Cool, Isn’t it?</p>]]></description></item></channel></rss>

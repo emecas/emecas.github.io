@@ -23,7 +23,11 @@ Build OpenApi spec and fake it</p>
 - Get feedback from users<br>
 - Generate Server Code<br>
 - Generated code is disposable, you don&rsquo;t even need to commit it , since it is generated on building time<br>
-- publish client libraries , your clients will not have to worry about how to connect to your api, instead they will love you</p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
+- publish client libraries , your clients will not have to worry about how to connect to your api, instead they will love you</p>]]></description></item><item><title>concordion/concordion</title><link>https://blog.emecas.net/posts/2020-10-16-concordion-concordion/</link><pubDate>Fri, 16 Oct 2020 14:03:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-16-concordion-concordion/</guid><description><![CDATA[<p>concordion/concordion<br>
+Concordion is an open source framework for Java that lets you turn a plain English description of a requirement into an automated test. Concordion is the most flexible tool for creating high-quality living documentation. It is often used with Specification by Example (SbE) and Behaviour Driven Development (BDD) processes.<br>
+Java repository by concordion, created in 2013, with 246 stars and 68 forks. Starred on 2020-10-16.<br>
+Homepage: <a href="http://www.concordion.org" target="_blank" rel="noopener noreffer ">http://www.concordion.org</a><br>
+<a href="https://github.com/concordion/concordion" target="_blank" rel="noopener noreffer ">https://github.com/concordion/concordion</a></p>]]></description></item><item><title>Architectural Katas</title><link>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</link><pubDate>Wed, 22 Jul 2020 13:59:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-07-22-architectural-katas/</guid><description><![CDATA[<p>Architectural Katas<br>
 <a href="http://nealford.com/katas/list.html" target="_blank" rel="noopener noreffer ">http://nealford.com/katas/list.html</a></p>
 <p>Agile Dead Trees<br>
 All Stuff, No Cruft<br>

@@ -13,7 +13,15 @@ The InboxSDK lets you build apps for Gmail.</p>
 <p>Getting Started<br>
 <a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>cypress-io/cypress</title><link>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</link><pubDate>Sun, 13 Dec 2020 00:02:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</guid><description><![CDATA[<p>cypress-io/cypress<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+Playwright enables reliable end-to-end testing for modern web apps.<br>
+<a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
+<p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
+<p>Support for all browsers</p>
+<p>Test on Chromium, Firefox and WebKit. Playwright has full API coverage for all modern browsers, including Google Chrome and Microsoft Edge (with Chromium), Apple Safari (with WebKit) and Mozilla Firefox.<br>
+Cross-platform WebKit testing. With Playwright, test how your app behaves in Apple Safari with WebKit builds for Windows, Linux and macOS. Test locally and on CI.<br>
+Test for mobile. Use device emulation to test your responsive web apps in mobile web browsers.<br>
+Headless and headed. Playwright supports headless (without browser UI) and headed (with browser UI) modes for all browsers and all platforms. Headed is great for debugging, and headless is faster and suited for CI/cloud executions.</p>]]></description></item><item><title>cypress-io/cypress</title><link>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</link><pubDate>Sun, 13 Dec 2020 00:02:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-13-cypress-io-cypress/</guid><description><![CDATA[<p>cypress-io/cypress<br>
 Fast, easy and reliable testing for anything that runs in a browser.<br>
 TypeScript repository by cypress-io, created in 2015, with 51,024 stars and 3,593 forks. License: MIT. Starred on 2020-12-13.<br>
 Homepage: <a href="https://cypress.io" target="_blank" rel="noopener noreffer ">https://cypress.io</a><br>
@@ -32,7 +40,12 @@ Homepage: <a href="https://webamp.org" target="_blank" rel="noopener noreffer ">
 <p>Issue #40 in emecas/commitit, open, opened on 2020-03-28.<br>
 <a href="https://github.com/emecas/commitit/issues/40" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/40</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/40" target="_blank" rel="noopener noreffer ">#40</a> in emecas/commitit, opened on 2020-03-28.</em></p>]]></description></item><item><title>SeleniumHQ/selenium</title><link>https://blog.emecas.net/posts/2019-03-04-seleniumhq-selenium/</link><pubDate>Mon, 04 Mar 2019 00:32:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-04-seleniumhq-selenium/</guid><description><![CDATA[<p>SeleniumHQ/selenium<br>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/40" target="_blank" rel="noopener noreffer ">#40</a> in emecas/commitit, opened on 2020-03-28.</em></p>]]></description></item><item><title>RESTEDClient/RESTED</title><link>https://blog.emecas.net/posts/2019-05-10-restedclient-rested/</link><pubDate>Fri, 10 May 2019 10:22:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-10-restedclient-rested/</guid><description><![CDATA[<p>RESTEDClient/RESTED<br>
+A REST client for browsers<br>
+JavaScript repository by RESTEDClient, created in 2015, with 307 stars and 45 forks. License: GPL-3.0. Starred on 2019-05-10.<br>
+<a href="https://github.com/RESTEDClient/RESTED" target="_blank" rel="noopener noreffer ">https://github.com/RESTEDClient/RESTED</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2019-05-10: <a href="https://github.com/RESTEDClient/RESTED" target="_blank" rel="noopener noreffer ">RESTEDClient/RESTED</a>.</em></p>]]></description></item><item><title>SeleniumHQ/selenium</title><link>https://blog.emecas.net/posts/2019-03-04-seleniumhq-selenium/</link><pubDate>Mon, 04 Mar 2019 00:32:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-04-seleniumhq-selenium/</guid><description><![CDATA[<p>SeleniumHQ/selenium<br>
 A browser automation framework and ecosystem.<br>
 Java repository by SeleniumHQ, created in 2013, with 34,580 stars and 8,724 forks. License: Apache-2.0. Starred on 2019-03-04.<br>
 Homepage: <a href="https://selenium.dev" target="_blank" rel="noopener noreffer ">https://selenium.dev</a><br>

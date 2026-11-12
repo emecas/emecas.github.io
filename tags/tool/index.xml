@@ -42,7 +42,23 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 To preserve the name for its original owner, we renamed this project to hey.</p>
 <p>Previously known as github.com/rakyll/boom.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>Krita</title><link>https://blog.emecas.net/posts/2024-09-26-krita/</link><pubDate>Thu, 26 Sep 2024 20:06:20 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-26-krita/</guid><description><![CDATA[<p>Krita<br>
+<a href="https://krita.org/" target="_blank" rel="noopener noreffer ">https://krita.org/</a><br>
+Krita is a free and open source painting program for new and experienced artists. It offers multiple brush types, layers, animation tools, online resources, a supportive community and more.</p>
+<p>Features:</p>
+<p>- Clean and Flexible Interface</p>
+<p>An intuitive user interface that stays out of your way. The dockers and panels can be moved and customized for your specific workflow. Once you have your setup, you can save it as your own workspace. You can also create your own shortcuts for commonly used tools.</p>]]></description></item><item><title>Poetry</title><link>https://blog.emecas.net/posts/2024-09-18-poetry/</link><pubDate>Wed, 18 Sep 2024 14:41:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-18-poetry/</guid><description><![CDATA[<p>Poetry<br>
+<a href="https://python-poetry.org/" target="_blank" rel="noopener noreffer ">https://python-poetry.org/</a><br>
+Python packaging and dependency management made easy<br>
+REPO: <a href="https://github.com/python-poetry/poetry" target="_blank" rel="noopener noreffer ">https://github.com/python-poetry/poetry</a></p>
+<p>- Deterministic builds Develop<br>
+Poetry comes with all the tools you might need to manage your projects in a deterministic way.</p>
+<p>- Package with ease Build<br>
+Easily build and package your projects with a single command.</p>
+<p>- Share your work Publish<br>
+Make your work known by publishing it to PyPI.</p>
+<p>- Check the state of your dependencies Track<br>
+Having an insight of your project&rsquo;s dependencies is just one command away.</p>]]></description></item><item><title>adr-viewer</title><link>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</link><pubDate>Tue, 14 May 2024 12:13:58 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-14-adr-viewer/</guid><description><![CDATA[<p>adr-viewer<br>
 Generate easy-to-read web pages for your Architecture Decision Records<br>
 <a href="https://formulae.brew.sh/formula/adr-viewer" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-viewer</a><br>
 repo: <a href="https://github.com/mrwilson/adr-viewer" target="_blank" rel="noopener noreffer ">https://github.com/mrwilson/adr-viewer</a><br>
@@ -55,7 +71,23 @@ CLI tool for working with Architecture Decision Records<br>
 repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
 <p>Original ref: <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes.</em></p>]]></description></item><item><title>Architecture Decision Record (ADR)</title><link>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</link><pubDate>Sat, 11 May 2024 09:52:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-architecture-decision-record-adr/</guid><description><![CDATA[<p>Architecture Decision Record (ADR)<br>
+<a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record</a></p>
+<p>Joel Parker Henderson<br>
+<a href="https://twitter.com/joel_henderson" target="_blank" rel="noopener noreffer ">https://twitter.com/joel_henderson</a><br>
+<a href="http://www.joelparkerhenderson.com/" target="_blank" rel="noopener noreffer ">http://www.joelparkerhenderson.com/</a></p>
+<p>About</p>
+<p>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</p>
+<p>Contents:</p>
+<p>What is an architecture decision record?<br>
+How to start using ADRs<br>
+How to start using ADRs with tools<br>
+How to start using ADRs with git<br>
+File name conventions for ADRs<br>
+Suggestions for writing good ADRs<br>
+ADR example templates<br>
+Teamwork advice for ADRs<br>
+For more information</p>]]></description></item><item><title>Redoc</title><link>https://blog.emecas.net/posts/2024-03-01-redoc/</link><pubDate>Fri, 01 Mar 2024 13:56:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-01-redoc/</guid><description><![CDATA[<p>Redoc<br>
 Generate beautiful API documentation from OpenAPI</p>
 <p>Redoc is an open source tool for generating documentation from OpenAPI (formerly Swagger) definitions.</p>
 <p>By default Redoc offers a three-panel, responsive layout:</p>
@@ -63,32 +95,4 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>Whisper</title><link>https://blog.emecas.net/posts/2023-10-18-whisper/</link><pubDate>Wed, 18 Oct 2023 12:52:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-10-18-whisper/</guid><description><![CDATA[<p>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision<br>
-<a href="https://github.com/openai/whisper" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper</a></p>
-<p>[Blog] : <a href="https://openai.com/blog/whisper" target="_blank" rel="noopener noreffer ">https://openai.com/blog/whisper</a></p>
-<p>[Paper] : <a href="https://arxiv.org/abs/2212.04356" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/2212.04356</a></p>
-<p>[Model card] : <a href="https://github.com/openai/whisper/blob/main/model-card.md" target="_blank" rel="noopener noreffer ">https://github.com/openai/whisper/blob/main/model-card.md</a></p>
-<p>[Colab example] : <a href="https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb" target="_blank" rel="noopener noreffer ">https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb</a></p>
-<p>Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2adf5fabcdf8ce3614c5a196e38ffbdb9422617d" target="_blank" rel="noopener noreffer "><code>2adf5fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>jvms</title><link>https://blog.emecas.net/posts/2023-07-20-jvms/</link><pubDate>Thu, 20 Jul 2023 12:29:08 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-07-20-jvms/</guid><description><![CDATA[<p>JVMS : JDK Version Manager (JVMS) for Windows<br>
-<a href="https://github.com/ystyle/jvms" target="_blank" rel="noopener noreffer ">https://github.com/ystyle/jvms</a></p>
-<p>NAME:<br>
-jvms - JDK Version Manager (JVMS) for Windows</p>
-<p>USAGE:<br>
-jvms.exe [global options] command [command options] [arguments&hellip;]</p>
-<p>VERSION:<br>
-v2.1.5</p>
-<p>COMMANDS:<br>
-init        Initialize config file<br>
-list, ls    List current JDK installations.<br>
-install, i  Install available remote jdk<br>
-switch, s   Switch to use the specified version.<br>
-remove, rm  Remove a specific version.<br>
-rls         Show a list of versions available for download.<br>
-proxy       Set a proxy to use for downloads.<br>
-help, h     Shows a list of commands or help for one command</p>]]></description></item><item><title>OpenRefine</title><link>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</link><pubDate>Sun, 31 Jul 2022 16:11:33 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-07-31-openrefine-ce960ac/</guid><description><![CDATA[<p>OpenRefine<br>
-<a href="https://openrefine.org/" target="_blank" rel="noopener noreffer ">https://openrefine.org/</a></p>
-<p><a href="https://github.com/OpenRefine/OpenRefine" target="_blank" rel="noopener noreffer ">https://github.com/OpenRefine/OpenRefine</a></p>
-<p>OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.</p>
-<p>OpenRefine always keeps your data private on your own computer until YOU want to share or collaborate. Your private data never leaves your computer unless you want it to. (It works by running a small server on your computer and you use your web browser to interact with it)</p>]]></description></item></channel></rss>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item></channel></rss>

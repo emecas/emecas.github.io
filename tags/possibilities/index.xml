@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Possibilities - Tag - My Notes</title><link>https://blog.emecas.net/tags/possibilities/</link><description>Possibilities - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 04 Mar 2020 23:09:50 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/possibilities/" rel="self" type="application/rss+xml"/><item><title>GraphQL Adoption</title><link>https://blog.emecas.net/posts/2020-03-04-graphql-adoption/</link><pubDate>Wed, 04 Mar 2020 23:09:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-04-graphql-adoption/</guid><description><![CDATA[<p>GraphQL Adoption<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Possibilities - Tag - My Notes</title><link>https://blog.emecas.net/tags/possibilities/</link><description>Possibilities - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 28 Jun 2020 13:04:29 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/possibilities/" rel="self" type="application/rss+xml"/><item><title>Explore Posibilities for Keeping retry simple with: BlockingQueue or/and PriorityQueue</title><link>https://blog.emecas.net/posts/2020-06-28-explore-posibilities-for-keeping-retry-simple-with-blockingq/</link><pubDate>Sun, 28 Jun 2020 13:04:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-28-explore-posibilities-for-keeping-retry-simple-with-blockingq/</guid><description><![CDATA[<p>Explore Posibilities for Keeping retry simple with: BlockingQueue or/and PriorityQueue<br>
+10 Collection classes every Java programmer should learn<br>
+1. List<br>
+2. Set<br>
+3. Map<br>
+4. ArrayList<br>
+5. LinkedList<br>
+6. HashSet<br>
+7. HashMap<br>
+8. ConcurrentHashMap<br>
+9. BlockingQueue<br>
+10. PriorityQueue<br>
+learn more:<br>
+<a href="https://t.co/hdDp9WdAeB" target="_blank" rel="noopener noreffer ">https://t.co/hdDp9WdAeB</a> #Java #programming via @javarevisited #100DaysOfCode</p>
+<p><a href="https://twitter.com/javinpaul/status/1276747683030425600?s=19" target="_blank" rel="noopener noreffer ">https://twitter.com/javinpaul/status/1276747683030425600?s=19</a></p>
+<p>Top 5 Courses to learn Java Collections and Stream API - Best of Lot</p>
+<p><a href="https://javarevisited.blogspot.com/2020/04/top-5-courses-to-learn-java-collections-and-streams.html?m=1" target="_blank" rel="noopener noreffer ">https://javarevisited.blogspot.com/2020/04/top-5-courses-to-learn-java-collections-and-streams.html?m=1</a></p>
+<p>Issue #60 in emecas/commitit, open, opened on 2020-06-28.<br>
+<a href="https://github.com/emecas/commitit/issues/60" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/60</a></p>]]></description></item><item><title>GraphQL Adoption</title><link>https://blog.emecas.net/posts/2020-03-04-graphql-adoption/</link><pubDate>Wed, 04 Mar 2020 23:09:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-04-graphql-adoption/</guid><description><![CDATA[<p>GraphQL Adoption<br>
 ☐ [Insert Updates Deletes and GraphQL Possibilities - Bidirectional Sync](#18)</p>
 <p>Issue #25 in emecas/commitit, open, opened on 2020-03-04. Labels: EPIC.<br>
 <a href="https://github.com/emecas/commitit/issues/25" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/25</a></p>

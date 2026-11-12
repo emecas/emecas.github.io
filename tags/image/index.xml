@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Image - Tag - My Notes</title><link>https://blog.emecas.net/tags/image/</link><description>Image - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 01 Apr 2026 00:29:28 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/image/" rel="self" type="application/rss+xml"/><item><title>zai-org/GLM-Image</title><link>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-image/</link><pubDate>Wed, 01 Apr 2026 00:29:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-image/</guid><description><![CDATA[<p>zai-org/GLM-Image<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Image - Tag - My Notes</title><link>https://blog.emecas.net/tags/image/</link><description>Image - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 09:07:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/image/" rel="self" type="application/rss+xml"/><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+A build automation tool for Docker applications.<br>
+<a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
+<p>A build automation tool for Docker applications.<br>
+Keep your project tasks organized, portable, repeatable, and fast with dobi. Define the resources and tasks required to build, test, and release your project in a dobi.yaml and run them with dobi TASK.</p>
+<p>Use Cases</p>
+<p>examples/minimal-docker-image - building a minimal docker image, that does not contain build/compile dependencies. This is sometimes referred to as “squashing” an image.<br>
+examples/tag-images - tag images with metadata (git sha, git branch, datetime, and version)<br>
+examples/project-setup - prompt users for configuration and generate a .env file if it doesn’t exist.<br>
+examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
+examples/init-named-volume - create or update the files in a named docker volume.<br>
+examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>zai-org/GLM-Image</title><link>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-image/</link><pubDate>Wed, 01 Apr 2026 00:29:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-01-zai-org-glm-image/</guid><description><![CDATA[<p>zai-org/GLM-Image<br>
 GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation.<br>
 Python repository by zai-org, created in 2026, with 1,078 stars and 105 forks. License: Apache-2.0. Starred on 2026-04-01.<br>
 Homepage: <a href="https://z.ai/blog/glm-image" target="_blank" rel="noopener noreffer ">https://z.ai/blog/glm-image</a><br>
@@ -64,11 +76,4 @@ A small, more complete, Python Docker image based on Alpine Linux.<br>
 Dockerfile repository by jfloff, created in 2015, with 483 stars and 96 forks. License: MIT. Starred on 2020-03-26.<br>
 <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">https://github.com/jfloff/alpine-python</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-03-26: <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">jfloff/alpine-python</a>.</em></p>]]></description></item><item><title>Housing Hub Project</title><link>https://blog.emecas.net/posts/2020-03-10-housing-hub-project/</link><pubDate>Tue, 10 Mar 2020 22:59:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-10-housing-hub-project/</guid><description><![CDATA[<p>Housing Hub Project<br>
-☐ #31 Section 8<br>
-☑ Docker image size optimization<br>
-☑ Docker image build optimization by caching dependencies</p>
-<p>Issue #30 in emecas/commitit, open, opened on 2020-03-10. Labels: EPIC.<br>
-<a href="https://github.com/emecas/commitit/issues/30" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/30</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/30" target="_blank" rel="noopener noreffer ">#30</a> in emecas/commitit, opened on 2020-03-10.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-03-26: <a href="https://github.com/jfloff/alpine-python" target="_blank" rel="noopener noreffer ">jfloff/alpine-python</a>.</em></p>]]></description></item></channel></rss>

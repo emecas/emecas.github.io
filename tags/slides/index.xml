@@ -1,4 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Slides - Tag - My Notes</title><link>https://blog.emecas.net/tags/slides/</link><description>Slides - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Jan 2020 18:01:58 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/slides/" rel="self" type="application/rss+xml"/><item><title>Reactive Spring</title><link>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</link><pubDate>Tue, 14 Jan 2020 18:01:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</guid><description><![CDATA[<p>Reactive Spring</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Slides - Tag - My Notes</title><link>https://blog.emecas.net/tags/slides/</link><description>Slides - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 09 Dec 2020 15:17:16 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/slides/" rel="self" type="application/rss+xml"/><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
+<a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
+Get everyone on the same page with Markdown<br>
+Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
+<p>Effective team collaboration<br>
+Flexible permissioning</p>
+<p>Transcend beyond space and time<br>
+Blazing fast real-time collaboration breaks the space between members. Change notification keeps everyone posted.<br>
+Sharing is caring<br>
+Team workspace for bird’s-eye view over all team documents. Shared templates keep format and styling consistent.<br>
+Keep your secret (while sharing it)<br>
+Granular note permission settings and private image storage give you full control over how and with whom you share.</p>]]></description></item><item><title>keroro824/HashingDeepLearning</title><link>https://blog.emecas.net/posts/2020-03-06-keroro824-hashingdeeplearning/</link><pubDate>Fri, 06 Mar 2020 11:15:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-06-keroro824-hashingdeeplearning/</guid><description><![CDATA[<p>keroro824/HashingDeepLearning<br>
+Codebase for &ldquo;SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems&rdquo;<br>
+C++ repository by keroro824, created in 2019, with 1,105 stars and 166 forks. License: MIT. Starred on 2020-03-06.<br>
+<a href="https://github.com/keroro824/HashingDeepLearning" target="_blank" rel="noopener noreffer ">https://github.com/keroro824/HashingDeepLearning</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-06: <a href="https://github.com/keroro824/HashingDeepLearning" target="_blank" rel="noopener noreffer ">keroro824/HashingDeepLearning</a>.</em></p>]]></description></item><item><title>Reactive Spring</title><link>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</link><pubDate>Tue, 14 Jan 2020 18:01:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</guid><description><![CDATA[<p>Reactive Spring</p>
 <p>news: <a href="https://spring.io/blog/2016/02/09/reactive-spring" target="_blank" rel="noopener noreffer ">https://spring.io/blog/2016/02/09/reactive-spring</a><br>
 guide: <a href="https://spring.io/guides/gs/reactive-rest-service/" target="_blank" rel="noopener noreffer ">https://spring.io/guides/gs/reactive-rest-service/</a></p>
 <p>GIT: <a href="https://github.com/spring-guides/gs-reactive-rest-service" target="_blank" rel="noopener noreffer ">https://github.com/spring-guides/gs-reactive-rest-service</a><br>

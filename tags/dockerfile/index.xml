@@ -13,4 +13,12 @@ Dockerfile repository by jfloff, created in 2015, with 483 stars and 96 forks. L
 By Daniel Hochleitner<br>
 <a href="https://danielhochleitner.de/ords/web/home/" target="_blank" rel="noopener noreffer ">https://danielhochleitner.de/ords/web/home/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/09f2e81ead037fae7a9c5f06dd14a8cb693c3a1c" target="_blank" rel="noopener noreffer "><code>09f2e81</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/09f2e81ead037fae7a9c5f06dd14a8cb693c3a1c" target="_blank" rel="noopener noreffer "><code>09f2e81</code></a> in My-Notes.</em></p>]]></description></item><item><title>ericallen/banner-xe-docker</title><link>https://blog.emecas.net/posts/2017-06-16-ericallen-banner-xe-docker/</link><pubDate>Fri, 16 Jun 2017 17:32:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-16-ericallen-banner-xe-docker/</guid><description><![CDATA[<p>ericallen/banner-xe-docker<br>
+Dockerfiles for Banner XE applications.<br>
+Shell repository by ericallen, created in 2017, with 28 stars and 5 forks. Starred on 2017-06-16.<br>
+<a href="https://github.com/ericallen/banner-xe-docker" target="_blank" rel="noopener noreffer ">https://github.com/ericallen/banner-xe-docker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-16: <a href="https://github.com/ericallen/banner-xe-docker" target="_blank" rel="noopener noreffer ">ericallen/banner-xe-docker</a>.</em></p>]]></description></item><item><title>Docker Containers on the Desktop</title><link>https://blog.emecas.net/posts/2017-03-24-docker-containers-on-the-desktop/</link><pubDate>Fri, 24 Mar 2017 15:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-24-docker-containers-on-the-desktop/</guid><description><![CDATA[<p>Docker Containers on the Desktop<br>
+By  Jessie Frazelle<br>
+<a href="https://blog.jessfraz.com/post/docker-containers-on-the-desktop/" target="_blank" rel="noopener noreffer ">https://blog.jessfraz.com/post/docker-containers-on-the-desktop/</a></p>
+<p>Main idea: &ldquo;I hate installing things on my host and the files getting everywhere. I wanted the ability to delete an app and know it is gone fully without some random file hanging around. This gave me that. Not only that, I can control how much CPU and Memory the app uses. Yes, the cpu/memory hungry chrome is now perfectly contained!</p>]]></description></item></channel></rss>

@@ -6,7 +6,25 @@
 To preserve the name for its original owner, we renamed this project to hey.</p>
 <p>Previously known as github.com/rakyll/boom.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>thebackroomtech for IP Address From a MAC</title><link>https://blog.emecas.net/posts/2016-04-25-thebackroomtech-for-ip-address-from-a-mac/</link><pubDate>Mon, 25 Apr 2016 04:22:54 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-04-25-thebackroomtech-for-ip-address-from-a-mac/</guid><description><![CDATA[<p>thebackroomtech<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>utmapp/UTM</title><link>https://blog.emecas.net/posts/2020-09-14-utmapp-utm/</link><pubDate>Mon, 14 Sep 2020 12:58:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-14-utmapp-utm/</guid><description><![CDATA[<p>utmapp/UTM<br>
+Virtual machines for iOS and macOS<br>
+Swift repository by utmapp, created in 2019, with 36,829 stars and 1,914 forks. License: Apache-2.0. Starred on 2020-09-14.<br>
+Homepage: <a href="https://getutm.app" target="_blank" rel="noopener noreffer ">https://getutm.app</a><br>
+<a href="https://github.com/utmapp/UTM" target="_blank" rel="noopener noreffer ">https://github.com/utmapp/UTM</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-09-14: <a href="https://github.com/utmapp/UTM" target="_blank" rel="noopener noreffer ">utmapp/UTM</a>.</em></p>]]></description></item><item><title>xpra multi-platform screen and application forwarding system</title><link>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</link><pubDate>Sun, 15 Mar 2020 23:32:49 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</guid><description><![CDATA[<p>xpra<br>
+<a href="https://xpra.org/" target="_blank" rel="noopener noreffer ">https://xpra.org/</a><br>
+multi-platform screen and application forwarding system &ldquo;screen for X11&rdquo;<br>
+Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.</p>
+<p>It gives you remote access to individual applications or full desktops.<br>
+On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.<br>
+It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item><item><title>Monitoror</title><link>https://blog.emecas.net/posts/2020-03-07-monitoror/</link><pubDate>Sat, 07 Mar 2020 20:09:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-07-monitoror/</guid><description><![CDATA[<p>Monitoror<br>
+<a href="https://monitoror.com" target="_blank" rel="noopener noreffer ">https://monitoror.com</a><br>
+Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.<br>
+<a href="https://github.com/monitoror/monitoror" target="_blank" rel="noopener noreffer ">https://github.com/monitoror/monitoror</a><br>
+<a href="https://demo.monitoror.com/" target="_blank" rel="noopener noreffer ">https://demo.monitoror.com/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e53666b372f9c2c54da467b48bf49dbfaeeebb5a" target="_blank" rel="noopener noreffer "><code>e53666b</code></a> in My-Notes.</em></p>]]></description></item><item><title>thebackroomtech for IP Address From a MAC</title><link>https://blog.emecas.net/posts/2016-04-25-thebackroomtech-for-ip-address-from-a-mac/</link><pubDate>Mon, 25 Apr 2016 04:22:54 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-04-25-thebackroomtech-for-ip-address-from-a-mac/</guid><description><![CDATA[<p>thebackroomtech<br>
 <a href="http://thebackroomtech.com" target="_blank" rel="noopener noreffer ">http://thebackroomtech.com</a><br>
 serving up the info back room techs everywhere find interesting</p>
 <p>Ref: Determine IP Address From a MAC Address<br>
@@ -57,12 +75,4 @@ Admins-MacBook-Pro-2:certificate-generator ecastaneda$ ./certificate-generator.s
 MongoDB Installation on Mac OS X as Service<br>
 <a href="http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/" target="_blank" rel="noopener noreffer ">http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2f08dceb3de61587913de923752efd97d32031a0" target="_blank" rel="noopener noreffer "><code>2f08dce</code></a> in My-Notes.</em></p>]]></description></item><item><title>Chocolat</title><link>https://blog.emecas.net/posts/2013-03-13-chocolat/</link><pubDate>Wed, 13 Mar 2013 18:51:47 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-13-chocolat/</guid><description><![CDATA[<p>Chocolat<br>
-<a href="http://www.chocolatapp.com/" target="_blank" rel="noopener noreffer ">http://www.chocolatapp.com/</a><br>
-A tasty new text editor for Mac.<br>
-Chocolat is a new text editor for Mac OS X, that combines native Cocoa with powerful text editing tools.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/42c914838053f9436e7be74d568ccb7f11a9586b" target="_blank" rel="noopener noreffer "><code>42c9148</code></a> in My-Notes.</em></p>]]></description></item><item><title>New Links</title><link>https://blog.emecas.net/posts/2013-03-10-new-links/</link><pubDate>Sun, 10 Mar 2013 14:06:54 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-10-new-links/</guid><description><![CDATA[<p>Installing PHP on MAC OS X 1.8<br>
-<a href="http://php-osx.liip.ch/" target="_blank" rel="noopener noreffer ">http://php-osx.liip.ch/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3a77c60e0ebfdcfd6a3e5ece84a29b3856e701da" target="_blank" rel="noopener noreffer "><code>3a77c60</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2f08dceb3de61587913de923752efd97d32031a0" target="_blank" rel="noopener noreffer "><code>2f08dce</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,19 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>App - Tag - My Notes</title><link>https://blog.emecas.net/tags/app/</link><description>App - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 May 2020 17:57:12 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/app/" rel="self" type="application/rss+xml"/><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>App - Tag - My Notes</title><link>https://blog.emecas.net/tags/app/</link><description>App - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 03 Jun 2023 15:14:01 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/app/" rel="self" type="application/rss+xml"/><item><title>Flathub</title><link>https://blog.emecas.net/posts/2023-06-03-flathub/</link><pubDate>Sat, 03 Jun 2023 15:14:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-06-03-flathub/</guid><description><![CDATA[<p>Flathub<br>
+<a href="https://flathub.org/" target="_blank" rel="noopener noreffer ">https://flathub.org/</a><br>
+Apps for Linux, right here</p>
+<p>Welcome to Flathub, the home of hundreds of apps which can be easily installed on any Linux distribution. Browse the apps online, from your app center or the command line.</p>
+<p>About Flathub</p>
+<p>Flathub is the place to get and distribute apps for all of desktop Linux. It is powered by Flatpak, allowing Flathub apps to run on almost any Linux distribution.<br>
+Use Flathub to gain access to a growing collection of Flatpaks by following the setup instructions.</p>]]></description></item><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
+Repo: <a href="https://github.com/inboxSDK/inboxsdk" target="_blank" rel="noopener noreffer ">https://github.com/inboxSDK/inboxsdk</a><br>
+Documentation: <a href="https://inboxsdk.github.io/inboxsdk-docs/" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/</a><br>
+Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" rel="noopener noreffer ">https://github.com/InboxSDK/inboxsdk-docs</a><br>
+The InboxSDK lets you build apps for Gmail.</p>
+<p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
+<p>Getting Started<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>JSR-377 Desktop\|Embedded Application API</title><link>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</link><pubDate>Wed, 27 May 2020 17:57:12 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-27-jsr-377-desktop-embedded-application-api/</guid><description><![CDATA[<p>JSR-377 Desktop|Embedded Application API<br>
 <a href="https://jcp.org/en/jsr/detail?id=377" target="_blank" rel="noopener noreffer ">https://jcp.org/en/jsr/detail?id=377</a><br>
 <a href="http://jsr377.github.io/site/" target="_blank" rel="noopener noreffer ">http://jsr377.github.io/site/</a></p>
 <p>The goal of this specification is to define an API for common behavior shared by many desktop applications. Most applications require the following features</p>
@@ -29,7 +44,29 @@ Ditching Hourly podcast: <a href="https://podcast.ditchinghourly.com/" target="_
 <p>Ref: SE-Radio Episode 300: Jonathan Stark on Mobile App Development<br>
 <a href="https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2017/08/se-radio-episode-300-jonathan-stark-on-mobile-app-development/</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2f2cc48c35c32579aed5da1d16f2184f7799b08d" target="_blank" rel="noopener noreffer "><code>2f2cc48</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2f2cc48c35c32579aed5da1d16f2184f7799b08d" target="_blank" rel="noopener noreffer "><code>2f2cc48</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Serverless Framework</title><link>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</link><pubDate>Tue, 14 Apr 2020 19:13:42 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-14-the-serverless-framework/</guid><description><![CDATA[<p>The Serverless Framework<br>
+<a href="https://serverless.com/" target="_blank" rel="noopener noreffer ">https://serverless.com/</a><br>
+The Serverless Framework gives you everything you need to develop, deploy, monitor and secure serverless applications on any cloud.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/faaaf68cb502a4d48c580683d4af06d02290aee4" target="_blank" rel="noopener noreffer "><code>faaaf68</code></a> in My-Notes.</em></p>]]></description></item><item><title>Apache Weex</title><link>https://blog.emecas.net/posts/2020-03-15-apache-weex/</link><pubDate>Sun, 15 Mar 2020 01:29:02 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-15-apache-weex/</guid><description><![CDATA[<p>Apache Weex<br>
+Weex is a framework for building performant mobile apps with modern web technology.<br>
+<a href="https://weex.apache.org/" target="_blank" rel="noopener noreffer ">https://weex.apache.org/</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/86bb018ca7a220f3b2911add20ba4ba18e7216a9" target="_blank" rel="noopener noreffer "><code>86bb018</code></a> in My-Notes.</em></p>]]></description></item><item><title>7labs keep up with the latest technology inventions</title><link>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</link><pubDate>Wed, 14 Aug 2019 11:04:04 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-08-14-7labs-keep-up-with-the-latest-technology-inventions/</guid><description><![CDATA[<p>7labs<br>
+<a href="https://7labs.io/" target="_blank" rel="noopener noreffer ">https://7labs.io/</a><br>
+The Mission<br>
+We are a small team of tech savvy people who just love to keep up with the latest technology inventions.<br>
+Be it computer, mobile phones, applications or any other software, we just want to test everything.<br>
+We try to find out how to make the best use of a particular product.<br>
+In our ventures, we have also tried to figure out ways of making things work.<br>
+Whenever we wanted to achieve some goal, first we used to search for a solution on the one place everybody looks for – the Internet.<br>
+Yeah, sometimes we did find solution there, but at other times when we didn’t, we tried our own ways to find a suitable alternative.<br>
+And if we were lucky enough, a solution would be discovered.</p>]]></description></item><item><title>Get started with Docker for Windows</title><link>https://blog.emecas.net/posts/2017-03-14-get-started-with-docker-for-windows/</link><pubDate>Tue, 14 Mar 2017 09:07:11 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-14-get-started-with-docker-for-windows/</guid><description><![CDATA[<p>Get started with Docker for Windows<br>
+<a href="https://docs.docker.com/docker-for-windows/" target="_blank" rel="noopener noreffer ">https://docs.docker.com/docker-for-windows/</a><br>
+Welcome to Docker for Windows!<br>
+Docker is a full development platform for creating containerized apps, and Docker for Windows is the best way to get started with Docker on Windows systems.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c0ab20fff23a550870e5f27e870f8cad0ca4baa3" target="_blank" rel="noopener noreffer "><code>c0ab20f</code></a> in My-Notes.</em></p>]]></description></item><item><title>The Twelve-Factor App ( Metodology )</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-metodology/</guid><description><![CDATA[<p>The twelve-factor app (Metodology)<br>
 <a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
 <p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
 <p>The Twelve Factors<br>
@@ -56,15 +93,4 @@ Keep development, staging, and production as similar as possible<br>
 XI. Logs<br>
 Treat logs as event streams<br>
 XII. Admin processes<br>
-Run admin/management tasks as one-off processes</p>]]></description></item><item><title>Android System Info - App</title><link>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</link><pubDate>Fri, 13 Dec 2013 08:39:35 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-12-13-android-system-info-app/</guid><description><![CDATA[<p>Android System Info<br>
-An app that extracts info from your android device and let you export it</p>
-<p>ASI provides a lot of technical infos(Hardware, System, Telephony&hellip;),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more<br>
-* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.electricsheep.asi" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.electricsheep.asi</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b252078d3b5b847ab11c8d5facdd38140b1d3563" target="_blank" rel="noopener noreffer "><code>b252078</code></a> in My-Notes.</em></p>]]></description></item><item><title>Ad Networks Detector App for Android</title><link>https://blog.emecas.net/posts/2013-11-23-ad-networks-detector-app-for-android/</link><pubDate>Sat, 23 Nov 2013 20:33:47 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-23-ad-networks-detector-app-for-android/</guid><description><![CDATA[<p>Ad Networks Detector for Android<br>
-Free Android App Exposes All the Ad Networks On Your Device<br>
-<a href="http://securitywatch.pcmag.com/mobile-security/294907-free-android-app-exposes-all-the-ad-networks-on-your-device" target="_blank" rel="noopener noreffer ">http://securitywatch.pcmag.com/mobile-security/294907-free-android-app-exposes-all-the-ad-networks-on-your-device</a><br>
-PLAY link:<a href="https://play.google.com/store/apps/details?id=com.lookout.addetector" target="_blank" rel="noopener noreffer ">https://play.google.com/store/apps/details?id=com.lookout.addetector</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/dac75cc87b2a461d92527205fb61a626df169db0" target="_blank" rel="noopener noreffer "><code>dac75cc</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Run admin/management tasks as one-off processes</p>]]></description></item></channel></rss>

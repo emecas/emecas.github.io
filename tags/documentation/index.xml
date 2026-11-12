@@ -49,7 +49,14 @@ CSS repository by architecture-decision-record, created in 2016, with 17,446 sta
 <p>Issue #172 in emecas/commitit, open, opened on 2024-05-04.<br>
 <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/172</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">#172</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">#172</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item><item><title>DevDocs</title><link>https://blog.emecas.net/posts/2024-03-02-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:14:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-devdocs/</guid><description><![CDATA[<p>DevDocs<br>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<p>La «navaja suiza» de las documentaciones de APIs<br>
+¿Qué necesitas? ¿React Native? ¿Vue? ¿QUnit? Tranqui que está TOOOOODO aquí. DevDocs combina múltiples documentaciones de API en una interfaz rápida, organizada y que permite realizar búsquedas para que puedas reducir tiempos y centrarte en picar código. 🙌</p>
+<p>Issue #139 in emecas/commitit, open, opened on 2024-03-02.<br>
+<a href="https://github.com/emecas/commitit/issues/139" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/139</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/139" target="_blank" rel="noopener noreffer ">#139</a> in emecas/commitit, opened on 2024-03-02.</em></p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
 API Documentation Browser<br>
 Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
 Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
@@ -63,13 +70,4 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
-Repo: <a href="https://github.com/inboxSDK/inboxsdk" target="_blank" rel="noopener noreffer ">https://github.com/inboxSDK/inboxsdk</a><br>
-Documentation: <a href="https://inboxsdk.github.io/inboxsdk-docs/" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/</a><br>
-Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" rel="noopener noreffer ">https://github.com/InboxSDK/inboxsdk-docs</a><br>
-The InboxSDK lets you build apps for Gmail.</p>
-<p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
-<p>Getting Started<br>
-<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item></channel></rss>

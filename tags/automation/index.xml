@@ -41,7 +41,26 @@ Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAud
 open, distributed, real-time capable and secure operating system for production.</p>
 <p>FabOS is the IT backbone for the versatile automation of the factory of the future and the foundation of an ecosystem for data-driven services and AI applications.<br>
 German companies can benefit from their deep domain knowledge and experience of industrial products, complex and high-quality manufacturing processes, and versatile and highly networked production systems (Internet of Things, Industry 4.0).<br>
-This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>karatelabs/karate</title><link>https://blog.emecas.net/posts/2020-02-21-karatelabs-karate/</link><pubDate>Fri, 21 Feb 2020 12:18:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-21-karatelabs-karate/</guid><description><![CDATA[<p>karatelabs/karate<br>
+This strong industrial competence is essential to develop AI solutions for industrial applications and to drive AI technology beyond the state of the art.</p>]]></description></item><item><title>Automations Using Trello API</title><link>https://blog.emecas.net/posts/2020-03-02-automations-using-trello-api/</link><pubDate>Mon, 02 Mar 2020 02:23:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-automations-using-trello-api/</guid><description><![CDATA[<p>Automations Using Trello API<br>
+Doc:<br>
+<a href="https://developers.trello.com/reference#introduction" target="_blank" rel="noopener noreffer ">https://developers.trello.com/reference#introduction</a></p>
+<p>Power-Up Samples:<br>
+<a href="https://github.com/trello/power-up-template" target="_blank" rel="noopener noreffer ">https://github.com/trello/power-up-template</a><br>
+A static GitHub pages hosted sample Power-Up</p>
+<p>Wrappers</p>
+<p>Java</p>
+<p><a href="https://github.com/joelso/trello4j" target="_blank" rel="noopener noreffer ">https://github.com/joelso/trello4j</a><br>
+Java wrapper around Trello API</p>
+<p><a href="https://github.com/taskadapter/trello-java-wrapper" target="_blank" rel="noopener noreffer ">https://github.com/taskadapter/trello-java-wrapper</a><br>
+Java Wrapper for Trello API</p>
+<p>Go</p>
+<p><a href="https://github.com/adlio/trello" target="_blank" rel="noopener noreffer ">https://github.com/adlio/trello</a><br>
+Trello API wrapper for Go</p>
+<p><a href="https://github.com/VojtechVitek/go-trello" target="_blank" rel="noopener noreffer ">https://github.com/VojtechVitek/go-trello</a><br>
+Golang client pkg for accessing the Trello API</p>
+<p>Kotlin</p>
+<p><a href="https://github.com/MPSforca/trello-api" target="_blank" rel="noopener noreffer ">https://github.com/MPSforca/trello-api</a><br>
+An API to communicate with Trello API in Kotlin and Spring Boot</p>]]></description></item><item><title>karatelabs/karate</title><link>https://blog.emecas.net/posts/2020-02-21-karatelabs-karate/</link><pubDate>Fri, 21 Feb 2020 12:18:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-21-karatelabs-karate/</guid><description><![CDATA[<p>karatelabs/karate<br>
 Test Automation Made Simple<br>
 Java repository by karatelabs, created in 2017, with 9,007 stars and 2,047 forks. License: MIT. Starred on 2020-02-21.<br>
 Homepage: <a href="https://docs.karatelabs.io" target="_blank" rel="noopener noreffer ">https://docs.karatelabs.io</a><br>
@@ -71,9 +90,4 @@ Java repository by SeleniumHQ, created in 2013, with 34,580 stars and 8,724 fork
 Homepage: <a href="https://selenium.dev" target="_blank" rel="noopener noreffer ">https://selenium.dev</a><br>
 <a href="https://github.com/SeleniumHQ/selenium" target="_blank" rel="noopener noreffer ">https://github.com/SeleniumHQ/selenium</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-03-04: <a href="https://github.com/SeleniumHQ/selenium" target="_blank" rel="noopener noreffer ">SeleniumHQ/selenium</a>.</em></p>]]></description></item><item><title>zheng-wang/irontest</title><link>https://blog.emecas.net/posts/2018-10-11-zheng-wang-irontest/</link><pubDate>Thu, 11 Oct 2018 22:04:37 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-10-11-zheng-wang-irontest/</guid><description><![CDATA[<p>zheng-wang/irontest<br>
-A web app for API test automation<br>
-Java repository by zheng-wang, created in 2016, with 29 stars and 15 forks. License: Apache-2.0. Starred on 2018-10-11.<br>
-<a href="https://github.com/zheng-wang/irontest" target="_blank" rel="noopener noreffer ">https://github.com/zheng-wang/irontest</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2018-10-11: <a href="https://github.com/zheng-wang/irontest" target="_blank" rel="noopener noreffer ">zheng-wang/irontest</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-03-04: <a href="https://github.com/SeleniumHQ/selenium" target="_blank" rel="noopener noreffer ">SeleniumHQ/selenium</a>.</em></p>]]></description></item></channel></rss>

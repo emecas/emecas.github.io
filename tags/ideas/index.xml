@@ -32,4 +32,14 @@ Founded on the core mission of connecting likeminded engineers around the globe,
 About dev.to</p>
 <p>Where programmers share ideas and help each other grow. It is an online community for sharing and discovering great ideas, having debates, and making friends. Anyone can share articles, questions, discussions, etc. as long as they have the rights to the words they are sharing. Cross-posting from your own blog is welcome.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/924c7280751f71e4e61cd6fc8ad99ef1e482088b" target="_blank" rel="noopener noreffer "><code>924c728</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/924c7280751f71e4e61cd6fc8ad99ef1e482088b" target="_blank" rel="noopener noreffer "><code>924c728</code></a> in My-Notes.</em></p>]]></description></item><item><title>WALLWATCHER - IntelliJ IDEA Code lines</title><link>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</link><pubDate>Tue, 18 Feb 2014 20:43:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</guid><description><![CDATA[<p>WALLWATCHER<br>
+Collect, View, and Analyze Router Logs<br>
+<a href="http://www.wallwatcher1.com" target="_blank" rel="noopener noreffer ">http://www.wallwatcher1.com</a><br>
+Version 3.3.37 (Final)	 January 1, 2011</p>
+<p>Ref: SO <a href="http://stackoverflow.com/review/first-posts/4082993" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/review/first-posts/4082993</a></p>
+<p>How to count lines of Java code using IntelliJ IDEA?<br>
+ref: SO <a href="http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea</a></p>
+<p>Command line -&gt;&gt;  find . -type f -name &lsquo;*.java&rsquo; | xargs cat | wc -l<br>
+Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a1352a5f36e98808d172fbb54d02563f39258d1a" target="_blank" rel="noopener noreffer "><code>a1352a5</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

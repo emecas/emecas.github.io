@@ -17,7 +17,21 @@ Successfully verified installer hash<br>
 Starting package install&hellip;<br>
 Path environment variable modified; restart your shell to use the new value.<br>
 Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item><item><title>JPA Performance Benchmark (JPAB)</title><link>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</link><pubDate>Wed, 08 Feb 2017 11:51:26 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</guid><description><![CDATA[<p>JPA Performance Benchmark (JPAB)<br>
+Successfully installed</p>]]></description></item><item><title>c-guntur/jvms-compare</title><link>https://blog.emecas.net/posts/2021-02-17-c-guntur-jvms-compare/</link><pubDate>Wed, 17 Feb 2021 14:54:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-02-17-c-guntur-jvms-compare/</guid><description><![CDATA[<p>c-guntur/jvms-compare<br>
+JVM comparisons - using benchmarks<br>
+Java repository by c-guntur, created in 2019, with 20 stars and 5 forks. Starred on 2021-02-17.<br>
+<a href="https://github.com/c-guntur/jvms-compare" target="_blank" rel="noopener noreffer ">https://github.com/c-guntur/jvms-compare</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2021-02-17: <a href="https://github.com/c-guntur/jvms-compare" target="_blank" rel="noopener noreffer ">c-guntur/jvms-compare</a>.</em></p>]]></description></item><item><title>Windows Server 2019</title><link>https://blog.emecas.net/posts/2020-02-21-windows-server-2019/</link><pubDate>Fri, 21 Feb 2020 13:42:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-21-windows-server-2019/</guid><description><![CDATA[<p>Windows Server 2019<br>
+<a href="https://en.m.wikipedia.org/wiki/Windows_Server_2019" target="_blank" rel="noopener noreffer ">https://en.m.wikipedia.org/wiki/Windows_Server_2019</a></p>
+<p>Advantages? Benchmarks?</p>
+<p>Ref:</p>
+<p><a href="https://github.com/docker/labs/issues/490" target="_blank" rel="noopener noreffer ">https://github.com/docker/labs/issues/490</a><br>
+<a href="https://github.com/docker/for-win/issues/1162" target="_blank" rel="noopener noreffer ">https://github.com/docker/for-win/issues/1162</a></p>
+<p>Issue #10 in emecas/commitit, open, opened on 2020-02-21.<br>
+<a href="https://github.com/emecas/commitit/issues/10" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/10</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/10" target="_blank" rel="noopener noreffer ">#10</a> in emecas/commitit, opened on 2020-02-21.</em></p>]]></description></item><item><title>JPA Performance Benchmark (JPAB)</title><link>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</link><pubDate>Wed, 08 Feb 2017 11:51:26 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-08-jpa-performance-benchmark-jpab/</guid><description><![CDATA[<p>JPA Performance Benchmark (JPAB)<br>
 <a href="http://www.jpab.org/" target="_blank" rel="noopener noreffer ">http://www.jpab.org/</a><br>
 About this Benchmark</p>
 <p>This is a comprehensive benchmark that compares the performance of different combinations of JPA providers and Database Management Systems (DBMS). It covers many JPA ORM providers (Hibernate, EclipseLink, OpenJPA and DataNucleus) and DBMS (MySQL, PostgreSQL, Derby, HSQLDB, H2, HSQLite) that are available in Java.</p>
@@ -26,4 +40,14 @@ About this Benchmark</p>
 <p>Sort Benchmark Home Page</p>
 <p>New: The 2016 records are listed below in green. Thank you to all of the many 2016 entrants!<br>
 Background</p>
-<p>Until 2007, the sort benchmarks were primary defined, sponsored and administered by Jim Gray. Following Jim&rsquo;s disappearance at sea in January 2007, the sort benchmarks have been continued by a committee of past colleagues and sort benchmark winners. The Sort Benchmark committee members include:</p>]]></description></item></channel></rss>
+<p>Until 2007, the sort benchmarks were primary defined, sponsored and administered by Jim Gray. Following Jim&rsquo;s disappearance at sea in January 2007, the sort benchmarks have been continued by a committee of past colleagues and sort benchmark winners. The Sort Benchmark committee members include:</p>]]></description></item><item><title>SonarQube - “Sonar”</title><link>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</link><pubDate>Wed, 08 Jul 2015 12:49:09 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2015-07-08-sonarqube-sonar/</guid><description><![CDATA[<p>Web Framework Benchmarks<br>
+Introduction<br>
+This is a performance comparison of many web application frameworks executing fundamental tasks such as JSON serialization, database access, and server-side template composition. Each framework is operating in a realistic production configuration. Results are captured on Amazon EC2 and on physical hardware. The test implementations are largely community-contributed and all source is available at the GitHub repository.<br>
+<a href="http://www.techempower.com/benchmarks/#section=intro&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=intro&hw=peak&test=plaintext</a><br>
+<a href="http://www.techempower.com/benchmarks/#section=data-r10&amp;hw=peak&amp;test=plaintext" target="_blank" rel="noopener noreffer ">http://www.techempower.com/benchmarks/#section=data-r10&hw=peak&test=plaintext</a></p>
+<p>SonarQube™ software (previously known as “Sonar”) is an open source project.<br>
+Download and install your own copy. Version: 5.1.1 (Jun 5, 2015) distributed under license LGPL v3.<br>
+All in one<br>
+SonarQube is an open platform to manage code quality. As such, it covers the 7 axes of code quality:<br>
+Comments, Coding Rules, Architecture &amp; Design, Duplications, Unit Tests, Potential Bug, Complexity<br>
+<a href="http://www.sonarqube.org/" target="_blank" rel="noopener noreffer ">http://www.sonarqube.org/</a></p>]]></description></item></channel></rss>

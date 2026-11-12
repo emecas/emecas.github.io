@@ -11,4 +11,10 @@ Eclipse Theia is an extensible platform to develop multi-language Cloud &amp; De
 <a href="https://nats.io/" target="_blank" rel="noopener noreffer ">https://nats.io/</a><br>
 NATS is a family of open source products that are tightly integrated but can be deployed independently. NATS is being deployed globally by thousands of companies, spanning innovative use-cases including: Mobile apps, Microservices and Cloud Native, and IoT.</p>
 <p>NATS is also available as a global communications system called NGS. Get Started today for free at NGS Signup.</p>
-<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item></channel></rss>
+<p>The core NATS Server acts as a central nervous system for building distributed applications. There are dozens of clients ranging from Java, .NET, to GO. NATS Streaming extends the platform to provide for real-time streaming &amp; big data use-cases.</p>]]></description></item><item><title>pmd/pmd</title><link>https://blog.emecas.net/posts/2017-11-23-pmd-pmd/</link><pubDate>Thu, 23 Nov 2017 12:37:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-11-23-pmd-pmd/</guid><description><![CDATA[<p>pmd/pmd<br>
+An extensible multilanguage static code analyzer.<br>
+Java repository by pmd, created in 2012, with 5,528 stars and 1,616 forks. Starred on 2017-11-23.<br>
+Homepage: <a href="https://pmd.github.io" target="_blank" rel="noopener noreffer ">https://pmd.github.io</a><br>
+<a href="https://github.com/pmd/pmd" target="_blank" rel="noopener noreffer ">https://github.com/pmd/pmd</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-11-23: <a href="https://github.com/pmd/pmd" target="_blank" rel="noopener noreffer ">pmd/pmd</a>.</em></p>]]></description></item></channel></rss>

@@ -15,12 +15,26 @@ examples/project-setup - prompt users for configuration and generate a .env file
 examples/init-db-with-rails - load database tables and fixtures from rails models and create a database image and development environment.<br>
 examples/init-named-volume - create or update the files in a named docker volume.<br>
 examples/inline-dockerfile - inline Dockerfiles in the dobi.yaml to reduce the number of build files.<br>
-examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>derwiki/layoff-runbook</title><link>https://blog.emecas.net/posts/2023-04-25-derwiki-layoff-runbook/</link><pubDate>Tue, 25 Apr 2023 10:34:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-04-25-derwiki-layoff-runbook/</guid><description><![CDATA[<p>derwiki/layoff-runbook<br>
+examples/env-vars - populate environment variables from job task output</p>]]></description></item><item><title>xc</title><link>https://blog.emecas.net/posts/2026-04-23-xc/</link><pubDate>Thu, 23 Apr 2026 19:19:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-23-xc/</guid><description><![CDATA[<p>xc - Simple, Convenient, Docs-based task runner.<br>
+<a href="https://xcfile.dev/" target="_blank" rel="noopener noreffer ">https://xcfile.dev/</a></p>
+<p>xc is a task runner similar to Make or npm run, that aims to be more discoverable and approachable.</p>
+<p>The problem xc is intended to solve is scripts maintained separately from their documentation. Often a Makefile or a package.json will contain some useful scripts for developing on a project, then the README.md will surface and describe these scripts. In such a case, since the documentation is separate, it may not be updated when scripts are changed or added. xc aims to solve this by defining the scripts inline with the documentation.</p>]]></description></item><item><title>derwiki/layoff-runbook</title><link>https://blog.emecas.net/posts/2023-04-25-derwiki-layoff-runbook/</link><pubDate>Tue, 25 Apr 2023 10:34:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-04-25-derwiki-layoff-runbook/</guid><description><![CDATA[<p>derwiki/layoff-runbook<br>
 Being laid off can be overwhelming and it&rsquo;s easy to miss important tasks. This runbook will help make sure you stay on track.<br>
 Repository by derwiki, created in 2023, with 951 stars and 29 forks. Starred on 2023-04-25.<br>
 <a href="https://github.com/derwiki/layoff-runbook" target="_blank" rel="noopener noreffer ">https://github.com/derwiki/layoff-runbook</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2023-04-25: <a href="https://github.com/derwiki/layoff-runbook" target="_blank" rel="noopener noreffer ">derwiki/layoff-runbook</a>.</em></p>]]></description></item><item><title>tasks/tasks</title><link>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</link><pubDate>Mon, 02 Mar 2020 01:25:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</guid><description><![CDATA[<p>tasks/tasks<br>
+<p><em>Source: starred on GitHub on 2023-04-25: <a href="https://github.com/derwiki/layoff-runbook" target="_blank" rel="noopener noreffer ">derwiki/layoff-runbook</a>.</em></p>]]></description></item><item><title>Command-line Task Tools</title><link>https://blog.emecas.net/posts/2020-03-23-command-line-task-tools/</link><pubDate>Mon, 23 Mar 2020 03:59:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-23-command-line-task-tools/</guid><description><![CDATA[<p>Command-line Task Tools<br>
+-</p>
+<p>Issue #36 in emecas/commitit, open, opened on 2020-03-23.<br>
+<a href="https://github.com/emecas/commitit/issues/36" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/36</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/36" target="_blank" rel="noopener noreffer ">#36</a> in emecas/commitit, opened on 2020-03-23.</em></p>]]></description></item><item><title>GothenburgBitFactory/taskwarrior</title><link>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-taskwarrior/</link><pubDate>Sun, 22 Mar 2020 21:53:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-22-gothenburgbitfactory-taskwarrior/</guid><description><![CDATA[<p>GothenburgBitFactory/taskwarrior<br>
+Taskwarrior - Command line Task Management<br>
+C++ repository by GothenburgBitFactory, created in 2018, with 6,160 stars and 424 forks. License: MIT. Starred on 2020-03-22.<br>
+Homepage: <a href="https://taskwarrior.org" target="_blank" rel="noopener noreffer ">https://taskwarrior.org</a><br>
+<a href="https://github.com/GothenburgBitFactory/taskwarrior" target="_blank" rel="noopener noreffer ">https://github.com/GothenburgBitFactory/taskwarrior</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-03-22: <a href="https://github.com/GothenburgBitFactory/taskwarrior" target="_blank" rel="noopener noreffer ">GothenburgBitFactory/taskwarrior</a>.</em></p>]]></description></item><item><title>tasks/tasks</title><link>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</link><pubDate>Mon, 02 Mar 2020 01:25:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-02-tasks-tasks/</guid><description><![CDATA[<p>tasks/tasks<br>
 Bringing Astrid Tasks back from the dead<br>
 Kotlin repository by tasks, created in 2013, with 5,733 stars and 676 forks. License: GPL-3.0. Starred on 2020-03-02.<br>
 Homepage: <a href="http://tasks.org" target="_blank" rel="noopener noreffer ">http://tasks.org</a><br>

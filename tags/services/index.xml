@@ -8,13 +8,26 @@ Access multiple public REST services using Spring Boot rest clients WebClient, R
 Java repository by kousen, created in 2023, with 11 stars and 9 forks. License: MIT. Starred on 2024-06-11.<br>
 <a href="https://github.com/kousen/restclient_v3" target="_blank" rel="noopener noreffer ">https://github.com/kousen/restclient_v3</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/kousen/restclient_v3" target="_blank" rel="noopener noreffer ">kousen/restclient_v3</a>.</em></p>]]></description></item><item><title>arXiv/arxiv-base</title><link>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</link><pubDate>Sun, 16 Aug 2020 13:12:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</guid><description><![CDATA[<p>arXiv/arxiv-base<br>
+<p><em>Source: starred on GitHub on 2024-06-11: <a href="https://github.com/kousen/restclient_v3" target="_blank" rel="noopener noreffer ">kousen/restclient_v3</a>.</em></p>]]></description></item><item><title>Amazon’s New Internet Service is Ready to Start Mass Production – Here is When You Can Sign Up For Its Affordable New Home Internet Service</title><link>https://blog.emecas.net/posts/2023-11-19-amazons-new-internet-service-is-ready-to-start-mass-producti/</link><pubDate>Sun, 19 Nov 2023 23:07:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-19-amazons-new-internet-service-is-ready-to-start-mass-producti/</guid><description><![CDATA[<p>Amazon’s New Internet Service is Ready to Start Mass Production – Here is When You Can Sign Up For Its Affordable New Home Internet Service<br>
+<a href="https://cordcuttersnews.com/amazons-new-internet-service-is-ready-to-start-mass-production-here-is-when-you-can-sign-up-for-its-affordable-new-home-internet-service/" target="_blank" rel="noopener noreffer ">https://cordcuttersnews.com/amazons-new-internet-service-is-ready-to-start-mass-production-here-is-when-you-can-sign-up-for-its-affordable-new-home-internet-service/</a></p>
+<p>Issue #133 in emecas/commitit, open, opened on 2023-11-19.<br>
+<a href="https://github.com/emecas/commitit/issues/133" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/133</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/133" target="_blank" rel="noopener noreffer ">#133</a> in emecas/commitit, opened on 2023-11-19.</em></p>]]></description></item><item><title>zipkin</title><link>https://blog.emecas.net/posts/2020-10-02-zipkin/</link><pubDate>Fri, 02 Oct 2020 22:28:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
+<a href="https://zipkin.io/" target="_blank" rel="noopener noreffer ">https://zipkin.io/</a></p>
+<p>Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.</p>
+<p>If you have a trace ID in a log file, you can jump directly to it. Otherwise, you can query based on attributes such as service, operation name, tags and duration. Some interesting data will be summarized for you, such as the percentage of time spent in a service, and whether or not operations failed.</p>]]></description></item><item><title>arXiv/arxiv-base</title><link>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</link><pubDate>Sun, 16 Aug 2020 13:12:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-16-arxiv-arxiv-base/</guid><description><![CDATA[<p>arXiv/arxiv-base<br>
 Supporting libraries for templates and arXiv services<br>
 Python repository by arXiv, created in 2017, with 61 stars and 14 forks. Starred on 2020-08-16.<br>
 Homepage: <a href="https://arxiv.github.io/arxiv-base/" target="_blank" rel="noopener noreffer ">https://arxiv.github.io/arxiv-base/</a><br>
 <a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">https://github.com/arXiv/arxiv-base</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-08-16: <a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">arXiv/arxiv-base</a>.</em></p>]]></description></item><item><title>Coordination Services Based on Linearizable Storage Service</title><link>https://blog.emecas.net/posts/2020-03-30-coordination-services-based-on-linearizable-storage-service/</link><pubDate>Mon, 30 Mar 2020 14:44:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-30-coordination-services-based-on-linearizable-storage-service/</guid><description><![CDATA[<p>Coordination Services Based on Linearizable Storage Service<br>
+<p><em>Source: starred on GitHub on 2020-08-16: <a href="https://github.com/arXiv/arxiv-base" target="_blank" rel="noopener noreffer ">arXiv/arxiv-base</a>.</em></p>]]></description></item><item><title>leangen/graphql-spqr</title><link>https://blog.emecas.net/posts/2020-08-14-leangen-graphql-spqr/</link><pubDate>Fri, 14 Aug 2020 03:45:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-14-leangen-graphql-spqr/</guid><description><![CDATA[<p>leangen/graphql-spqr<br>
+Build a GraphQL service in seconds<br>
+Java repository by leangen, created in 2016, with 1,105 stars and 182 forks. License: Apache-2.0. Starred on 2020-08-14.<br>
+<a href="https://github.com/leangen/graphql-spqr" target="_blank" rel="noopener noreffer ">https://github.com/leangen/graphql-spqr</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-08-14: <a href="https://github.com/leangen/graphql-spqr" target="_blank" rel="noopener noreffer ">leangen/graphql-spqr</a>.</em></p>]]></description></item><item><title>Coordination Services Based on Linearizable Storage Service</title><link>https://blog.emecas.net/posts/2020-03-30-coordination-services-based-on-linearizable-storage-service/</link><pubDate>Mon, 30 Mar 2020 14:44:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-30-coordination-services-based-on-linearizable-storage-service/</guid><description><![CDATA[<p>Coordination Services Based on Linearizable Storage Service<br>
 Locking and Leader Election</p>
 <p>- Apache ZooKeeper<br>
 - etcd<br>
@@ -43,31 +56,13 @@ Agile Microservices in Minutes<br>
 <p>Writing Great User Stories For Developing APIs<br>
 <a href="https://www.jeremyjarrell.com/user-stories-apis/" target="_blank" rel="noopener noreffer ">https://www.jeremyjarrell.com/user-stories-apis/</a></p>
 <p>Best Practices for Defining API Integration User Stories<br>
-<a href="https://blog.cloud-elements.com/best-practices-api-integration-user-stories" target="_blank" rel="noopener noreffer ">https://blog.cloud-elements.com/best-practices-api-integration-user-stories</a></p>]]></description></item><item><title>wiremock/wiremock</title><link>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</link><pubDate>Fri, 13 Sep 2019 21:21:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-09-13-wiremock-wiremock/</guid><description><![CDATA[<p>wiremock/wiremock<br>
-A tool for mocking HTTP services<br>
-Java repository by wiremock, created in 2011, with 7,423 stars and 1,533 forks. License: Apache-2.0. Starred on 2019-09-13.<br>
-Homepage: <a href="https://wiremock.org/" target="_blank" rel="noopener noreffer ">https://wiremock.org/</a><br>
-<a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">https://github.com/wiremock/wiremock</a></p>
+<a href="https://blog.cloud-elements.com/best-practices-api-integration-user-stories" target="_blank" rel="noopener noreffer ">https://blog.cloud-elements.com/best-practices-api-integration-user-stories</a></p>]]></description></item><item><title>Reactive Spring</title><link>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</link><pubDate>Tue, 14 Jan 2020 18:01:58 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-14-reactive-spring/</guid><description><![CDATA[<p>Reactive Spring</p>
+<p>news: <a href="https://spring.io/blog/2016/02/09/reactive-spring" target="_blank" rel="noopener noreffer ">https://spring.io/blog/2016/02/09/reactive-spring</a><br>
+guide: <a href="https://spring.io/guides/gs/reactive-rest-service/" target="_blank" rel="noopener noreffer ">https://spring.io/guides/gs/reactive-rest-service/</a></p>
+<p>GIT: <a href="https://github.com/spring-guides/gs-reactive-rest-service" target="_blank" rel="noopener noreffer ">https://github.com/spring-guides/gs-reactive-rest-service</a><br>
+Building a Reactive RESTful Web Service :: Learn how to create a RESTful web service with Reactive Spring.</p>
+<p>ref: <a href="https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/" target="_blank" rel="noopener noreffer ">https://www.se-radio.net/2016/09/se-radio-episode-267-jurgen-holler-on-reactive-spring-and-spring-5-0/</a><br>
+slides: <a href="https://www.slideshare.net/poutsma/reactive-programming-in-spring-5" target="_blank" rel="noopener noreffer ">https://www.slideshare.net/poutsma/reactive-programming-in-spring-5</a><br>
+other: <a href="https://springframework.guru/spring-web-reactive/" target="_blank" rel="noopener noreffer ">https://springframework.guru/spring-web-reactive/</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-09-13: <a href="https://github.com/wiremock/wiremock" target="_blank" rel="noopener noreffer ">wiremock/wiremock</a>.</em></p>]]></description></item><item><title>keycloak/keycloak</title><link>https://blog.emecas.net/posts/2019-03-14-keycloak-keycloak/</link><pubDate>Thu, 14 Mar 2019 12:26:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-keycloak-keycloak/</guid><description><![CDATA[<p>keycloak/keycloak<br>
-Open Source Identity and Access Management For Modern Applications and Services<br>
-Java repository by keycloak, created in 2013, with 37,811 stars and 9,172 forks. License: Apache-2.0. Starred on 2019-03-14.<br>
-Homepage: <a href="https://www.keycloak.org" target="_blank" rel="noopener noreffer ">https://www.keycloak.org</a><br>
-<a href="https://github.com/keycloak/keycloak" target="_blank" rel="noopener noreffer ">https://github.com/keycloak/keycloak</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/keycloak/keycloak" target="_blank" rel="noopener noreffer ">keycloak/keycloak</a>.</em></p>]]></description></item><item><title>Learn REST: A RESTful Tutorial</title><link>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</link><pubDate>Wed, 06 Mar 2019 15:58:13 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-06-learn-rest-a-restful-tutorial/</guid><description><![CDATA[<p>Learn REST: A RESTful Tutorial<br>
-<a href="https://www.restapitutorial.com/" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/</a></p>
-<p>RestApiTutorial.com is dedicated to tracking REST API best practices and making resources available<br>
-to enable quick reference and self education for the development crafts-person.<br>
-We&rsquo;ll discuss both the art and science of creating REST Web services.</p>
-<p><a href="https://www.restapitutorial.com/lessons/httpmethods.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/lessons/httpmethods.html</a><br>
-<a href="https://www.restapitutorial.com/httpstatuscodes.html" target="_blank" rel="noopener noreffer ">https://www.restapitutorial.com/httpstatuscodes.html</a><br>
-<a href="https://github.com/tfredrich/RestApiTutorial.com" target="_blank" rel="noopener noreffer ">https://github.com/tfredrich/RestApiTutorial.com</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/595205110477886c2d9c02324c48f6bf2b3e6c31" target="_blank" rel="noopener noreffer "><code>5952051</code></a> in My-Notes.</em></p>]]></description></item><item><title>agrest</title><link>https://blog.emecas.net/posts/2019-01-30-agrest/</link><pubDate>Wed, 30 Jan 2019 21:25:55 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-30-agrest/</guid><description><![CDATA[<p>agrest<br>
-<a href="https://agrest.io/" target="_blank" rel="noopener noreffer ">https://agrest.io/</a><br>
-An open-source protocol and framework for REST data services<br>
-Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.<br>
-Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/788ef1f38045cc652b3182706eaae9dd69d9ff0b" target="_blank" rel="noopener noreffer "><code>788ef1f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0256c31ced0834085769440bf9ddcc5ff44030bd" target="_blank" rel="noopener noreffer "><code>0256c31</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

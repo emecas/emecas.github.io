@@ -4,7 +4,16 @@ TypeScript repository by f5devcentral, created in 2020, with 62 stars and 19 for
 Homepage: <a href="https://f5devcentral.github.io/vscode-f5/#/" target="_blank" rel="noopener noreffer ">https://f5devcentral.github.io/vscode-f5/#/</a><br>
 <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">https://github.com/f5devcentral/vscode-f5</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-01-23: <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">f5devcentral/vscode-f5</a>.</em></p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
+<p><em>Source: starred on GitHub on 2024-01-23: <a href="https://github.com/f5devcentral/vscode-f5" target="_blank" rel="noopener noreffer ">f5devcentral/vscode-f5</a>.</em></p>]]></description></item><item><title>InboxSDK</title><link>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</link><pubDate>Wed, 12 Oct 2022 09:17:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-10-12-inboxsdk/</guid><description><![CDATA[<p>InboxSDK<br>
+Repo: <a href="https://github.com/inboxSDK/inboxsdk" target="_blank" rel="noopener noreffer ">https://github.com/inboxSDK/inboxsdk</a><br>
+Documentation: <a href="https://inboxsdk.github.io/inboxsdk-docs/" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/</a><br>
+Doc repo: <a href="https://github.com/InboxSDK/inboxsdk-docs" target="_blank" rel="noopener noreffer ">https://github.com/InboxSDK/inboxsdk-docs</a><br>
+The InboxSDK lets you build apps for Gmail.</p>
+<p>InboxSDK is a JavaScript library for building apps inside Gmail with browser extensions. It features a high-level declarative API that handles all DOM manipulation in a performant way. InboxSDK can handle multiple inboxes, conversation mode, fullscreen compose, popouts, and themes.</p>
+<p>Getting Started<br>
+<a href="https://inboxsdk.github.io/inboxsdk-docs/#quick-start" target="_blank" rel="noopener noreffer ">https://inboxsdk.github.io/inboxsdk-docs/#quick-start</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/93c90fa846f91fbed9683e049292ffc827102c82" target="_blank" rel="noopener noreffer "><code>93c90fa</code></a> in My-Notes.</em></p>]]></description></item><item><title>HackMD</title><link>https://blog.emecas.net/posts/2020-12-09-hackmd/</link><pubDate>Wed, 09 Dec 2020 15:17:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-12-09-hackmd/</guid><description><![CDATA[<p>HackMD<br>
 <a href="https://hackmd.io/home#" target="_blank" rel="noopener noreffer ">https://hackmd.io/home#</a><br>
 Get everyone on the same page with Markdown<br>
 Real-time collaborate on [personal | team | professional | technical | project ] documentation in markdown. Capture fleeting ideas and formalize tribal knowledge. 44</p>
@@ -28,10 +37,26 @@ web-ext is a command line tool designed to speed up various parts of the extensi
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/486dfbcb10d3f0f89bb8d43e3c10d1c6dcdd8921" target="_blank" rel="noopener noreffer "><code>486dfbc</code></a> in My-Notes.</em></p>]]></description></item><item><title>DbUnit</title><link>https://blog.emecas.net/posts/2020-06-10-dbunit/</link><pubDate>Wed, 10 Jun 2020 18:48:29 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-10-dbunit/</guid><description><![CDATA[<p>DbUnit<br>
 <a href="http://www.dbunit.org/" target="_blank" rel="noopener noreffer ">http://www.dbunit.org/</a><br>
 DbUnit is a JUnit extension (also usable with Ant) targeted at database-driven projects that, among other things, puts your database into a known state between test runs. This is an excellent way to avoid the myriad of problems that can occur when one test case corrupts the database and causes subsequent tests to fail or exacerbate the damage.</p>
-<p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item><item><title>kkapsner/CanvasBlocker</title><link>https://blog.emecas.net/posts/2017-02-25-kkapsner-canvasblocker/</link><pubDate>Sat, 25 Feb 2017 00:46:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-25-kkapsner-canvasblocker/</guid><description><![CDATA[<p>kkapsner/CanvasBlocker<br>
-A Firefox extension to protect from being fingerprinted.<br>
-JavaScript repository by kkapsner, created in 2014, with 1,531 stars and 95 forks. License: MPL-2.0. Starred on 2017-02-25.<br>
-Homepage: <a href="https://canvasblocker.kkapsner.de" target="_blank" rel="noopener noreffer ">https://canvasblocker.kkapsner.de</a><br>
-<a href="https://github.com/kkapsner/CanvasBlocker" target="_blank" rel="noopener noreffer ">https://github.com/kkapsner/CanvasBlocker</a></p>
+<p>DbUnit has the ability to export and import your database data to and from XML datasets. Since version 2.0, DbUnit can also work with very large datasets when used in streaming mode. DbUnit can also help you to verify that your database data match an expected set of values.</p>]]></description></item><item><title>Keep Looking for available extensions and check system for extensions in DB Browser for SQLite</title><link>https://blog.emecas.net/posts/2020-03-28-keep-looking-for-available-extensions-and-check-system-for-e/</link><pubDate>Sat, 28 Mar 2020 20:56:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-28-keep-looking-for-available-extensions-and-check-system-for-e/</guid><description><![CDATA[<p>Keep Looking for available extensions and check system for extensions in DB Browser for SQLite<br>
+<a href="https://sqlitebrowser.org/" target="_blank" rel="noopener noreffer ">https://sqlitebrowser.org/</a></p>
+<p><a href="https://sqlitebrowser.org/blog/version-3-11-0-released/" target="_blank" rel="noopener noreffer ">https://sqlitebrowser.org/blog/version-3-11-0-released/</a></p>
+<p><a href="https://github.com/sqlitebrowser/sqlitebrowser" target="_blank" rel="noopener noreffer ">https://github.com/sqlitebrowser/sqlitebrowser</a></p>
+<p>Issue #40 in emecas/commitit, open, opened on 2020-03-28.<br>
+<a href="https://github.com/emecas/commitit/issues/40" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/40</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2017-02-25: <a href="https://github.com/kkapsner/CanvasBlocker" target="_blank" rel="noopener noreffer ">kkapsner/CanvasBlocker</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/40" target="_blank" rel="noopener noreffer ">#40</a> in emecas/commitit, opened on 2020-03-28.</em></p>]]></description></item><item><title>NuGet/NuGet.Client</title><link>https://blog.emecas.net/posts/2018-11-14-nuget-nuget-client/</link><pubDate>Wed, 14 Nov 2018 18:49:55 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-11-14-nuget-nuget-client/</guid><description><![CDATA[<p>NuGet/NuGet.Client<br>
+Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on <a href="https://github.com/nuget/home/issues" target="_blank" rel="noopener noreffer ">https://github.com/nuget/home/issues</a>)<br>
+C# repository by NuGet, created in 2014, with 824 stars and 771 forks. Starred on 2018-11-14.<br>
+<a href="https://github.com/NuGet/NuGet.Client" target="_blank" rel="noopener noreffer ">https://github.com/NuGet/NuGet.Client</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2018-11-14: <a href="https://github.com/NuGet/NuGet.Client" target="_blank" rel="noopener noreffer ">NuGet/NuGet.Client</a>.</em></p>]]></description></item><item><title>QuickCheck</title><link>https://blog.emecas.net/posts/2018-09-20-quickcheck/</link><pubDate>Thu, 20 Sep 2018 14:13:17 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-09-20-quickcheck/</guid><description><![CDATA[<p>QuickCheck<br>
+<a href="http://www.cse.chalmers.se/~rjmh/QuickCheck/" target="_blank" rel="noopener noreffer ">http://www.cse.chalmers.se/~rjmh/QuickCheck/</a><br>
+QuickCheck is a tool for testing Haskell programs automatically. The programmer provides a specification of the program,<br>
+in the form of properties which functions should satisfy, and QuickCheck then tests that the properties hold in a large number<br>
+of randomly generated cases. Specifications are expressed in Haskell, using combinators defined in the QuickCheck library.<br>
+QuickCheck provides combinators to define properties, observe the distribution of test data, and define test data generators.</p>]]></description></item><item><title>pfn/passifox</title><link>https://blog.emecas.net/posts/2017-06-08-pfn-passifox/</link><pubDate>Thu, 08 Jun 2017 16:27:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-08-pfn-passifox/</guid><description><![CDATA[<p>pfn/passifox<br>
+Extensions to allow Chrome and Firefox (4.0+) to auto form-fill passwords from KeePass (requires KeePassHttp)<br>
+JavaScript repository by pfn, created in 2010, with 895 stars and 178 forks. License: GPL-3.0. Starred on 2017-06-08.<br>
+<a href="https://github.com/pfn/passifox" target="_blank" rel="noopener noreffer ">https://github.com/pfn/passifox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-08: <a href="https://github.com/pfn/passifox" target="_blank" rel="noopener noreffer ">pfn/passifox</a>.</em></p>]]></description></item></channel></rss>

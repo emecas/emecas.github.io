@@ -3,4 +3,9 @@ Got permission denied while trying to connect to the Docker daemon socket at uni
 Solution: <a href="https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/" target="_blank" rel="noopener noreffer ">https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/</a><br>
 &gt; sudo usermod -a -G docker $USER</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e34b4b6ff79eb4af0a2f631cda4f6b51157fa6b4" target="_blank" rel="noopener noreffer "><code>e34b4b6</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e34b4b6ff79eb4af0a2f631cda4f6b51157fa6b4" target="_blank" rel="noopener noreffer "><code>e34b4b6</code></a> in My-Notes.</em></p>]]></description></item><item><title>moby/libentitlement</title><link>https://blog.emecas.net/posts/2017-06-19-moby-libentitlement/</link><pubDate>Mon, 19 Jun 2017 19:21:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-19-moby-libentitlement/</guid><description><![CDATA[<p>moby/libentitlement<br>
+Entitlements library for high level control of container permissions<br>
+Go repository by moby, created in 2017, with 65 stars and 18 forks. License: Apache-2.0. Archived by its owner. Starred on 2017-06-19.<br>
+<a href="https://github.com/moby/libentitlement" target="_blank" rel="noopener noreffer ">https://github.com/moby/libentitlement</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-19: <a href="https://github.com/moby/libentitlement" target="_blank" rel="noopener noreffer ">moby/libentitlement</a>.</em></p>]]></description></item></channel></rss>

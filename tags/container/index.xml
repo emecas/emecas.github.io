@@ -2,7 +2,12 @@
 Ruby repository by looselytyped, created in 2023, with 32 stars and 29 forks. Starred on 2025-02-26.<br>
 <a href="https://github.com/looselytyped/container-security-fundamentals" target="_blank" rel="noopener noreffer ">https://github.com/looselytyped/container-security-fundamentals</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2025-02-26: <a href="https://github.com/looselytyped/container-security-fundamentals" target="_blank" rel="noopener noreffer ">looselytyped/container-security-fundamentals</a>.</em></p>]]></description></item><item><title>diagrams.net</title><link>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</link><pubDate>Tue, 21 Apr 2020 20:47:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</guid><description><![CDATA[<p>diagrams.net<br>
+<p><em>Source: starred on GitHub on 2025-02-26: <a href="https://github.com/looselytyped/container-security-fundamentals" target="_blank" rel="noopener noreffer ">looselytyped/container-security-fundamentals</a>.</em></p>]]></description></item><item><title>skillrepos/caz-class-v2</title><link>https://blog.emecas.net/posts/2023-10-18-skillrepos-caz-class-v2/</link><pubDate>Wed, 18 Oct 2023 20:34:05 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-10-18-skillrepos-caz-class-v2/</guid><description><![CDATA[<p>skillrepos/caz-class-v2<br>
+Materials for Containers A-Z training - codespace version<br>
+Mustache repository by skillrepos, created in 2023, with 1 stars and 17 forks. License: GPL-3.0. Starred on 2023-10-18.<br>
+<a href="https://github.com/skillrepos/caz-class-v2" target="_blank" rel="noopener noreffer ">https://github.com/skillrepos/caz-class-v2</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2023-10-18: <a href="https://github.com/skillrepos/caz-class-v2" target="_blank" rel="noopener noreffer ">skillrepos/caz-class-v2</a>.</em></p>]]></description></item><item><title>diagrams.net</title><link>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</link><pubDate>Tue, 21 Apr 2020 20:47:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-21-diagrams-net/</guid><description><![CDATA[<p>diagrams.net<br>
 Diagram with anyone, anywhere.<br>
 diagrams.net is open source, online, desktop and container deployable diagramming software<br>
 <a href="https://app.diagrams.net/" target="_blank" rel="noopener noreffer ">https://app.diagrams.net/</a></p>
@@ -13,7 +18,16 @@ Build and run Docker containers leveraging NVIDIA GPUs<br>
 The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
 <a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>GoogleContainerTools/kaniko</title><link>https://blog.emecas.net/posts/2019-04-11-googlecontainertools-kaniko/</link><pubDate>Thu, 11 Apr 2019 17:51:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-11-googlecontainertools-kaniko/</guid><description><![CDATA[<p>GoogleContainerTools/kaniko<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/efceb7012882447db2104b325b577ce051f95861" target="_blank" rel="noopener noreffer "><code>efceb70</code></a> in My-Notes.</em></p>]]></description></item><item><title>NVIDIA/nvidia-docker</title><link>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</link><pubDate>Sat, 29 Feb 2020 05:17:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</guid><description><![CDATA[<p>NVIDIA/nvidia-docker<br>
+Build and run Docker containers leveraging NVIDIA GPUs<br>
+Repository by NVIDIA, created in 2015, with 17,622 stars and 2,052 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-02-29.<br>
+<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">NVIDIA/nvidia-docker</a>.</em></p>]]></description></item><item><title>A Docker Cheat Sheet</title><link>https://blog.emecas.net/posts/2020-01-29-a-docker-cheat-sheet/</link><pubDate>Wed, 29 Jan 2020 12:32:32 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-01-29-a-docker-cheat-sheet/</guid><description><![CDATA[<p>A Docker Cheat Sheet<br>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes" target="_blank" rel="noopener noreffer ">https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes</a><br>
+How To Remove Docker Images, Containers, and Volumes</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9c594c9d843829a89e75486f68f941cef30b4e5d" target="_blank" rel="noopener noreffer "><code>9c594c9</code></a> in My-Notes.</em></p>]]></description></item><item><title>GoogleContainerTools/kaniko</title><link>https://blog.emecas.net/posts/2019-04-11-googlecontainertools-kaniko/</link><pubDate>Thu, 11 Apr 2019 17:51:08 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-11-googlecontainertools-kaniko/</guid><description><![CDATA[<p>GoogleContainerTools/kaniko<br>
 Build Container Images In Kubernetes<br>
 Go repository by GoogleContainerTools, created in 2018, with 15,749 stars and 1,528 forks. License: Apache-2.0. Archived by its owner. Starred on 2019-04-11.<br>
 <a href="https://github.com/GoogleContainerTools/kaniko" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/kaniko</a></p>
@@ -35,29 +49,9 @@ Jib Core: A general-purpose container-building library for Java.<br>
 Java repository by GoogleContainerTools, created in 2018, with 14,455 stars and 1,481 forks. License: Apache-2.0. Starred on 2019-03-26.<br>
 <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">GoogleContainerTools/jib</a>.</em></p>]]></description></item><item><title>Oracle Database &amp; APEX Developer Docker Image</title><link>https://blog.emecas.net/posts/2017-12-12-oracle-database-apex-developer-docker-image/</link><pubDate>Tue, 12 Dec 2017 10:44:42 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-12-oracle-database-apex-developer-docker-image/</guid><description><![CDATA[<p>Oracle Database &amp; APEX Developer Docker Image<br>
-<a href="https://github.com/Dani3lSun/docker-db-apex-dev/blob/master/README.md" target="_blank" rel="noopener noreffer ">https://github.com/Dani3lSun/docker-db-apex-dev/blob/master/README.md</a><br>
-By Daniel Hochleitner<br>
-<a href="https://danielhochleitner.de/ords/web/home/" target="_blank" rel="noopener noreffer ">https://danielhochleitner.de/ords/web/home/</a></p>
+<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">GoogleContainerTools/jib</a>.</em></p>]]></description></item><item><title>andrus/di-comparison</title><link>https://blog.emecas.net/posts/2018-04-03-andrus-di-comparison/</link><pubDate>Tue, 03 Apr 2018 01:46:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-04-03-andrus-di-comparison/</guid><description><![CDATA[<p>andrus/di-comparison<br>
+DI containers comparison<br>
+Java repository by andrus, created in 2018, with 20 stars and 5 forks. Starred on 2018-04-03.<br>
+<a href="https://github.com/andrus/di-comparison" target="_blank" rel="noopener noreffer ">https://github.com/andrus/di-comparison</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/09f2e81ead037fae7a9c5f06dd14a8cb693c3a1c" target="_blank" rel="noopener noreffer "><code>09f2e81</code></a> in My-Notes.</em></p>]]></description></item><item><title>moby/libentitlement</title><link>https://blog.emecas.net/posts/2017-06-19-moby-libentitlement/</link><pubDate>Mon, 19 Jun 2017 19:21:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-19-moby-libentitlement/</guid><description><![CDATA[<p>moby/libentitlement<br>
-Entitlements library for high level control of container permissions<br>
-Go repository by moby, created in 2017, with 65 stars and 18 forks. License: Apache-2.0. Archived by its owner. Starred on 2017-06-19.<br>
-<a href="https://github.com/moby/libentitlement" target="_blank" rel="noopener noreffer ">https://github.com/moby/libentitlement</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2017-06-19: <a href="https://github.com/moby/libentitlement" target="_blank" rel="noopener noreffer ">moby/libentitlement</a>.</em></p>]]></description></item><item><title>Vim - Creating your own syntax files</title><link>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</link><pubDate>Fri, 12 May 2017 11:45:16 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-12-vim-creating-your-own-syntax-files/</guid><description><![CDATA[<p>ctop: Top-like interface for container metrics</p>
-<p>Vim - Creating your own syntax files<br>
-<a href="http://vim.wikia.com/wiki/Creating_your_own_syntax_files" target="_blank" rel="noopener noreffer ">http://vim.wikia.com/wiki/Creating_your_own_syntax_files</a></p>
-<p>Ref:<br>
-<a href="http://stackoverflow.com/questions/31238492/writing-ics-ical-file-using-java" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/31238492/writing-ics-ical-file-using-java</a><br>
-<a href="http://stackoverflow.com/a/31238691/833336" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/a/31238691/833336</a><br>
-<a href="http://severinghaus.org/projects/icv/" target="_blank" rel="noopener noreffer ">http://severinghaus.org/projects/icv/</a><br>
-<a href="http://severinghaus.org/projects/icalendar-validator" target="_blank" rel="noopener noreffer ">http://severinghaus.org/projects/icalendar-validator</a><br>
-icalendar.vim : Syntax file for icalendar files<br>
-<a href="http://www.vim.org/scripts/script.php?script_id=1519" target="_blank" rel="noopener noreffer ">http://www.vim.org/scripts/script.php?script_id=1519</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/32f4a6e8dd249c7b8629c767b6df4b2c063a66c6" target="_blank" rel="noopener noreffer "><code>32f4a6e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Top-like interface for container metrics</title><link>https://blog.emecas.net/posts/2017-04-27-top-like-interface-for-container-metrics/</link><pubDate>Thu, 27 Apr 2017 11:57:11 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-27-top-like-interface-for-container-metrics/</guid><description><![CDATA[<p>Top-like interface for container metrics<br>
-<a href="http://ctop.sh" target="_blank" rel="noopener noreffer ">http://ctop.sh</a><br>
-<a href="https://github.com/bcicen/ctop" target="_blank" rel="noopener noreffer ">https://github.com/bcicen/ctop</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/70ed27e60ef7925a4bee00737fd67ab06792b663" target="_blank" rel="noopener noreffer "><code>70ed27e</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2018-04-03: <a href="https://github.com/andrus/di-comparison" target="_blank" rel="noopener noreffer ">andrus/di-comparison</a>.</em></p>]]></description></item></channel></rss>

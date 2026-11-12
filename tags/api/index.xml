@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>API - Tag - My Notes</title><link>https://blog.emecas.net/tags/api/</link><description>API - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Nov 2025 00:22:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/api/" rel="self" type="application/rss+xml"/><item><title>usebruno/bruno</title><link>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</link><pubDate>Mon, 10 Nov 2025 00:22:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</guid><description><![CDATA[<p>usebruno/bruno<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Api - Tag - My Notes</title><link>https://blog.emecas.net/tags/api/</link><description>Api - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Nov 2025 00:22:03 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/api/" rel="self" type="application/rss+xml"/><item><title>usebruno/bruno</title><link>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</link><pubDate>Mon, 10 Nov 2025 00:22:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-11-10-usebruno-bruno/</guid><description><![CDATA[<p>usebruno/bruno<br>
 Opensource IDE For Exploring and Testing API&rsquo;s (lightweight alternative to Postman/Insomnia)<br>
 JavaScript repository by usebruno, created in 2022, with 48,334 stars and 3,094 forks. License: MIT. Starred on 2025-11-10.<br>
 Homepage: <a href="https://www.usebruno.com/" target="_blank" rel="noopener noreffer ">https://www.usebruno.com/</a><br>
@@ -21,7 +21,12 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>LFopen Website API Reference and Documentation</title><link>https://blog.emecas.net/posts/2024-05-04-lfopen-website-api-reference-and-documentation/</link><pubDate>Sat, 04 May 2024 23:33:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-04-lfopen-website-api-reference-and-documentation/</guid><description><![CDATA[<p>LFopen Website API Reference and Documentation<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>rohitbhardwaj/MicroservicesAPIsBootcamp</title><link>https://blog.emecas.net/posts/2024-05-20-rohitbhardwaj-microservicesapisbootcamp/</link><pubDate>Mon, 20 May 2024 10:55:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-20-rohitbhardwaj-microservicesapisbootcamp/</guid><description><![CDATA[<p>rohitbhardwaj/MicroservicesAPIsBootcamp<br>
+RESTFul Microservices APIs Bootcamp<br>
+HTML repository by rohitbhardwaj, created in 2023, with 21 stars and 33 forks. Starred on 2024-05-20.<br>
+<a href="https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp" target="_blank" rel="noopener noreffer ">https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2024-05-20: <a href="https://github.com/rohitbhardwaj/MicroservicesAPIsBootcamp" target="_blank" rel="noopener noreffer ">rohitbhardwaj/MicroservicesAPIsBootcamp</a>.</em></p>]]></description></item><item><title>LFopen Website API Reference and Documentation</title><link>https://blog.emecas.net/posts/2024-05-04-lfopen-website-api-reference-and-documentation/</link><pubDate>Sat, 04 May 2024 23:33:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-04-lfopen-website-api-reference-and-documentation/</guid><description><![CDATA[<p>LFopen Website API Reference and Documentation<br>
 <a href="https://software.lfconnect.com/lfopen/webapidocs/1.0/index.html" target="_blank" rel="noopener noreffer ">https://software.lfconnect.com/lfopen/webapidocs/1.0/index.html</a></p>
 <p>Issue #172 in emecas/commitit, open, opened on 2024-05-04.<br>
 <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/172</a></p>
@@ -37,7 +42,14 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 <p>Issue #153 in emecas/commitit, open, opened on 2024-03-30.<br>
 <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/153</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">#153</a> in emecas/commitit, opened on 2024-03-30.</em></p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">#153</a> in emecas/commitit, opened on 2024-03-30.</em></p>]]></description></item><item><title>DevDocs</title><link>https://blog.emecas.net/posts/2024-03-02-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:14:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-devdocs/</guid><description><![CDATA[<p>DevDocs<br>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<p>La «navaja suiza» de las documentaciones de APIs<br>
+¿Qué necesitas? ¿React Native? ¿Vue? ¿QUnit? Tranqui que está TOOOOODO aquí. DevDocs combina múltiples documentaciones de API en una interfaz rápida, organizada y que permite realizar búsquedas para que puedas reducir tiempos y centrarte en picar código. 🙌</p>
+<p>Issue #139 in emecas/commitit, open, opened on 2024-03-02.<br>
+<a href="https://github.com/emecas/commitit/issues/139" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/139</a></p>
+<hr>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/139" target="_blank" rel="noopener noreffer ">#139</a> in emecas/commitit, opened on 2024-03-02.</em></p>]]></description></item><item><title>freeCodeCamp/devdocs</title><link>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:12:07 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-freecodecamp-devdocs/</guid><description><![CDATA[<p>freeCodeCamp/devdocs<br>
 API Documentation Browser<br>
 Ruby repository by freeCodeCamp, created in 2013, with 39,618 stars and 2,654 forks. License: MPL-2.0. Starred on 2024-03-02.<br>
 Homepage: <a href="https://devdocs.io" target="_blank" rel="noopener noreffer ">https://devdocs.io</a><br>
@@ -51,14 +63,4 @@ Generate beautiful API documentation from OpenAPI</p>
 The central panel contains the documentation.<br>
 The right panel contains request and response examples.</p>
 <p>Redoc Live demo<br>
-If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item><item><title>The Jira Cloud platform REST API</title><link>https://blog.emecas.net/posts/2024-02-29-the-jira-cloud-platform-rest-api/</link><pubDate>Thu, 29 Feb 2024 18:42:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-02-29-the-jira-cloud-platform-rest-api/</guid><description><![CDATA[<p>The Jira Cloud platform REST API<br>
-<a href="https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-issue-issueidorkey-worklog-post" target="_blank" rel="noopener noreffer ">https://developer.atlassian.com/cloud/jira/platform/rest/v3/api-group-issue-worklogs/#api-rest-api-3-issue-issueidorkey-worklog-post</a></p>
-<p>Issue #137 in emecas/commitit, open, opened on 2024-02-29.<br>
-<a href="https://github.com/emecas/commitit/issues/137" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/137</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/137" target="_blank" rel="noopener noreffer ">#137</a> in emecas/commitit, opened on 2024-02-29.</em></p>]]></description></item><item><title>Table API | ServiceNow Developers</title><link>https://blog.emecas.net/posts/2023-11-11-table-api-servicenow-developers/</link><pubDate>Sat, 11 Nov 2023 16:20:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2023-11-11-table-api-servicenow-developers/</guid><description><![CDATA[<p>Table API | ServiceNow Developers<br>
-<a href="https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest/c_TableAPI" target="_blank" rel="noopener noreffer ">https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest/c_TableAPI</a></p>
-<p>Issue #130 in emecas/commitit, open, opened on 2023-11-11.<br>
-<a href="https://github.com/emecas/commitit/issues/130" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/130</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/130" target="_blank" rel="noopener noreffer ">#130</a> in emecas/commitit, opened on 2023-11-11.</em></p>]]></description></item></channel></rss>
+If you want to see how Redoc renders your OpenAPI definition, you can try it out online at <a href="https://redocly.github.io/redoc/" target="_blank" rel="noopener noreffer ">https://redocly.github.io/redoc/</a>.</p>]]></description></item></channel></rss>

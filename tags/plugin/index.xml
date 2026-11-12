@@ -10,12 +10,40 @@ Java native API Gateway for service proxy, protocol conversion and API governanc
 - Observability: Tracing, metrics, logging plugin<br>
 - Extensions: Plugin hot-swapping, dynamic loading<br>
 - Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>Using the SpotBugs Eclipse plugin</title><link>https://blog.emecas.net/posts/2020-11-21-using-the-spotbugs-eclipse-plugin/</link><pubDate>Sat, 21 Nov 2020 03:52:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-21-using-the-spotbugs-eclipse-plugin/</guid><description><![CDATA[<p>Using the SpotBugs Eclipse plugin<br>
+- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item><item><title>Zrythm</title><link>https://blog.emecas.net/posts/2021-06-02-zrythm/</link><pubDate>Wed, 02 Jun 2021 11:48:37 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-02-zrythm/</guid><description><![CDATA[<p>Zrythm<br>
+a highly automated and intuitive digital audio workstation<br>
+<a href="https://www.zrythm.org/en/index.html" target="_blank" rel="noopener noreffer ">https://www.zrythm.org/en/index.html</a></p>
+<p>Sources:<br>
+<a href="https://sr.ht/~alextee/zrythm/" target="_blank" rel="noopener noreffer ">https://sr.ht/~alextee/zrythm/</a></p>
+<p>Overview</p>
+<p>Zrythm is a cross-platform digital audio workstation designed to be featureful and easy to use.</p>
+<p>Limitless automation<br>
+Automate almost anything with automation events using straight lines, ramps and curves, or with LFOs and envelopes.</p>
+<p>Audio plugins<br>
+Complete support for LV2 and VST2, with experimental support for VST3, AU, SFZ and SF2.</p>
+<p>Multi-backend support<br>
+Fully JACK aware, including support for PipeWire, JACK transport, ALSA, PulseAudio, WASAPI, Windows MME, CoreMidi and CoreAudio.</p>]]></description></item><item><title>Eldd</title><link>https://blog.emecas.net/posts/2021-01-24-eldd/</link><pubDate>Sun, 24 Jan 2021 20:16:57 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-01-24-eldd/</guid><description><![CDATA[<p>Elgg<br>
+<a href="https://elgg.org/" target="_blank" rel="noopener noreffer ">https://elgg.org/</a><br>
+Introducing a powerful open source social networking engine<br>
+Providing you with the core components needed to build a socially aware web application</p>
+<p>Elgg is an award-winning open source social networking engine that provides a robust framework on which to build all kinds of social environments,<br>
+from a campus wide social network for your university, school or college or an internal collaborative platform for your organization through to a<br>
+brand-building communications tool for your company and its clients.</p>]]></description></item><item><title>Using the SpotBugs Eclipse plugin</title><link>https://blog.emecas.net/posts/2020-11-21-using-the-spotbugs-eclipse-plugin/</link><pubDate>Sat, 21 Nov 2020 03:52:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-11-21-using-the-spotbugs-eclipse-plugin/</guid><description><![CDATA[<p>Using the SpotBugs Eclipse plugin<br>
 <a href="https://spotbugs.readthedocs.io/en/latest/eclipse.html" target="_blank" rel="noopener noreffer ">https://spotbugs.readthedocs.io/en/latest/eclipse.html</a></p>
 <p>Issue #67 in emecas/commitit, open, opened on 2020-11-21. Labels: WIP.<br>
 <a href="https://github.com/emecas/commitit/issues/67" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/67</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/67" target="_blank" rel="noopener noreffer ">#67</a> in emecas/commitit, opened on 2020-11-21.</em></p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/67" target="_blank" rel="noopener noreffer ">#67</a> in emecas/commitit, opened on 2020-11-21.</em></p>]]></description></item><item><title>notepad-plus-plus/nppPluginList</title><link>https://blog.emecas.net/posts/2020-10-05-notepad-plus-plus-npppluginlist/</link><pubDate>Mon, 05 Oct 2020 17:05:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-05-notepad-plus-plus-npppluginlist/</guid><description><![CDATA[<p>notepad-plus-plus/nppPluginList<br>
+The official collection of Notepad++ plugins.<br>
+Python repository by notepad-plus-plus, created in 2018, with 1,713 stars and 518 forks. Starred on 2020-10-05.<br>
+<a href="https://github.com/notepad-plus-plus/nppPluginList" target="_blank" rel="noopener noreffer ">https://github.com/notepad-plus-plus/nppPluginList</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2020-10-05: <a href="https://github.com/notepad-plus-plus/nppPluginList" target="_blank" rel="noopener noreffer ">notepad-plus-plus/nppPluginList</a>.</em></p>]]></description></item><item><title>Fastify</title><link>https://blog.emecas.net/posts/2020-09-16-fastify/</link><pubDate>Wed, 16 Sep 2020 18:56:30 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-16-fastify/</guid><description><![CDATA[<p>Fastify<br>
+<a href="https://www.fastify.io/" target="_blank" rel="noopener noreffer ">https://www.fastify.io/</a><br>
+Fast and low overhead web framework, for Node.js</p>
+<p>Why</p>
+<p>An efficient server implies a lower cost of the infrastructure, a better responsiveness under load and happy users. How can you efficiently handle the resources of your server, knowing that you are serving the highest number of requests possible, without sacrificing security validations and handy development?</p>
+<p>Enter Fastify. Fastify is a web framework highly focused on providing the best developer experience with the least overhead and a powerful plugin architecture. It is inspired by Hapi and Express and as far as we know, it is one of the fastest web frameworks in town.</p>]]></description></item><item><title>UMLDoclet</title><link>https://blog.emecas.net/posts/2020-08-19-umldoclet/</link><pubDate>Wed, 19 Aug 2020 23:22:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-19-umldoclet/</guid><description><![CDATA[<p>UMLDoclet: JavaDoc and UML Maven Plugin</p>
 <p>POM:</p>
 <p>&lt;plugin&gt;<br>
 &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;<br>
@@ -84,30 +112,8 @@ A plugin for the Gradle build system that allows specifying test sets (like inte
 Kotlin repository by unbroken-dome, created in 2015, with 233 stars and 49 forks. License: MIT. Starred on 2020-04-30.<br>
 <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">https://github.com/unbroken-dome/gradle-testsets-plugin</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-04-30: <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">unbroken-dome/gradle-testsets-plugin</a>.</em></p>]]></description></item><item><title>o19s/elasticsearch-learning-to-rank</title><link>https://blog.emecas.net/posts/2020-02-22-o19s-elasticsearch-learning-to-rank/</link><pubDate>Sat, 22 Feb 2020 19:49:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-22-o19s-elasticsearch-learning-to-rank/</guid><description><![CDATA[<p>o19s/elasticsearch-learning-to-rank<br>
-Plugin to integrate Learning to Rank (aka machine learning for better relevance) with Elasticsearch<br>
-Java repository by o19s, created in 2016, with 1,520 stars and 373 forks. License: Apache-2.0. Starred on 2020-02-22.<br>
-Homepage: <a href="http://opensourceconnections.com/blog/2017/02/14/elasticsearch-learning-to-rank/" target="_blank" rel="noopener noreffer ">http://opensourceconnections.com/blog/2017/02/14/elasticsearch-learning-to-rank/</a><br>
-<a href="https://github.com/o19s/elasticsearch-learning-to-rank" target="_blank" rel="noopener noreffer ">https://github.com/o19s/elasticsearch-learning-to-rank</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-02-22: <a href="https://github.com/o19s/elasticsearch-learning-to-rank" target="_blank" rel="noopener noreffer ">o19s/elasticsearch-learning-to-rank</a>.</em></p>]]></description></item><item><title>3scale-labs/3scale_ws_api_for_java</title><link>https://blog.emecas.net/posts/2019-03-14-3scale-labs-3scale-ws-api-for-java/</link><pubDate>Thu, 14 Mar 2019 12:22:01 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-14-3scale-labs-3scale-ws-api-for-java/</guid><description><![CDATA[<p>3scale-labs/3scale_ws_api_for_java<br>
-3scale integration plugin for Java applications. 3scale is an API Infrastructure service which handles API Keys, Rate Limiting, Analytics, Billing Payments and Developer Management. Includes a configurable API dashboard and developer portal CMS. More product stuff at <a href="http://www.3scale.net/" target="_blank" rel="noopener noreffer ">http://www.3scale.net/</a>, support information at <a href="http://support.3scale.net/" target="_blank" rel="noopener noreffer ">http://support.3scale.net/</a>.<br>
-Java repository by 3scale-labs, created in 2008, with 28 stars and 32 forks. License: MIT. Starred on 2019-03-14.<br>
-Homepage: <a href="http://www.3scale.net/" target="_blank" rel="noopener noreffer ">http://www.3scale.net/</a><br>
-<a href="https://github.com/3scale-labs/3scale_ws_api_for_java" target="_blank" rel="noopener noreffer ">https://github.com/3scale-labs/3scale_ws_api_for_java</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-03-14: <a href="https://github.com/3scale-labs/3scale_ws_api_for_java" target="_blank" rel="noopener noreffer ">3scale-labs/3scale_ws_api_for_java</a>.</em></p>]]></description></item><item><title>JDepend Plugin</title><link>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</link><pubDate>Tue, 05 Mar 2019 11:15:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-05-jdepend-plugin/</guid><description><![CDATA[<p>The JDepend Plugin<br>
-<a href="https://docs.gradle.org/current/userguide/jdepend_plugin.html" target="_blank" rel="noopener noreffer ">https://docs.gradle.org/current/userguide/jdepend_plugin.html</a><br>
-The JDepend plugin performs quality checks on your project’s source files using JDepend and generates reports from these check</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/50ce2b1a37c90bae2be00a9b894f79cd6d620e33" target="_blank" rel="noopener noreffer "><code>50ce2b1</code></a> in My-Notes.</em></p>]]></description></item><item><title>trac-hacks/trac-code-comments-plugin</title><link>https://blog.emecas.net/posts/2017-04-19-trac-hacks-trac-code-comments-plugin/</link><pubDate>Wed, 19 Apr 2017 01:05:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-19-trac-hacks-trac-code-comments-plugin/</guid><description><![CDATA[<p>trac-hacks/trac-code-comments-plugin<br>
-Trac plugin for code comments and sending them to tickets<br>
-Python repository by trac-hacks, created in 2011, with 53 stars and 22 forks. License: GPL-2.0. Starred on 2017-04-19.<br>
-<a href="https://github.com/trac-hacks/trac-code-comments-plugin" target="_blank" rel="noopener noreffer ">https://github.com/trac-hacks/trac-code-comments-plugin</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2017-04-19: <a href="https://github.com/trac-hacks/trac-code-comments-plugin" target="_blank" rel="noopener noreffer ">trac-hacks/trac-code-comments-plugin</a>.</em></p>]]></description></item><item><title>hmvictor/radar-netbeans</title><link>https://blog.emecas.net/posts/2017-02-21-hmvictor-radar-netbeans/</link><pubDate>Tue, 21 Feb 2017 22:14:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-21-hmvictor-radar-netbeans/</guid><description><![CDATA[<p>hmvictor/radar-netbeans<br>
-A SonarQube plugin for Netbeans<br>
-Java repository by hmvictor, created in 2015, with 34 stars and 22 forks. Starred on 2017-02-21.<br>
-<a href="https://github.com/hmvictor/radar-netbeans" target="_blank" rel="noopener noreffer ">https://github.com/hmvictor/radar-netbeans</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2017-02-21: <a href="https://github.com/hmvictor/radar-netbeans" target="_blank" rel="noopener noreffer ">hmvictor/radar-netbeans</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-04-30: <a href="https://github.com/unbroken-dome/gradle-testsets-plugin" target="_blank" rel="noopener noreffer ">unbroken-dome/gradle-testsets-plugin</a>.</em></p>]]></description></item><item><title>UMLet</title><link>https://blog.emecas.net/posts/2020-04-18-umlet/</link><pubDate>Sat, 18 Apr 2020 18:15:58 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-04-18-umlet/</guid><description><![CDATA[<p>UMLet<br>
+Free UML Tool for Fast UML Diagrams<br>
+<a href="https://www.umlet.com/" target="_blank" rel="noopener noreffer ">https://www.umlet.com/</a><br>
+UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, build sequence and activity diagrams from plain text, export diagrams to eps, pdf, jpg, svg, and clipboard, share diagrams using Eclipse, and create new, custom UML elements. UMLet runs stand-alone or as Eclipse plug-in on Windows, OS X and Linux.</p>
+<p>Also, check out our other tools, especially our new web-based UMLet, called UMLetino.</p>]]></description></item></channel></rss>

@@ -8,4 +8,13 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 C repository by microsoft, created in 2019, with 140,851 stars and 8,727 forks. License: MIT. Starred on 2020-08-24.<br>
 <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/PowerToys</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-08-24: <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">microsoft/PowerToys</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-08-24: <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">microsoft/PowerToys</a>.</em></p>]]></description></item><item><title>Handle</title><link>https://blog.emecas.net/posts/2019-05-15-handle/</link><pubDate>Wed, 15 May 2019 14:51:54 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-15-handle/</guid><description><![CDATA[<p>Handle<br>
+<a href="https://docs.microsoft.com/en-us/sysinternals/downloads/handle" target="_blank" rel="noopener noreffer ">https://docs.microsoft.com/en-us/sysinternals/downloads/handle</a><br>
+Ever wondered which program has a particular file or directory open? Now you can find out. Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.</p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/af26d65855b91950a8013cd86c5cc872e80eee9d" target="_blank" rel="noopener noreffer "><code>af26d65</code></a> in My-Notes.</em></p>]]></description></item><item><title>umiddelb/armhf</title><link>https://blog.emecas.net/posts/2017-05-29-umiddelb-armhf/</link><pubDate>Mon, 29 May 2017 15:55:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-05-29-umiddelb-armhf/</guid><description><![CDATA[<p>umiddelb/armhf<br>
+interesting stuff about arm devices (Utilite, SolidRun, Odroid)<br>
+Shell repository by umiddelb, created in 2014, with 733 stars and 113 forks. Starred on 2017-05-29.<br>
+<a href="https://github.com/umiddelb/armhf" target="_blank" rel="noopener noreffer ">https://github.com/umiddelb/armhf</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-05-29: <a href="https://github.com/umiddelb/armhf" target="_blank" rel="noopener noreffer ">umiddelb/armhf</a>.</em></p>]]></description></item></channel></rss>

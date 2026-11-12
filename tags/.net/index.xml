@@ -1,4 +1,4 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>.NET - Tag - My Notes</title><link>https://blog.emecas.net/tags/.net/</link><description>.NET - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Jun 2021 20:11:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/.net/" rel="self" type="application/rss+xml"/><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>.Net - Tag - My Notes</title><link>https://blog.emecas.net/tags/.net/</link><description>.Net - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Jun 2021 20:11:49 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/.net/" rel="self" type="application/rss+xml"/><item><title>Playwright</title><link>https://blog.emecas.net/posts/2021-06-10-playwright/</link><pubDate>Thu, 10 Jun 2021 20:11:49 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-10-playwright/</guid><description><![CDATA[<p>Playwright<br>
 Playwright enables reliable end-to-end testing for modern web apps.<br>
 <a href="https://playwright.dev" target="_blank" rel="noopener noreffer ">https://playwright.dev</a></p>
 <p><a href="https://github.com/microsoft/playwright" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/playwright</a></p>
@@ -55,7 +55,18 @@ nameof Expression<br>
 Primary constructor<br>
 Await in catch block<br>
 Exception Filter<br>
-String Interpolation</p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
+String Interpolation</p>]]></description></item><item><title>devlooped/moq</title><link>https://blog.emecas.net/posts/2017-07-03-devlooped-moq/</link><pubDate>Mon, 03 Jul 2017 15:49:47 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-03-devlooped-moq/</guid><description><![CDATA[<p>devlooped/moq<br>
+The most popular and friendly mocking framework for .NET<br>
+C# repository by devlooped, created in 2012, with 6,409 stars and 831 forks. License: MIT. Starred on 2017-07-03.<br>
+<a href="https://github.com/devlooped/moq" target="_blank" rel="noopener noreffer ">https://github.com/devlooped/moq</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-07-03: <a href="https://github.com/devlooped/moq" target="_blank" rel="noopener noreffer ">devlooped/moq</a>.</em></p>]]></description></item><item><title>restsharp/RestSharp</title><link>https://blog.emecas.net/posts/2017-06-29-restsharp-restsharp/</link><pubDate>Thu, 29 Jun 2017 18:57:28 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-06-29-restsharp-restsharp/</guid><description><![CDATA[<p>restsharp/RestSharp<br>
+Simple REST and HTTP API Client for .NET<br>
+C# repository by restsharp, created in 2009, with 9,812 stars and 2,295 forks. License: Apache-2.0. Starred on 2017-06-29.<br>
+Homepage: <a href="https://restsharp.dev" target="_blank" rel="noopener noreffer ">https://restsharp.dev</a><br>
+<a href="https://github.com/restsharp/RestSharp" target="_blank" rel="noopener noreffer ">https://github.com/restsharp/RestSharp</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2017-06-29: <a href="https://github.com/restsharp/RestSharp" target="_blank" rel="noopener noreffer ">restsharp/RestSharp</a>.</em></p>]]></description></item><item><title>PowerShell</title><link>https://blog.emecas.net/posts/2013-05-07-powershell/</link><pubDate>Tue, 07 May 2013 14:29:14 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-05-07-powershell/</guid><description><![CDATA[<p>PowerShell Quick Reference</p>
 <p>Windows PowerShell is Microsoft&rsquo;s task automation framework, consisting of a command-line shell and<br>
 associated scripting language built on .NET Framework.<br>
 PowerShell provides full access to COM and WMI, enabling administrators to perform administrative tasks on both<br>

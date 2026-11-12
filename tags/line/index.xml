@@ -37,7 +37,17 @@ HTML repository by jeroenjanssens, created in 2013, with 3,978 stars and 765 for
 Homepage: <a href="https://datascienceatthecommandline.com" target="_blank" rel="noopener noreffer ">https://datascienceatthecommandline.com</a><br>
 <a href="https://github.com/jeroenjanssens/data-science-at-the-command-line" target="_blank" rel="noopener noreffer ">https://github.com/jeroenjanssens/data-science-at-the-command-line</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2017-05-03: <a href="https://github.com/jeroenjanssens/data-science-at-the-command-line" target="_blank" rel="noopener noreffer ">jeroenjanssens/data-science-at-the-command-line</a>.</em></p>]]></description></item><item><title>tomcatmanager/tomcatmanager</title><link>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</link><pubDate>Thu, 21 Nov 2013 15:23:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</guid><description><![CDATA[<p>tomcatmanager/tomcatmanager<br>
+<p><em>Source: starred on GitHub on 2017-05-03: <a href="https://github.com/jeroenjanssens/data-science-at-the-command-line" target="_blank" rel="noopener noreffer ">jeroenjanssens/data-science-at-the-command-line</a>.</em></p>]]></description></item><item><title>WALLWATCHER - IntelliJ IDEA Code lines</title><link>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</link><pubDate>Tue, 18 Feb 2014 20:43:52 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2014-02-18-wallwatcher-intellij-idea-code-lines/</guid><description><![CDATA[<p>WALLWATCHER<br>
+Collect, View, and Analyze Router Logs<br>
+<a href="http://www.wallwatcher1.com" target="_blank" rel="noopener noreffer ">http://www.wallwatcher1.com</a><br>
+Version 3.3.37 (Final)	 January 1, 2011</p>
+<p>Ref: SO <a href="http://stackoverflow.com/review/first-posts/4082993" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/review/first-posts/4082993</a></p>
+<p>How to count lines of Java code using IntelliJ IDEA?<br>
+ref: SO <a href="http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3435581/how-to-count-lines-of-java-code-using-intellij-idea</a></p>
+<p>Command line -&gt;&gt;  find . -type f -name &lsquo;*.java&rsquo; | xargs cat | wc -l<br>
+Plugin -&gt;&gt; <a href="http://plugins.jetbrains.com/plugin/?idea&amp;id=4509" target="_blank" rel="noopener noreffer ">http://plugins.jetbrains.com/plugin/?idea&id=4509</a></p>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a1352a5f36e98808d172fbb54d02563f39258d1a" target="_blank" rel="noopener noreffer "><code>a1352a5</code></a> in My-Notes.</em></p>]]></description></item><item><title>tomcatmanager/tomcatmanager</title><link>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</link><pubDate>Thu, 21 Nov 2013 15:23:49 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-21-tomcatmanager-tomcatmanager/</guid><description><![CDATA[<p>tomcatmanager/tomcatmanager<br>
 A command line tool and python library for managing a tomcat server<br>
 Python repository by tomcatmanager, created in 2013, with 116 stars and 33 forks. License: MIT. Starred on 2013-11-21.<br>
 <a href="https://github.com/tomcatmanager/tomcatmanager" target="_blank" rel="noopener noreffer ">https://github.com/tomcatmanager/tomcatmanager</a></p>

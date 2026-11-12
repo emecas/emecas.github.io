@@ -1,6 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Gpus - Tag - My Notes</title><link>https://blog.emecas.net/tags/gpus/</link><description>Gpus - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 29 Feb 2020 05:17:00 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/gpus/" rel="self" type="application/rss+xml"/><item><title>NVIDIA/nvidia-docker</title><link>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</link><pubDate>Sat, 29 Feb 2020 05:17:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-nvidia-nvidia-docker/</guid><description><![CDATA[<p>NVIDIA/nvidia-docker<br>
-Build and run Docker containers leveraging NVIDIA GPUs<br>
-Repository by NVIDIA, created in 2015, with 17,622 stars and 2,052 forks. License: Apache-2.0. Archived by its owner. Starred on 2020-02-29.<br>
-<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-02-29: <a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">NVIDIA/nvidia-docker</a>.</em></p>]]></description></item></channel></rss>
