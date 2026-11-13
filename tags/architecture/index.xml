@@ -10,7 +10,12 @@ TypeScript repository by nanoapi-io, created in 2022, with 324 stars and 13 fork
 Homepage: <a href="https://nanoapi.io" target="_blank" rel="noopener noreffer ">https://nanoapi.io</a><br>
 <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">https://github.com/nanoapi-io/napi</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-10-30: <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">nanoapi-io/napi</a>.</em></p>]]></description></item><item><title>adoble/adr-j</title><link>https://blog.emecas.net/posts/2024-06-13-adoble-adr-j/</link><pubDate>Thu, 13 Jun 2024 00:26:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-13-adoble-adr-j/</guid><description><![CDATA[<p>adoble/adr-j<br>
+<p><em>Source: starred on GitHub on 2024-10-30: <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">nanoapi-io/napi</a>.</em></p>]]></description></item><item><title>MicroProfile Booth Experience at DevNexus 2024</title><link>https://blog.emecas.net/posts/2024-09-05-microprofile-booth-experience-at-devnexus-2024/</link><pubDate>Thu, 05 Sep 2024 23:01:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-09-05-microprofile-booth-experience-at-devnexus-2024/</guid><description><![CDATA[<p>MicroProfile Booth Experience at DevNexus 2024<br>
+I&rsquo;m currently serving as the Committer Representative for the MicroProfile Working Group (MPWG). At…<br>
+Article on dev.to, published on 2024-09-05, 6 min read. Tags: #development, #community, #architecture, #career.<br>
+Read it on dev.to: <a href="https://dev.to/emecas/microprofile-booth-experience-at-devnexus-2024-3jm4" target="_blank" rel="noopener noreffer ">https://dev.to/emecas/microprofile-booth-experience-at-devnexus-2024-3jm4</a></p>
+<hr>
+<p><em>Source: article on dev.to, published on 2024-09-05: <a href="https://dev.to/emecas/microprofile-booth-experience-at-devnexus-2024-3jm4" target="_blank" rel="noopener noreffer ">MicroProfile Booth Experience at DevNexus 2024</a>.</em></p>]]></description></item><item><title>adoble/adr-j</title><link>https://blog.emecas.net/posts/2024-06-13-adoble-adr-j/</link><pubDate>Thu, 13 Jun 2024 00:26:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-13-adoble-adr-j/</guid><description><![CDATA[<p>adoble/adr-j<br>
 Java based command-line tool for working with Architecture Decision Records<br>
 Java repository by adoble, created in 2017, with 70 stars and 20 forks. License: MIT. Starred on 2024-06-13.<br>
 <a href="https://github.com/adoble/adr-j" target="_blank" rel="noopener noreffer ">https://github.com/adoble/adr-j</a></p>
@@ -41,7 +46,4 @@ Repository by rohitbhardwaj, created in 2024, with 12 stars and 8 forks. Starred
 <p>Issue #118 in emecas/commitit, open, opened on 2023-04-24.<br>
 <a href="https://github.com/emecas/commitit/issues/118" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/118</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/118" target="_blank" rel="noopener noreffer ">#118</a> in emecas/commitit, opened on 2023-04-24.</em></p>]]></description></item><item><title>zipkin</title><link>https://blog.emecas.net/posts/2020-10-02-zipkin/</link><pubDate>Fri, 02 Oct 2020 22:28:43 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-zipkin/</guid><description><![CDATA[<p>Zipkin<br>
-<a href="https://zipkin.io/" target="_blank" rel="noopener noreffer ">https://zipkin.io/</a></p>
-<p>Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.</p>
-<p>If you have a trace ID in a log file, you can jump directly to it. Otherwise, you can query based on attributes such as service, operation name, tags and duration. Some interesting data will be summarized for you, such as the percentage of time spent in a service, and whether or not operations failed.</p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/118" target="_blank" rel="noopener noreffer ">#118</a> in emecas/commitit, opened on 2023-04-24.</em></p>]]></description></item></channel></rss>
