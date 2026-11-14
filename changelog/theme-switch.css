@@ -1,0 +1,123 @@
+/* Light/dark switch for the changelog page (theme-switch.js). The theme itself only follows the
+   system setting (prefers-color-scheme); a choice made with the button, or on the notes site, sets
+   data-theme on <html> and wins over it. The colors are copied from the theme's changelog.css. */
+
+:root[data-theme="light"] {
+    --color-primary: #374151;
+    --color-text: #1f2937;
+    --color-text-light: #9ca3af;
+    --color-border: #e5e7eb;
+    --color-bg: #fff;
+
+    --color-code-bg: rgba(27, 31, 35, 0.1);
+    --color-code-text: inherit;
+
+    --tag-added: #2fbe8a;
+    --tag-changed: #e2ac20;
+    --tag-deprecated: #909dad;
+    --tag-removed: #df6666;
+    --tag-fixed: #32aadf;
+    --tag-security: #e28336;
+    --tag-performance: #dc67a4;
+    --tag-self-hosted: #5a687d;
+    --tag-internal: #967de1;
+}
+
+:root[data-theme="light"] .tag-changed,
+:root[data-theme="light"] .tag-added,
+:root[data-theme="light"] .tag-fixed,
+:root[data-theme="light"] .badge-warning,
+:root[data-theme="light"] .pagination .page-item.active a {
+    color: #fff;
+}
+
+:root[data-theme="dark"] {
+    --color-primary: #a7aaaf;
+    --color-text: #b7b9bc;
+    --color-text-light: #565b66;
+    --color-border: #2c3441;
+    --color-bg: #0e131f;
+
+    --color-code-bg: #4b5563;
+    --color-code-text: #f9fafb;
+
+    --tag-added: #26986e;
+    --tag-changed: #b58a1a;
+    --tag-deprecated: #70757e;
+    --tag-removed: #b25151;
+    --tag-fixed: #2888b2;
+    --tag-security: #b5692b;
+    --tag-performance: #b05283;
+    --tag-self-hosted: #6a7584;
+    --tag-internal: #7964b4;
+}
+
+:root[data-theme="dark"] .tag-changed,
+:root[data-theme="dark"] .tag-added,
+:root[data-theme="dark"] .tag-fixed,
+:root[data-theme="dark"] .badge-warning,
+:root[data-theme="dark"] .pagination .page-item.active a {
+    color: #111827;
+}
+
+:root { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { color-scheme: dark; }
+}
+
+/* The button: top right, a moon in light mode (switch to dark), a sun in dark mode. */
+.theme-switch {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    padding: 0;
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    background: var(--color-bg);
+    color: var(--color-primary);
+    cursor: pointer;
+}
+
+.theme-switch:hover,
+.theme-switch:focus-visible {
+    color: var(--color-text);
+    border-color: var(--color-text-light);
+}
+
+.theme-switch svg {
+    width: 1.1rem;
+    height: 1.1rem;
+}
+
+.theme-switch .icon-sun { display: none; }
+
+:root[data-theme="dark"] .theme-switch .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-switch .icon-moon { display: none; }
+
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .theme-switch .icon-sun { display: block; }
+    :root:not([data-theme="light"]) .theme-switch .icon-moon { display: none; }
+}
+
+/* Phones: keep the title clear of the button (the theme's title is also too wide to fit there). */
+@media (max-width: 600px) {
+    header.section {
+        padding-left: 2.75rem;
+        padding-right: 2.75rem;
+    }
+
+    header.section h1 {
+        font-size: 1.5rem;
+    }
+
+    .theme-switch {
+        top: .75rem;
+        right: .75rem;
+    }
+}
