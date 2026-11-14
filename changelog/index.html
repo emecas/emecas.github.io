@@ -1,0 +1,64 @@
+<!doctype html><html xmlns=http://www.w3.org/1999/xhtml xml:lang=en lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>My Notes · Changelog</title><link rel=stylesheet href=/changelog/changelog.min.css><meta name=generator content="Hugo 0.169.0"></head><body><header class="section text-center"><h1>My Notes · Changelog</h1></header><main class=content><div class=content-container><article class=release-entry><div class=release-meta><span class=version>v0.13.0</span>
+<span class=date>published 2026-11-14 11:51</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Charts of the gaps between notes, then <code>docs/reports/note-gaps.html</code>: a report with four interactive Plotly charts, data tables and light/dark mode, and <code>gap_report.py</code> documented. (#26)</li><li><span class="tag tag-added">added</span>
+Changelog page: a small separate Hugo site in <code>changelog-site/</code> with hugo-changelog-theme (a submodule), built from <code>CHANGELOG.md</code> by <code>scripts/changelog_site.py</code>, with releases newest first and Unreleased on top. (#28)</li><li><span class="tag tag-added">added</span>
+Release rules agreed and written in <code>RELEASING.md</code>: a release is a publish to blog.emecas.net, marked by an annotated SemVer tag on the published commit; the 15 publishes so far are tagged <code>v0.1.0</code> to <code>v0.12.1</code> (local). (#28)</li><li><span class="tag tag-added">added</span>
+Release and Type columns added to this table: Release filled from git and refillable, Type optional to override the guessed labels. Not published yet. (#28)</li><li><span class="tag tag-added">added</span>
+The changelog page documented: a Changelog page section in <code>site/README.md</code> (what it is, preview, releases, the Release and Type columns, publish branch, template) and a <code>changelog_site.py</code> section in <code>scripts/README.md</code> (usage, the table it reads, how Release is worked out from git, output). (#29)</li><li><span class="tag tag-added">added</span>
+A <code>TODO.md</code> started next to this changelog: open work in Next, Later and Ideas, each item with where it lives and what it waits on; done items get checked off and a row here. (#30)</li><li><span class="tag tag-added">added</span>
+Publishing the changelog page prepared: <code>site/tools/publish.sh</code> also builds <code>changelog-site/</code> into <code>emecas.github.io/changelog/</code>, and a Changelog link was added to the notes site menu. (#31)</li><li><span class="tag tag-added">added</span>
+<code>RELEASE=vX.Y.Z</code> (<code>changelog_site.py --as-release</code>) builds the page as the release being published, so its changes show under the new version right away; <code>RELEASING.md</code> updated to pick the version before publishing. (#31)</li><li><span class="tag tag-changed">changed</span>
+Publish branch switched to <code>changelog-page</code>, and the whole publish checked with a dry run into a scratch folder. (#31)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.12.1</span>
+<span class=date>published 2026-11-12 23:25</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Blog Notes: <code>new_note.py</code> (with <code>--date</code> for backdated or scheduled posts) and <code>check_notes.py</code> to write posts directly in Markdown; drafts kept out of the chip counts; renamed from &ldquo;Original Notes&rdquo;. (#22)</li><li><span class="tag tag-added">added</span>
+Options and costs for comments without a GitHub account; the serverless AWS design written up in <code>docs/designs/anonymous-comments.md</code> and referenced from the site README. Not built yet. (#23)</li><li><span class="tag tag-changed">changed</span>
+Social card redrawn without the out-of-date note count. (#24)</li><li><span class="tag tag-security">security</span>
+&ldquo;Enforce HTTPS&rdquo; turned on for <code>emecas.github.io</code>: every <code>http://</code> address now redirects (301) to <code>https://</code>. No commit; the setting lives on GitHub. (#25)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.12.0</span>
+<span class=date>published 2026-11-12 20:42</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+<code>comments_titles.py</code>: discussions renamed after their note, with a link to it, safely because giscus finds threads by fingerprint, not title; tested on the test discussion. (#20)</li><li><span class="tag tag-added">added</span>
+Article Notes: a short reference post for each article published on dev.to (through its public API) or on any other site listed in a file; the articles stay where they were published. (#21)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.11.0</span>
+<span class=date>published 2026-11-12 17:48</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+giscus comments as GitHub Discussions in a &ldquo;Testing Comments&rdquo; category, each thread keyed by a permanent <code>commentId</code> per post rather than its URL. (#18)</li><li><span class="tag tag-added">added</span>
+Discussions turned on and the giscus app installed. Published and tested with a real comment. (#18)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.10.0</span>
+<span class=date>published 2026-11-12 00:31</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+282 reviewed tag aliases (spelling, plural, typo, synonym) applied to posts and Stats, so 3,571 tags became 3,289. (#17)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.9.0</span>
+<span class=date>published 2026-11-12 00:14</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Tags page as a word cloud of the 1,076 tags used on 2 or more notes, sized by use; intro line and &ldquo;All&rdquo; removed from the title. (#16)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.8.0</span>
+<span class=date>published 2026-11-11 23:57</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Home page chips per source (<code>sources</code> taxonomy); the &ldquo;All&rdquo; chip removed; renamed to Commit Notes, Star Notes and Issue Notes. (#15)</li><li><span class="tag tag-added">added</span>
+README documented. (#15)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.7.0</span>
+<span class=date>published 2026-11-11 21:56</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+The 213 issues of emecas/commitit (with their 40 comments) as notes: export script, hand-picked categories, workflow labels kept out of the tags, an issues section on Stats. (#14)</li><li><span class="tag tag-added">added</span>
+Export script documented. (#14)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.6.0</span>
+<span class=date>published 2026-11-11 21:22</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Every star as a note scoring 5/5, a 31st category &ldquo;Starred Repo&rdquo; plus language and content categories, star stats and the year lists on the Stats page. (#13)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.5.0</span>
+<span class=date>published 2026-11-11 20:32</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+<code>scripts/starred_to_md.sh</code>: 667 GitHub stars exported in pages of 100 to Markdown plus raw JSON; data in <code>stars-data/</code> and the script documented. (#11)</li><li><span class="tag tag-added">added</span>
+A separate Stars page listing the starred repositories by year with a languages chart. Published, later replaced by row 13. (#12)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.4.0</span>
+<span class=date>published 2026-11-10 21:56</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Footer &ldquo;since 2013&rdquo;; social preview card and SEO images; per-post descriptions for search results. (#10)</li><li><span class="tag tag-fixed">fixed</span>
+Fixed: the site description had fallen under the author settings, and the circular icons had black corners. (#10)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.3.2</span>
+<span class=date>published 2026-11-10 21:45</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Favicons and app icons generated from the avatar; <code>site.webmanifest</code>; Safari pinned-tab link turned off. (#9)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.3.1</span>
+<span class=date>published 2026-11-10 21:32</span></div><div class=release-changes><ul><li><span class="tag tag-fixed">fixed</span>
+Bug fixes from a screenshot: categories containing &ldquo;&&rdquo; showed empty links (renamed to use &ldquo;and&rdquo;), and the theme&rsquo;s placeholder author &ldquo;xxxx&rdquo;. (#8)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.3.0</span>
+<span class=date>published 2026-11-10 21:21</span></div><div class=release-changes><ul><li><span class="tag tag-changed">changed</span>
+Site search switched from Lunr to Fuse.js. (#7)</li><li><span class="tag tag-added">added</span>
+Avatar, GitHub/GitLab/RSS links, a source-commit link on every post, and a Stats page with ECharts. (#7)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.2.0</span>
+<span class=date>published 2026-11-10 20:34</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Quality column: 5 checks (title, link, description, own tags, clean) graded per note. (#5)</li><li><span class="tag tag-added">added</span>
+Chars column with each note&rsquo;s length. (#5)</li><li><span class="tag tag-changed">changed</span>
+Post generator made to ignore the extra columns. (#5)</li><li><span class="tag tag-added">added</span>
+30 subject categories, 1–3 per note, picked by hand for 534 notes; Categories column. (#6)</li><li><span class="tag tag-added">added</span>
+Categories on posts; <code>site/README.md</code> build and publish guide. (#6)</li></ul></div></article><article class=release-entry><div class=release-meta><span class=version>v0.1.0</span>
+<span class=date>published 2026-11-09 23:18</span></div><div class=release-changes><ul><li><span class="tag tag-added">added</span>
+Brainstorm (EGM) on adding tags to untagged commits: decisions recorded in <code>concepts_brief.md</code>. (#1)</li><li><span class="tag tag-added">added</span>
+<code>COMMIT_INDEX.md</code> created as a frozen snapshot of 551 commits, with a Kind for each row (note, tagged, multi-note, edit…). (#1)</li><li><span class="tag tag-added">added</span>
+Suggested Tags column for the 179 untagged notes, generated from the text each commit added to <code>Index.txt</code> and checked against it; a Review Queue. (#2)</li><li><span class="tag tag-added">added</span>
+Suggested tags for the 328 already-tagged notes, generated without reading their own tags. (#3)</li><li><span class="tag tag-changed">changed</span>
+Scripts moved to <code>tagging-process/</code>. (#3)</li><li><span class="tag tag-changed">changed</span>
+Branch renamed to <code>tagging</code>; the session&rsquo;s commits reworded to start with <code>[chore]</code>; no co-author trailer. (#3)</li><li><span class="tag tag-added">added</span>
+Hugo extended built from source with Go, Dart Sass installed, LoveIt theme as a submodule in <code>site/</code>. (#4)</li><li><span class="tag tag-added">added</span>
+<code>index_to_posts.py</code> turns each note into a post with its date and both tag columns, without duplicates. (#4)</li><li><span class="tag tag-added">added</span>
+<code>publish.sh</code> builds into <code>emecas.github.io</code>; the old blog replaced by the notes site and published. (#4)</li><li><span class="tag tag-added">added</span>
+<code>~/go/bin</code> added to <code>PATH</code>. (#4)</li></ul></div></article><div class="section centered"></div></div></main></body></html>
