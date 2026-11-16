@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Java and JVM - Category - My Notes</title><link>https://blog.emecas.net/categories/java-and-jvm/</link><description>Java and JVM - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Sep 2026 17:33:17 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/java-and-jvm/" rel="self" type="application/rss+xml"/><item><title>ClawRunr/JavaClaw</title><link>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</link><pubDate>Tue, 15 Sep 2026 17:33:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</guid><description><![CDATA[<p>ClawRunr/JavaClaw<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Java and JVM - Category - My Notes</title><link>https://blog.emecas.net/categories/java-and-jvm/</link><description>Java and JVM - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 Nov 2026 16:54:38 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/java-and-jvm/" rel="self" type="application/rss+xml"/><item><title>ai-ml-workshops/EventDriven_AgenticArchitecture</title><link>https://blog.emecas.net/posts/2026-11-13-ai-ml-workshops-eventdriven-agenticarchitecture/</link><pubDate>Fri, 13 Nov 2026 16:54:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-13-ai-ml-workshops-eventdriven-agenticarchitecture/</guid><description><![CDATA[<p>ai-ml-workshops/EventDriven_AgenticArchitecture<br>
+Basic example of a simple data pipeline<br>
+Java repository by ai-ml-workshops, created in 2026, with 6 stars and 8 forks. Starred on 2026-11-13.<br>
+<a href="https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture" target="_blank" rel="noopener noreffer ">https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture" target="_blank" rel="noopener noreffer ">ai-ml-workshops/EventDriven_AgenticArchitecture</a>.</em></p>]]></description></item><item><title>ClawRunr/JavaClaw</title><link>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</link><pubDate>Tue, 15 Sep 2026 17:33:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</guid><description><![CDATA[<p>ClawRunr/JavaClaw<br>
 JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr<br>
 Java repository by ClawRunr, created in 2026, with 759 stars and 169 forks. License: LGPL-3.0. Starred on 2026-09-15.<br>
 Homepage: <a href="https://javaclaw.io/" target="_blank" rel="noopener noreffer ">https://javaclaw.io/</a><br>
@@ -47,16 +52,4 @@ Homepage: <a href="https://floci.io/floci/" target="_blank" rel="noopener noreff
 <p>Issue #192 in emecas/commitit, open, opened on 2025-07-20.<br>
 <a href="https://github.com/emecas/commitit/issues/192" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/192</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/192" target="_blank" rel="noopener noreffer ">#192</a> in emecas/commitit, opened on 2025-07-20.</em></p>]]></description></item><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
-Java native API Gateway for service proxy, protocol conversion and API governance.<br>
-<a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
-<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
-<p>Feature List</p>
-<p>- Language: provides .NET, Python, Go, Java client for API register<br>
-- Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>
-- Security: Sign, OAuth 2.0, JSON Web Tokens, WAF plugin<br>
-- API governance: Request, response, parameter mapping, Hystrix, RateLimiter plugin<br>
-- Observability: Tracing, metrics, logging plugin<br>
-- Extensions: Plugin hot-swapping, dynamic loading<br>
-- Dashboard: Dynamic traffic control, visual backend for user menu permissions<br>
-- Cluster: NGINX, Docker, Kubernetes</p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/192" target="_blank" rel="noopener noreffer ">#192</a> in emecas/commitit, opened on 2025-07-20.</em></p>]]></description></item></channel></rss>

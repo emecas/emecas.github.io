@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Language - Tag - My Notes</title><link>https://blog.emecas.net/tags/language/</link><description>Language - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Apr 2026 17:14:38 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/language/" rel="self" type="application/rss+xml"/><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Language - Tag - My Notes</title><link>https://blog.emecas.net/tags/language/</link><description>Language - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/language/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+The Goose Programming Language<br>
+C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
+<a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-14: <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">aardappel/goose</a>.</em></p>]]></description></item><item><title>Mise</title><link>https://blog.emecas.net/posts/2026-04-29-mise/</link><pubDate>Wed, 29 Apr 2026 17:14:38 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-29-mise/</guid><description><![CDATA[<p>Mise<br>
 <a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">https://mise.jdx.dev/</a><br>
 Your dev env,already prepped. One tool to manage languages, env vars, and tasks per project, reproducibly.</p>
 <p>Everything in its place, before you code.<br>
@@ -51,9 +56,4 @@ Highlight for the Asciidoc language (gedit and notepad++)<br>
 Shell repository by edusantana, created in 2013, with 74 stars and 12 forks. License: MIT. Starred on 2019-09-07.<br>
 <a href="https://github.com/edusantana/asciidoc-highlight" target="_blank" rel="noopener noreffer ">https://github.com/edusantana/asciidoc-highlight</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-09-07: <a href="https://github.com/edusantana/asciidoc-highlight" target="_blank" rel="noopener noreffer ">edusantana/asciidoc-highlight</a>.</em></p>]]></description></item><item><title>apache/incubator-taverna-language</title><link>https://blog.emecas.net/posts/2019-05-23-apache-incubator-taverna-language/</link><pubDate>Thu, 23 May 2019 19:39:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-05-23-apache-incubator-taverna-language/</guid><description><![CDATA[<p>apache/incubator-taverna-language<br>
-Mirror of Apache Taverna Language (incubating)<br>
-Java repository by apache, created in 2015, with 22 stars and 24 forks. License: Apache-2.0. Archived by its owner. Starred on 2019-05-23.<br>
-<a href="https://github.com/apache/incubator-taverna-language" target="_blank" rel="noopener noreffer ">https://github.com/apache/incubator-taverna-language</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-05-23: <a href="https://github.com/apache/incubator-taverna-language" target="_blank" rel="noopener noreffer ">apache/incubator-taverna-language</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-09-07: <a href="https://github.com/edusantana/asciidoc-highlight" target="_blank" rel="noopener noreffer ">edusantana/asciidoc-highlight</a>.</em></p>]]></description></item></channel></rss>

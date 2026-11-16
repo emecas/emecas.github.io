@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming - Tag - My Notes</title><link>https://blog.emecas.net/tags/programming/</link><description>Programming - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 11 Apr 2024 15:52:52 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/programming/" rel="self" type="application/rss+xml"/><item><title>Mojo 🔥: Programming language for all of AI</title><link>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</link><pubDate>Thu, 11 Apr 2024 15:52:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</guid><description><![CDATA[<p>Mojo 🔥: Programming language for all of AI<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming - Tag - My Notes</title><link>https://blog.emecas.net/tags/programming/</link><description>Programming - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/programming/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+The Goose Programming Language<br>
+C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
+<a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-14: <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">aardappel/goose</a>.</em></p>]]></description></item><item><title>Mojo 🔥: Programming language for all of AI</title><link>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</link><pubDate>Thu, 11 Apr 2024 15:52:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-11-mojo-programming-language-for-all-of-ai/</guid><description><![CDATA[<p>Mojo 🔥: Programming language for all of AI<br>
 <a href="https://www.modular.com/max/mojo" target="_blank" rel="noopener noreffer ">https://www.modular.com/max/mojo</a></p>
 <p>MAX Platform<br>
 Mojo<br>
@@ -53,9 +58,4 @@ Generic programming for Scala<br>
 Scala repository by milessabin, created in 2011, with 3,400 stars and 519 forks. License: Apache-2.0. Starred on 2019-03-26.<br>
 <a href="https://github.com/milessabin/shapeless" target="_blank" rel="noopener noreffer ">https://github.com/milessabin/shapeless</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/milessabin/shapeless" target="_blank" rel="noopener noreffer ">milessabin/shapeless</a>.</em></p>]]></description></item><item><title>Objections Are Goals</title><link>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</link><pubDate>Tue, 29 Jan 2019 19:54:54 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-29-objections-are-goals/</guid><description><![CDATA[<p>Objections Are Goals<br>
-<a href="https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069" target="_blank" rel="noopener noreffer ">https://medium.com/@kentbeck_7670/objections-are-goals-9c9c2f27069</a><br>
-By: Kent BeckF<br>
-Oct 9, 2018</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/14638572f5df19888f9e6c0ca02641b70fff285f" target="_blank" rel="noopener noreffer "><code>1463857</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/milessabin/shapeless" target="_blank" rel="noopener noreffer ">milessabin/shapeless</a>.</em></p>]]></description></item></channel></rss>

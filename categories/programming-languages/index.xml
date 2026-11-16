@@ -1,4 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Languages - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-languages/</link><description>Programming Languages - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Oct 2026 01:29:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-languages/" rel="self" type="application/rss+xml"/><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Languages - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-languages/</link><description>Programming Languages - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-languages/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+The Goose Programming Language<br>
+C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
+<a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-14: <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">aardappel/goose</a>.</em></p>]]></description></item><item><title>danielecolon/Claude</title><link>https://blog.emecas.net/posts/2026-11-13-danielecolon-claude/</link><pubDate>Fri, 13 Nov 2026 14:50:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-13-danielecolon-claude/</guid><description><![CDATA[<p>danielecolon/Claude<br>
+Introduction to the core concepts of Claude, including personalization, workspace, agents, integration, and workflows.<br>
+C# repository by danielecolon, created in 2026, with 2 stars and 2 forks. Starred on 2026-11-13.<br>
+<a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">https://github.com/danielecolon/Claude</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">danielecolon/Claude</a>.</em></p>]]></description></item><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
 Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.<br>
 Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks. License: MIT. Starred on 2026-10-10.<br>
 Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
@@ -41,15 +51,4 @@ PHP repository by kanboard, created in 2014, with 9,953 stars and 2,024 forks. L
 Homepage: <a href="https://kanboard.org" target="_blank" rel="noopener noreffer ">https://kanboard.org</a><br>
 <a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">https://github.com/kanboard/kanboard</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-02-19: <a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">kanboard/kanboard</a>.</em></p>]]></description></item><item><title>Python has a friend in Rust | InfoWorld</title><link>https://blog.emecas.net/posts/2025-10-25-python-has-a-friend-in-rust-infoworld/</link><pubDate>Sat, 25 Oct 2025 14:54:18 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-10-25-python-has-a-friend-in-rust-infoworld/</guid><description><![CDATA[<p>Python has a friend in Rust | InfoWorld<br>
-<a href="https://www.infoworld.com/article/4078252/python-has-a-friend-in-rust.html" target="_blank" rel="noopener noreffer ">https://www.infoworld.com/article/4078252/python-has-a-friend-in-rust.html</a></p>
-<p>Issue #196 in emecas/commitit, open, opened on 2025-10-25.<br>
-<a href="https://github.com/emecas/commitit/issues/196" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/196</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/196" target="_blank" rel="noopener noreffer ">#196</a> in emecas/commitit, opened on 2025-10-25.</em></p>]]></description></item><item><title>Automattic/harper</title><link>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</link><pubDate>Sat, 21 Jun 2025 01:39:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</guid><description><![CDATA[<p>Automattic/harper<br>
-Offline, privacy-first grammar checker. Fast, open-source, Rust-powered<br>
-Rust repository by Automattic, created in 2023, with 17,575 stars and 815 forks. License: Apache-2.0. Starred on 2025-06-21.<br>
-Homepage: <a href="https://writewithharper.com" target="_blank" rel="noopener noreffer ">https://writewithharper.com</a><br>
-<a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">https://github.com/Automattic/harper</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">Automattic/harper</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-02-19: <a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">kanboard/kanboard</a>.</em></p>]]></description></item></channel></rss>

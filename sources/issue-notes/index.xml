@@ -1,4 +1,41 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Issue Notes - Source - My Notes</title><link>https://blog.emecas.net/sources/issue-notes/</link><description>Issue Notes - Source - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2026 19:34:59 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/sources/issue-notes/" rel="self" type="application/rss+xml"/><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Issue Notes - Source - My Notes</title><link>https://blog.emecas.net/sources/issue-notes/</link><description>Issue Notes - Source - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Nov 2026 14:09:36 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/sources/issue-notes/" rel="self" type="application/rss+xml"/><item><title>knlb.dev | Resisting Cognitive Surrender</title><link>https://blog.emecas.net/posts/2026-11-15-knlb-dev-resisting-cognitive-surrender/</link><pubDate>Sun, 15 Nov 2026 14:09:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-15-knlb-dev-resisting-cognitive-surrender/</guid><description><![CDATA[<p>knlb.dev | Resisting Cognitive Surrender<br>
+Url: <a href="https://knlb.dev/essays/surrender" target="_blank" rel="noopener noreffer ">https://knlb.dev/essays/surrender</a></p>
+<p>Author: Kunal<br>
+Type: blogpost</p>
+<p>Resisting Cognitive Surrender<br>
+sitemap / essays</p>
+<p>Content:<br>
+Cognitive surrender is seductive<br>
+Why not surrender?<br>
+Solutions<br>
+There are still tradeoffs<br>
+Choose your vibe limit &amp; triage<br>
+Watch out for automation bias<br>
+Force yourself into the loop<br>
+Force comprehensibility<br>
+When you do decide to delegate<br>
+Good design is a force multiplier<br>
+Additional reading</p>
+<p>Related:<br>
+notes/exploratory_programming<br>
+notes/how/engineer/not_engineer<br>
+notes/tools_for_thought<br>
+notes/how/strategy<br>
+notes/procrastination<br>
+notes/positive_intelligence<br>
+notes/software_design<br>
+notes/how/engineer/planning<br>
+notes/writing/approaches<br>
+notes/tech_talks_ideas</p>]]></description></item><item><title>public-radio error</title><link>https://blog.emecas.net/posts/2026-11-13-public-radio-error/</link><pubDate>Fri, 13 Nov 2026 00:27:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-13-public-radio-error/</guid><description><![CDATA[<p>public-radio error<br>
+&lt;img width=&ldquo;1468&rdquo; height=&ldquo;887&rdquo; alt=&ldquo;image&rdquo; src=&quot;<a href="https://github.com/user-attachments/assets/9fc3563a-6dfd-44d0-8e1c-d9c10b69ee23" target="_blank" rel="noopener noreffer ">https://github.com/user-attachments/assets/9fc3563a-6dfd-44d0-8e1c-d9c10b69ee23</a>&quot; /&gt;</p>
+<p>Comment on 2026-11-13:<br>
+```<br>
+(base) emecas@inspiron:~/repos/github/public-radio$ make db<br>
+uv run scripts/create_db.py<br>
+Using CPython 3.14.4 interpreter at: /usr/bin/python3<br>
+Creating virtual environment at: .venv<br>
+Installed 37 packages in 1.71s                                                                                                                           lkp_application_sub_purpose.dat: 70 rows -&gt; table lkp_application_sub_purpose                                                                            lkp_application_purpose.dat: 55 rows -&gt; table lkp_application_purpose                                                                                    application_facility.dat: 1,254,304 rows -&gt; table application_facility                                                                                   lkp_filing_type.dat: 4 rows -&gt; table lkp_filing_type                                                                                                     facility.dat: 181,779 rows -&gt; table facility                                                                                                             license_filing_version.dat: 1,255,332 rows -&gt; table license_filing_version                                                                               application.dat: 1,255,253 rows -&gt; table application                                                                                                     lkp_authorization_type.dat: 6 rows -&gt; table lkp_authorization_type                                                                                       lkp_filing_status.dat: 0 rows -&gt; table lkp_filing_status                                                                                                 Traceback (most recent call last):                                                                                                                         File &ldquo;/home/emecas/repos/github/public-radio/scripts/create_db.py&rdquo;, line 102, in &lt;module&gt;                                                                  con.executescript(                                                                                                                                       ~~~~~~~~~~~~~~~~~^                                                                                                                                           &quot;&quot;&quot;                                                                                                                                                      ^^^                                                                                                                                                  &hellip;&lt;48 lines&gt;&hellip;                                                                                                                                             &quot;&quot;&quot;                                                                                                                                                      ^^^                                                                                                                                                  )                                                                                                                                                        ^                                                                                                                                                    sqlite3.OperationalError: no such table: main.facility_applicant                                                                                         make: *** [Makefile:14: db] Error 1                                                                                                                      (base) emecas@inspiron:~/repos/github/public-radio$                                                                                                      (base) emecas@inspiron:~/repos/github/public-radio$                                                                                                      (base) emecas@inspiron:~/repos/github/public-radio$<br>
+```</p>]]></description></item><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
 <a href="https://github.com/walkinglabs/learn-harness-engineering" target="_blank" rel="noopener noreffer ">https://github.com/walkinglabs/learn-harness-engineering</a></p>
 <p>Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:</p>
 <p>how Claude Code, Codex, DeepSeek build their harness<br>
@@ -47,14 +84,4 @@ really good source for learning harness essentials by doing.</p>
 <p>Issue #210 in emecas/commitit, open, opened on 2026-07-06.<br>
 <a href="https://github.com/emecas/commitit/issues/210" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/210</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/210" target="_blank" rel="noopener noreffer ">#210</a> in emecas/commitit, opened on 2026-07-06.</em></p>]]></description></item><item><title>Kafka is easier to understand when you can break it — Monedula</title><link>https://blog.emecas.net/posts/2026-06-26-kafka-is-easier-to-understand-when-you-can-break-it-monedula/</link><pubDate>Fri, 26 Jun 2026 12:42:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-06-26-kafka-is-easier-to-understand-when-you-can-break-it-monedula/</guid><description><![CDATA[<p>Kafka is easier to understand when you can break it — Monedula<br>
-<a href="https://monedula.dev/blog/kafka-simulator-learn-kafka-by-breaking-it/" target="_blank" rel="noopener noreffer ">https://monedula.dev/blog/kafka-simulator-learn-kafka-by-breaking-it/</a></p>
-<p>Issue #209 in emecas/commitit, open, opened on 2026-06-26.<br>
-<a href="https://github.com/emecas/commitit/issues/209" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/209</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/209" target="_blank" rel="noopener noreffer ">#209</a> in emecas/commitit, opened on 2026-06-26.</em></p>]]></description></item><item><title>Copilot Studio ALM - Know Before You Go</title><link>https://blog.emecas.net/posts/2026-06-13-copilot-studio-alm-know-before-you-go/</link><pubDate>Sat, 13 Jun 2026 04:19:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-06-13-copilot-studio-alm-know-before-you-go/</guid><description><![CDATA[<p>Copilot Studio ALM - Know Before You Go<br>
-<a href="https://community.powerplatform.com/blogs/post/?postid=b6500ba8-af27-f111-8341-002248240f92" target="_blank" rel="noopener noreffer ">https://community.powerplatform.com/blogs/post/?postid=b6500ba8-af27-f111-8341-002248240f92</a></p>
-<p>Issue #208 in emecas/commitit, open, opened on 2026-06-13.<br>
-<a href="https://github.com/emecas/commitit/issues/208" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/208</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/208" target="_blank" rel="noopener noreffer ">#208</a> in emecas/commitit, opened on 2026-06-13.</em></p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/210" target="_blank" rel="noopener noreffer ">#210</a> in emecas/commitit, opened on 2026-07-06.</em></p>]]></description></item></channel></rss>

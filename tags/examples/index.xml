@@ -1,4 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Examples - Tag - My Notes</title><link>https://blog.emecas.net/tags/examples/</link><description>Examples - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 27 Apr 2026 09:07:05 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/examples/" rel="self" type="application/rss+xml"/><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Examples - Tag - My Notes</title><link>https://blog.emecas.net/tags/examples/</link><description>Examples - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 Nov 2026 16:54:38 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/examples/" rel="self" type="application/rss+xml"/><item><title>ai-ml-workshops/EventDriven_AgenticArchitecture</title><link>https://blog.emecas.net/posts/2026-11-13-ai-ml-workshops-eventdriven-agenticarchitecture/</link><pubDate>Fri, 13 Nov 2026 16:54:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-13-ai-ml-workshops-eventdriven-agenticarchitecture/</guid><description><![CDATA[<p>ai-ml-workshops/EventDriven_AgenticArchitecture<br>
+Basic example of a simple data pipeline<br>
+Java repository by ai-ml-workshops, created in 2026, with 6 stars and 8 forks. Starred on 2026-11-13.<br>
+<a href="https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture" target="_blank" rel="noopener noreffer ">https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture" target="_blank" rel="noopener noreffer ">ai-ml-workshops/EventDriven_AgenticArchitecture</a>.</em></p>]]></description></item><item><title>dobi</title><link>https://blog.emecas.net/posts/2026-04-27-dobi/</link><pubDate>Mon, 27 Apr 2026 09:07:05 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-27-dobi/</guid><description><![CDATA[<p>dobi Documentation<br>
 A build automation tool for Docker applications.<br>
 <a href="https://dnephin.github.io/dobi/" target="_blank" rel="noopener noreffer ">https://dnephin.github.io/dobi/</a></p>
 <p>A build automation tool for Docker applications.<br>
@@ -71,9 +76,4 @@ Ruby repository by chefspec, created in 2011, with 820 stars and 331 forks. Lice
 Homepage: <a href="https://chefspec.github.io/chefspec/" target="_blank" rel="noopener noreffer ">https://chefspec.github.io/chefspec/</a><br>
 <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">https://github.com/chefspec/chefspec</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item><item><title>payara/Payara-Examples</title><link>https://blog.emecas.net/posts/2020-09-30-payara-payara-examples/</link><pubDate>Wed, 30 Sep 2020 10:32:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-30-payara-payara-examples/</guid><description><![CDATA[<p>payara/Payara-Examples<br>
-Repository for Example Code to demonstrate Payara specific features<br>
-Java repository by payara, created in 2015, with 147 stars and 168 forks. Starred on 2020-09-30.<br>
-<a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">https://github.com/payara/Payara-Examples</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-09-30: <a href="https://github.com/payara/Payara-Examples" target="_blank" rel="noopener noreffer ">payara/Payara-Examples</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-10-16: <a href="https://github.com/chefspec/chefspec" target="_blank" rel="noopener noreffer ">chefspec/chefspec</a>.</em></p>]]></description></item></channel></rss>

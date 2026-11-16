@@ -1,4 +1,19 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Starred Repo - Category - My Notes</title><link>https://blog.emecas.net/categories/starred-repo/</link><description>Starred Repo - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Oct 2026 01:29:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/starred-repo/" rel="self" type="application/rss+xml"/><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Starred Repo - Category - My Notes</title><link>https://blog.emecas.net/categories/starred-repo/</link><description>Starred Repo - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/starred-repo/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+The Goose Programming Language<br>
+C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
+<a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-14: <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">aardappel/goose</a>.</em></p>]]></description></item><item><title>ai-ml-workshops/EventDriven_AgenticArchitecture</title><link>https://blog.emecas.net/posts/2026-11-13-ai-ml-workshops-eventdriven-agenticarchitecture/</link><pubDate>Fri, 13 Nov 2026 16:54:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-13-ai-ml-workshops-eventdriven-agenticarchitecture/</guid><description><![CDATA[<p>ai-ml-workshops/EventDriven_AgenticArchitecture<br>
+Basic example of a simple data pipeline<br>
+Java repository by ai-ml-workshops, created in 2026, with 6 stars and 8 forks. Starred on 2026-11-13.<br>
+<a href="https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture" target="_blank" rel="noopener noreffer ">https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/ai-ml-workshops/EventDriven_AgenticArchitecture" target="_blank" rel="noopener noreffer ">ai-ml-workshops/EventDriven_AgenticArchitecture</a>.</em></p>]]></description></item><item><title>danielecolon/Claude</title><link>https://blog.emecas.net/posts/2026-11-13-danielecolon-claude/</link><pubDate>Fri, 13 Nov 2026 14:50:02 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-13-danielecolon-claude/</guid><description><![CDATA[<p>danielecolon/Claude<br>
+Introduction to the core concepts of Claude, including personalization, workspace, agents, integration, and workflows.<br>
+C# repository by danielecolon, created in 2026, with 2 stars and 2 forks. Starred on 2026-11-13.<br>
+<a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">https://github.com/danielecolon/Claude</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">danielecolon/Claude</a>.</em></p>]]></description></item><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
 Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.<br>
 Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks. License: MIT. Starred on 2026-10-10.<br>
 Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
@@ -40,21 +55,4 @@ HTML repository by ripienaar, created in 2015, with 142,526 stars and 15,325 for
 Homepage: <a href="https://free-for.dev/" target="_blank" rel="noopener noreffer ">https://free-for.dev/</a><br>
 <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreffer ">https://github.com/ripienaar/free-for-dev</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreffer ">ripienaar/free-for-dev</a>.</em></p>]]></description></item><item><title>thangchung/clean-architecture-dotnet</title><link>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</link><pubDate>Mon, 14 Sep 2026 13:59:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-thangchung-clean-architecture-dotnet/</guid><description><![CDATA[<p>thangchung/clean-architecture-dotnet<br>
-🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻<br>
-C# repository by thangchung, created in 2021, with 1,363 stars and 288 forks. License: MIT. Starred on 2026-09-14.<br>
-<a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">https://github.com/thangchung/clean-architecture-dotnet</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/thangchung/clean-architecture-dotnet" target="_blank" rel="noopener noreffer ">thangchung/clean-architecture-dotnet</a>.</em></p>]]></description></item><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
-an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
-Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
-Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
-<a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">https://github.com/aaif-goose/goose</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-08-31: <a href="https://github.com/aaif-goose/goose" target="_blank" rel="noopener noreffer ">aaif-goose/goose</a>.</em></p>]]></description></item><item><title>fastapi/fastapi</title><link>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</link><pubDate>Mon, 24 Aug 2026 20:13:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-24-fastapi-fastapi/</guid><description><![CDATA[<p>fastapi/fastapi<br>
-FastAPI framework, high performance, easy to learn, fast to code, ready for production<br>
-Python repository by fastapi, created in 2018, with 104,633 stars and 10,214 forks. License: MIT. Starred on 2026-08-24.<br>
-Homepage: <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreffer ">https://fastapi.tiangolo.com/</a><br>
-<a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">https://github.com/fastapi/fastapi</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-08-24: <a href="https://github.com/fastapi/fastapi" target="_blank" rel="noopener noreffer ">fastapi/fastapi</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreffer ">ripienaar/free-for-dev</a>.</em></p>]]></description></item></channel></rss>

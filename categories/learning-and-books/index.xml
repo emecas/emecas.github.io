@@ -1,4 +1,32 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning and Books - Category - My Notes</title><link>https://blog.emecas.net/categories/learning-and-books/</link><description>Learning and Books - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2026 19:34:59 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/learning-and-books/" rel="self" type="application/rss+xml"/><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Learning and Books - Category - My Notes</title><link>https://blog.emecas.net/categories/learning-and-books/</link><description>Learning and Books - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Nov 2026 14:09:36 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/learning-and-books/" rel="self" type="application/rss+xml"/><item><title>knlb.dev | Resisting Cognitive Surrender</title><link>https://blog.emecas.net/posts/2026-11-15-knlb-dev-resisting-cognitive-surrender/</link><pubDate>Sun, 15 Nov 2026 14:09:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-15-knlb-dev-resisting-cognitive-surrender/</guid><description><![CDATA[<p>knlb.dev | Resisting Cognitive Surrender<br>
+Url: <a href="https://knlb.dev/essays/surrender" target="_blank" rel="noopener noreffer ">https://knlb.dev/essays/surrender</a></p>
+<p>Author: Kunal<br>
+Type: blogpost</p>
+<p>Resisting Cognitive Surrender<br>
+sitemap / essays</p>
+<p>Content:<br>
+Cognitive surrender is seductive<br>
+Why not surrender?<br>
+Solutions<br>
+There are still tradeoffs<br>
+Choose your vibe limit &amp; triage<br>
+Watch out for automation bias<br>
+Force yourself into the loop<br>
+Force comprehensibility<br>
+When you do decide to delegate<br>
+Good design is a force multiplier<br>
+Additional reading</p>
+<p>Related:<br>
+notes/exploratory_programming<br>
+notes/how/engineer/not_engineer<br>
+notes/tools_for_thought<br>
+notes/how/strategy<br>
+notes/procrastination<br>
+notes/positive_intelligence<br>
+notes/software_design<br>
+notes/how/engineer/planning<br>
+notes/writing/approaches<br>
+notes/tech_talks_ideas</p>]]></description></item><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
 <a href="https://github.com/walkinglabs/learn-harness-engineering" target="_blank" rel="noopener noreffer ">https://github.com/walkinglabs/learn-harness-engineering</a></p>
 <p>Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:</p>
 <p>how Claude Code, Codex, DeepSeek build their harness<br>
@@ -56,11 +84,4 @@ Go repository by Soypete, created in 2023, with 27 stars and 10 forks. Starred o
 <p>Issue #173 in emecas/commitit, open, opened on 2024-05-14.<br>
 <a href="https://github.com/emecas/commitit/issues/173" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/173</a></p>
 <hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/173" target="_blank" rel="noopener noreffer ">#173</a> in emecas/commitit, opened on 2024-05-14.</em></p>]]></description></item><item><title>Artikulate - KDE Applications - Pronu nciation Trainer</title><link>https://blog.emecas.net/posts/2024-05-04-artikulate-kde-applications-pronu-nciation-trainer/</link><pubDate>Sat, 04 May 2024 22:55:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-04-artikulate-kde-applications-pronu-nciation-trainer/</guid><description><![CDATA[<p>Artikulate - KDE Applications - Pronu nciation Trainer<br>
-<a href="https://apps.kde.org/artikulate/" target="_blank" rel="noopener noreffer ">https://apps.kde.org/artikulate/</a></p>
-<p>Comment on 2024-05-04:<br>
-<a href="https://github.com/KDE/artikulate" target="_blank" rel="noopener noreffer ">https://github.com/KDE/artikulate</a></p>
-<p>Issue #171 in emecas/commitit, open, opened on 2024-05-04.<br>
-<a href="https://github.com/emecas/commitit/issues/171" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/171</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/171" target="_blank" rel="noopener noreffer ">#171</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item></channel></rss>
+<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/173" target="_blank" rel="noopener noreffer ">#173</a> in emecas/commitit, opened on 2024-05-14.</em></p>]]></description></item></channel></rss>

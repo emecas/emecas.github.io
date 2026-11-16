@@ -1,4 +1,32 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Productivity and Apps - Category - My Notes</title><link>https://blog.emecas.net/categories/productivity-and-apps/</link><description>Productivity and Apps - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Mar 2026 14:19:50 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/productivity-and-apps/" rel="self" type="application/rss+xml"/><item><title>tehtbl/awesome-note-taking</title><link>https://blog.emecas.net/posts/2026-03-15-tehtbl-awesome-note-taking/</link><pubDate>Sun, 15 Mar 2026 14:19:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-15-tehtbl-awesome-note-taking/</guid><description><![CDATA[<p>tehtbl/awesome-note-taking<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Productivity and Apps - Category - My Notes</title><link>https://blog.emecas.net/categories/productivity-and-apps/</link><description>Productivity and Apps - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 15 Nov 2026 14:09:36 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/productivity-and-apps/" rel="self" type="application/rss+xml"/><item><title>knlb.dev | Resisting Cognitive Surrender</title><link>https://blog.emecas.net/posts/2026-11-15-knlb-dev-resisting-cognitive-surrender/</link><pubDate>Sun, 15 Nov 2026 14:09:36 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-15-knlb-dev-resisting-cognitive-surrender/</guid><description><![CDATA[<p>knlb.dev | Resisting Cognitive Surrender<br>
+Url: <a href="https://knlb.dev/essays/surrender" target="_blank" rel="noopener noreffer ">https://knlb.dev/essays/surrender</a></p>
+<p>Author: Kunal<br>
+Type: blogpost</p>
+<p>Resisting Cognitive Surrender<br>
+sitemap / essays</p>
+<p>Content:<br>
+Cognitive surrender is seductive<br>
+Why not surrender?<br>
+Solutions<br>
+There are still tradeoffs<br>
+Choose your vibe limit &amp; triage<br>
+Watch out for automation bias<br>
+Force yourself into the loop<br>
+Force comprehensibility<br>
+When you do decide to delegate<br>
+Good design is a force multiplier<br>
+Additional reading</p>
+<p>Related:<br>
+notes/exploratory_programming<br>
+notes/how/engineer/not_engineer<br>
+notes/tools_for_thought<br>
+notes/how/strategy<br>
+notes/procrastination<br>
+notes/positive_intelligence<br>
+notes/software_design<br>
+notes/how/engineer/planning<br>
+notes/writing/approaches<br>
+notes/tech_talks_ideas</p>]]></description></item><item><title>tehtbl/awesome-note-taking</title><link>https://blog.emecas.net/posts/2026-03-15-tehtbl-awesome-note-taking/</link><pubDate>Sun, 15 Mar 2026 14:19:50 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-15-tehtbl-awesome-note-taking/</guid><description><![CDATA[<p>tehtbl/awesome-note-taking<br>
 A curated list of 100+ awesome note-taking apps, PKM tools &amp; knowledge management software — open source and proprietary. Updated regularly.<br>
 Repository by tehtbl, created in 2020, with 1,023 stars and 176 forks. License: CC0-1.0. Starred on 2026-03-15.<br>
 <a href="https://github.com/tehtbl/awesome-note-taking" target="_blank" rel="noopener noreffer ">https://github.com/tehtbl/awesome-note-taking</a></p>
@@ -46,8 +74,4 @@ A self-hosted event management tool for nonprofits<br>
 TypeScript repository by freeCodeCamp, created in 2019, with 1,919 stars and 351 forks. License: BSD-3-Clause. Archived by its owner. Starred on 2023-02-10.<br>
 <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/chapter</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2023-02-10: <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">freeCodeCamp/chapter</a>.</em></p>]]></description></item><item><title>Set up workouts repository and conventions</title><link>https://blog.emecas.net/posts/2022-08-05-set-up-workouts-repository-and-conventions/</link><pubDate>Fri, 05 Aug 2022 03:10:12 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2022-08-05-set-up-workouts-repository-and-conventions/</guid><description><![CDATA[<p>Set up workouts repository and conventions</p>
-<p>Issue #84 in emecas/commitit, open, opened on 2022-08-05. Labels: TODO.<br>
-<a href="https://github.com/emecas/commitit/issues/84" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/84</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/84" target="_blank" rel="noopener noreffer ">#84</a> in emecas/commitit, opened on 2022-08-05.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2023-02-10: <a href="https://github.com/freeCodeCamp/chapter" target="_blank" rel="noopener noreffer ">freeCodeCamp/chapter</a>.</em></p>]]></description></item></channel></rss>
