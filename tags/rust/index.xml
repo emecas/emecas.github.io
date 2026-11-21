@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rust - Tag - My Notes</title><link>https://blog.emecas.net/tags/rust/</link><description>Rust - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Oct 2026 01:29:23 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rust/" rel="self" type="application/rss+xml"/><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rust - Tag - My Notes</title><link>https://blog.emecas.net/tags/rust/</link><description>Rust - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 18:08:06 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/rust/" rel="self" type="application/rss+xml"/><item><title>Kiri : A Docker Desktop Replacement in Rust That Starts Containers in 2.5 Milliseconds</title><link>https://blog.emecas.net/posts/2026-11-17-kiri-a-docker-desktop-replacement-in-rust-that-starts-contai/</link><pubDate>Tue, 17 Nov 2026 18:08:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-kiri-a-docker-desktop-replacement-in-rust-that-starts-contai/</guid><description><![CDATA[<p>Kiri : A Docker Desktop Replacement in Rust That Starts Containers in 2.5 Milliseconds<br>
+Project Description</p>
+<p>View on GitHub: <a href="https://github.com/libracoder/kiri?utm_source=opensourceprojects.dev&amp;ref=opensourceprojects.dev" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev</a> <a class="star-note-link" href="/posts/2026-11-17-libracoder-kiri/" title="libracoder/kiri: my star note">★&nbsp;star&nbsp;note</a></p>
+<p>A Docker Desktop Replacement in Rust That Starts Containers in 2.5 Milliseconds</p>
+<p>If you&rsquo;ve ever waited for Docker Desktop to wake up, spin up its VM, and finally get around to running your container, you know the feeling. You open a terminal, type</p>
+<p>docker run</p>
+<p>, and then sit there while your machine thinks about it. Kiri is a bet that this doesn&rsquo;t have to be how it works—it&rsquo;s a lightweight container runtime written in Rust that aims to replace Docker Desktop and OrbStack without the weight.</p>]]></description></item><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>fabio-rovai/open-ontologies</title><link>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</link><pubDate>Sat, 10 Oct 2026 01:29:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-10-fabio-rovai-open-ontologies/</guid><description><![CDATA[<p>fabio-rovai/open-ontologies<br>
 Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.<br>
 Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks. License: MIT. Starred on 2026-10-10.<br>
 Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
@@ -56,22 +68,4 @@ Rust repository by starship, created in 2019, with 60,686 stars and 2,843 forks.
 Homepage: <a href="https://starship.rs" target="_blank" rel="noopener noreffer ">https://starship.rs</a><br>
 <a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">https://github.com/starship/starship</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2021-01-12: <a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">starship/starship</a>.</em></p>]]></description></item><item><title>Deno</title><link>https://blog.emecas.net/posts/2020-10-02-deno/</link><pubDate>Fri, 02 Oct 2020 19:42:25 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-02-deno/</guid><description><![CDATA[<p>Deno<br>
-<a href="https://deno.land" target="_blank" rel="noopener noreffer ">https://deno.land</a><br>
-<a href="https://deno.town" target="_blank" rel="noopener noreffer ">https://deno.town</a><br>
-<a href="https://github.com/denoland/deno" target="_blank" rel="noopener noreffer ">https://github.com/denoland/deno</a></p>
-<p><a href="https://github.com/architect/architect" target="_blank" rel="noopener noreffer ">https://github.com/architect/architect</a></p>
-<p>Deno is a brand new experimental JavaScript runtime and deno.town is a web based REPL with linting and code completion to help you explore and learn the API.<br>
-Why Deno?</p>
-<p>It is very fast<br>
-Built in least privilege security<br>
-Standard esmodules<br>
-TypeScript, JSX and TSX dialects supported</p>
-<p>How</p>
-<p>AWS Lambda (and friends) by way of OpenJS Architect<br>
-Deployed continuously with begin.com (Note! We have not officially released Deno support. Keep reading if you are interested in that.)</p>]]></description></item><item><title>bee-san/Ciphey</title><link>https://blog.emecas.net/posts/2020-09-06-bee-san-ciphey/</link><pubDate>Sun, 06 Sep 2020 19:40:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-09-06-bee-san-ciphey/</guid><description><![CDATA[<p>bee-san/Ciphey<br>
-⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡<br>
-Rust repository by bee-san, created in 2019, with 21,754 stars and 1,447 forks. License: MIT. Starred on 2020-09-06.<br>
-<a href="https://github.com/bee-san/Ciphey" target="_blank" rel="noopener noreffer ">https://github.com/bee-san/Ciphey</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/bee-san/Ciphey" target="_blank" rel="noopener noreffer ">bee-san/Ciphey</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2021-01-12: <a href="https://github.com/starship/starship" target="_blank" rel="noopener noreffer ">starship/starship</a>.</em></p>]]></description></item></channel></rss>

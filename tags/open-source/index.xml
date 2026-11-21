@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 01 Aug 2026 17:29:43 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>open-source a multi-agent harness used internally at YC.</title><link>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</link><pubDate>Sat, 01 Aug 2026 17:29:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</guid><description><![CDATA[<p>open-source a multi-agent harness used internally at YC.<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Nov 2026 15:10:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
+Penpot: The open-source design platform for Product teams that need scalable collaboration.<br>
+Clojure repository by penpot, created in 2015, with 62,590 stars and 4,434 forks. License: MPL-2.0. Starred on 2026-11-18.<br>
+Homepage: <a href="https://penpot.app" target="_blank" rel="noopener noreffer ">https://penpot.app</a><br>
+<a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">https://github.com/penpot/penpot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-18: <a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">penpot/penpot</a>.</em></p>]]></description></item><item><title>open-source a multi-agent harness used internally at YC.</title><link>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</link><pubDate>Sat, 01 Aug 2026 17:29:43 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-01-open-source-a-multi-agent-harness-used-internally-at-yc/</guid><description><![CDATA[<p>open-source a multi-agent harness used internally at YC.<br>
 <a href="https://github.com/yc-software/qm" target="_blank" rel="noopener noreffer ">https://github.com/yc-software/qm</a></p>
 <p>Issue #212 in emecas/commitit, open, opened on 2026-08-01.<br>
 <a href="https://github.com/emecas/commitit/issues/212" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/212</a></p>
@@ -72,12 +78,4 @@ Successfully verified installer hash<br>
 Starting package install&hellip;<br>
 Path environment variable modified; restart your shell to use the new value.<br>
 Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
-<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
-<p>hey is a tiny program that sends some load to a web application.</p>
-<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
-<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
-To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Successfully installed</p>]]></description></item></channel></rss>

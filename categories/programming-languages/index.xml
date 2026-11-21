@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Languages - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-languages/</link><description>Programming Languages - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-languages/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming Languages - Category - My Notes</title><link>https://blog.emecas.net/categories/programming-languages/</link><description>Programming Languages - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 18:08:06 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/programming-languages/" rel="self" type="application/rss+xml"/><item><title>Kiri : A Docker Desktop Replacement in Rust That Starts Containers in 2.5 Milliseconds</title><link>https://blog.emecas.net/posts/2026-11-17-kiri-a-docker-desktop-replacement-in-rust-that-starts-contai/</link><pubDate>Tue, 17 Nov 2026 18:08:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-kiri-a-docker-desktop-replacement-in-rust-that-starts-contai/</guid><description><![CDATA[<p>Kiri : A Docker Desktop Replacement in Rust That Starts Containers in 2.5 Milliseconds<br>
+Project Description</p>
+<p>View on GitHub: <a href="https://github.com/libracoder/kiri?utm_source=opensourceprojects.dev&amp;ref=opensourceprojects.dev" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev</a> <a class="star-note-link" href="/posts/2026-11-17-libracoder-kiri/" title="libracoder/kiri: my star note">★&nbsp;star&nbsp;note</a></p>
+<p>A Docker Desktop Replacement in Rust That Starts Containers in 2.5 Milliseconds</p>
+<p>If you&rsquo;ve ever waited for Docker Desktop to wake up, spin up its VM, and finally get around to running your container, you know the feeling. You open a terminal, type</p>
+<p>docker run</p>
+<p>, and then sit there while your machine thinks about it. Kiri is a bet that this doesn&rsquo;t have to be how it works—it&rsquo;s a lightweight container runtime written in Rust that aims to replace Docker Desktop and OrbStack without the weight.</p>]]></description></item><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
 The Goose Programming Language<br>
 C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
 <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
@@ -40,15 +52,4 @@ simple terminal UI for git commands<br>
 Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
 <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item><item><title>perstarkse/minne</title><link>https://blog.emecas.net/posts/2026-03-15-perstarkse-minne/</link><pubDate>Sun, 15 Mar 2026 18:16:03 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-03-15-perstarkse-minne/</guid><description><![CDATA[<p>perstarkse/minne<br>
-Minne, a read-it-later &amp; personal knowledge management solution<br>
-Rust repository by perstarkse, created in 2025, with 266 stars and 11 forks. License: AGPL-3.0. Starred on 2026-03-15.<br>
-<a href="https://github.com/perstarkse/minne" target="_blank" rel="noopener noreffer ">https://github.com/perstarkse/minne</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-03-15: <a href="https://github.com/perstarkse/minne" target="_blank" rel="noopener noreffer ">perstarkse/minne</a>.</em></p>]]></description></item><item><title>kanboard/kanboard</title><link>https://blog.emecas.net/posts/2026-02-19-kanboard-kanboard/</link><pubDate>Thu, 19 Feb 2026 04:28:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-02-19-kanboard-kanboard/</guid><description><![CDATA[<p>kanboard/kanboard<br>
-Kanban project management software<br>
-PHP repository by kanboard, created in 2014, with 9,953 stars and 2,024 forks. License: MIT. Starred on 2026-02-19.<br>
-Homepage: <a href="https://kanboard.org" target="_blank" rel="noopener noreffer ">https://kanboard.org</a><br>
-<a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">https://github.com/kanboard/kanboard</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-02-19: <a href="https://github.com/kanboard/kanboard" target="_blank" rel="noopener noreffer ">kanboard/kanboard</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-04-08: <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">jesseduffield/lazygit</a>.</em></p>]]></description></item></channel></rss>

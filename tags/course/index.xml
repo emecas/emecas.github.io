@@ -6,11 +6,10 @@ loop &amp; graph engineering<br>
 automated agent loops<br>
 observability, testing and verification<br>
 really good source for learning harness essentials by doing.</p>
-<p>Ref: <a href="https://x.com/i/status/2105980972558627237" target="_blank" rel="noopener noreffer ">https://x.com/i/status/2105980972558627237</a></p>
-<p>Issue #217 in emecas/commitit, open, opened on 2026-10-04.<br>
-<a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/217</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/217" target="_blank" rel="noopener noreffer ">#217</a> in emecas/commitit, opened on 2026-10-04.</em></p>]]></description></item><item><title>kousen/AiJavaLabs</title><link>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</link><pubDate>Tue, 26 May 2026 22:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</guid><description><![CDATA[<p>kousen/AiJavaLabs<br>
+<p>Ref: <a href="https://x.com/i/status/2105980972558627237" target="_blank" rel="noopener noreffer ">https://x.com/i/status/2105980972558627237</a><span class="embed embed-x">
+            <span class="embed-text">found this free Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:<br><br>&gt; how Claude Code, Codex, DeepSeek build their harness<br>&gt; loop &amp; graph engineering<br>&gt; automated agent loops<br>&gt; observability, testing and verification<br>really good source for… pic.twitter.com/BzeaiEuVYl</span>
+            <span class="embed-meta">— ℏεsam (@Hesamation) · October 2, 2026 · copied 2026-11-20</span>
+        </span></p>]]></description></item><item><title>kousen/AiJavaLabs</title><link>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</link><pubDate>Tue, 26 May 2026 22:15:11 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-05-26-kousen-aijavalabs/</guid><description><![CDATA[<p>kousen/AiJavaLabs<br>
 Exercises for a course on integrating AI services with Java.<br>
 Java repository by kousen, created in 2024, with 39 stars and 35 forks. License: MIT. Starred on 2026-05-26.<br>
 <a href="https://github.com/kousen/AiJavaLabs" target="_blank" rel="noopener noreffer ">https://github.com/kousen/AiJavaLabs</a></p>
@@ -41,11 +40,10 @@ Go repository by Soypete, created in 2023, with 27 stars and 10 forks. Starred o
 <p>Ref</p>
 <p>Microsoft launched the best course on Generative AI!</p>
 <p>The free 18 lesson course is available on Github and will teach you everything you need to know to start building Generative AI applications.</p>
-<p><a href="https://twitter.com/Sumanth_077/status/1764297648977432808?t=Wd1ZBVrUx_fYxi5k1qXc5w&amp;s=19" target="_blank" rel="noopener noreffer ">https://twitter.com/Sumanth_077/status/1764297648977432808?t=Wd1ZBVrUx_fYxi5k1qXc5w&s=19</a></p>
-<p>Issue #142 in emecas/commitit, open, opened on 2024-03-06.<br>
-<a href="https://github.com/emecas/commitit/issues/142" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/142</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/142" target="_blank" rel="noopener noreffer ">#142</a> in emecas/commitit, opened on 2024-03-06.</em></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
+<p><a href="https://twitter.com/Sumanth_077/status/1764297648977432808?t=Wd1ZBVrUx_fYxi5k1qXc5w&amp;s=19" target="_blank" rel="noopener noreffer ">https://twitter.com/Sumanth_077/status/1764297648977432808?t=Wd1ZBVrUx_fYxi5k1qXc5w&s=19</a><span class="embed embed-x">
+            <span class="embed-text">Microsoft launched the best course on Generative AI!<br><br>The free 18 lesson course is available on Github and will teach you everything you need to know to start building Generative AI applications. pic.twitter.com/1KgsSoEoSy</span>
+            <span class="embed-meta">— Sumanth (@Sumanth_077) · March 3, 2024 · copied 2026-11-20</span>
+        </span></p>]]></description></item><item><title>douglascraigschmidt/LiveLessons</title><link>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</link><pubDate>Thu, 27 May 2021 14:07:24 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-05-27-douglascraigschmidt-livelessons/</guid><description><![CDATA[<p>douglascraigschmidt/LiveLessons<br>
 This repository contains all the source code examples from my LiveLessons course on &ldquo;Java Concurrent Programming&rdquo; and my various LiveTraining courses, as described at <a href="http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning" target="_blank" rel="noopener noreffer ">http://www.dre.vanderbilt.edu/~schmidt/DigitalLearning</a>.<br>
 Java repository by douglascraigschmidt, created in 2014, with 614 stars and 657 forks. Starred on 2021-05-27.<br>
 <a href="https://github.com/douglascraigschmidt/LiveLessons" target="_blank" rel="noopener noreffer ">https://github.com/douglascraigschmidt/LiveLessons</a></p>

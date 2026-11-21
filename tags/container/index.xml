@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Container - Tag - My Notes</title><link>https://blog.emecas.net/tags/container/</link><description>Container - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Feb 2025 02:43:15 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/container/" rel="self" type="application/rss+xml"/><item><title>looselytyped/container-security-fundamentals</title><link>https://blog.emecas.net/posts/2025-02-26-looselytyped-container-security-fundamentals/</link><pubDate>Wed, 26 Feb 2025 02:43:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-26-looselytyped-container-security-fundamentals/</guid><description><![CDATA[<p>looselytyped/container-security-fundamentals<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Container - Tag - My Notes</title><link>https://blog.emecas.net/tags/container/</link><description>Container - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 12:59:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/container/" rel="self" type="application/rss+xml"/><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>looselytyped/container-security-fundamentals</title><link>https://blog.emecas.net/posts/2025-02-26-looselytyped-container-security-fundamentals/</link><pubDate>Wed, 26 Feb 2025 02:43:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-26-looselytyped-container-security-fundamentals/</guid><description><![CDATA[<p>looselytyped/container-security-fundamentals<br>
 Ruby repository by looselytyped, created in 2023, with 32 stars and 29 forks. Starred on 2025-02-26.<br>
 <a href="https://github.com/looselytyped/container-security-fundamentals" target="_blank" rel="noopener noreffer ">https://github.com/looselytyped/container-security-fundamentals</a></p>
 <hr>
@@ -49,9 +55,4 @@ Jib Core: A general-purpose container-building library for Java.<br>
 Java repository by GoogleContainerTools, created in 2018, with 14,455 stars and 1,481 forks. License: Apache-2.0. Starred on 2019-03-26.<br>
 <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">GoogleContainerTools/jib</a>.</em></p>]]></description></item><item><title>andrus/di-comparison</title><link>https://blog.emecas.net/posts/2018-04-03-andrus-di-comparison/</link><pubDate>Tue, 03 Apr 2018 01:46:30 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-04-03-andrus-di-comparison/</guid><description><![CDATA[<p>andrus/di-comparison<br>
-DI containers comparison<br>
-Java repository by andrus, created in 2018, with 20 stars and 5 forks. Starred on 2018-04-03.<br>
-<a href="https://github.com/andrus/di-comparison" target="_blank" rel="noopener noreffer ">https://github.com/andrus/di-comparison</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2018-04-03: <a href="https://github.com/andrus/di-comparison" target="_blank" rel="noopener noreffer ">andrus/di-comparison</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-03-26: <a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">GoogleContainerTools/jib</a>.</em></p>]]></description></item></channel></rss>

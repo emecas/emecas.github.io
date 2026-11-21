@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mac - Tag - My Notes</title><link>https://blog.emecas.net/tags/mac/</link><description>Mac - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mac/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Mac - Tag - My Notes</title><link>https://blog.emecas.net/tags/mac/</link><description>Mac - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 12:59:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/mac/" rel="self" type="application/rss+xml"/><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
 <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>hey is a tiny program that sends some load to a web application.</p>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
@@ -71,8 +77,4 @@ sudo sysctl -w kern.sysv.shmall=393216 &amp;&amp; sudo sysctl -w kern.sysv.shmma
 <p>Admins-MacBook-Pro-2:certificate-generator ecastaneda$ pwd<br>
 /Users/ecastaneda/tizen-sdk/tools/certificate-generator<br>
 Admins-MacBook-Pro-2:certificate-generator ecastaneda$ ./certificate-generator.sh<br>
-(tizen)</p>]]></description></item><item><title>MongoDB as Service on MAC</title><link>https://blog.emecas.net/posts/2013-03-17-mongodb-as-service-on-mac/</link><pubDate>Sun, 17 Mar 2013 01:16:48 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-17-mongodb-as-service-on-mac/</guid><description><![CDATA[<p>MongoDB<br>
-MongoDB Installation on Mac OS X as Service<br>
-<a href="http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/" target="_blank" rel="noopener noreffer ">http://www.joyceleong.com/log/mongodb-installation-on-mac-os-x/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/2f08dceb3de61587913de923752efd97d32031a0" target="_blank" rel="noopener noreffer "><code>2f08dce</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+(tizen)</p>]]></description></item></channel></rss>

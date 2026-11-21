@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Platform - Tag - My Notes</title><link>https://blog.emecas.net/tags/platform/</link><description>Platform - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Oct 2024 08:45:53 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/platform/" rel="self" type="application/rss+xml"/><item><title>tolgee/tolgee-platform</title><link>https://blog.emecas.net/posts/2024-10-15-tolgee-tolgee-platform/</link><pubDate>Tue, 15 Oct 2024 08:45:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-15-tolgee-tolgee-platform/</guid><description><![CDATA[<p>tolgee/tolgee-platform<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Platform - Tag - My Notes</title><link>https://blog.emecas.net/tags/platform/</link><description>Platform - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Nov 2026 15:10:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/platform/" rel="self" type="application/rss+xml"/><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
+Penpot: The open-source design platform for Product teams that need scalable collaboration.<br>
+Clojure repository by penpot, created in 2015, with 62,590 stars and 4,434 forks. License: MPL-2.0. Starred on 2026-11-18.<br>
+Homepage: <a href="https://penpot.app" target="_blank" rel="noopener noreffer ">https://penpot.app</a><br>
+<a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">https://github.com/penpot/penpot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-18: <a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">penpot/penpot</a>.</em></p>]]></description></item><item><title>tolgee/tolgee-platform</title><link>https://blog.emecas.net/posts/2024-10-15-tolgee-tolgee-platform/</link><pubDate>Tue, 15 Oct 2024 08:45:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-15-tolgee-tolgee-platform/</guid><description><![CDATA[<p>tolgee/tolgee-platform<br>
 Developer &amp; translator friendly web-based localization platform<br>
 TypeScript repository by tolgee, created in 2020, with 4,157 stars and 382 forks. Starred on 2024-10-15.<br>
 Homepage: <a href="https://tolgee.io" target="_blank" rel="noopener noreffer ">https://tolgee.io</a><br>
@@ -54,9 +60,4 @@ Eclipse Theia is an extensible platform to develop multi-language Cloud &amp; De
 <p>Not sure whether you need a web or desktop version or both?</p>
 <p>With Theia you can develop one IDE and run it in browsers or native desktop application from a single source.</p>
 <p>Vendor Neutral</p>
-<p>The Theia project is hosted at the Eclipse Foundation, a not-for-profit corporation, and is developed by a diverse community.</p>]]></description></item><item><title>msys2/msys2</title><link>https://blog.emecas.net/posts/2020-10-24-msys2-msys2/</link><pubDate>Sat, 24 Oct 2020 11:17:42 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-24-msys2-msys2/</guid><description><![CDATA[<p>msys2/msys2<br>
-A software distro and building platform for Windows<br>
-Repository by msys2, created in 2017, with 1,843 stars and 141 forks. Starred on 2020-10-24.<br>
-<a href="https://github.com/msys2/msys2" target="_blank" rel="noopener noreffer ">https://github.com/msys2/msys2</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-10-24: <a href="https://github.com/msys2/msys2" target="_blank" rel="noopener noreffer ">msys2/msys2</a>.</em></p>]]></description></item></channel></rss>
+<p>The Theia project is hosted at the Eclipse Foundation, a not-for-profit corporation, and is developed by a diverse community.</p>]]></description></item></channel></rss>

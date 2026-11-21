@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Linux - Tag - My Notes</title><link>https://blog.emecas.net/tags/linux/</link><description>Linux - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/linux/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Linux - Tag - My Notes</title><link>https://blog.emecas.net/tags/linux/</link><description>Linux - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 12:59:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/linux/" rel="self" type="application/rss+xml"/><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
 <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>hey is a tiny program that sends some load to a web application.</p>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
@@ -67,9 +73,4 @@ Darknet for windows and linux<br>
 C repository by buptdbj, created in 2018, with 30 stars and 13 forks. Starred on 2019-08-18.<br>
 <a href="https://github.com/buptdbj/darknet-windows-linux" target="_blank" rel="noopener noreffer ">https://github.com/buptdbj/darknet-windows-linux</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2019-08-18: <a href="https://github.com/buptdbj/darknet-windows-linux" target="_blank" rel="noopener noreffer ">buptdbj/darknet-windows-linux</a>.</em></p>]]></description></item><item><title>RaitaroH/DELL-Inspiron-Gaming-7567</title><link>https://blog.emecas.net/posts/2019-02-02-raitaroh-dell-inspiron-gaming-7567/</link><pubDate>Sat, 02 Feb 2019 17:08:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-02-raitaroh-dell-inspiron-gaming-7567/</guid><description><![CDATA[<p>RaitaroH/DELL-Inspiron-Gaming-7567<br>
-How does DELL Inspiron Gaming 7567 perform with Linux on it.<br>
-Repository by RaitaroH, created in 2018, with 10 stars and 2 forks. License: GPL-3.0. Starred on 2019-02-02.<br>
-<a href="https://github.com/RaitaroH/DELL-Inspiron-Gaming-7567" target="_blank" rel="noopener noreffer ">https://github.com/RaitaroH/DELL-Inspiron-Gaming-7567</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2019-02-02: <a href="https://github.com/RaitaroH/DELL-Inspiron-Gaming-7567" target="_blank" rel="noopener noreffer ">RaitaroH/DELL-Inspiron-Gaming-7567</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2019-08-18: <a href="https://github.com/buptdbj/darknet-windows-linux" target="_blank" rel="noopener noreffer ">buptdbj/darknet-windows-linux</a>.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Star Notes - Source - My Notes</title><link>https://blog.emecas.net/sources/star-notes/</link><description>Star Notes - Source - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/sources/star-notes/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Star Notes - Source - My Notes</title><link>https://blog.emecas.net/sources/star-notes/</link><description>Star Notes - Source - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Nov 2026 15:10:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/sources/star-notes/" rel="self" type="application/rss+xml"/><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
+Penpot: The open-source design platform for Product teams that need scalable collaboration.<br>
+Clojure repository by penpot, created in 2015, with 62,590 stars and 4,434 forks. License: MPL-2.0. Starred on 2026-11-18.<br>
+Homepage: <a href="https://penpot.app" target="_blank" rel="noopener noreffer ">https://penpot.app</a><br>
+<a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">https://github.com/penpot/penpot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-18: <a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">penpot/penpot</a>.</em></p>]]></description></item><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>sajal2692/getting_started_with_claude_agent_sdk</title><link>https://blog.emecas.net/posts/2026-11-16-sajal2692-getting-started-with-claude-agent-sdk/</link><pubDate>Mon, 16 Nov 2026 17:54:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-16-sajal2692-getting-started-with-claude-agent-sdk/</guid><description><![CDATA[<p>sajal2692/getting_started_with_claude_agent_sdk<br>
+Exercises for the &ldquo;Getting Started with Claude Agent SDK&rdquo; live course for O&rsquo;Reilly.<br>
+Python repository by sajal2692, created in 2026, with 24 stars and 27 forks. Starred on 2026-11-16.<br>
+<a href="https://github.com/sajal2692/getting_started_with_claude_agent_sdk" target="_blank" rel="noopener noreffer ">https://github.com/sajal2692/getting_started_with_claude_agent_sdk</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-16: <a href="https://github.com/sajal2692/getting_started_with_claude_agent_sdk" target="_blank" rel="noopener noreffer ">sajal2692/getting_started_with_claude_agent_sdk</a>.</em></p>]]></description></item><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
 The Goose Programming Language<br>
 C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
 <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
@@ -37,22 +54,4 @@ Python repository by debpalash, created in 2026, with 107,396 stars and 11,902 f
 Homepage: <a href="https://voicestudio.sh" target="_blank" rel="noopener noreffer ">https://voicestudio.sh</a><br>
 <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">https://github.com/debpalash/VoiceStudio</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-09-27: <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">debpalash/VoiceStudio</a>.</em></p>]]></description></item><item><title>louislam/uptime-kuma</title><link>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</link><pubDate>Fri, 18 Sep 2026 16:09:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</guid><description><![CDATA[<p>louislam/uptime-kuma<br>
-A fancy self-hosted monitoring tool<br>
-JavaScript repository by louislam, created in 2021, with 93,475 stars and 8,693 forks. License: MIT. Starred on 2026-09-18.<br>
-Homepage: <a href="https://uptime.kuma.pet" target="_blank" rel="noopener noreffer ">https://uptime.kuma.pet</a><br>
-<a href="https://github.com/louislam/uptime-kuma" target="_blank" rel="noopener noreffer ">https://github.com/louislam/uptime-kuma</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-09-18: <a href="https://github.com/louislam/uptime-kuma" target="_blank" rel="noopener noreffer ">louislam/uptime-kuma</a>.</em></p>]]></description></item><item><title>ClawRunr/JavaClaw</title><link>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</link><pubDate>Tue, 15 Sep 2026 17:33:17 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-15-clawrunr-javaclaw/</guid><description><![CDATA[<p>ClawRunr/JavaClaw<br>
-JavaClaw, a Java version of OpenClaw built on Spring Boot, Spring AI and JobRunr<br>
-Java repository by ClawRunr, created in 2026, with 759 stars and 169 forks. License: LGPL-3.0. Starred on 2026-09-15.<br>
-Homepage: <a href="https://javaclaw.io/" target="_blank" rel="noopener noreffer ">https://javaclaw.io/</a><br>
-<a href="https://github.com/ClawRunr/JavaClaw" target="_blank" rel="noopener noreffer ">https://github.com/ClawRunr/JavaClaw</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-09-15: <a href="https://github.com/ClawRunr/JavaClaw" target="_blank" rel="noopener noreffer ">ClawRunr/JavaClaw</a>.</em></p>]]></description></item><item><title>ripienaar/free-for-dev</title><link>https://blog.emecas.net/posts/2026-09-14-ripienaar-free-for-dev/</link><pubDate>Mon, 14 Sep 2026 23:05:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-ripienaar-free-for-dev/</guid><description><![CDATA[<p>ripienaar/free-for-dev<br>
-A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev<br>
-HTML repository by ripienaar, created in 2015, with 142,526 stars and 15,325 forks. Starred on 2026-09-14.<br>
-Homepage: <a href="https://free-for.dev/" target="_blank" rel="noopener noreffer ">https://free-for.dev/</a><br>
-<a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreffer ">https://github.com/ripienaar/free-for-dev</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-09-14: <a href="https://github.com/ripienaar/free-for-dev" target="_blank" rel="noopener noreffer ">ripienaar/free-for-dev</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-09-27: <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">debpalash/VoiceStudio</a>.</em></p>]]></description></item></channel></rss>

@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Windows - Tag - My Notes</title><link>https://blog.emecas.net/tags/windows/</link><description>Windows - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Oct 2024 14:14:06 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/windows/" rel="self" type="application/rss+xml"/><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Windows - Tag - My Notes</title><link>https://blog.emecas.net/tags/windows/</link><description>Windows - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 12:59:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/windows/" rel="self" type="application/rss+xml"/><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
+Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
+Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
+<a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">https://github.com/libracoder/kiri</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-17: <a href="https://github.com/libracoder/kiri" target="_blank" rel="noopener noreffer ">libracoder/kiri</a>.</em></p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
 <a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>hey is a tiny program that sends some load to a web application.</p>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
@@ -60,10 +66,4 @@ calibre is an e-book manager. It can view, convert, edit and catalog e-books in 
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
 It is cross platform, running on Linux, Windows and macOS.</p>
 <p>For more information, see the calibre About page<br>
-<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item><item><title>xpra multi-platform screen and application forwarding system</title><link>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</link><pubDate>Sun, 15 Mar 2020 23:32:49 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-03-15-xpra-multi-platform-screen-and-application-forwarding-system/</guid><description><![CDATA[<p>xpra<br>
-<a href="https://xpra.org/" target="_blank" rel="noopener noreffer ">https://xpra.org/</a><br>
-multi-platform screen and application forwarding system &ldquo;screen for X11&rdquo;<br>
-Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens.</p>
-<p>It gives you remote access to individual applications or full desktops.<br>
-On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state.<br>
-It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.</p>]]></description></item></channel></rss>
+<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item></channel></rss>

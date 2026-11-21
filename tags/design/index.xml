@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Design - Tag - My Notes</title><link>https://blog.emecas.net/tags/design/</link><description>Design - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Aug 2026 23:10:40 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/design/" rel="self" type="application/rss+xml"/><item><title>liquidslr/system-design-notes</title><link>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</link><pubDate>Tue, 11 Aug 2026 23:10:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</guid><description><![CDATA[<p>liquidslr/system-design-notes<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Design - Tag - My Notes</title><link>https://blog.emecas.net/tags/design/</link><description>Design - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Nov 2026 15:10:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/design/" rel="self" type="application/rss+xml"/><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
+Penpot: The open-source design platform for Product teams that need scalable collaboration.<br>
+Clojure repository by penpot, created in 2015, with 62,590 stars and 4,434 forks. License: MPL-2.0. Starred on 2026-11-18.<br>
+Homepage: <a href="https://penpot.app" target="_blank" rel="noopener noreffer ">https://penpot.app</a><br>
+<a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">https://github.com/penpot/penpot</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-18: <a href="https://github.com/penpot/penpot" target="_blank" rel="noopener noreffer ">penpot/penpot</a>.</em></p>]]></description></item><item><title>liquidslr/system-design-notes</title><link>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</link><pubDate>Tue, 11 Aug 2026 23:10:40 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-11-liquidslr-system-design-notes/</guid><description><![CDATA[<p>liquidslr/system-design-notes<br>
 Notes of the book System Desgin Interview - An Insider&rsquo;s Guide<br>
 Repository by liquidslr, created in 2024, with 28,159 stars and 5,267 forks. Starred on 2026-08-11.<br>
 Homepage: <a href="https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu" target="_blank" rel="noopener noreffer ">https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu</a><br>
@@ -44,22 +50,4 @@ Homepage: <a href="https://java-design-patterns.com" target="_blank" rel="noopen
 <a href="https://raml.org/" target="_blank" rel="noopener noreffer ">https://raml.org/</a><br>
 The simplest way to design APIs<br>
 RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing. It&rsquo;s concise - you only write what you need to define - and reusable. It is machine readable API design that is actually human friendly.</p>
-<p>REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation &ldquo;Architectural Styles and the Design of Network-based Software Architecture&rdquo; by Roy Fielding.</p>]]></description></item><item><title>Is Design Dead? (May 2004) - Article</title><link>https://blog.emecas.net/posts/2016-12-30-is-design-dead-may-2004-article/</link><pubDate>Fri, 30 Dec 2016 11:32:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-30-is-design-dead-may-2004-article/</guid><description><![CDATA[<p>Is Design Dead? (May 2004) - Article<br>
-<a href="https://www.martinfowler.com/articles/designDead.html" target="_blank" rel="noopener noreffer ">https://www.martinfowler.com/articles/designDead.html</a><br>
-by Martin Fowler</p>
-<p>Contents:</p>
-<p>Planned and Evolutionary Design<br>
-The Enabling Practices of XP<br>
-The Value of Simplicity<br>
-What on Earth is Simplicity Anyway<br>
-Does Refactoring Violate YAGNI?<br>
-Patterns and XP<br>
-Growing an Architecture<br>
-UML and XP<br>
-On Metaphor<br>
-Do you wanna be an Architect when you grow up?<br>
-Reversibility<br>
-The Will to Design<br>
-Things that are difficult to refactor in<br>
-Is Design Happening?<br>
-So is Design Dead?</p>]]></description></item></channel></rss>
+<p>REST is used in the context of an API implemented using some or all of the principles of REST (Representational State Transfer), which was introduced and first defined in 2000 in Chapter 5, REST, of the doctoral dissertation &ldquo;Architectural Styles and the Design of Network-based Software Architecture&rdquo; by Roy Fielding.</p>]]></description></item></channel></rss>
