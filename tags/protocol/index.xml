@@ -10,7 +10,7 @@ $ curl -d &lsquo;{&ldquo;query&rdquo;:&quot;{people{ surname }}&quot;}&rsquo; -H
 <a href="https://agrest.io/" target="_blank" rel="noopener noreffer ">https://agrest.io/</a><br>
 An open-source protocol and framework for REST data services<br>
 Optimize REST interactions. Avoid excessive requests to server when navigating backend data graphs.<br>
-Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a></p>
+Repo: <a href="https://github.com/agrestio/agrest" target="_blank" rel="noopener noreffer ">https://github.com/agrestio/agrest</a> <a class="star-note-link" href="/posts/2019-01-31-agrestio-agrest/" title="agrestio/agrest: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/788ef1f38045cc652b3182706eaae9dd69d9ff0b" target="_blank" rel="noopener noreffer "><code>788ef1f</code></a> in My-Notes.</em></p>]]></description></item><item><title>Distributed Object Protocol - DOP</title><link>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</link><pubDate>Fri, 10 Feb 2017 13:01:08 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-02-10-distributed-object-protocol-dop/</guid><description><![CDATA[<p>Distributed Object Protocol - DOP<br>
 <a href="https://distributedobjectprotocol.org/" target="_blank" rel="noopener noreffer ">https://distributedobjectprotocol.org/</a><br>

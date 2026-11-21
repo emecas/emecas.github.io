@@ -2,7 +2,7 @@
 <p>Docker image:<br>
 <a href="https://store.docker.com/community/images/netflixoss/eureka" target="_blank" rel="noopener noreffer ">https://store.docker.com/community/images/netflixoss/eureka</a></p>
 <p>docker pull netflixoss/eureka:1.3.1</p>
-<p>github: <a href="https://github.com/netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/netflix/eureka</a></p>
+<p>github: <a href="https://github.com/netflix/eureka" target="_blank" rel="noopener noreffer ">https://github.com/netflix/eureka</a> <a class="star-note-link" href="/posts/2017-01-19-netflix-eureka/" title="Netflix/eureka: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Running images:<br>
 <a href="https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images" target="_blank" rel="noopener noreffer ">https://github.com/Netflix-Skunkworks/zerotodocker/wiki/Running-the-Images</a></p>
 <hr>

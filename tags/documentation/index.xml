@@ -50,7 +50,7 @@ CSS repository by architecture-decision-record, created in 2016, with 17,446 sta
 <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/172</a></p>
 <hr>
 <p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">#172</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item><item><title>DevDocs</title><link>https://blog.emecas.net/posts/2024-03-02-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:14:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-devdocs/</guid><description><![CDATA[<p>DevDocs<br>
-<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a> <a class="star-note-link" href="/posts/2024-03-02-freecodecamp-devdocs/" title="freeCodeCamp/devdocs: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>La «navaja suiza» de las documentaciones de APIs<br>
 ¿Qué necesitas? ¿React Native? ¿Vue? ¿QUnit? Tranqui que está TOOOOODO aquí. DevDocs combina múltiples documentaciones de API en una interfaz rápida, organizada y que permite realizar búsquedas para que puedas reducir tiempos y centrarte en picar código. 🙌</p>
 <p>Issue #139 in emecas/commitit, open, opened on 2024-03-02.<br>

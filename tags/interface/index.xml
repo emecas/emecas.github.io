@@ -12,7 +12,7 @@ Homepage: <a href="https://coala.io/" target="_blank" rel="noopener noreffer ">h
 <hr>
 <p><em>Source: starred on GitHub on 2020-02-23: <a href="https://github.com/coala/coala" target="_blank" rel="noopener noreffer ">coala/coala</a>.</em></p>]]></description></item><item><title>TIG: Text-mode interface for git</title><link>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</link><pubDate>Thu, 07 Dec 2017 10:26:16 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-07-tig-text-mode-interface-for-git/</guid><description><![CDATA[<p>TIG<br>
 Text-mode interface for git<br>
-<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a><br>
+<a href="https://jonas.github.io/tig/" target="_blank" rel="noopener noreffer ">https://jonas.github.io/tig/</a> <a class="star-note-link" href="/posts/2017-11-21-jonas-tig/" title="jonas/tig: my star note">★&nbsp;star&nbsp;note</a><br>
 What is Tig?</p>
 <p>Tig is an ncurses-based text-mode interface for git. It functions mainly as a Git repository browser, but can also assist in staging changes for commit at chunk level and act as a pager for output from various Git commands.<br>
 <a href="https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617" target="_blank" rel="noopener noreffer ">https://www.flickr.com/photos/jonasfonseca/sets/72157614470764617</a></p>
@@ -25,7 +25,7 @@ Homepage: <a href="https://jonas.github.io/tig/" target="_blank" rel="noopener n
 <hr>
 <p><em>Source: starred on GitHub on 2017-11-21: <a href="https://github.com/jonas/tig" target="_blank" rel="noopener noreffer ">jonas/tig</a>.</em></p>]]></description></item><item><title>Top-like interface for container metrics</title><link>https://blog.emecas.net/posts/2017-04-27-top-like-interface-for-container-metrics/</link><pubDate>Thu, 27 Apr 2017 11:57:11 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-04-27-top-like-interface-for-container-metrics/</guid><description><![CDATA[<p>Top-like interface for container metrics<br>
 <a href="http://ctop.sh" target="_blank" rel="noopener noreffer ">http://ctop.sh</a><br>
-<a href="https://github.com/bcicen/ctop" target="_blank" rel="noopener noreffer ">https://github.com/bcicen/ctop</a></p>
+<a href="https://github.com/bcicen/ctop" target="_blank" rel="noopener noreffer ">https://github.com/bcicen/ctop</a> <a class="star-note-link" href="/posts/2017-03-15-bcicen-ctop/" title="bcicen/ctop: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/70ed27e60ef7925a4bee00737fd67ab06792b663" target="_blank" rel="noopener noreffer "><code>70ed27e</code></a> in My-Notes.</em></p>]]></description></item><item><title>bcicen/ctop</title><link>https://blog.emecas.net/posts/2017-03-15-bcicen-ctop/</link><pubDate>Wed, 15 Mar 2017 14:38:32 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-15-bcicen-ctop/</guid><description><![CDATA[<p>bcicen/ctop<br>
 Top-like interface for container metrics<br>

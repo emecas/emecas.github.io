@@ -21,7 +21,7 @@ Community driven implementations of Eclipse MicroProfile.<br>
 <a href="https://smallrye.io/projects/overview" target="_blank" rel="noopener noreffer ">https://smallrye.io/projects/overview</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b431338e26f95b4215187658524bd94890e6b6a2" target="_blank" rel="noopener noreffer "><code>b431338</code></a> in My-Notes.</em></p>]]></description></item><item><title>Launcher</title><link>https://blog.emecas.net/posts/2019-04-21-launcher/</link><pubDate>Sun, 21 Apr 2019 16:14:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-21-launcher/</guid><description><![CDATA[<p>Launcher - MicroProfile implementation</p>
-<p><a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a></p>
+<p><a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a> <a class="star-note-link" href="/posts/2019-04-09-fujitsu-launcher/" title="fujitsu/launcher: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Launcher is one of MicroProfile implementations. Launcher 1.0 is conformed to MicroProfile 1.1 which includes CDI 1.2, JSON-P 1.0, JAX-RS 2.0 and MicroProfile Config 1.0 API. For the details of MicroProfile, please refer MicroProfile.</p>
 <p>In addition that, Launcher provides the feature to create a portable uber(fat) jar. For the details, please refer Usage.</p>
 <p><a href="https://github.com/fujitsu/launcher/releases" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher/releases</a></p>

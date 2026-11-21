@@ -18,7 +18,7 @@ Starting package install&hellip;<br>
 Path environment variable modified; restart your shell to use the new value.<br>
 Command line alias added: &ldquo;oha&rdquo;<br>
 Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
-<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a></p>
+<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>hey is a tiny program that sends some load to a web application.</p>
 <p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
 <p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>

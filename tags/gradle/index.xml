@@ -48,7 +48,7 @@ Java repository by MicroShed, created in 2018, with 27 stars and 13 forks. Licen
 <a href="https://github.com/MicroShed/boost" target="_blank" rel="noopener noreffer ">https://github.com/MicroShed/boost</a></p>
 <hr>
 <p><em>Source: starred on GitHub on 2019-04-16: <a href="https://github.com/MicroShed/boost" target="_blank" rel="noopener noreffer ">MicroShed/boost</a>.</em></p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
-<a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
+<a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a> <a class="star-note-link" href="/posts/2019-03-26-googlecontainertools-jib/" title="GoogleContainerTools/jib: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -<br>
 and without deep mastery of Docker best-practices.<br>
 It is available as plugins for Maven and Gradle and as a Java library.</p>

@@ -15,7 +15,7 @@ The open standard for telemetry</p>
 * **Broad Support:** It offers native SDKs for over 12 programming languages and features more than 900 integrations.</p>]]></description></item><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
 Java native API Gateway for service proxy, protocol conversion and API governance.<br>
 <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
-<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a> <a class="star-note-link" href="/posts/2021-01-16-apache-shenyu/" title="apache/shenyu: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Feature List</p>
 <p>- Language: provides .NET, Python, Go, Java client for API register<br>
 - Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>

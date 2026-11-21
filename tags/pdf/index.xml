@@ -11,7 +11,7 @@ Python repository by gaborvecsei, created in 2018, with 42 stars and 5 forks. St
 <a href="https://github.com/gaborvecsei/Pdf-Split-Merge" target="_blank" rel="noopener noreffer ">https://github.com/gaborvecsei/Pdf-Split-Merge</a></p>
 <hr>
 <p><em>Source: starred on GitHub on 2021-02-19: <a href="https://github.com/gaborvecsei/Pdf-Split-Merge" target="_blank" rel="noopener noreffer ">gaborvecsei/Pdf-Split-Merge</a>.</em></p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
-<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a><br>
+<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a> <a class="star-note-link" href="/posts/2020-05-24-kovidgoyal-calibre/" title="kovidgoyal/calibre: my star note">★&nbsp;star&nbsp;note</a><br>
 calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
 It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
 It is cross platform, running on Linux, Windows and macOS.</p>
@@ -37,9 +37,9 @@ Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud<br>
 (Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))<br>
 Post: <a href="https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/" target="_blank" rel="noopener noreffer ">https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/</a><br>
 reddit comments: <a href="https://reddit.com/comments/a65v5r" target="_blank" rel="noopener noreffer ">https://reddit.com/comments/a65v5r</a></p>
-<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
+<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a> <a class="star-note-link" href="/posts/2018-12-17-rtqichen-torchdiffeq/" title="rtqichen/torchdiffeq: my star note">★&nbsp;star&nbsp;note</a><br>
 And we&rsquo;ve written a follow-up paper applying this to generative density modeling:<br>
-Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>
+Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a> <a class="star-note-link" href="/posts/2018-12-17-rtqichen-ffjord/" title="rtqichen/ffjord: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cff11f0fcc7ddd107baf966c239282637af7a684" target="_blank" rel="noopener noreffer "><code>cff11f0</code></a> in My-Notes.</em></p>]]></description></item><item><title>WolfgangFahl/pdfindexer</title><link>https://blog.emecas.net/posts/2017-12-09-wolfgangfahl-pdfindexer/</link><pubDate>Sat, 09 Dec 2017 20:11:10 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-09-wolfgangfahl-pdfindexer/</guid><description><![CDATA[<p>WolfgangFahl/pdfindexer<br>
 Index and search PDF files using Apache Lucene and PDF Box<br>

@@ -15,7 +15,7 @@ Homepage: <a href="https://chanakaudaya.github.io/solution-architecture-patterns
 <a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">https://github.com/chanakaudaya/solution-architecture-patterns</a></p>
 <hr>
 <p><em>Source: starred on GitHub on 2024-06-01: <a href="https://github.com/chanakaudaya/solution-architecture-patterns" target="_blank" rel="noopener noreffer ">chanakaudaya/solution-architecture-patterns</a>.</em></p>]]></description></item><item><title>Solution Architecture Patterns | solution-architecture-patterns</title><link>https://blog.emecas.net/posts/2024-06-01-solution-architecture-patterns-solution-architecture-pattern/</link><pubDate>Sat, 01 Jun 2024 15:26:53 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-06-01-solution-architecture-patterns-solution-architecture-pattern/</guid><description><![CDATA[<p>Solution Architecture Patterns | solution-architecture-patterns<br>
-<a href="https://chanakaudaya.github.io/solution-architecture-patterns/" target="_blank" rel="noopener noreffer ">https://chanakaudaya.github.io/solution-architecture-patterns/</a></p>
+<a href="https://chanakaudaya.github.io/solution-architecture-patterns/" target="_blank" rel="noopener noreffer ">https://chanakaudaya.github.io/solution-architecture-patterns/</a> <a class="star-note-link" href="/posts/2024-06-01-chanakaudaya-solution-architecture-patterns/" title="chanakaudaya/solution-architecture-patterns: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Issue #176 in emecas/commitit, open, opened on 2024-06-01.<br>
 <a href="https://github.com/emecas/commitit/issues/176" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/176</a></p>
 <hr>
@@ -37,7 +37,7 @@ See Discussion.</p>
 <hr>
 <p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/51" target="_blank" rel="noopener noreffer ">#51</a> in emecas/commitit, opened on 2020-05-11.</em></p>]]></description></item><item><title>Design patterns implemented in Java</title><link>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</link><pubDate>Mon, 11 Feb 2019 11:03:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</guid><description><![CDATA[<p>Design patterns implemented in Java<br>
 <a href="https://java-design-patterns.com/" target="_blank" rel="noopener noreffer ">https://java-design-patterns.com/</a><br>
-Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a></p>
+Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a> <a class="star-note-link" href="/posts/2017-09-02-iluwatar-java-design-patterns/" title="iluwatar/java-design-patterns: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Introduction</p>
 <p>Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.</p>
 <p>Design patterns can speed up the development process by providing tested, proven development paradigms.</p>
@@ -61,7 +61,7 @@ bld/<br>
 <p>More refs:<br>
 <a href="https://git-scm.com/docs/gitignore" target="_blank" rel="noopener noreffer ">https://git-scm.com/docs/gitignore</a><br>
 <a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
-[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>
+[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a> <a class="star-note-link" href="/posts/2018-06-06-github-gitignore/" title="github/gitignore: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df05c293725e3941cfbe0f13f56b867cd4d777b9" target="_blank" rel="noopener noreffer "><code>df05c29</code></a> in My-Notes.</em></p>]]></description></item><item><title>Investigating the CQRS pattern using GraphQL and SPQR</title><link>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</link><pubDate>Wed, 30 Jan 2019 17:33:02 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-01-30-investigating-the-cqrs-pattern-using-graphql-and-spqr/</guid><description><![CDATA[<p>Investigating the CQRS pattern using GraphQL and SPQR<br>
 <a href="https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582" target="_blank" rel="noopener noreffer ">https://medium.com/@kenanderson_38113/the-cqrs-pattern-using-graphql-and-spqr-e69c57939582</a><br>

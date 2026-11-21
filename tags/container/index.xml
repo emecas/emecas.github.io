@@ -13,7 +13,7 @@ diagrams.net is open source, online, desktop and container deployable diagrammin
 <a href="https://app.diagrams.net/" target="_blank" rel="noopener noreffer ">https://app.diagrams.net/</a></p>
 <p>diagrams.net lets you create a wide range of diagrams, from simple tree and flow diagrams, to highly technical network, rack and electrical diagrams.</p>
 <p>It’s a free, online diagram editor and viewer with a wide variety of shapes, icons, connector and templates to help you get started quickly. It’s also feature-rich–experienced diagrammers will feel at home.</p>]]></description></item><item><title/><link>https://blog.emecas.net/posts/2020-02-29-note/</link><pubDate>Sat, 29 Feb 2020 00:23:18 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-29-note/</guid><description><![CDATA[<p>NVIDIA Container Toolkit<br>
-<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a><br>
+<a href="https://github.com/NVIDIA/nvidia-docker" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker</a> <a class="star-note-link" href="/posts/2020-02-29-nvidia-nvidia-docker/" title="NVIDIA/nvidia-docker: my star note">★&nbsp;star&nbsp;note</a><br>
 Build and run Docker containers leveraging NVIDIA GPUs<br>
 The NVIDIA Container Toolkit allows users to build and run GPU accelerated Docker containers. The toolkit includes a container runtime library and utilities to automatically configure containers to leverage NVIDIA GPUs.<br>
 <a href="https://github.com/NVIDIA/nvidia-docker/wiki" target="_blank" rel="noopener noreffer ">https://github.com/NVIDIA/nvidia-docker/wiki</a></p>
@@ -33,7 +33,7 @@ Go repository by GoogleContainerTools, created in 2018, with 15,749 stars and 1,
 <a href="https://github.com/GoogleContainerTools/kaniko" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/kaniko</a></p>
 <hr>
 <p><em>Source: starred on GitHub on 2019-04-11: <a href="https://github.com/GoogleContainerTools/kaniko" target="_blank" rel="noopener noreffer ">GoogleContainerTools/kaniko</a>.</em></p>]]></description></item><item><title>jib - Build container images for your Java applications</title><link>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</link><pubDate>Mon, 25 Mar 2019 20:08:01 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-jib-build-container-images-for-your-java-applications/</guid><description><![CDATA[<p>Jib<br>
-<a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a></p>
+<a href="https://github.com/GoogleContainerTools/jib" target="_blank" rel="noopener noreffer ">https://github.com/GoogleContainerTools/jib</a> <a class="star-note-link" href="/posts/2019-03-26-googlecontainertools-jib/" title="GoogleContainerTools/jib: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Jib builds optimized Docker and OCI images for your Java applications without a Docker daemon -<br>
 and without deep mastery of Docker best-practices.<br>
 It is available as plugins for Maven and Gradle and as a Java library.</p>

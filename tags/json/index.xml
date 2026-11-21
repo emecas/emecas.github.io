@@ -8,7 +8,7 @@ Homepage: <a href="https://json.nlohmann.me" target="_blank" rel="noopener noref
 <a href="https://excalidraw.com" target="_blank" rel="noopener noreffer ">https://excalidraw.com</a> to start sketching.<br>
 Virtual whiteboard for sketching hand-drawn like diagrams.<br>
 Read our blog: <a href="https://blog.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://blog.excalidraw.com/</a> and follow the guides: <a href="https://howto.excalidraw.com/" target="_blank" rel="noopener noreffer ">https://howto.excalidraw.com/</a> to learn more about Excalidraw and how to use it effectively.<br>
-repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a></p>
+repo: <a href="https://github.com/excalidraw/excalidraw" target="_blank" rel="noopener noreffer ">https://github.com/excalidraw/excalidraw</a> <a class="star-note-link" href="/posts/2020-10-24-excalidraw-excalidraw/" title="excalidraw/excalidraw: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/c7362c09fb3e7fbfafb2978b9bbd1abfb2431843" target="_blank" rel="noopener noreffer "><code>c7362c0</code></a> in My-Notes.</em></p>]]></description></item><item><title>GraphQL - Serving over HTTP</title><link>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</link><pubDate>Mon, 17 Aug 2020 21:58:23 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-08-17-graphql-serving-over-http/</guid><description><![CDATA[<p>GraphQL - Serving over HTTP<br>
 <a href="https://graphql.org/learn/serving-over-http/" target="_blank" rel="noopener noreffer ">https://graphql.org/learn/serving-over-http/</a><br>

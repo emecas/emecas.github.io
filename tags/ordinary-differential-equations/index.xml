@@ -4,8 +4,8 @@ Ricky T. Q. Chen, Yulia Rubanova, Jesse Bettencourt, David Duvenaud<br>
 (Submitted on 19 Jun 2018 (v1), last revised 22 Oct 2018 (this version, v3))<br>
 Post: <a href="https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/" target="_blank" rel="noopener noreffer ">https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/</a><br>
 reddit comments: <a href="https://reddit.com/comments/a65v5r" target="_blank" rel="noopener noreffer ">https://reddit.com/comments/a65v5r</a></p>
-<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a><br>
+<p>We&rsquo;ve also released code: <a href="https://github.com/rtqichen/torchdiffeq" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/torchdiffeq</a> <a class="star-note-link" href="/posts/2018-12-17-rtqichen-torchdiffeq/" title="rtqichen/torchdiffeq: my star note">★&nbsp;star&nbsp;note</a><br>
 And we&rsquo;ve written a follow-up paper applying this to generative density modeling:<br>
-Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a></p>
+Paper: <a href="https://arxiv.org/abs/1810.01367" target="_blank" rel="noopener noreffer ">https://arxiv.org/abs/1810.01367</a> Code: <a href="https://github.com/rtqichen/ffjord" target="_blank" rel="noopener noreffer ">https://github.com/rtqichen/ffjord</a> <a class="star-note-link" href="/posts/2018-12-17-rtqichen-ffjord/" title="rtqichen/ffjord: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/cff11f0fcc7ddd107baf966c239282637af7a684" target="_blank" rel="noopener noreffer "><code>cff11f0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>

@@ -23,7 +23,7 @@
 &lt;/plugin&gt;</p>
 <p>Other Ref: <a href="https://plantuml.com/doclet" target="_blank" rel="noopener noreffer ">https://plantuml.com/doclet</a></p>
 <p>UMLDoclet<br>
-<a href="https://github.com/talsma-ict/umldoclet" target="_blank" rel="noopener noreffer ">https://github.com/talsma-ict/umldoclet</a></p>
+<a href="https://github.com/talsma-ict/umldoclet" target="_blank" rel="noopener noreffer ">https://github.com/talsma-ict/umldoclet</a> <a class="star-note-link" href="/posts/2020-08-20-talsma-ict-umldoclet/" title="talsma-ict/umldoclet: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>An open source doclet is now available on github..</p>
 <p>It&rsquo;s also available in Maven central for easy inclusion in any java projects.</p>
 <p>Usage:</p>

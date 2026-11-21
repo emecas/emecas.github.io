@@ -6,7 +6,7 @@ Homepage: <a href="https://doppler.com" target="_blank" rel="noopener noreffer "
 <hr>
 <p><em>Source: starred on GitHub on 2020-09-06: <a href="https://github.com/DopplerHQ/awesome-interview-questions" target="_blank" rel="noopener noreffer ">DopplerHQ/awesome-interview-questions</a>.</em></p>]]></description></item><item><title>Design patterns implemented in Java</title><link>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</link><pubDate>Mon, 11 Feb 2019 11:03:25 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-11-design-patterns-implemented-in-java/</guid><description><![CDATA[<p>Design patterns implemented in Java<br>
 <a href="https://java-design-patterns.com/" target="_blank" rel="noopener noreffer ">https://java-design-patterns.com/</a><br>
-Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a></p>
+Repo: <a href="https://github.com/iluwatar/java-design-patterns" target="_blank" rel="noopener noreffer ">https://github.com/iluwatar/java-design-patterns</a> <a class="star-note-link" href="/posts/2017-09-02-iluwatar-java-design-patterns/" title="iluwatar/java-design-patterns: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Introduction</p>
 <p>Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system.</p>
 <p>Design patterns can speed up the development process by providing tested, proven development paradigms.</p>

@@ -12,7 +12,7 @@ Python repository by microsoft, created in 2020, with 2,969 stars and 331 forks.
 <p><em>Source: starred on GitHub on 2025-05-25: <a href="https://github.com/microsoft/restler-fuzzer" target="_blank" rel="noopener noreffer ">microsoft/restler-fuzzer</a>.</em></p>]]></description></item><item><title>Apache Shenyu</title><link>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</link><pubDate>Mon, 24 Feb 2025 23:49:33 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-02-24-apache-shenyu/</guid><description><![CDATA[<p>Apache Shenyu<br>
 Java native API Gateway for service proxy, protocol conversion and API governance.<br>
 <a href="https://shenyu.apache.org/" target="_blank" rel="noopener noreffer ">https://shenyu.apache.org/</a></p>
-<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a></p>
+<p><a href="https://github.com/apache/shenyu" target="_blank" rel="noopener noreffer ">https://github.com/apache/shenyu</a> <a class="star-note-link" href="/posts/2021-01-16-apache-shenyu/" title="apache/shenyu: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Feature List</p>
 <p>- Language: provides .NET, Python, Go, Java client for API register<br>
 - Proxy: Support for Apache® Dubbo™, Spring Cloud, gRPC, Motan, SOFA, TARS, WebSocket, MQTT<br>
@@ -33,7 +33,7 @@ HTML repository by rohitbhardwaj, created in 2023, with 21 stars and 33 forks. S
 <hr>
 <p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/172" target="_blank" rel="noopener noreffer ">#172</a> in emecas/commitit, opened on 2024-05-04.</em></p>]]></description></item><item><title>Rescuing REST From the API Winter</title><link>https://blog.emecas.net/posts/2024-05-04-rescuing-rest-from-the-api-winter/</link><pubDate>Sat, 04 May 2024 21:57:09 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-04-rescuing-rest-from-the-api-winter/</guid><description><![CDATA[<p>Rescuing REST From the API Winter<br>
 <a href="https://intercoolerjs.org/2016/01/18/rescuing-rest.html?s=09" target="_blank" rel="noopener noreffer ">https://intercoolerjs.org/2016/01/18/rescuing-rest.html?s=09</a></p>
-<p><a href="https://github.com/bigskysoftware/intercooler-js" target="_blank" rel="noopener noreffer ">https://github.com/bigskysoftware/intercooler-js</a></p>
+<p><a href="https://github.com/bigskysoftware/intercooler-js" target="_blank" rel="noopener noreffer ">https://github.com/bigskysoftware/intercooler-js</a> <a class="star-note-link" href="/posts/2024-05-04-bigskysoftware-intercooler-js/" title="bigskysoftware/intercooler-js: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Issue #170 in emecas/commitit, open, opened on 2024-05-04.<br>
 <a href="https://github.com/emecas/commitit/issues/170" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/170</a></p>
 <hr>
@@ -43,7 +43,7 @@ HTML repository by rohitbhardwaj, created in 2023, with 21 stars and 33 forks. S
 <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/153</a></p>
 <hr>
 <p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/153" target="_blank" rel="noopener noreffer ">#153</a> in emecas/commitit, opened on 2024-03-30.</em></p>]]></description></item><item><title>DevDocs</title><link>https://blog.emecas.net/posts/2024-03-02-devdocs/</link><pubDate>Sat, 02 Mar 2024 17:14:29 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-03-02-devdocs/</guid><description><![CDATA[<p>DevDocs<br>
-<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a></p>
+<a href="https://github.com/freeCodeCamp/devdocs" target="_blank" rel="noopener noreffer ">https://github.com/freeCodeCamp/devdocs</a> <a class="star-note-link" href="/posts/2024-03-02-freecodecamp-devdocs/" title="freeCodeCamp/devdocs: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>La «navaja suiza» de las documentaciones de APIs<br>
 ¿Qué necesitas? ¿React Native? ¿Vue? ¿QUnit? Tranqui que está TOOOOODO aquí. DevDocs combina múltiples documentaciones de API en una interfaz rápida, organizada y que permite realizar búsquedas para que puedas reducir tiempos y centrarte en picar código. 🙌</p>
 <p>Issue #139 in emecas/commitit, open, opened on 2024-03-02.<br>

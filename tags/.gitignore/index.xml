@@ -18,7 +18,7 @@ bld/<br>
 <p>More refs:<br>
 <a href="https://git-scm.com/docs/gitignore" target="_blank" rel="noopener noreffer ">https://git-scm.com/docs/gitignore</a><br>
 <a href="http://man7.org/linux/man-pages/man3/fnmatch.3.html" target="_blank" rel="noopener noreffer ">http://man7.org/linux/man-pages/man3/fnmatch.3.html</a><br>
-[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a></p>
+[TC] Repo: <a href="https://github.com/github/gitignore" target="_blank" rel="noopener noreffer ">https://github.com/github/gitignore</a> <a class="star-note-link" href="/posts/2018-06-06-github-gitignore/" title="github/gitignore: my star note">★&nbsp;star&nbsp;note</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df05c293725e3941cfbe0f13f56b867cd4d777b9" target="_blank" rel="noopener noreffer "><code>df05c29</code></a> in My-Notes.</em></p>]]></description></item><item><title>github/gitignore</title><link>https://blog.emecas.net/posts/2018-06-06-github-gitignore/</link><pubDate>Wed, 06 Jun 2018 14:35:39 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2018-06-06-github-gitignore/</guid><description><![CDATA[<p>github/gitignore<br>
 A collection of useful .gitignore templates<br>

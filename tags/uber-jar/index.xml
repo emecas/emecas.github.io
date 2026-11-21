@@ -5,7 +5,7 @@ Thorntail offers an innovative approach to packaging and running Java EE applica
 examples: <a href="https://github.com/thorntail/thorntail-examples" target="_blank" rel="noopener noreffer ">https://github.com/thorntail/thorntail-examples</a></p>
 <p>Mature<br>
 Develop services using the feature richness and maturity of the enterprise Java industry standard - Java EE</p>]]></description></item><item><title>Launcher</title><link>https://blog.emecas.net/posts/2019-04-21-launcher/</link><pubDate>Sun, 21 Apr 2019 16:14:41 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-04-21-launcher/</guid><description><![CDATA[<p>Launcher - MicroProfile implementation</p>
-<p><a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a></p>
+<p><a href="https://github.com/fujitsu/launcher" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher</a> <a class="star-note-link" href="/posts/2019-04-09-fujitsu-launcher/" title="fujitsu/launcher: my star note">★&nbsp;star&nbsp;note</a></p>
 <p>Launcher is one of MicroProfile implementations. Launcher 1.0 is conformed to MicroProfile 1.1 which includes CDI 1.2, JSON-P 1.0, JAX-RS 2.0 and MicroProfile Config 1.0 API. For the details of MicroProfile, please refer MicroProfile.</p>
 <p>In addition that, Launcher provides the feature to create a portable uber(fat) jar. For the details, please refer Usage.</p>
 <p><a href="https://github.com/fujitsu/launcher/releases" target="_blank" rel="noopener noreffer ">https://github.com/fujitsu/launcher/releases</a></p>
