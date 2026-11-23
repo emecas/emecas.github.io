@@ -1,4 +1,8 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Testing and Code Quality - Category - My Notes</title><link>https://blog.emecas.net/categories/testing-and-code-quality/</link><description>Testing and Code Quality - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Oct 2024 13:08:24 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/categories/testing-and-code-quality/" rel="self" type="application/rss+xml"/><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Testing and Code Quality - Category - My Notes</title><link>https://blog.emecas.net/categories/testing-and-code-quality/</link><description>Testing and Code Quality - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Nov 2026 20:31:20 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/testing-and-code-quality/" rel="self" type="application/rss+xml"/><item><title>Measuring and improving the quality of my notes</title><link>https://blog.emecas.net/posts/2026-11-22-measuring-and-improving-the-quality-of-my-notes/</link><pubDate>Sun, 22 Nov 2026 20:31:20 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-measuring-and-improving-the-quality-of-my-notes/</guid><description>&lt;p>This blog started as a text file. For more than ten years I kept short notes in one file, &lt;code>Index.txt&lt;/code>,
+in a Git repository: a title, a link, sometimes a line or two about why it mattered. Later came notes
+from the repositories I star on GitHub, from issues I open as reminders, and from articles. Today
+there are 1,432 of them on this site, and more are coming: I have more than 20 other data sources still
+to process and include, such as bookmarks, podcast notes, notes on my favorite blogs and the books I read.&lt;/p></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
 <a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
 Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
 <p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
@@ -70,23 +74,4 @@ Python repository by pybuilder, created in 2012, with 2,067 stars and 276 forks.
 Homepage: <a href="https://pybuilder.io" target="_blank" rel="noopener noreffer ">https://pybuilder.io</a><br>
 <a href="https://github.com/pybuilder/pybuilder" target="_blank" rel="noopener noreffer ">https://github.com/pybuilder/pybuilder</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2023-08-11: <a href="https://github.com/pybuilder/pybuilder" target="_blank" rel="noopener noreffer ">pybuilder/pybuilder</a>.</em></p>]]></description></item><item><title>git commit -m "Order Test Execution JUnit5 [blogpost] [junit5] [annotations] [testing]"</title><link>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</link><pubDate>Fri, 25 Jun 2021 17:37:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-06-25-git-commit-m-order-test-execution-junit5-blogpost-junit5-ann/</guid><description><![CDATA[<p>Order Test Execution in JUnit5 Jupiter<br>
-<a href="https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26" target="_blank" rel="noopener noreffer ">https://medium.com/pareture/order-test-execution-in-junit5-jupiter-e3d61ab15f26</a></p>
-<p>import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;<br>
-import org.junit.jupiter.api.Order;</p>
-<p>@TestMethodOrder(OrderAnnotation.class)<br>
-public class TestSuite1<br>
-{<br>
-@Test<br>
-@Order(1)<br>
-public void test1() throws InterruptedException<br>
-{<br>
-&hellip;<br>
-@Test<br>
-@Order(2)<br>
-public void test2() throws InterruptedException<br>
-{<br>
-&hellip;<br>
-&hellip;</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3741e5e23d4fdf2a70197b6b05e08b2e554fc80b" target="_blank" rel="noopener noreffer "><code>3741e5e</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2023-08-11: <a href="https://github.com/pybuilder/pybuilder" target="_blank" rel="noopener noreffer ">pybuilder/pybuilder</a>.</em></p>]]></description></item></channel></rss>
