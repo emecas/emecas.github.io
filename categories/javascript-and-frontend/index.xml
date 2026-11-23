@@ -1,4 +1,16 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JavaScript and Frontend - Category - My Notes</title><link>https://blog.emecas.net/categories/javascript-and-frontend/</link><description>JavaScript and Frontend - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 18 Sep 2026 16:09:04 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/javascript-and-frontend/" rel="self" type="application/rss+xml"/><item><title>louislam/uptime-kuma</title><link>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</link><pubDate>Fri, 18 Sep 2026 16:09:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</guid><description><![CDATA[<p>louislam/uptime-kuma<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>JavaScript and Frontend - Category - My Notes</title><link>https://blog.emecas.net/categories/javascript-and-frontend/</link><description>JavaScript and Frontend - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Nov 2026 03:42:56 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/javascript-and-frontend/" rel="self" type="application/rss+xml"/><item><title>conorbronsdon/avoid-ai-writing</title><link>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</link><pubDate>Sun, 22 Nov 2026 03:42:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</guid><description><![CDATA[<p>conorbronsdon/avoid-ai-writing<br>
+Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.<br>
+JavaScript repository by conorbronsdon, created in 2026, with 5,997 stars and 496 forks. License: MIT. Starred on 2026-11-22.<br>
+Homepage: <a href="https://chainofthought.show/go/avoid-ai-writing/" target="_blank" rel="noopener noreffer ">https://chainofthought.show/go/avoid-ai-writing/</a><br>
+<a href="https://github.com/conorbronsdon/avoid-ai-writing" target="_blank" rel="noopener noreffer ">https://github.com/conorbronsdon/avoid-ai-writing</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-22: <a href="https://github.com/conorbronsdon/avoid-ai-writing" target="_blank" rel="noopener noreffer ">conorbronsdon/avoid-ai-writing</a>.</em></p>]]></description></item><item><title>universal-tool-calling-protocol/utcp-specification</title><link>https://blog.emecas.net/posts/2026-11-21-universal-tool-calling-protocol-utcp-specification/</link><pubDate>Sat, 21 Nov 2026 13:34:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-21-universal-tool-calling-protocol-utcp-specification/</guid><description><![CDATA[<p>universal-tool-calling-protocol/utcp-specification<br>
+The specification for the Universal Tool Calling Protocol<br>
+TypeScript repository by universal-tool-calling-protocol, created in 2025, with 339 stars and 33 forks. Starred on 2026-11-21.<br>
+Homepage: <a href="https://www.utcp.io/" target="_blank" rel="noopener noreffer ">https://www.utcp.io/</a><br>
+<a href="https://github.com/universal-tool-calling-protocol/utcp-specification" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol/utcp-specification</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-21: <a href="https://github.com/universal-tool-calling-protocol/utcp-specification" target="_blank" rel="noopener noreffer ">universal-tool-calling-protocol/utcp-specification</a>.</em></p>]]></description></item><item><title>louislam/uptime-kuma</title><link>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</link><pubDate>Fri, 18 Sep 2026 16:09:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-18-louislam-uptime-kuma/</guid><description><![CDATA[<p>louislam/uptime-kuma<br>
 A fancy self-hosted monitoring tool<br>
 JavaScript repository by louislam, created in 2021, with 93,475 stars and 8,693 forks. License: MIT. Starred on 2026-09-18.<br>
 Homepage: <a href="https://uptime.kuma.pet" target="_blank" rel="noopener noreffer ">https://uptime.kuma.pet</a><br>
@@ -42,16 +54,4 @@ AI-powered Postgres Client<br>
 TypeScript repository by NickTikhonov, created in 2025, with 492 stars and 25 forks. License: MIT. Starred on 2025-06-21.<br>
 <a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">https://github.com/NickTikhonov/snap-ql</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">NickTikhonov/snap-ql</a>.</em></p>]]></description></item><item><title>Automattic/harper</title><link>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</link><pubDate>Sat, 21 Jun 2025 01:39:45 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-06-21-automattic-harper/</guid><description><![CDATA[<p>Automattic/harper<br>
-Offline, privacy-first grammar checker. Fast, open-source, Rust-powered<br>
-Rust repository by Automattic, created in 2023, with 17,575 stars and 815 forks. License: Apache-2.0. Starred on 2025-06-21.<br>
-Homepage: <a href="https://writewithharper.com" target="_blank" rel="noopener noreffer ">https://writewithharper.com</a><br>
-<a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">https://github.com/Automattic/harper</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">Automattic/harper</a>.</em></p>]]></description></item><item><title>alumnium-hq/alumnium</title><link>https://blog.emecas.net/posts/2025-05-20-alumnium-hq-alumnium/</link><pubDate>Tue, 20 May 2025 03:41:35 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2025-05-20-alumnium-hq-alumnium/</guid><description><![CDATA[<p>alumnium-hq/alumnium<br>
-End-to-End Testing Harness<br>
-TypeScript repository by alumnium-hq, created in 2024, with 1,022 stars and 103 forks. License: MIT. Starred on 2025-05-20.<br>
-Homepage: <a href="https://alumnium.ai" target="_blank" rel="noopener noreffer ">https://alumnium.ai</a><br>
-<a href="https://github.com/alumnium-hq/alumnium" target="_blank" rel="noopener noreffer ">https://github.com/alumnium-hq/alumnium</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2025-05-20: <a href="https://github.com/alumnium-hq/alumnium" target="_blank" rel="noopener noreffer ">alumnium-hq/alumnium</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/NickTikhonov/snap-ql" target="_blank" rel="noopener noreffer ">NickTikhonov/snap-ql</a>.</em></p>]]></description></item></channel></rss>

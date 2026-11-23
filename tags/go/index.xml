@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Go - Tag - My Notes</title><link>https://blog.emecas.net/tags/go/</link><description>Go - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Apr 2026 11:02:51 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/go/" rel="self" type="application/rss+xml"/><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Go - Tag - My Notes</title><link>https://blog.emecas.net/tags/go/</link><description>Go - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Nov 2026 03:42:15 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/go/" rel="self" type="application/rss+xml"/><item><title>opensandbox-group/OpenSandbox</title><link>https://blog.emecas.net/posts/2026-11-22-opensandbox-group-opensandbox/</link><pubDate>Sun, 22 Nov 2026 03:42:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-opensandbox-group-opensandbox/</guid><description><![CDATA[<p>opensandbox-group/OpenSandbox<br>
+Secure, Fast, and Extensible Sandbox runtime for AI agents.<br>
+Go repository by opensandbox-group, created in 2025, with 17,810 stars and 1,720 forks. License: Apache-2.0. Starred on 2026-11-22.<br>
+Homepage: <a href="https://open-sandbox.ai" target="_blank" rel="noopener noreffer ">https://open-sandbox.ai</a><br>
+<a href="https://github.com/opensandbox-group/OpenSandbox" target="_blank" rel="noopener noreffer ">https://github.com/opensandbox-group/OpenSandbox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-22: <a href="https://github.com/opensandbox-group/OpenSandbox" target="_blank" rel="noopener noreffer ">opensandbox-group/OpenSandbox</a>.</em></p>]]></description></item><item><title>jesseduffield/lazygit</title><link>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</link><pubDate>Wed, 08 Apr 2026 11:02:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-04-08-jesseduffield-lazygit/</guid><description><![CDATA[<p>jesseduffield/lazygit<br>
 simple terminal UI for git commands<br>
 Go repository by jesseduffield, created in 2018, with 83,812 stars and 3,253 forks. License: MIT. Starred on 2026-04-08.<br>
 <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">https://github.com/jesseduffield/lazygit</a></p>
@@ -48,9 +54,4 @@ Go repository by FerretDB, created in 2021, with 11,117 stars and 498 forks. Lic
 Homepage: <a href="https://www.ferretdb.com" target="_blank" rel="noopener noreffer ">https://www.ferretdb.com</a><br>
 <a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">https://github.com/FerretDB/FerretDB</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2023-05-31: <a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">FerretDB/FerretDB</a>.</em></p>]]></description></item><item><title>wagoodman/dive</title><link>https://blog.emecas.net/posts/2021-03-11-wagoodman-dive/</link><pubDate>Thu, 11 Mar 2021 17:22:14 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2021-03-11-wagoodman-dive/</guid><description><![CDATA[<p>wagoodman/dive<br>
-A tool for exploring each layer in a docker image<br>
-Go repository by wagoodman, created in 2018, with 54,718 stars and 2,011 forks. License: MIT. Starred on 2021-03-11.<br>
-<a href="https://github.com/wagoodman/dive" target="_blank" rel="noopener noreffer ">https://github.com/wagoodman/dive</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2021-03-11: <a href="https://github.com/wagoodman/dive" target="_blank" rel="noopener noreffer ">wagoodman/dive</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2023-05-31: <a href="https://github.com/FerretDB/FerretDB" target="_blank" rel="noopener noreffer ">FerretDB/FerretDB</a>.</em></p>]]></description></item></channel></rss>

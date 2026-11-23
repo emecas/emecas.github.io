@@ -1,4 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Web and APIs - Category - My Notes</title><link>https://blog.emecas.net/categories/web-and-apis/</link><description>Web and APIs - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 14 Sep 2026 23:05:26 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/web-and-apis/" rel="self" type="application/rss+xml"/><item><title>ripienaar/free-for-dev</title><link>https://blog.emecas.net/posts/2026-09-14-ripienaar-free-for-dev/</link><pubDate>Mon, 14 Sep 2026 23:05:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-ripienaar-free-for-dev/</guid><description><![CDATA[<p>ripienaar/free-for-dev<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Web and APIs - Category - My Notes</title><link>https://blog.emecas.net/categories/web-and-apis/</link><description>Web and APIs - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 21 Nov 2026 14:20:16 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/web-and-apis/" rel="self" type="application/rss+xml"/><item><title>Universal Tool Calling Protocol (UTCP)</title><link>https://blog.emecas.net/posts/2026-11-21-universal-tool-calling-protocol-utcp/</link><pubDate>Sat, 21 Nov 2026 14:20:16 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-21-universal-tool-calling-protocol-utcp/</guid><description><![CDATA[<p>Universal Tool Calling Protocol (UTCP)<br>
+Universal Tool Calling Protocol (UTCP)<br>
+<a href="https://www.utcp.io/" target="_blank" rel="noopener noreffer ">https://www.utcp.io/</a></p>
+<p>Spec: <a href="https://github.com/universal-tool-calling-protocol/utcp-specification" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol/utcp-specification</a> <a class="star-note-link" href="/posts/2026-11-21-universal-tool-calling-protocol-utcp-specification/" title="universal-tool-calling-protocol/utcp-specification: my star note">★&nbsp;star&nbsp;note</a></p>
+<p>Version: 1.1<br>
+Universal Tool Calling Protocol (UTCP)<br>
+Language Examples</p>
+<p>UTCP is available in multiple languages - see Python: <a href="https://github.com/universal-tool-calling-protocol/python-utcp" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol/python-utcp</a>, TypeScript: <a href="https://github.com/universal-tool-calling-protocol/typescript-utcp" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol/typescript-utcp</a>, Go: <a href="https://github.com/universal-tool-calling-protocol/go-utcp" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol/go-utcp</a>, and other implementations in the UTCP GitHub organization: <a href="https://github.com/universal-tool-calling-protocol" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol</a>.</p>
+<p>UTCP is a lightweight, secure, and scalable standard that enables AI agents and applications to discover and call tools directly using their native protocols - no wrapper servers required.</p>]]></description></item><item><title>ripienaar/free-for-dev</title><link>https://blog.emecas.net/posts/2026-09-14-ripienaar-free-for-dev/</link><pubDate>Mon, 14 Sep 2026 23:05:26 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-14-ripienaar-free-for-dev/</guid><description><![CDATA[<p>ripienaar/free-for-dev<br>
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev<br>
 HTML repository by ripienaar, created in 2015, with 142,526 stars and 15,325 forks. Starred on 2026-09-14.<br>
 Homepage: <a href="https://free-for.dev/" target="_blank" rel="noopener noreffer ">https://free-for.dev/</a><br>
@@ -66,12 +74,4 @@ Successfully verified installer hash<br>
 Starting package install&hellip;<br>
 Path environment variable modified; restart your shell to use the new value.<br>
 Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
-<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
-<p>hey is a tiny program that sends some load to a web application.</p>
-<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
-<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
-To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Successfully installed</p>]]></description></item></channel></rss>

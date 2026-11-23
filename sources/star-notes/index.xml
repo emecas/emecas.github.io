@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Star Notes - Source - My Notes</title><link>https://blog.emecas.net/sources/star-notes/</link><description>Star Notes - Source - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Nov 2026 15:10:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/sources/star-notes/" rel="self" type="application/rss+xml"/><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Star Notes - Source - My Notes</title><link>https://blog.emecas.net/sources/star-notes/</link><description>Star Notes - Source - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Nov 2026 03:42:56 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/sources/star-notes/" rel="self" type="application/rss+xml"/><item><title>conorbronsdon/avoid-ai-writing</title><link>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</link><pubDate>Sun, 22 Nov 2026 03:42:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</guid><description><![CDATA[<p>conorbronsdon/avoid-ai-writing<br>
+Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.<br>
+JavaScript repository by conorbronsdon, created in 2026, with 5,997 stars and 496 forks. License: MIT. Starred on 2026-11-22.<br>
+Homepage: <a href="https://chainofthought.show/go/avoid-ai-writing/" target="_blank" rel="noopener noreffer ">https://chainofthought.show/go/avoid-ai-writing/</a><br>
+<a href="https://github.com/conorbronsdon/avoid-ai-writing" target="_blank" rel="noopener noreffer ">https://github.com/conorbronsdon/avoid-ai-writing</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-22: <a href="https://github.com/conorbronsdon/avoid-ai-writing" target="_blank" rel="noopener noreffer ">conorbronsdon/avoid-ai-writing</a>.</em></p>]]></description></item><item><title>opensandbox-group/OpenSandbox</title><link>https://blog.emecas.net/posts/2026-11-22-opensandbox-group-opensandbox/</link><pubDate>Sun, 22 Nov 2026 03:42:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-opensandbox-group-opensandbox/</guid><description><![CDATA[<p>opensandbox-group/OpenSandbox<br>
+Secure, Fast, and Extensible Sandbox runtime for AI agents.<br>
+Go repository by opensandbox-group, created in 2025, with 17,810 stars and 1,720 forks. License: Apache-2.0. Starred on 2026-11-22.<br>
+Homepage: <a href="https://open-sandbox.ai" target="_blank" rel="noopener noreffer ">https://open-sandbox.ai</a><br>
+<a href="https://github.com/opensandbox-group/OpenSandbox" target="_blank" rel="noopener noreffer ">https://github.com/opensandbox-group/OpenSandbox</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-22: <a href="https://github.com/opensandbox-group/OpenSandbox" target="_blank" rel="noopener noreffer ">opensandbox-group/OpenSandbox</a>.</em></p>]]></description></item><item><title>universal-tool-calling-protocol/utcp-specification</title><link>https://blog.emecas.net/posts/2026-11-21-universal-tool-calling-protocol-utcp-specification/</link><pubDate>Sat, 21 Nov 2026 13:34:19 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-21-universal-tool-calling-protocol-utcp-specification/</guid><description><![CDATA[<p>universal-tool-calling-protocol/utcp-specification<br>
+The specification for the Universal Tool Calling Protocol<br>
+TypeScript repository by universal-tool-calling-protocol, created in 2025, with 339 stars and 33 forks. Starred on 2026-11-21.<br>
+Homepage: <a href="https://www.utcp.io/" target="_blank" rel="noopener noreffer ">https://www.utcp.io/</a><br>
+<a href="https://github.com/universal-tool-calling-protocol/utcp-specification" target="_blank" rel="noopener noreffer ">https://github.com/universal-tool-calling-protocol/utcp-specification</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-21: <a href="https://github.com/universal-tool-calling-protocol/utcp-specification" target="_blank" rel="noopener noreffer ">universal-tool-calling-protocol/utcp-specification</a>.</em></p>]]></description></item><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
 Penpot: The open-source design platform for Product teams that need scalable collaboration.<br>
 Clojure repository by penpot, created in 2015, with 62,590 stars and 4,434 forks. License: MPL-2.0. Starred on 2026-11-18.<br>
 Homepage: <a href="https://penpot.app" target="_blank" rel="noopener noreffer ">https://penpot.app</a><br>
@@ -36,22 +54,4 @@ Rust repository by fabio-rovai, created in 2026, with 2,870 stars and 323 forks.
 Homepage: <a href="https://tesseractsemantics.com" target="_blank" rel="noopener noreffer ">https://tesseractsemantics.com</a><br>
 <a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">https://github.com/fabio-rovai/open-ontologies</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-10-10: <a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">fabio-rovai/open-ontologies</a>.</em></p>]]></description></item><item><title>paperless-ngx/paperless-ngx</title><link>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</link><pubDate>Fri, 09 Oct 2026 02:16:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</guid><description><![CDATA[<p>paperless-ngx/paperless-ngx<br>
-A community-supported supercharged document management system: scan, index and archive all your documents<br>
-Python repository by paperless-ngx, created in 2022, with 47,991 stars and 3,373 forks. License: GPL-3.0. Starred on 2026-10-09.<br>
-Homepage: <a href="http://docs.paperless-ngx.com/" target="_blank" rel="noopener noreffer ">http://docs.paperless-ngx.com/</a><br>
-<a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">https://github.com/paperless-ngx/paperless-ngx</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-10-09: <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">paperless-ngx/paperless-ngx</a>.</em></p>]]></description></item><item><title>davidgasquez/awesome-duckdb</title><link>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</link><pubDate>Wed, 07 Oct 2026 01:37:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-07-davidgasquez-awesome-duckdb/</guid><description><![CDATA[<p>davidgasquez/awesome-duckdb<br>
-🦆 A curated list of awesome DuckDB resources<br>
-Repository by davidgasquez, created in 2023, with 2,545 stars and 267 forks. License: CC0-1.0. Starred on 2026-10-07.<br>
-Homepage: <a href="https://davidgasquez.github.io/awesome-duckdb/" target="_blank" rel="noopener noreffer ">https://davidgasquez.github.io/awesome-duckdb/</a><br>
-<a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">https://github.com/davidgasquez/awesome-duckdb</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-10-07: <a href="https://github.com/davidgasquez/awesome-duckdb" target="_blank" rel="noopener noreffer ">davidgasquez/awesome-duckdb</a>.</em></p>]]></description></item><item><title>debpalash/VoiceStudio</title><link>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</link><pubDate>Sun, 27 Sep 2026 13:22:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</guid><description><![CDATA[<p>debpalash/VoiceStudio<br>
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br>
-Python repository by debpalash, created in 2026, with 107,396 stars and 11,902 forks. License: AGPL-3.0. Starred on 2026-09-27.<br>
-Homepage: <a href="https://voicestudio.sh" target="_blank" rel="noopener noreffer ">https://voicestudio.sh</a><br>
-<a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">https://github.com/debpalash/VoiceStudio</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-09-27: <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">debpalash/VoiceStudio</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-10-10: <a href="https://github.com/fabio-rovai/open-ontologies" target="_blank" rel="noopener noreffer ">fabio-rovai/open-ontologies</a>.</em></p>]]></description></item></channel></rss>

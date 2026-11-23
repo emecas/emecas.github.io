@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Code - Tag - My Notes</title><link>https://blog.emecas.net/tags/code/</link><description>Code - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Aug 2026 18:55:00 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/code/" rel="self" type="application/rss+xml"/><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Code - Tag - My Notes</title><link>https://blog.emecas.net/tags/code/</link><description>Code - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Nov 2026 03:42:56 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/code/" rel="self" type="application/rss+xml"/><item><title>conorbronsdon/avoid-ai-writing</title><link>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</link><pubDate>Sun, 22 Nov 2026 03:42:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</guid><description><![CDATA[<p>conorbronsdon/avoid-ai-writing<br>
+Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.<br>
+JavaScript repository by conorbronsdon, created in 2026, with 5,997 stars and 496 forks. License: MIT. Starred on 2026-11-22.<br>
+Homepage: <a href="https://chainofthought.show/go/avoid-ai-writing/" target="_blank" rel="noopener noreffer ">https://chainofthought.show/go/avoid-ai-writing/</a><br>
+<a href="https://github.com/conorbronsdon/avoid-ai-writing" target="_blank" rel="noopener noreffer ">https://github.com/conorbronsdon/avoid-ai-writing</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-22: <a href="https://github.com/conorbronsdon/avoid-ai-writing" target="_blank" rel="noopener noreffer ">conorbronsdon/avoid-ai-writing</a>.</em></p>]]></description></item><item><title>aaif-goose/goose</title><link>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</link><pubDate>Mon, 31 Aug 2026 18:55:00 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-31-aaif-goose-goose/</guid><description><![CDATA[<p>aaif-goose/goose<br>
 an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM<br>
 Rust repository by aaif-goose, created in 2024, with 56,440 stars and 6,576 forks. License: Apache-2.0. Starred on 2026-08-31.<br>
 Homepage: <a href="https://goose-docs.ai/" target="_blank" rel="noopener noreffer ">https://goose-docs.ai/</a><br>
@@ -48,11 +54,4 @@ Lisp code for the textbook &ldquo;Paradigms of Artificial Intelligence Programmi
 Common Lisp repository by norvig, created in 2018, with 7,524 stars and 720 forks. License: MIT. Starred on 2024-04-06.<br>
 <a href="https://github.com/norvig/paip-lisp" target="_blank" rel="noopener noreffer ">https://github.com/norvig/paip-lisp</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-04-06: <a href="https://github.com/norvig/paip-lisp" target="_blank" rel="noopener noreffer ">norvig/paip-lisp</a>.</em></p>]]></description></item><item><title>Qodana</title><link>https://blog.emecas.net/posts/2024-02-29-qodana/</link><pubDate>Thu, 29 Feb 2024 10:15:29 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-02-29-qodana/</guid><description><![CDATA[<p>Qodana<br>
-<a href="https://www.jetbrains.com/qodana/" target="_blank" rel="noopener noreffer ">https://www.jetbrains.com/qodana/</a><br>
-Code quality done right</p>
-<p>Static code analysis by Qodana helps development teams follow agreed quality standards, and deliver readable, maintainable, and secure code. Powered by JetBrains.</p>
-<p>* 2,500+ code checks<br>
-Use Qodana’s extensive inspection portfolio to spot performance issues, probable bugs, unused declarations, confusing code constructs, violations of naming and style conventions, and much more.</p>
-<p>* Third-party license audit<br>
-Detect when third-party libraries and framework licenses used by your application are incompatible with your application’s license and cannot be used for a commercial project.</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2024-04-06: <a href="https://github.com/norvig/paip-lisp" target="_blank" rel="noopener noreffer ">norvig/paip-lisp</a>.</em></p>]]></description></item></channel></rss>
