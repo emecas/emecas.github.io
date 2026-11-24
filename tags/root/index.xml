@@ -1,5 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Root - Tag - My Notes</title><link>https://blog.emecas.net/tags/root/</link><description>Root - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 06 Nov 2013 21:19:03 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/root/" rel="self" type="application/rss+xml"/><item><title>Recover MySQL root Password</title><link>https://blog.emecas.net/posts/2013-11-06-recover-mysql-root-password/</link><pubDate>Wed, 06 Nov 2013 21:19:03 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-11-06-recover-mysql-root-password/</guid><description><![CDATA[<p>Recover MySQL root Password<br>
-<a href="http://www.cyberciti.biz/tips/recover-mysql-root-password.html" target="_blank" rel="noopener noreffer ">http://www.cyberciti.biz/tips/recover-mysql-root-password.html</a><br>
-You can recover MySQL database server password with following five easy steps.</p>
+<a href="https://www.cyberciti.biz/tips/recover-mysql-root-password.html" target="_blank" rel="noopener noreffer ">https://www.cyberciti.biz/tips/recover-mysql-root-password.html</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+cyberciti.biz:</p>
+<blockquote>
+<p>You can recover MySQL database server password with following five easy steps.</p>
+</blockquote>
+<p>The five steps: stop the MySQL server; start it again with <code>--skip-grant-tables</code>, so it asks for no password; connect as root with <code>mysql -u root</code>; set a new password for root; stop the server and start it normally.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7b66d4116d5a874edc6cf8feb0ffad395c2f9cef" target="_blank" rel="noopener noreffer "><code>7b66d41</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7b66d4116d5a874edc6cf8feb0ffad395c2f9cef" target="_blank" rel="noopener noreffer "><code>7b66d41</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/766e6e17fa4fd4bb2f2809a732b87c3e63f841a2" target="_blank" rel="noopener noreffer "><code>766e6e1</code></a> (2026-11-24).</em></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Originally linked as <a href="http://www.cyberciti.biz/tips/recover-mysql-root-password.html" target="_blank" rel="noopener noreffer ">http://www.cyberciti.biz/tips/recover-mysql-root-password.html</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description></item></channel></rss>

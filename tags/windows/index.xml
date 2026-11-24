@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Windows - Tag - My Notes</title><link>https://blog.emecas.net/tags/windows/</link><description>Windows - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 17 Nov 2026 12:59:20 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/windows/" rel="self" type="application/rss+xml"/><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Windows - Tag - My Notes</title><link>https://blog.emecas.net/tags/windows/</link><description>Windows - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 02:36:33 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/windows/" rel="self" type="application/rss+xml"/><item><title>keepassxreboot/keepassxc</title><link>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</link><pubDate>Tue, 24 Nov 2026 02:36:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</guid><description><![CDATA[<p>keepassxreboot/keepassxc<br>
+KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.<br>
+C++ repository by keepassxreboot, created in 2016, with 30,136 stars and 2,069 forks. Starred on 2026-11-24.<br>
+Homepage: <a href="https://keepassxc.org/" target="_blank" rel="noopener noreffer ">https://keepassxc.org/</a><br>
+<a href="https://github.com/keepassxreboot/keepassxc" target="_blank" rel="noopener noreffer ">https://github.com/keepassxreboot/keepassxc</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-24: <a href="https://github.com/keepassxreboot/keepassxc" target="_blank" rel="noopener noreffer ">keepassxreboot/keepassxc</a>.</em></p>]]></description></item><item><title>libracoder/kiri</title><link>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</link><pubDate>Tue, 17 Nov 2026 12:59:20 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-17-libracoder-kiri/</guid><description><![CDATA[<p>libracoder/kiri<br>
 A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative<br>
 Rust repository by libracoder, created in 2026, with 11,718 stars and 547 forks. License: Apache-2.0. Starred on 2026-11-17.<br>
 Homepage: <a href="https://runkiri.com" target="_blank" rel="noopener noreffer ">https://runkiri.com</a><br>
@@ -60,10 +66,4 @@ Microsoft PowerToys is a collection of utilities that supercharge productivity a
 C repository by microsoft, created in 2019, with 140,851 stars and 8,727 forks. License: MIT. Starred on 2020-08-24.<br>
 <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">https://github.com/microsoft/PowerToys</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-08-24: <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">microsoft/PowerToys</a>.</em></p>]]></description></item><item><title>calibre</title><link>https://blog.emecas.net/posts/2020-05-29-calibre/</link><pubDate>Fri, 29 May 2020 15:03:13 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-05-29-calibre/</guid><description><![CDATA[<p>calibre<br>
-<a href="https://github.com/kovidgoyal/calibre" target="_blank" rel="noopener noreffer ">https://github.com/kovidgoyal/calibre</a> <a class="star-note-link" href="/posts/2020-05-24-kovidgoyal-calibre/" title="kovidgoyal/calibre: my star note">★&nbsp;star&nbsp;note</a><br>
-calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. It can also talk to e-book reader devices.<br>
-It can go out to the internet and fetch metadata for your books. It can download newspapers and convert them into e-books for convenient reading.<br>
-It is cross platform, running on Linux, Windows and macOS.</p>
-<p>For more information, see the calibre About page<br>
-<a href="https://calibre-ebook.com/about#history" target="_blank" rel="noopener noreffer ">https://calibre-ebook.com/about#history</a></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-08-24: <a href="https://github.com/microsoft/PowerToys" target="_blank" rel="noopener noreffer ">microsoft/PowerToys</a>.</em></p>]]></description></item></channel></rss>

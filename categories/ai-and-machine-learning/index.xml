@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AI and Machine Learning - Category - My Notes</title><link>https://blog.emecas.net/categories/ai-and-machine-learning/</link><description>AI and Machine Learning - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 22 Nov 2026 03:42:56 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/ai-and-machine-learning/" rel="self" type="application/rss+xml"/><item><title>conorbronsdon/avoid-ai-writing</title><link>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</link><pubDate>Sun, 22 Nov 2026 03:42:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</guid><description><![CDATA[<p>conorbronsdon/avoid-ai-writing<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AI and Machine Learning - Category - My Notes</title><link>https://blog.emecas.net/categories/ai-and-machine-learning/</link><description>AI and Machine Learning - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 23 Nov 2026 19:40:58 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/ai-and-machine-learning/" rel="self" type="application/rss+xml"/><item><title>VoltAgent/awesome-agent-skills</title><link>https://blog.emecas.net/posts/2026-11-23-voltagent-awesome-agent-skills/</link><pubDate>Mon, 23 Nov 2026 19:40:58 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-23-voltagent-awesome-agent-skills/</guid><description><![CDATA[<p>VoltAgent/awesome-agent-skills<br>
+A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.<br>
+Repository by VoltAgent, created in 2025, with 37,517 stars and 4,221 forks. License: MIT. Starred on 2026-11-23.<br>
+Homepage: <a href="https://mobile-starterkit.getdesign.md/" target="_blank" rel="noopener noreffer ">https://mobile-starterkit.getdesign.md/</a><br>
+<a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank" rel="noopener noreffer ">https://github.com/VoltAgent/awesome-agent-skills</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-23: <a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank" rel="noopener noreffer ">VoltAgent/awesome-agent-skills</a>.</em></p>]]></description></item><item><title>harbor-framework/terminal-bench</title><link>https://blog.emecas.net/posts/2026-11-23-harbor-framework-terminal-bench/</link><pubDate>Mon, 23 Nov 2026 16:44:38 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-23-harbor-framework-terminal-bench/</guid><description><![CDATA[<p>harbor-framework/terminal-bench<br>
+Measuring and evolving with the frontier of agent work<br>
+Python repository by harbor-framework, created in 2026, with 1,133 stars and 667 forks. License: Apache-2.0. Starred on 2026-11-23.<br>
+Homepage: <a href="https://tbench.ai" target="_blank" rel="noopener noreffer ">https://tbench.ai</a><br>
+<a href="https://github.com/harbor-framework/terminal-bench" target="_blank" rel="noopener noreffer ">https://github.com/harbor-framework/terminal-bench</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-23: <a href="https://github.com/harbor-framework/terminal-bench" target="_blank" rel="noopener noreffer ">harbor-framework/terminal-bench</a>.</em></p>]]></description></item><item><title>RichmondAlake/agent_harness_course</title><link>https://blog.emecas.net/posts/2026-11-23-richmondalake-agent-harness-course/</link><pubDate>Mon, 23 Nov 2026 16:18:48 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-23-richmondalake-agent-harness-course/</guid><description><![CDATA[<p>RichmondAlake/agent_harness_course<br>
+Technical companion to the O&rsquo;Reilly Harness Engineering for AI Agents workshop<br>
+Jupyter Notebook repository by RichmondAlake, created in 2026, with 47 stars and 23 forks. Starred on 2026-11-23.<br>
+Homepage: <a href="https://www.oreilly.com/live-events/harness-engineering-for-ai-agents/0642572381264" target="_blank" rel="noopener noreffer ">https://www.oreilly.com/live-events/harness-engineering-for-ai-agents/0642572381264</a><br>
+<a href="https://github.com/RichmondAlake/agent_harness_course" target="_blank" rel="noopener noreffer ">https://github.com/RichmondAlake/agent_harness_course</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-23: <a href="https://github.com/RichmondAlake/agent_harness_course" target="_blank" rel="noopener noreffer ">RichmondAlake/agent_harness_course</a>.</em></p>]]></description></item><item><title>conorbronsdon/avoid-ai-writing</title><link>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</link><pubDate>Sun, 22 Nov 2026 03:42:56 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-22-conorbronsdon-avoid-ai-writing/</guid><description><![CDATA[<p>conorbronsdon/avoid-ai-writing<br>
 Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.<br>
 JavaScript repository by conorbronsdon, created in 2026, with 5,997 stars and 496 forks. License: MIT. Starred on 2026-11-22.<br>
 Homepage: <a href="https://chainofthought.show/go/avoid-ai-writing/" target="_blank" rel="noopener noreffer ">https://chainofthought.show/go/avoid-ai-writing/</a><br>
@@ -37,27 +55,4 @@ Introduction to the core concepts of Claude, including personalization, workspac
 C# repository by danielecolon, created in 2026, with 2 stars and 2 forks. Starred on 2026-11-13.<br>
 <a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">https://github.com/danielecolon/Claude</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">danielecolon/Claude</a>.</em></p>]]></description></item><item><title>paperless-ngx/paperless-ngx</title><link>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</link><pubDate>Fri, 09 Oct 2026 02:16:27 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-09-paperless-ngx-paperless-ngx/</guid><description><![CDATA[<p>paperless-ngx/paperless-ngx<br>
-A community-supported supercharged document management system: scan, index and archive all your documents<br>
-Python repository by paperless-ngx, created in 2022, with 47,991 stars and 3,373 forks. License: GPL-3.0. Starred on 2026-10-09.<br>
-Homepage: <a href="http://docs.paperless-ngx.com/" target="_blank" rel="noopener noreffer ">http://docs.paperless-ngx.com/</a><br>
-<a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">https://github.com/paperless-ngx/paperless-ngx</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-10-09: <a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank" rel="noopener noreffer ">paperless-ngx/paperless-ngx</a>.</em></p>]]></description></item><item><title>Harness Engineering Course</title><link>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</link><pubDate>Sun, 04 Oct 2026 19:34:59 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-10-04-harness-engineering-course/</guid><description><![CDATA[<p>Harness Engineering Course<br>
-<a href="https://github.com/walkinglabs/learn-harness-engineering" target="_blank" rel="noopener noreffer ">https://github.com/walkinglabs/learn-harness-engineering</a></p>
-<p>Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:</p>
-<p>how Claude Code, Codex, DeepSeek build their harness<br>
-loop &amp; graph engineering<br>
-automated agent loops<br>
-observability, testing and verification<br>
-really good source for learning harness essentials by doing.</p>
-<p>Ref: <a href="https://x.com/i/status/2105980972558627237" target="_blank" rel="noopener noreffer ">https://x.com/i/status/2105980972558627237</a><span class="embed embed-x">
-            <span class="embed-text">found this free Harness Engineering course on GitHub with 14 lectures + 8 hands-on projects. it covers:<br><br>&gt; how Claude Code, Codex, DeepSeek build their harness<br>&gt; loop &amp; graph engineering<br>&gt; automated agent loops<br>&gt; observability, testing and verification<br>really good source for… pic.twitter.com/BzeaiEuVYl</span>
-            <span class="embed-meta">— ℏεsam (@Hesamation) · October 2, 2026 · copied 2026-11-20</span>
-        </span></p>]]></description></item><item><title>debpalash/VoiceStudio</title><link>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</link><pubDate>Sun, 27 Sep 2026 13:22:15 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-09-27-debpalash-voicestudio/</guid><description><![CDATA[<p>debpalash/VoiceStudio<br>
-VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.<br>
-Python repository by debpalash, created in 2026, with 107,396 stars and 11,902 forks. License: AGPL-3.0. Starred on 2026-09-27.<br>
-Homepage: <a href="https://voicestudio.sh" target="_blank" rel="noopener noreffer ">https://voicestudio.sh</a><br>
-<a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">https://github.com/debpalash/VoiceStudio</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2026-09-27: <a href="https://github.com/debpalash/VoiceStudio" target="_blank" rel="noopener noreffer ">debpalash/VoiceStudio</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2026-11-13: <a href="https://github.com/danielecolon/Claude" target="_blank" rel="noopener noreffer ">danielecolon/Claude</a>.</em></p>]]></description></item></channel></rss>

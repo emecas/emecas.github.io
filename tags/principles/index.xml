@@ -114,13 +114,18 @@ Transformation Priority Premise<br>
 Unix philosophy<br>
 Waterfall model<br>
 Worse is better<br>
-You aren&rsquo;t gonna need it</p>]]></description></item><item><title>PRINCIPLES OF CHAOS ENGINEERING</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>PRINCIPLES OF CHAOS ENGINEERING<br>
-principlesofchaos.org<br>
-Chaos Engineering is the discipline of experimenting on a distributed system<br>
-in order to build confidence in the system’s capability<br>
-to withstand turbulent conditions in production</p>
+You aren&rsquo;t gonna need it</p>]]></description></item><item><title>Principles of Chaos Engineering</title><link>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</link><pubDate>Wed, 04 Jan 2017 13:33:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-04-principles-of-chaos-engineering/</guid><description><![CDATA[<p>Principles of Chaos Engineering<br>
+<a href="https://principlesofchaos.org/" target="_blank" rel="noopener noreffer ">https://principlesofchaos.org/</a><br>
+principlesofchaos.org (2017):</p>
+<blockquote>
+<p>Chaos Engineering is the discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production</p>
+</blockquote>
+<p>principlesofchaos.org (2026-11-24, last updated March 2019):</p>
+<blockquote>
+<p>Chaos Engineering is the discipline of experimenting on a system in order to build confidence in the system’s capability to withstand turbulent conditions in production.</p>
+</blockquote>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9c7716efdd174f5ec05f83d6aef027a7985b14a1" target="_blank" rel="noopener noreffer "><code>9c7716e</code></a> in My-Notes.</em></p>]]></description></item><item><title>Apache Pig Philosophy</title><link>https://blog.emecas.net/posts/2013-06-06-apache-pig-philosophy/</link><pubDate>Thu, 06 Jun 2013 16:47:11 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-06-apache-pig-philosophy/</guid><description><![CDATA[<p>Apache Pig Philosophy<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/9c7716efdd174f5ec05f83d6aef027a7985b14a1" target="_blank" rel="noopener noreffer "><code>9c7716e</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/d66c0e825fbb4e444c1e581b5b2a42232fa92cf7" target="_blank" rel="noopener noreffer "><code>d66c0e8</code></a> (2026-11-24).</em></p>]]></description></item><item><title>Apache Pig Philosophy</title><link>https://blog.emecas.net/posts/2013-06-06-apache-pig-philosophy/</link><pubDate>Thu, 06 Jun 2013 16:47:11 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-06-apache-pig-philosophy/</guid><description><![CDATA[<p>Apache Pig Philosophy<br>
 <a href="https://pig.apache.org/philosophy.html" target="_blank" rel="noopener noreffer ">https://pig.apache.org/philosophy.html</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <p>What does it mean to be a pig?<br>
 The Apache Pig Project has some founding principles that help pig developers decide how the system should grow over time. This page presents those principles.</p>

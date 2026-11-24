@@ -2,4 +2,66 @@
 <a href="https://svnvsgit.com/" target="_blank" rel="noopener noreffer ">https://svnvsgit.com/</a><br>
 There are a number of Subversion vs. Git comparisons around the web and most of them are based on myths rather than facts. The list below is intended to bust some of these myths. Although it doesn&rsquo;t tell which version control system is better, it should help you to understand the actual state of affairs.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/63e521173193dfa179d41964f48fe83deb818bde" target="_blank" rel="noopener noreffer "><code>63e5211</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/63e521173193dfa179d41964f48fe83deb818bde" target="_blank" rel="noopener noreffer "><code>63e5211</code></a> in My-Notes.</em></p>]]></description></item><item><title>Git official web site</title><link>https://blog.emecas.net/posts/2013-03-15-git-official-web-site/</link><pubDate>Fri, 15 Mar 2013 22:01:50 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-15-git-official-web-site/</guid><description><![CDATA[<p>Git official web site<br>
+The home of Git: what it is and why (fast, distributed, free), its documentation and downloads, and Pro Git, the whole book by Scott Chacon and Ben Straub, free to read online.</p>
+<h2 id="git-official-web-site">Git official web site</h2>
+<p>About Git: <a href="https://git-scm.com/about" target="_blank" rel="noopener noreffer ">https://git-scm.com/about</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<h2 id="free-book">Free Book</h2>
+<p>Pro Git (second edition), by Scott Chacon and Ben Straub, published by Apress: <a href="https://git-scm.com/book" target="_blank" rel="noopener noreffer ">https://git-scm.com/book</a><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<ul>
+<li>
+<ol>
+<li>Getting Started: <a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control</a></li>
+</ol>
+</li>
+<li>
+<ol start="2">
+<li>Git Basics: <a href="https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository</a></li>
+</ol>
+</li>
+<li>
+<ol start="3">
+<li>Git Branching: <a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell</a></li>
+</ol>
+</li>
+<li>
+<ol start="4">
+<li>Git on the Server: <a href="https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols</a></li>
+</ol>
+</li>
+<li>
+<ol start="5">
+<li>Distributed Git: <a href="https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows</a></li>
+</ol>
+</li>
+<li>
+<ol start="6">
+<li>GitHub: <a href="https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration</a></li>
+</ol>
+</li>
+<li>
+<ol start="7">
+<li>Git Tools: <a href="https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection</a></li>
+</ol>
+</li>
+<li>
+<ol start="8">
+<li>Customizing Git: <a href="https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration</a></li>
+</ol>
+</li>
+<li>
+<ol start="9">
+<li>Git and Other Systems: <a href="https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Git-and-Other-Systems-Git-as-a-Client</a></li>
+</ol>
+</li>
+<li>
+<ol start="10">
+<li>Git Internals: <a href="https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain</a></li>
+</ol>
+</li>
+<li>Appendix A: Git in Other Environments: <a href="https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Graphical-Interfaces" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Appendix-A:-Git-in-Other-Environments-Graphical-Interfaces</a></li>
+<li>Appendix B: Embedding Git in your Applications: <a href="https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Command-line-Git" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Appendix-B:-Embedding-Git-in-your-Applications-Command-line-Git</a></li>
+<li>Appendix C: Git Commands: <a href="https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config" target="_blank" rel="noopener noreffer ">https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Setup-and-Config</a></li>
+</ul>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/f0419207713546196862036588ca623758929d2c" target="_blank" rel="noopener noreffer "><code>f041920</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/aed8ae89d4dd066bd69e318b6f14444a14f340b4" target="_blank" rel="noopener noreffer "><code>aed8ae8</code></a> (2026-11-24).</em></p>]]></description></item></channel></rss>

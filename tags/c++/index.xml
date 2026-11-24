@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>C++ - Tag - My Notes</title><link>https://blog.emecas.net/tags/c++/</link><description>C++ - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 14 Nov 2026 12:10:13 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/c++/" rel="self" type="application/rss+xml"/><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>C++ - Tag - My Notes</title><link>https://blog.emecas.net/tags/c++/</link><description>C++ - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 02:36:33 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/c++/" rel="self" type="application/rss+xml"/><item><title>keepassxreboot/keepassxc</title><link>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</link><pubDate>Tue, 24 Nov 2026 02:36:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</guid><description><![CDATA[<p>keepassxreboot/keepassxc<br>
+KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.<br>
+C++ repository by keepassxreboot, created in 2016, with 30,136 stars and 2,069 forks. Starred on 2026-11-24.<br>
+Homepage: <a href="https://keepassxc.org/" target="_blank" rel="noopener noreffer ">https://keepassxc.org/</a><br>
+<a href="https://github.com/keepassxreboot/keepassxc" target="_blank" rel="noopener noreffer ">https://github.com/keepassxreboot/keepassxc</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-24: <a href="https://github.com/keepassxreboot/keepassxc" target="_blank" rel="noopener noreffer ">keepassxreboot/keepassxc</a>.</em></p>]]></description></item><item><title>aardappel/goose</title><link>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</link><pubDate>Sat, 14 Nov 2026 12:10:13 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-14-aardappel-goose/</guid><description><![CDATA[<p>aardappel/goose<br>
 The Goose Programming Language<br>
 C++ repository by aardappel, created in 2026, with 3,563 stars and 173 forks. License: Apache-2.0. Starred on 2026-11-14.<br>
 <a href="https://github.com/aardappel/goose" target="_blank" rel="noopener noreffer ">https://github.com/aardappel/goose</a></p>
@@ -47,10 +53,4 @@ Configure Caffe in one hour for Windows users.<br>
 C++ repository by happynear, created in 2015, with 1,310 stars and 637 forks. Starred on 2020-11-01.<br>
 <a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">https://github.com/happynear/caffe-windows</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">happynear/caffe-windows</a>.</em></p>]]></description></item><item><title>nlohmann/json</title><link>https://blog.emecas.net/posts/2020-10-30-nlohmann-json/</link><pubDate>Fri, 30 Oct 2020 09:32:04 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-10-30-nlohmann-json/</guid><description><![CDATA[<p>nlohmann/json<br>
-JSON for Modern C++<br>
-C++ repository by nlohmann, created in 2013, with 50,870 stars and 7,518 forks. License: MIT. Starred on 2020-10-30.<br>
-Homepage: <a href="https://json.nlohmann.me" target="_blank" rel="noopener noreffer ">https://json.nlohmann.me</a><br>
-<a href="https://github.com/nlohmann/json" target="_blank" rel="noopener noreffer ">https://github.com/nlohmann/json</a></p>
-<hr>
-<p><em>Source: starred on GitHub on 2020-10-30: <a href="https://github.com/nlohmann/json" target="_blank" rel="noopener noreffer ">nlohmann/json</a>.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2020-11-01: <a href="https://github.com/happynear/caffe-windows" target="_blank" rel="noopener noreffer ">happynear/caffe-windows</a>.</em></p>]]></description></item></channel></rss>

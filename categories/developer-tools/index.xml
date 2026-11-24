@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 16 Aug 2026 15:47:21 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>mattpocock/skills</title><link>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</link><pubDate>Sun, 16 Aug 2026 15:47:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</guid><description><![CDATA[<p>mattpocock/skills<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 02:36:33 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>keepassxreboot/keepassxc</title><link>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</link><pubDate>Tue, 24 Nov 2026 02:36:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</guid><description><![CDATA[<p>keepassxreboot/keepassxc<br>
+KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.<br>
+C++ repository by keepassxreboot, created in 2016, with 30,136 stars and 2,069 forks. Starred on 2026-11-24.<br>
+Homepage: <a href="https://keepassxc.org/" target="_blank" rel="noopener noreffer ">https://keepassxc.org/</a><br>
+<a href="https://github.com/keepassxreboot/keepassxc" target="_blank" rel="noopener noreffer ">https://github.com/keepassxreboot/keepassxc</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-24: <a href="https://github.com/keepassxreboot/keepassxc" target="_blank" rel="noopener noreffer ">keepassxreboot/keepassxc</a>.</em></p>]]></description></item><item><title>mattpocock/skills</title><link>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</link><pubDate>Sun, 16 Aug 2026 15:47:21 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-08-16-mattpocock-skills/</guid><description><![CDATA[<p>mattpocock/skills<br>
 Skills for Real Engineers. Straight from my .agents directory.<br>
 Shell repository by mattpocock, created in 2026, with 321,085 stars and 26,920 forks. License: MIT. Starred on 2026-08-16.<br>
 Homepage: <a href="https://aihero.dev/skills" target="_blank" rel="noopener noreffer ">https://aihero.dev/skills</a><br>
@@ -74,9 +80,4 @@ repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopen
 <p>Originally linked as <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></description></item><item><title>Developer Productivity With IntelliJ IDEA - Trisha Gee</title><link>https://blog.emecas.net/posts/2024-04-09-developer-productivity-with-intellij-idea-trisha-gee/</link><pubDate>Tue, 09 Apr 2024 19:54:57 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-04-09-developer-productivity-with-intellij-idea-trisha-gee/</guid><description><![CDATA[<p>Developer Productivity With IntelliJ IDEA - Trisha Gee<br>
-<a href="https://trishagee.com/developer-productivity-with-intellij-idea/" target="_blank" rel="noopener noreffer ">https://trishagee.com/developer-productivity-with-intellij-idea/</a></p>
-<p>Issue #158 in emecas/commitit, open, opened on 2024-04-09.<br>
-<a href="https://github.com/emecas/commitit/issues/158" target="_blank" rel="noopener noreffer ">https://github.com/emecas/commitit/issues/158</a></p>
-<hr>
-<p><em>Source: issue <a href="https://github.com/emecas/commitit/issues/158" target="_blank" rel="noopener noreffer ">#158</a> in emecas/commitit, opened on 2024-04-09.</em></p>]]></description></item></channel></rss>
+</div>]]></description></item></channel></rss>

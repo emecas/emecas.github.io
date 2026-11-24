@@ -10,24 +10,27 @@ Homepage: <a href="https://roadmap.sh" target="_blank" rel="noopener noreffer ">
 <a href="https://github.com/nilbuild/developer-roadmap" target="_blank" rel="noopener noreffer ">https://github.com/nilbuild/developer-roadmap</a></p>
 <hr>
 <p><em>Source: starred on GitHub on 2019-01-13: <a href="https://github.com/nilbuild/developer-roadmap" target="_blank" rel="noopener noreffer ">nilbuild/developer-roadmap</a>.</em></p>]]></description></item><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
-Owner: Robert Field<br>
-Created 2014/05/16 23:13<br>
-Updated 2017/06/09 04:21<br>
-Type Feature<br>
-Status Closed / Delivered<br>
-Component tools / jshell<br>
-Scope JDK<br>
-Discussion<br>
-kulla dash dev at openjdk dot java dot net<br>
-Effort L<br>
-Duration L<br>
-Priority 2<br>
-Reviewed by Alex Buckley, Brian Goetz<br>
-Endorsed by Brian Goetz<br>
-Release 9<br>
-Issue 8043364<br>
-Summary</p>
-<p>Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>]]></description></item><item><title>JWT - JSON Web Tokens</title><link>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</link><pubDate>Mon, 27 Mar 2017 13:23:50 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</guid><description><![CDATA[<p>JWT - JSON Web Tokens<br>
+<a href="https://openjdk.org/jeps/222" target="_blank" rel="noopener noreffer ">https://openjdk.org/jeps/222</a><br>
+The JDK Enhancement Proposal behind <code>jshell</code>, Java&rsquo;s read-eval-print loop: type declarations, statements and expressions and see each result at once. Delivered in JDK 9 (2017).<br>
+openjdk.org (2017):</p>
+<blockquote>
+<p>Owner: Robert Field</p>
+<p>Created 2014/05/16 23:13</p>
+<p>Updated 2017/06/09 04:21</p>
+<p>Type Feature</p>
+<p>Status Closed / Delivered</p>
+<p>Component tools / jshell</p>
+<p>Scope JDK</p>
+<p>Discussion kulla dash dev at openjdk dot java dot net</p>
+<p>Effort L</p>
+<p>Duration L</p>
+<p>Priority 2</p>
+<p>Reviewed by Alex Buckley, Brian Goetz</p>
+<p>Endorsed by Brian Goetz</p>
+<p>Release 9</p>
+<p>Issue 8043364</p>
+<p>Summary: Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>
+</blockquote>]]></description></item><item><title>JWT - JSON Web Tokens</title><link>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</link><pubDate>Mon, 27 Mar 2017 13:23:50 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-03-27-jwt-json-web-tokens/</guid><description><![CDATA[<p>JWT - JSON Web Tokens<br>
 <a href="https://jwt.io/" target="_blank" rel="noopener noreffer ">https://jwt.io/</a><br>
 JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.</p>
 <p>JWT.IO allows you to decode, verify and generate JWT.</p>

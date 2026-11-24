@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Jdk9 - Tag - My Notes</title><link>https://blog.emecas.net/tags/jdk9/</link><description>Jdk9 - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 31 Jul 2017 16:24:28 -0400</lastBuildDate><atom:link href="https://blog.emecas.net/tags/jdk9/" rel="self" type="application/rss+xml"/><item><title>JShell JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)</title><link>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</link><pubDate>Mon, 31 Jul 2017 16:24:28 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-07-31-jshell-jep-222-jshell-the-java-shell-read-eval-print-loop/</guid><description><![CDATA[<p>JEP 222: jshell: The Java Shell (Read-Eval-Print Loop)<br>
+<a href="https://openjdk.org/jeps/222" target="_blank" rel="noopener noreffer ">https://openjdk.org/jeps/222</a><br>
+The JDK Enhancement Proposal behind <code>jshell</code>, Java&rsquo;s read-eval-print loop: type declarations, statements and expressions and see each result at once. Delivered in JDK 9 (2017).<br>
+openjdk.org (2017):</p>
+<blockquote>
+<p>Owner: Robert Field</p>
+<p>Created 2014/05/16 23:13</p>
+<p>Updated 2017/06/09 04:21</p>
+<p>Type Feature</p>
+<p>Status Closed / Delivered</p>
+<p>Component tools / jshell</p>
+<p>Scope JDK</p>
+<p>Discussion kulla dash dev at openjdk dot java dot net</p>
+<p>Effort L</p>
+<p>Duration L</p>
+<p>Priority 2</p>
+<p>Reviewed by Alex Buckley, Brian Goetz</p>
+<p>Endorsed by Brian Goetz</p>
+<p>Release 9</p>
+<p>Issue 8043364</p>
+<p>Summary: Provide an interactive tool to evaluate declarations, statements, and expressions of the Java programming language, together with an API so that other applications can leverage this functionality.</p>
+</blockquote>]]></description></item></channel></rss>

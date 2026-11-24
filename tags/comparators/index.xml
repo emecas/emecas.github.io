@@ -1,14 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Comparators - Tag - My Notes</title><link>https://blog.emecas.net/tags/comparators/</link><description>Comparators - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Mar 2016 13:14:02 +0100</lastBuildDate><atom:link href="https://blog.emecas.net/tags/comparators/" rel="self" type="application/rss+xml"/><item><title>Jar Comparators</title><link>https://blog.emecas.net/posts/2016-03-15-jar-comparators/</link><pubDate>Tue, 15 Mar 2016 13:14:02 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-03-15-jar-comparators/</guid><description><![CDATA[<p><a href="https://github.com/stefanbirkner/system-rules" target="_blank" rel="noopener noreffer ">https://github.com/stefanbirkner/system-rules</a></p>
-<p>Jar Comparators -  Identifying Delta To Deply</p>
-<p>Ref: <a href="http://stackoverflow.com/questions/3868803/comparing-two-jar-files" target="_blank" rel="noopener noreffer ">http://stackoverflow.com/questions/3868803/comparing-two-jar-files</a></p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Comparators - Tag - My Notes</title><link>https://blog.emecas.net/tags/comparators/</link><description>Comparators - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 15 Mar 2016 13:14:02 +0100</lastBuildDate><atom:link href="https://blog.emecas.net/tags/comparators/" rel="self" type="application/rss+xml"/><item><title>Jar Comparators</title><link>https://blog.emecas.net/posts/2016-03-15-jar-comparators/</link><pubDate>Tue, 15 Mar 2016 13:14:02 +0100</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-03-15-jar-comparators/</guid><description><![CDATA[<p>Jar Comparators - Identifying the Delta to Deploy<br>
+Tools that compare two versions of a Java library or package, to see what changed between releases and whether the new one still works with code built against the old one.<br>
+Question on Stack Overflow: <a href="https://stackoverflow.com/questions/3868803/comparing-two-jar-files" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/3868803/comparing-two-jar-files</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
 <p>CLIRR<br>
 Clirr is a tool that checks Java libraries for binary and source compatibility with older releases<br>
-<a href="http://clirr.sourceforge.net" target="_blank" rel="noopener noreffer ">http://clirr.sourceforge.net</a></p>
+<a href="https://clirr.sourceforge.net/" target="_blank" rel="noopener noreffer ">https://clirr.sourceforge.net/</a><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
 <p>pkgdiff<br>
 A tool for visualizing changes in Linux software packages<br>
-<a href="http://lvc.github.io/pkgdiff/" target="_blank" rel="noopener noreffer ">http://lvc.github.io/pkgdiff/</a></p>
-<p>japi-compliance-checker<br>
-A tool for checking backward API/ABI compatibility of a Java library <a href="http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker" target="_blank" rel="noopener noreffer ">http://ispras.linuxbase.org/index.php/Java_API_Compliance_Checker</a><br>
-<a href="https://github.com/lvc/japi-compliance-checker" target="_blank" rel="noopener noreffer ">https://github.com/lvc/japi-compliance-checker</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/16dbcc131b346cf7c19558ace6d059e66e13c2af" target="_blank" rel="noopener noreffer "><code>16dbcc1</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<a href="https://lvc.github.io/pkgdiff/" target="_blank" rel="noopener noreffer ">https://lvc.github.io/pkgdiff/</a></p>]]></description></item></channel></rss>

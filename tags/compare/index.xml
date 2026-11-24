@@ -1,7 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Compare - Tag - My Notes</title><link>https://blog.emecas.net/tags/compare/</link><description>Compare - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 23 Jan 2017 13:22:59 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/compare/" rel="self" type="application/rss+xml"/><item><title>NotePad++ Compare Plugin is back</title><link>https://blog.emecas.net/posts/2017-01-23-notepad-compare-plugin-is-back/</link><pubDate>Mon, 23 Jan 2017 13:22:59 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-23-notepad-compare-plugin-is-back/</guid><description><![CDATA[<p>NotePad++ Compare Plugin<br>
 Compare plugin is back!<br>
-<a href="https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back" target="_blank" rel="noopener noreffer ">https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back</a><br>
-<a href="https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/compare-plugin/releases/tag/v2.0.0</a><br>
-<a href="https://github.com/pnedev/compare-plugin" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/compare-plugin</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/e5cb362f3c2cd4612a9b23f9f88e5e506977abd5" target="_blank" rel="noopener noreffer "><code>e5cb362</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Announcement on the Notepad++ forum (2017): <del>https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back</del><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+Archived copy (2019): <a href="https://web.archive.org/web/20190325045802/https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back" target="_blank" rel="noopener noreffer ">https://web.archive.org/web/20190325045802/https://notepad-plus-plus.org/community/topic/12950/compare-plugin-is-back</a><br>
+pnedev, on the forum:</p>
+<blockquote>
+<p>It’s been a year since I started working on fixing Compare plugin’s stability issues but because I like it a lot I got way further and did a serious code rework/refactoring and made many improvements/fixes. Now finally I’m pleased to announce the new ComparePlugin version 2.0.0.</p>
+</blockquote>
+<p>Release 2.0.0: <a href="https://github.com/pnedev/comparePlus/releases/tag/v2.0.0" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/comparePlus/releases/tag/v2.0.0</a><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup><br>
+Repository: <a href="https://github.com/pnedev/comparePlus" target="_blank" rel="noopener noreffer ">https://github.com/pnedev/comparePlus</a><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup></p>]]></description></item></channel></rss>
