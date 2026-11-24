@@ -40,12 +40,20 @@ Java repository by c-guntur, created in 2019, with 20 stars and 5 forks. Starred
 <a href="https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/23953534/java-sql-sqlexception-could-not-commit-with-auto-commit-set-on-at-oracle-jdbc-d</a><br>
 <a href="https://github.com/rsim/ruby-plsql/issues/121" target="_blank" rel="noopener noreffer ">https://github.com/rsim/ruby-plsql/issues/121</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/566caa4ee4005976af72d92f7ff3429c6f024f5a" target="_blank" rel="noopener noreffer "><code>566caa4</code></a> in My-Notes.</em></p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/566caa4ee4005976af72d92f7ff3429c6f024f5a" target="_blank" rel="noopener noreffer "><code>566caa4</code></a> in My-Notes.</em></p>]]></description></item><item><title>Micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p>Micronaut<br>
+<a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p>micronaut.io (2019):</p>
+<blockquote>
 <p>A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.</p>
-<p><a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
-<a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>
+</blockquote>
+<p>micronaut.io (2026-11-23):</p>
+<blockquote>
+<p>A modern, JVM-based framework for fast cloud applications</p>
+</blockquote>
+<p>Organization: <a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
+Core repository: <a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7c554b4eeba04470edd606130edd13af30e8f1ab" target="_blank" rel="noopener noreffer "><code>7c554b4</code></a> in My-Notes.</em></p>]]></description></item><item><title>bmuschko/docker-for-jvm-projects</title><link>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</link><pubDate>Mon, 25 Mar 2019 16:17:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</guid><description><![CDATA[<p>bmuschko/docker-for-jvm-projects<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7c554b4eeba04470edd606130edd13af30e8f1ab" target="_blank" rel="noopener noreffer "><code>7c554b4</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/29fe86c1485d0498c7727143effc559749811301" target="_blank" rel="noopener noreffer "><code>29fe86c</code></a> (2026-11-23).</em></p>]]></description></item><item><title>bmuschko/docker-for-jvm-projects</title><link>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</link><pubDate>Mon, 25 Mar 2019 16:17:51 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-25-bmuschko-docker-for-jvm-projects/</guid><description><![CDATA[<p>bmuschko/docker-for-jvm-projects<br>
 The exercises and samples for the training &ldquo;Docker for JVM projects&rdquo;.<br>
 Java repository by bmuschko, created in 2019, with 39 stars and 56 forks. Starred on 2019-03-25.<br>
 <a href="https://github.com/bmuschko/docker-for-jvm-projects" target="_blank" rel="noopener noreffer ">https://github.com/bmuschko/docker-for-jvm-projects</a></p>

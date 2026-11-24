@@ -1,12 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Legacy - Tag - My Notes</title><link>https://blog.emecas.net/tags/legacy/</link><description>Legacy - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 02 Feb 2019 14:53:12 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/legacy/" rel="self" type="application/rss+xml"/><item><title>Don't Measure Unit Test Code Coverage</title><link>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</link><pubDate>Sat, 02 Feb 2019 14:53:12 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-02-02-don-t-measure-unit-test-code-coverage/</guid><description><![CDATA[<p>Don&rsquo;t Measure Unit Test Code Coverage<br>
 By James Shore<br>
-01 Feb, 2019</p>
-<p>- To add tests to legacy code<br>
-- To improve requirements code quality<br>
-- To improve non-functional quality<br>
-- (TDD reflexion) Here&rsquo;s the thing about TDD</p>
+01 Feb, 2019<br>
+<a href="https://www.jamesshore.com/v2/blog/2019/dont-measure-unit-test-code-coverage" target="_blank" rel="noopener noreffer ">https://www.jamesshore.com/v2/blog/2019/dont-measure-unit-test-code-coverage</a></p>
+<blockquote>
+<p>If you&rsquo;re using test-driven development, don&rsquo;t measure unit test code coverage. It&rsquo;s worse than a useless statistic; it will actively lead you astray.</p>
+</blockquote>
+<p>What should you do instead? That depends on what you want to accomplish.</p>
+<ul>
+<li>To improve code and test practices: perform root-cause analysis of escaped defects, then improve your design and process to prevent that sort of defect from happening again</li>
+<li>To improve programmer code quality: teach testing skills, speed up the test loop, refactor more, use evolutionary design, and try pairing or mobbing</li>
+<li>To improve test discipline: use coaching and discipline-enhancing practices such as pairing or mobbing</li>
+<li>To add tests to legacy code: nurture a habit of adding tests as part of working on any code</li>
+<li>To improve requirements code quality: involve customer representatives early in the process</li>
+<li>To improve non-functional quality: use a mix of real-world monitoring, fail-fast code, and specialized testbeds</li>
+<li>(TDD reflexion) Here&rsquo;s the thing about TDD: any code you want to cover is ipso facto covered. If you&rsquo;re still getting defects, something else is wrong.</li>
+</ul>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/659e7c7d2383a4d347fc8f85f12272e48ffbaadc" target="_blank" rel="noopener noreffer "><code>659e7c7</code></a> in My-Notes.</em></p>]]></description></item><item><title>browserpass/browserpass-legacy</title><link>https://blog.emecas.net/posts/2017-12-12-browserpass-browserpass-legacy/</link><pubDate>Tue, 12 Dec 2017 04:24:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-12-browserpass-browserpass-legacy/</guid><description><![CDATA[<p>browserpass/browserpass-legacy<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/659e7c7d2383a4d347fc8f85f12272e48ffbaadc" target="_blank" rel="noopener noreffer "><code>659e7c7</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/6cc6d0e312c3631b64e5bc52a4393e9a60787946" target="_blank" rel="noopener noreffer "><code>6cc6d0e</code></a> (2026-11-23).</em></p>]]></description></item><item><title>browserpass/browserpass-legacy</title><link>https://blog.emecas.net/posts/2017-12-12-browserpass-browserpass-legacy/</link><pubDate>Tue, 12 Dec 2017 04:24:06 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-12-browserpass-browserpass-legacy/</guid><description><![CDATA[<p>browserpass/browserpass-legacy<br>
 Legacy Browserpass repo, development is now happening at:<br>
 JavaScript repository by browserpass, created in 2016, with 1,003 stars and 77 forks. License: MIT. Archived by its owner. Starred on 2017-12-12.<br>
 Homepage: <a href="https://github.com/browserpass/browserpass-extension" target="_blank" rel="noopener noreffer ">https://github.com/browserpass/browserpass-extension</a><br>

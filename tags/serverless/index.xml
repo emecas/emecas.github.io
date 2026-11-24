@@ -24,12 +24,20 @@ Deployed continuously with begin.com (Note! We have not officially released Deno
 <a href="https://serverless.com/" target="_blank" rel="noopener noreffer ">https://serverless.com/</a><br>
 The Serverless Framework gives you everything you need to develop, deploy, monitor and secure serverless applications on any cloud.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/faaaf68cb502a4d48c580683d4af06d02290aee4" target="_blank" rel="noopener noreffer "><code>faaaf68</code></a> in My-Notes.</em></p>]]></description></item><item><title>micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p><a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/faaaf68cb502a4d48c580683d4af06d02290aee4" target="_blank" rel="noopener noreffer "><code>faaaf68</code></a> in My-Notes.</em></p>]]></description></item><item><title>Micronaut</title><link>https://blog.emecas.net/posts/2019-03-31-micronaut/</link><pubDate>Sun, 31 Mar 2019 10:14:45 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-31-micronaut/</guid><description><![CDATA[<p>Micronaut<br>
+<a href="https://micronaut.io/" target="_blank" rel="noopener noreffer ">https://micronaut.io/</a></p>
+<p>micronaut.io (2019):</p>
+<blockquote>
 <p>A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications.</p>
-<p><a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
-<a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>
+</blockquote>
+<p>micronaut.io (2026-11-23):</p>
+<blockquote>
+<p>A modern, JVM-based framework for fast cloud applications</p>
+</blockquote>
+<p>Organization: <a href="https://github.com/micronaut-projects/" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/</a><br>
+Core repository: <a href="https://github.com/micronaut-projects/micronaut-core" target="_blank" rel="noopener noreffer ">https://github.com/micronaut-projects/micronaut-core</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7c554b4eeba04470edd606130edd13af30e8f1ab" target="_blank" rel="noopener noreffer "><code>7c554b4</code></a> in My-Notes.</em></p>]]></description></item><item><title>aws-samples/aws-serverless-workshops</title><link>https://blog.emecas.net/posts/2017-12-22-aws-samples-aws-serverless-workshops/</link><pubDate>Fri, 22 Dec 2017 16:11:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-22-aws-samples-aws-serverless-workshops/</guid><description><![CDATA[<p>aws-samples/aws-serverless-workshops<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/7c554b4eeba04470edd606130edd13af30e8f1ab" target="_blank" rel="noopener noreffer "><code>7c554b4</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/29fe86c1485d0498c7727143effc559749811301" target="_blank" rel="noopener noreffer "><code>29fe86c</code></a> (2026-11-23).</em></p>]]></description></item><item><title>aws-samples/aws-serverless-workshops</title><link>https://blog.emecas.net/posts/2017-12-22-aws-samples-aws-serverless-workshops/</link><pubDate>Fri, 22 Dec 2017 16:11:23 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-12-22-aws-samples-aws-serverless-workshops/</guid><description><![CDATA[<p>aws-samples/aws-serverless-workshops<br>
 Code and walkthrough labs to set up serverless applications for Wild Rydes workshops<br>
 JavaScript repository by aws-samples, created in 2016, with 4,250 stars and 2,591 forks. License: Apache-2.0. Archived by its owner. Starred on 2017-12-22.<br>
 Homepage: <a href="http://wildrydes.com" target="_blank" rel="noopener noreffer ">http://wildrydes.com</a><br>

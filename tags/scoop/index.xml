@@ -1,7 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Scoop - Tag - My Notes</title><link>https://blog.emecas.net/tags/scoop/</link><description>Scoop - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 14 Feb 2020 16:07:22 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/scoop/" rel="self" type="application/rss+xml"/><item><title>Scoop</title><link>https://blog.emecas.net/posts/2020-02-14-scoop/</link><pubDate>Fri, 14 Feb 2020 16:07:22 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-14-scoop/</guid><description><![CDATA[<p>Scoop<br>
 <a href="https://scoop.sh/" target="_blank" rel="noopener noreffer ">https://scoop.sh/</a><br>
 A command-line installer for Windows<br>
-<a href="https://github.com/lukesampson/scoop" target="_blank" rel="noopener noreffer ">https://github.com/lukesampson/scoop</a><br>
-<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/081c5bc6aa12df1babfae664a9b319d7ca61c9db" target="_blank" rel="noopener noreffer "><code>081c5bc</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Scoop installs apps from the command line with a minimal amount of friction. It:</p>
+<ul>
+<li>Eliminates User Account Control (UAC) prompt notifications</li>
+<li>Hides the graphical user interface (GUI) of wizard-style installers</li>
+<li>Prevents polluting the PATH environment variable</li>
+<li>Avoids unexpected side effects from installing and uninstalling apps</li>
+<li>Resolves and installs dependencies automatically</li>
+<li>Performs all the necessary steps to get an app to a working state</li>
+</ul>
+<p><a href="https://github.com/ScoopInstaller/Scoop" target="_blank" rel="noopener noreffer ">https://github.com/ScoopInstaller/Scoop</a> <a class="star-note-link" href="/posts/2020-02-14-scoopinstaller-scoop/" title="ScoopInstaller/Scoop: my star note">★&nbsp;star&nbsp;note</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+scoop-directory is a searchable directory of buckets (app sources), though ScoopSearch is now the official search.<br>
+<a href="https://github.com/rasa/scoop-directory" target="_blank" rel="noopener noreffer ">https://github.com/rasa/scoop-directory</a></p>]]></description></item></channel></rss>

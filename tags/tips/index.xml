@@ -3,10 +3,18 @@
 <p>From:  <a href="https://2022.pgconf.nyc/callforpapers/" target="_blank" rel="noopener noreffer ">https://2022.pgconf.nyc/callforpapers/</a></p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/df26058ca5d3b2e8f425f4fb6e1cb83aede9cb74" target="_blank" rel="noopener noreffer "><code>df26058</code></a> in My-Notes.</em></p>]]></description></item><item><title>DBeaver not showing dbms_output</title><link>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</link><pubDate>Thu, 04 Jun 2020 17:12:31 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-06-04-dbeaver-not-showing-dbms-output/</guid><description><![CDATA[<p>DBeaver not showing dbms_output<br>
-(Ctrl+Shift+O)<br>
-Ref:<a href="https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980</a></p>
+DBeaver hides what Oracle&rsquo;s <code>DBMS_OUTPUT.PUT_LINE</code> prints until the server output console is shown in the SQL editor; <code>Ctrl+Shift+O</code> turns it on.</p>
+<div class="details admonition note open">
+    <div class="details-summary admonition-title">
+        <i class="icon far fa-pen-to-square" aria-hidden="true"></i>Note<i class="details-icon fas fa-angle-right" aria-hidden="true"></i>
+    </div>
+    <div class="details-content">
+        <div class="admonition-content">(<code>Ctrl+Shift+O</code>)</div>
+    </div>
+</div>
+<p>Ref:<a href="https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980" target="_blank" rel="noopener noreffer ">https://stackoverflow.com/questions/51520900/dbeaver-not-showing-dbms-output#51618980</a></p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0a208e9fcad923995de08bc0dba1a65876fd09c8" target="_blank" rel="noopener noreffer "><code>0a208e9</code></a> in My-Notes.</em></p>]]></description></item><item><title>Fix Right Click Touchpad</title><link>https://blog.emecas.net/posts/2020-02-13-fix-right-click-touchpad/</link><pubDate>Thu, 13 Feb 2020 18:13:55 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-fix-right-click-touchpad/</guid><description><![CDATA[<p>How to Fix Right Click Touchpad Not Working on Ubuntu 18.04<br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/0a208e9fcad923995de08bc0dba1a65876fd09c8" target="_blank" rel="noopener noreffer "><code>0a208e9</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/cbd2013200a8d52aa7bedc2681088f1ad5a3e55e" target="_blank" rel="noopener noreffer "><code>cbd2013</code></a> (2026-11-23).</em></p>]]></description></item><item><title>Fix Right Click Touchpad</title><link>https://blog.emecas.net/posts/2020-02-13-fix-right-click-touchpad/</link><pubDate>Thu, 13 Feb 2020 18:13:55 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2020-02-13-fix-right-click-touchpad/</guid><description><![CDATA[<p>How to Fix Right Click Touchpad Not Working on Ubuntu 18.04<br>
 <a href="https://itsfoss.com/fix-right-click-touchpad-ubuntu/" target="_blank" rel="noopener noreffer ">https://itsfoss.com/fix-right-click-touchpad-ubuntu/</a><br>
 sudo apt install gnome-tweaks</p>
 <hr>

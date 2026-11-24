@@ -13,4 +13,25 @@ Homepage: <a href="https://free-for.dev/" target="_blank" rel="noopener noreffer
 <a href="https://www.gitbook.com/about" target="_blank" rel="noopener noreffer ">https://www.gitbook.com/about</a></p>
 <p>GitBook was created mid 2014 with the vision of creating a modern and simple solution to documentation, digital writing and publishing.</p>
 <p>We&rsquo;ve started by building an open source format. The philosophy is to be simple to the point of elegance, removing distractions and concerns from content creators, so that they can write freely.</p>
-<p>Since then, we&rsquo;ve grown to helping more than 250,000 people working together into writing 150,000 books served to 20M visitors every month.</p>]]></description></item></channel></rss>
+<p>Since then, we&rsquo;ve grown to helping more than 250,000 people working together into writing 150,000 books served to 20M visitors every month.</p>]]></description></item><item><title>The Twelve-Factor App (Methodology)</title><link>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-methodology/</link><pubDate>Wed, 07 Dec 2016 09:21:34 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-12-07-the-twelve-factor-app-methodology/</guid><description><![CDATA[<p>The twelve-factor app (Methodology)<br>
+<a href="https://12factor.net/" target="_blank" rel="noopener noreffer ">https://12factor.net/</a></p>
+<blockquote>
+<p>In the modern era, software is commonly delivered as a service: called web apps, or software-as-a-service. The twelve-factor app is a methodology for building software-as-a-service apps.</p>
+</blockquote>
+<h2 id="the-twelve-factors">The Twelve Factors</h2>
+<ul>
+<li>I. Codebase: One codebase tracked in revision control, many deploys</li>
+<li>II. Dependencies: Explicitly declare and isolate dependencies</li>
+<li>III. Config: Store config in the environment</li>
+<li>IV. Backing services: Treat backing services as attached resources</li>
+<li>V. Build, release, run: Strictly separate build and run stages</li>
+<li>VI. Processes: Execute the app as one or more stateless processes</li>
+<li>VII. Port binding: Export services via port binding</li>
+<li>VIII. Concurrency: Scale out via the process model</li>
+<li>IX. Disposability: Maximize robustness with fast startup and graceful shutdown</li>
+<li>X. Dev/prod parity: Keep development, staging, and production as similar as possible</li>
+<li>XI. Logs: Treat logs as event streams</li>
+<li>XII. Admin processes: Run admin/management tasks as one-off processes</li>
+</ul>
+<hr>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/43e4f30ee4a9ca0c827b6ed98cb3239a8bcc6aef" target="_blank" rel="noopener noreffer "><code>43e4f30</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/3f7d65daa387ce5ae0430b9abff16e3db7f9b330" target="_blank" rel="noopener noreffer "><code>3f7d65d</code></a> (2026-11-23).</em></p>]]></description></item></channel></rss>
