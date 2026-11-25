@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Nov 2026 15:10:46 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Open-Source - Tag - My Notes</title><link>https://blog.emecas.net/tags/open-source/</link><description>Open-Source - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 22:30:28 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/open-source/" rel="self" type="application/rss+xml"/><item><title>Moving from Buttercup to KeePassXC: not by choice, but by necessity</title><link>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</link><pubDate>Tue, 24 Nov 2026 22:30:28 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</guid><description><![CDATA[<p>For a long time <a href="https://github.com/buttercup" target="_blank" rel="noopener noreffer ">Buttercup</a> was my password manager. It was simple,
+open source, and it fit the way I worked. So when its maintainer, Perry Mitchell, announced on
+March 3, 2025 that the project was ending, it wasn&rsquo;t something I could ignore. He explained that
+since co-founder Sallar left, he had been the only active maintainer, and that the project&rsquo;s scope,
+across operating systems, mobile platforms and third-party services, with ongoing security
+requirements, was too much for one person. On June 26, 2025 the desktop app&rsquo;s repository was
+archived and is now read-only, like the rest of the project.</p>]]></description></item><item><title>penpot/penpot</title><link>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</link><pubDate>Wed, 18 Nov 2026 15:10:46 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-18-penpot-penpot/</guid><description><![CDATA[<p>penpot/penpot<br>
 Penpot: The open-source design platform for Product teams that need scalable collaboration.<br>
 Clojure repository by penpot, created in 2015, with 62,590 stars and 4,434 forks. License: MPL-2.0. Starred on 2026-11-18.<br>
 Homepage: <a href="https://penpot.app" target="_blank" rel="noopener noreffer ">https://penpot.app</a><br>
@@ -59,23 +65,4 @@ Rust repository by Automattic, created in 2023, with 17,575 stars and 815 forks.
 Homepage: <a href="https://writewithharper.com" target="_blank" rel="noopener noreffer ">https://writewithharper.com</a><br>
 <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">https://github.com/Automattic/harper</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">Automattic/harper</a>.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
-<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
-Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
-<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
-<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
-<p>Installation Process:</p>
-<p>$ winget install hatoo.oha<br>
-Found oha [hatoo.oha] Version 1.4.6<br>
-This application is licensed to you by its owner.<br>
-Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
-This package requires the following dependencies:<br>
-- Packages<br>
-Microsoft.VCRedist.2015+.x64<br>
-Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
-██████████████████████████████  10.8 MB / 10.8 MB<br>
-Successfully verified installer hash<br>
-Starting package install&hellip;<br>
-Path environment variable modified; restart your shell to use the new value.<br>
-Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2025-06-21: <a href="https://github.com/Automattic/harper" target="_blank" rel="noopener noreffer ">Automattic/harper</a>.</em></p>]]></description></item></channel></rss>

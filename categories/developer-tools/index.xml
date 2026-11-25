@@ -1,4 +1,10 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 02:36:33 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>keepassxreboot/keepassxc</title><link>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</link><pubDate>Tue, 24 Nov 2026 02:36:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</guid><description><![CDATA[<p>keepassxreboot/keepassxc<br>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 22:30:28 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>Moving from Buttercup to KeePassXC: not by choice, but by necessity</title><link>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</link><pubDate>Tue, 24 Nov 2026 22:30:28 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</guid><description><![CDATA[<p>For a long time <a href="https://github.com/buttercup" target="_blank" rel="noopener noreffer ">Buttercup</a> was my password manager. It was simple,
+open source, and it fit the way I worked. So when its maintainer, Perry Mitchell, announced on
+March 3, 2025 that the project was ending, it wasn&rsquo;t something I could ignore. He explained that
+since co-founder Sallar left, he had been the only active maintainer, and that the project&rsquo;s scope,
+across operating systems, mobile platforms and third-party services, with ongoing security
+requirements, was too much for one person. On June 26, 2025 the desktop app&rsquo;s repository was
+archived and is now read-only, like the rest of the project.</p>]]></description></item><item><title>keepassxreboot/keepassxc</title><link>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</link><pubDate>Tue, 24 Nov 2026 02:36:33 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-keepassxreboot-keepassxc/</guid><description><![CDATA[<p>keepassxreboot/keepassxc<br>
 KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.<br>
 C++ repository by keepassxreboot, created in 2016, with 30,136 stars and 2,069 forks. Starred on 2026-11-24.<br>
 Homepage: <a href="https://keepassxc.org/" target="_blank" rel="noopener noreffer ">https://keepassxc.org/</a><br>
@@ -65,19 +71,4 @@ Successfully installed</p>]]></description></item><item><title>Hey</title><link>
 To preserve the name for its original owner, we renamed this project to hey.</p>
 <p>Previously known as github.com/rakyll/boom.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item><item><title>adr-tools</title><link>https://blog.emecas.net/posts/2024-05-11-adr-tools/</link><pubDate>Sat, 11 May 2024 21:06:37 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-05-11-adr-tools/</guid><description><![CDATA[<p>adr-tools<br>
-CLI tool for working with Architecture Decision Records<br>
-Keeps a project&rsquo;s architecture decisions as numbered Markdown files (in <code>doc/adr</code> by default), with commands to create them and to supersede earlier ones.<br>
-<a href="https://formulae.brew.sh/formula/adr-tools" target="_blank" rel="noopener noreffer ">https://formulae.brew.sh/formula/adr-tools</a><br>
-repo : <a href="https://github.com/npryce/adr-tools" target="_blank" rel="noopener noreffer ">https://github.com/npryce/adr-tools</a></p>
-<p>Original ref: <a href="https://github.com/architecture-decision-record/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/architecture-decision-record/architecture-decision-record/issues/51#issuecomment-944221133</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/3f56e45cf90ed50e368b1b8b04cfe5c8f12b1fc8" target="_blank" rel="noopener noreffer "><code>3f56e45</code></a> in My-Notes, improved in <a href="https://github.com/emecas/My-Notes/commit/7ba715bfe8dc0b4e457921884e2a0a1843a99568" target="_blank" rel="noopener noreffer "><code>7ba715b</code></a> (2026-11-23).</em></p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Originally linked as <a href="https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133" target="_blank" rel="noopener noreffer ">https://github.com/joelparkerhenderson/architecture-decision-record/issues/51#issuecomment-944221133</a>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div>]]></description></item></channel></rss>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
