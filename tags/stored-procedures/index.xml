@@ -1,6 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Stored-Procedures - Tag - My Notes</title><link>https://blog.emecas.net/tags/stored-procedures/</link><description>Stored-Procedures - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Mar 2019 14:19:01 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/stored-procedures/" rel="self" type="application/rss+xml"/><item><title>Why You Should Turn Your Oracle Databases into RESTful API Service</title><link>https://blog.emecas.net/posts/2019-03-01-why-you-should-turn-your-oracle-databases-into-restful-api-s/</link><pubDate>Fri, 01 Mar 2019 14:19:01 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2019-03-01-why-you-should-turn-your-oracle-databases-into-restful-api-s/</guid><description><![CDATA[<p>Why You Should Turn Your Oracle Databases into RESTful API Services<br>
-Don&rsquo;t Stored Procedures Already Do What You Say REST Does?<br>
-<a href="https://blogs.oracle.com/newgendbaccess/why-use-rest" target="_blank" rel="noopener noreffer ">https://blogs.oracle.com/newgendbaccess/why-use-rest</a><br>
-<a href="https://blogs.oracle.com/newgendbaccess/dont-stored-procedures-already-do-what-you-say-rest-does" target="_blank" rel="noopener noreffer ">https://blogs.oracle.com/newgendbaccess/dont-stored-procedures-already-do-what-you-say-rest-does</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/4aba17f93422da70fd5344e7cbc27efc79bfdf83" target="_blank" rel="noopener noreffer "><code>4aba17f</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<del>https://blogs.oracle.com/newgendbaccess/why-use-rest</del><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+Archived copy (2016): <a href="https://web.archive.org/web/20160310004404/https://blogs.oracle.com/newgendbaccess/entry/why_you_should_turn_your" target="_blank" rel="noopener noreffer ">https://web.archive.org/web/20160310004404/https://blogs.oracle.com/newgendbaccess/entry/why_you_should_turn_your</a><br>
+&ldquo;Why Use REST?&rdquo;, by Gordon Smith (Oracle), 2015-12-09:</p>
+<blockquote>
+<p>Why should you turn your Oracle Databases into RESTful API Services? RESTful APIs have many significant advantages which we will describe in this blog post. REST access, though, is very different from conventional client drivers and requires a different style of application development.</p>
+<p>Oracle REST Data Services (ORDS) is a free tool that enables users to turn their Oracle databases into RESTful API Services that are highly scalable, manageable, and secure.</p>
+<p>With ORDS, users can use the data management skills they possess, such as writing SQL and PL/SQL, and tools they are comfortable with, such as Oracle SQL Developer and PL/SQL, to define RESTful API services for their database.</p>
+<p>No Java programming skills are needed to develop RESTful services or to run ORDS.</p>
+</blockquote>]]></description></item></channel></rss>
