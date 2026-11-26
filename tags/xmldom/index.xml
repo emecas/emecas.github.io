@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Xmldom - Tag - My Notes</title><link>https://blog.emecas.net/tags/xmldom/</link><description>Xmldom - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 25 Nov 2026 21:15:27 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/xmldom/" rel="self" type="application/rss+xml"/><item><title>bcup2kdbx: a security audit, a fix, and my vault converted</title><link>https://blog.emecas.net/posts/2026-11-25-bcup2kdbx-a-security-audit-a-fix-and-my-vault-converted/</link><pubDate>Wed, 25 Nov 2026 21:15:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-25-bcup2kdbx-a-security-audit-a-fix-and-my-vault-converted/</guid><description><![CDATA[<p>Yesterday I wrote about <a href="/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/" rel="">moving from Buttercup to KeePassXC</a>,
+and ended with <a href="https://github.com/dizitart/bcup2kdbx" target="_blank" rel="noopener noreffer ">bcup2kdbx</a> <a class="star-note-link" href="/posts/2026-11-26-dizitart-bcup2kdbx/" title="dizitart/bcup2kdbx: my star note">★&nbsp;star&nbsp;note</a>, a community tool that converts a
+Buttercup vault into a KDBX database: &ldquo;It&rsquo;s third-party and new, so check it before you use it.&rdquo; So
+before giving it my vault, I checked it, and fixed what I found along the way. Then I converted my
+vault.</p>
+<h2 id="what-i-wanted-to-know">What I wanted to know</h2>
+<p>Two things: that it doesn&rsquo;t reach the Internet while it runs, and that it writes nothing anywhere
+except the output file I name.</p>]]></description></item></channel></rss>

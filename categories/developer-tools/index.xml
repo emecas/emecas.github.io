@@ -1,4 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 24 Nov 2026 22:30:28 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>Moving from Buttercup to KeePassXC: not by choice, but by necessity</title><link>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</link><pubDate>Tue, 24 Nov 2026 22:30:28 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</guid><description><![CDATA[<p>For a long time <a href="https://github.com/buttercup" target="_blank" rel="noopener noreffer ">Buttercup</a> was my password manager. It was simple,
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Developer Tools - Category - My Notes</title><link>https://blog.emecas.net/categories/developer-tools/</link><description>Developer Tools - Category - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 26 Nov 2026 02:28:22 +0000</lastBuildDate><atom:link href="https://blog.emecas.net/categories/developer-tools/" rel="self" type="application/rss+xml"/><item><title>dizitart/bcup2kdbx</title><link>https://blog.emecas.net/posts/2026-11-26-dizitart-bcup2kdbx/</link><pubDate>Thu, 26 Nov 2026 02:28:22 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-26-dizitart-bcup2kdbx/</guid><description><![CDATA[<p>dizitart/bcup2kdbx<br>
+Convert a Buttercup vault (.bcup) into a KDBX 4 (KeePass) database, preserving groups, fields, attachments and trash<br>
+JavaScript repository by dizitart, created in 2026, with 1 stars and 1 forks. License: Apache-2.0. Starred on 2026-11-26.<br>
+Homepage: <a href="https://www.npmjs.com/package/@dizitart/bcup2kdbx" target="_blank" rel="noopener noreffer ">https://www.npmjs.com/package/@dizitart/bcup2kdbx</a><br>
+<a href="https://github.com/dizitart/bcup2kdbx" target="_blank" rel="noopener noreffer ">https://github.com/dizitart/bcup2kdbx</a></p>
+<hr>
+<p><em>Source: starred on GitHub on 2026-11-26: <a href="https://github.com/dizitart/bcup2kdbx" target="_blank" rel="noopener noreffer ">dizitart/bcup2kdbx</a>.</em></p>]]></description></item><item><title>bcup2kdbx: a security audit, a fix, and my vault converted</title><link>https://blog.emecas.net/posts/2026-11-25-bcup2kdbx-a-security-audit-a-fix-and-my-vault-converted/</link><pubDate>Wed, 25 Nov 2026 21:15:27 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-25-bcup2kdbx-a-security-audit-a-fix-and-my-vault-converted/</guid><description><![CDATA[<p>Yesterday I wrote about <a href="/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/" rel="">moving from Buttercup to KeePassXC</a>,
+and ended with <a href="https://github.com/dizitart/bcup2kdbx" target="_blank" rel="noopener noreffer ">bcup2kdbx</a> <a class="star-note-link" href="/posts/2026-11-26-dizitart-bcup2kdbx/" title="dizitart/bcup2kdbx: my star note">★&nbsp;star&nbsp;note</a>, a community tool that converts a
+Buttercup vault into a KDBX database: &ldquo;It&rsquo;s third-party and new, so check it before you use it.&rdquo; So
+before giving it my vault, I checked it, and fixed what I found along the way. Then I converted my
+vault.</p>
+<h2 id="what-i-wanted-to-know">What I wanted to know</h2>
+<p>Two things: that it doesn&rsquo;t reach the Internet while it runs, and that it writes nothing anywhere
+except the output file I name.</p>]]></description></item><item><title>Moving from Buttercup to KeePassXC: not by choice, but by necessity</title><link>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</link><pubDate>Tue, 24 Nov 2026 22:30:28 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2026-11-24-moving-from-buttercup-to-keepassxc-not-by-choice-but-by-nece/</guid><description><![CDATA[<p>For a long time <a href="https://github.com/buttercup" target="_blank" rel="noopener noreffer ">Buttercup</a> was my password manager. It was simple,
 open source, and it fit the way I worked. So when its maintainer, Perry Mitchell, announced on
 March 3, 2025 that the project was ending, it wasn&rsquo;t something I could ignore. He explained that
 since co-founder Sallar left, he had been the only active maintainer, and that the project&rsquo;s scope,
@@ -44,31 +57,4 @@ TypeScript repository by nanoapi-io, created in 2022, with 324 stars and 13 fork
 Homepage: <a href="https://nanoapi.io" target="_blank" rel="noopener noreffer ">https://nanoapi.io</a><br>
 <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">https://github.com/nanoapi-io/napi</a></p>
 <hr>
-<p><em>Source: starred on GitHub on 2024-10-30: <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">nanoapi-io/napi</a>.</em></p>]]></description></item><item><title>Oha</title><link>https://blog.emecas.net/posts/2024-10-18-oha/</link><pubDate>Fri, 18 Oct 2024 13:08:24 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-18-oha/</guid><description><![CDATA[<p>oha<br>
-<a href="https://github.com/hatoo/oha" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha</a><br>
-Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</p>
-<p>oha is a tiny program that sends some load to a web application and show realtime tui inspired by rakyll/hey.</p>
-<p>This program is written in Rust and powered by tokio and beautiful tui by ratatui.</p>
-<p>Installation Process:</p>
-<p>$ winget install hatoo.oha<br>
-Found oha [hatoo.oha] Version 1.4.6<br>
-This application is licensed to you by its owner.<br>
-Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.<br>
-This package requires the following dependencies:<br>
-- Packages<br>
-Microsoft.VCRedist.2015+.x64<br>
-Downloading <a href="https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe" target="_blank" rel="noopener noreffer ">https://github.com/hatoo/oha/releases/download/v1.4.6/oha-windows-amd64.exe</a><br>
-██████████████████████████████  10.8 MB / 10.8 MB<br>
-Successfully verified installer hash<br>
-Starting package install&hellip;<br>
-Path environment variable modified; restart your shell to use the new value.<br>
-Command line alias added: &ldquo;oha&rdquo;<br>
-Successfully installed</p>]]></description></item><item><title>Hey</title><link>https://blog.emecas.net/posts/2024-10-17-hey/</link><pubDate>Thu, 17 Oct 2024 14:14:06 -0400</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2024-10-17-hey/</guid><description><![CDATA[<p>Hey<br>
-<a href="https://github.com/rakyll/hey" target="_blank" rel="noopener noreffer ">https://github.com/rakyll/hey</a> <a class="star-note-link" href="/posts/2024-10-17-rakyll-hey/" title="rakyll/hey: my star note">★&nbsp;star&nbsp;note</a></p>
-<p>hey is a tiny program that sends some load to a web application.</p>
-<p>hey was originally called boom and was influenced from Tarek Ziade&rsquo;s tool at tarekziade/boom.</p>
-<p>Using the same name was a mistake as it resulted in cases where binary name conflicts created confusion.<br>
-To preserve the name for its original owner, we renamed this project to hey.</p>
-<p>Previously known as github.com/rakyll/boom.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/a637379bba8aa1cbe9af900c9e049c7e6517c7fa" target="_blank" rel="noopener noreffer "><code>a637379</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<p><em>Source: starred on GitHub on 2024-10-30: <a href="https://github.com/nanoapi-io/napi" target="_blank" rel="noopener noreffer ">nanoapi-io/napi</a>.</em></p>]]></description></item></channel></rss>
