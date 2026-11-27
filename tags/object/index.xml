@@ -51,9 +51,19 @@ Unidirectional data flow, Real time apps.</p>
 <hr>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item><item><title>XStream</title><link>https://blog.emecas.net/posts/2013-04-02-xstream/</link><pubDate>Tue, 02 Apr 2013 20:07:24 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-04-02-xstream/</guid><description><![CDATA[<p>XStream<br>
 XStream is a simple library to serialize objects to XML and back again.<br>
-<a href="http://xstream.codehaus.org/index.html" target="_blank" rel="noopener noreffer ">http://xstream.codehaus.org/index.html</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/229c16ea4495a594fd812ebad411c08246fb7424" target="_blank" rel="noopener noreffer "><code>229c16e</code></a> in My-Notes.</em></p>]]></description></item><item><title>mongomapper/mongomapper</title><link>https://blog.emecas.net/posts/2013-03-14-mongomapper-mongomapper/</link><pubDate>Thu, 14 Mar 2013 01:16:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-14-mongomapper-mongomapper/</guid><description><![CDATA[<p>mongomapper/mongomapper<br>
+A Java library that turns objects into XML (or JSON) and back with no mapping files; still maintained in 2026 (1.4.21, 2024), its home moved to GitHub when Codehaus closed.<br>
+<a href="http://xstream.codehaus.org/index.html" target="_blank" rel="noopener noreffer ">http://xstream.codehaus.org/index.html</a><br>
+Archived copy (2013): <a href="https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html" target="_blank" rel="noopener noreffer ">https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html</a><br>
+Today: <a href="https://x-stream.github.io/" target="_blank" rel="noopener noreffer ">https://x-stream.github.io/</a><br>
+Code: <a href="https://github.com/x-stream/xstream" target="_blank" rel="noopener noreffer ">https://github.com/x-stream/xstream</a><br>
+xstream.codehaus.org (2013), features:</p>
+<blockquote>
+<p>Ease of use. A high level facade is supplied that simplifies common use cases.</p>
+<p>No mappings required. Most objects can be serialized without need for specifying mappings.</p>
+<p>Clean XML. No information is duplicated that can be obtained via reflection. This results in XML that is easier to read for humans and more compact than native Java serialization.</p>
+<p>Requires no modifications to objects. Serializes internal fields, including private and final. Supports non-public and inner classes. Classes are not required to have default constructor.</p>
+<p>Full object graph support. Duplicate references encountered in the object-model will be maintained. Supports circular references.</p>
+</blockquote>]]></description></item><item><title>mongomapper/mongomapper</title><link>https://blog.emecas.net/posts/2013-03-14-mongomapper-mongomapper/</link><pubDate>Thu, 14 Mar 2013 01:16:52 +0000</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-03-14-mongomapper-mongomapper/</guid><description><![CDATA[<p>mongomapper/mongomapper<br>
 A Ruby Object Mapper for Mongo<br>
 Ruby repository by mongomapper, created in 2009, with 1,599 stars and 383 forks. License: MIT. Starred on 2013-03-14.<br>
 Homepage: <a href="http://mongomapper.com" target="_blank" rel="noopener noreffer ">http://mongomapper.com</a><br>

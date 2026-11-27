@@ -57,20 +57,10 @@ Abstract: Falcon is a data processing and management solution for Hadoop designe
 <p>Gephi<br>
 <a href="https://gephi.org/" target="_blank" rel="noopener noreffer ">https://gephi.org/</a><br>
 The Open Graph Viz Platform<br>
-Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.</p>]]></description></item><item><title>ABA</title><link>https://blog.emecas.net/posts/2013-06-21-aba/</link><pubDate>Fri, 21 Jun 2013 12:56:22 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-21-aba/</guid><description><![CDATA[<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
-<p>=======<br>
-=======<br>
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; 6d8e47bb5d357d356e6243d001907691e7413b8e</p>
-<h1 id="-head">&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\</h1>
-<p>Blog<br>
-<a href="http://blog.nextgenetics.net/" target="_blank" rel="noopener noreffer ">http://blog.nextgenetics.net/</a><br>
-Ref:<br>
-Method: Data visualization with D3.js and python - part 1<br>
-introduction to D3.js with a simple bar chart</p>
-<p>Infographics Software Metrics of Firefox 19 vs Firefox 20 using D3<br>
-<a href="http://almossawi.com/firefox/" target="_blank" rel="noopener noreffer ">http://almossawi.com/firefox/</a><br>
-LOC -Cyclomatic complexity - First-order density - Propagation cost  - Core size  - Defect density  - Resident memory  - Speed</p>
-<p>Processing &amp; Open Data<br>
-<a href="http://freeartbureau.org/fab_activity/processing-open-data/" target="_blank" rel="noopener noreffer ">http://freeartbureau.org/fab_activity/processing-open-data/</a><br>
-This tutorial is the result of work done during the Processing Workshop which took place in Rennes 4th and 5th November 2011. The original French version is available here. This English version is an adaptation of Julien’s tutorial using data from the Barclays Cycle Hire docking station.</p>]]></description></item></channel></rss>
+Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.</p>]]></description></item><item><title>Data visualization, music controllers and LDAP on Windows</title><link>https://blog.emecas.net/posts/2013-06-21-aba/</link><pubDate>Fri, 21 Jun 2013 12:56:22 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-06-21-aba/</guid><description><![CDATA[<p>Data visualization, music controllers and LDAP on Windows<br>
+Three groups of links saved together in 2013: introductions to drawing charts with D3.js (with Python behind them) and Processing; two MIDI controllers and the software bundled with one of them; and three LDAP directory servers that run on a Windows development machine.</p>
+<h2 id="data-visualization">Data visualization</h2>
+<p>Data visualization with D3.js and python - part 1<br>
+Damian Kao&rsquo;s blog Next Genetics (2012-03-22), first of three parts, subtitled &ldquo;introduction to D3.js with a simple bar chart&rdquo;.<br>
+<a href="https://blog.nextgenetics.net/?e=7" target="_blank" rel="noopener noreffer ">https://blog.nextgenetics.net/?e=7</a><br>
+Blog: <a href="https://blog.nextgenetics.net/" target="_blank" rel="noopener noreffer ">https://blog.nextgenetics.net/</a></p>]]></description></item></channel></rss>

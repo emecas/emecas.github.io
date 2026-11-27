@@ -21,4 +21,18 @@
 Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It&rsquo;s BSD licensed!</p>
 <p>Pickle<br>
 Python object serialization<br>
-The pickle module implements a fundamental, but powerful algorithm for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream is converted back into an object hierarchy. Pickling (and unpickling) is alternatively known as “serialization”, “marshalling,” [1] or “flattening”, however, to avoid confusion, the terms used here are “pickling” and “unpickling”.</p>]]></description></item></channel></rss>
+The pickle module implements a fundamental, but powerful algorithm for serializing and de-serializing a Python object structure. “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream is converted back into an object hierarchy. Pickling (and unpickling) is alternatively known as “serialization”, “marshalling,” [1] or “flattening”, however, to avoid confusion, the terms used here are “pickling” and “unpickling”.</p>]]></description></item><item><title>XStream</title><link>https://blog.emecas.net/posts/2013-04-02-xstream/</link><pubDate>Tue, 02 Apr 2013 20:07:24 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-04-02-xstream/</guid><description><![CDATA[<p>XStream<br>
+XStream is a simple library to serialize objects to XML and back again.<br>
+A Java library that turns objects into XML (or JSON) and back with no mapping files; still maintained in 2026 (1.4.21, 2024), its home moved to GitHub when Codehaus closed.<br>
+<a href="http://xstream.codehaus.org/index.html" target="_blank" rel="noopener noreffer ">http://xstream.codehaus.org/index.html</a><br>
+Archived copy (2013): <a href="https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html" target="_blank" rel="noopener noreffer ">https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html</a><br>
+Today: <a href="https://x-stream.github.io/" target="_blank" rel="noopener noreffer ">https://x-stream.github.io/</a><br>
+Code: <a href="https://github.com/x-stream/xstream" target="_blank" rel="noopener noreffer ">https://github.com/x-stream/xstream</a><br>
+xstream.codehaus.org (2013), features:</p>
+<blockquote>
+<p>Ease of use. A high level facade is supplied that simplifies common use cases.</p>
+<p>No mappings required. Most objects can be serialized without need for specifying mappings.</p>
+<p>Clean XML. No information is duplicated that can be obtained via reflection. This results in XML that is easier to read for humans and more compact than native Java serialization.</p>
+<p>Requires no modifications to objects. Serializes internal fields, including private and final. Supports non-public and inner classes. Classes are not required to have default constructor.</p>
+<p>Full object graph support. Duplicate references encountered in the object-model will be maintained. Supports circular references.</p>
+</blockquote>]]></description></item></channel></rss>
