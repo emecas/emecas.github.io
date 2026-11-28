@@ -52,7 +52,7 @@ Unidirectional data flow, Real time apps.</p>
 <p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/ade16cf79a7830ee9c3350420df03b20c17b7630" target="_blank" rel="noopener noreffer "><code>ade16cf</code></a> in My-Notes.</em></p>]]></description></item><item><title>XStream</title><link>https://blog.emecas.net/posts/2013-04-02-xstream/</link><pubDate>Tue, 02 Apr 2013 20:07:24 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-04-02-xstream/</guid><description><![CDATA[<p>XStream<br>
 XStream is a simple library to serialize objects to XML and back again.<br>
 A Java library that turns objects into XML (or JSON) and back with no mapping files; still maintained in 2026 (1.4.21, 2024), its home moved to GitHub when Codehaus closed.<br>
-<a href="http://xstream.codehaus.org/index.html" target="_blank" rel="noopener noreffer ">http://xstream.codehaus.org/index.html</a><br>
+<del>http://xstream.codehaus.org/index.html</del><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
 Archived copy (2013): <a href="https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html" target="_blank" rel="noopener noreffer ">https://web.archive.org/web/20130405071919/http://xstream.codehaus.org:80/index.html</a><br>
 Today: <a href="https://x-stream.github.io/" target="_blank" rel="noopener noreffer ">https://x-stream.github.io/</a><br>
 Code: <a href="https://github.com/x-stream/xstream" target="_blank" rel="noopener noreffer ">https://github.com/x-stream/xstream</a><br>

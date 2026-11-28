@@ -1,7 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Getusvpn - Tag - My Notes</title><link>https://blog.emecas.net/tags/getusvpn/</link><description>Getusvpn - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 May 2013 11:44:10 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/getusvpn/" rel="self" type="application/rss+xml"/><item><title>getusvpn</title><link>https://blog.emecas.net/posts/2013-05-20-getusvpn/</link><pubDate>Mon, 20 May 2013 11:44:10 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-05-20-getusvpn/</guid><description><![CDATA[<p>getusvpn<br>
-<a href="http://www.getusvpn.com/" target="_blank" rel="noopener noreffer ">http://www.getusvpn.com/</a><br>
-Welcome to high quality USA based Free VPN!<br>
-Feel free to use the US PPTP VPN in Windows, OSX, iPhone, iPad, Android Phones, Tablets &amp; Routers!<br>
-PPTP Server: getusvpn.com</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/85b706b4a2b4df6cfff80c15f4442c62456cfe5f" target="_blank" rel="noopener noreffer "><code>85b706b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Getusvpn - Tag - My Notes</title><link>https://blog.emecas.net/tags/getusvpn/</link><description>Getusvpn - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 May 2013 11:44:10 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/getusvpn/" rel="self" type="application/rss+xml"/><item><title>getusvpn: a free US PPTP VPN (2013, gone)</title><link>https://blog.emecas.net/posts/2013-05-20-getusvpn/</link><pubDate>Mon, 20 May 2013 11:44:10 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2013-05-20-getusvpn/</guid><description><![CDATA[<p>getusvpn: a free US PPTP VPN (2013, gone)<br>
+A free VPN service, as it was in May 2013: everyone used the same PPTP account to connect from Windows, OS X, iPhone, iPad, Android or a router through a server in the USA. The site no longer answers, and PPTP has been considered broken since 2012, so this note is only a record.</p>
+<p><del>http://www.getusvpn.com/</del><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+Archived copy (2013-05-09): <a href="http://web.archive.org/web/20130509025235/http://www.getusvpn.com/" target="_blank" rel="noopener noreffer ">http://web.archive.org/web/20130509025235/http://www.getusvpn.com/</a></p>
+<blockquote>
+<p>Welcome to high quality USA based Free VPN!</p>
+<p>Feel free to use the US PPTP VPN in Windows, OSX, iPhone, iPad, Android Phones, Tablets &amp; Routers!</p>
+<p>The PPTP connection involves MSCHAP-V2 for authentication and MPPE 128-bit for encryption to give users a very strong protection of their network data</p>
+</blockquote>]]></description></item></channel></rss>

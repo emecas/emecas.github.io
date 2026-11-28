@@ -1,6 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Electrons - Tag - My Notes</title><link>https://blog.emecas.net/tags/electrons/</link><description>Electrons - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 03 Jan 2017 08:33:04 -0500</lastBuildDate><atom:link href="https://blog.emecas.net/tags/electrons/" rel="self" type="application/rss+xml"/><item><title>Double-slit experiment - electrons version</title><link>https://blog.emecas.net/posts/2017-01-03-double-slit-experiment-electrons-version/</link><pubDate>Tue, 03 Jan 2017 08:33:04 -0500</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2017-01-03-double-slit-experiment-electrons-version/</guid><description><![CDATA[<p>Double-slit experiment<br>
-<a href="https://en.wikipedia.org/wiki/Double-slit_experiment" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Double-slit_experiment</a><br>
-With Electrons<br>
-<a href="https://www.physicsforums.com/threads/double-slit-experiment-with-electrons.684465/" target="_blank" rel="noopener noreffer ">https://www.physicsforums.com/threads/double-slit-experiment-with-electrons.684465/</a></p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/8dedc5bd5609e8738fd1d5d8ecb947e92d74e5b8" target="_blank" rel="noopener noreffer "><code>8dedc5b</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+Electrons sent through two slits land on a screen in an interference pattern, as waves would; any measurement that tells which slit each electron went through makes the pattern disappear.<br>
+<a href="https://en.wikipedia.org/wiki/Double-slit_experiment" target="_blank" rel="noopener noreffer ">https://en.wikipedia.org/wiki/Double-slit_experiment</a></p>
+<blockquote>
+<p>In modern physics, the double-slit experiment demonstrates that light and matter can exhibit behavior associated with both classical particles and classical waves.</p>
+<p>In 1927, Davisson and Germer and, independently, George Paget Thomson and his research student Alexander Reid demonstrated that electrons show the same behavior, which was later extended to atoms and molecules.</p>
+</blockquote>]]></description></item></channel></rss>

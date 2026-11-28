@@ -1,0 +1,11 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Vertx - Tag - My Notes</title><link>https://blog.emecas.net/tags/vertx/</link><description>Vertx - Tag - My Notes</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 30 Jun 2016 12:41:12 +0200</lastBuildDate><atom:link href="https://blog.emecas.net/tags/vertx/" rel="self" type="application/rss+xml"/><item><title>Vert.x - reactive applications on the JVM</title><link>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</link><pubDate>Thu, 30 Jun 2016 12:41:12 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</guid><description><![CDATA[<p>Vert.x - reactive applications on the JVM<br>
+Eclipse Vert.x is a toolkit, not a framework, for event-driven, non-blocking applications on the JVM. In 2016 (version 3.3.0) it could be used from Java, JavaScript, Groovy, Ruby and Ceylon; today (5.2.3) its examples are in Java and Kotlin.<br>
+<a href="https://vertx.io/" target="_blank" rel="noopener noreffer ">https://vertx.io/</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+Code: <a href="https://github.com/eclipse-vertx/vert.x" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-vertx/vert.x</a><br>
+Vert.x is a tool-kit for building reactive applications on the JVM.</p>
+<h2 id="in-2016">In 2016</h2>
+<p>Archived copy (2016-07-02): <a href="http://web.archive.org/web/20160702062634/http://vertx.io:80/" target="_blank" rel="noopener noreffer ">http://web.archive.org/web/20160702062634/http://vertx.io:80/</a></p>
+<blockquote>
+<p>Vert.x is event driven and non blocking. This means your app can handle a lot of concurrency using a small number of kernel threads. Vert.x lets your app scale with minimal hardware.</p>
+<p>Vert.x is not an application server. There&rsquo;s no monolithic Vert.x instance into which you deploy applications. You just run your apps wherever you want to.</p>
+</blockquote>]]></description></item></channel></rss>

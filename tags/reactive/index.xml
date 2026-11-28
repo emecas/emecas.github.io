@@ -32,8 +32,14 @@ Data sync, Pub/Sub, Remote procedure calls, Reactive programming,<br>
 Optimistic updates, Time-travel debugging, State management,<br>
 Unidirectional data flow, Real time apps.</p>
 <hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5f3d7d162fed917a34108c52d0595bb1296a413e" target="_blank" rel="noopener noreffer "><code>5f3d7d1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Vert.x - reactive applications on the JVM</title><link>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</link><pubDate>Thu, 30 Jun 2016 12:41:12 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</guid><description><![CDATA[<p>Vert.x<br>
-<a href="http://vertx.io/" target="_blank" rel="noopener noreffer ">http://vertx.io/</a><br>
+<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/5f3d7d162fed917a34108c52d0595bb1296a413e" target="_blank" rel="noopener noreffer "><code>5f3d7d1</code></a> in My-Notes.</em></p>]]></description></item><item><title>Vert.x - reactive applications on the JVM</title><link>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</link><pubDate>Thu, 30 Jun 2016 12:41:12 +0200</pubDate><author>emecas</author><guid>https://blog.emecas.net/posts/2016-06-30-vert-x-reactive-applications-on-the-jvm/</guid><description><![CDATA[<p>Vert.x - reactive applications on the JVM<br>
+Eclipse Vert.x is a toolkit, not a framework, for event-driven, non-blocking applications on the JVM. In 2016 (version 3.3.0) it could be used from Java, JavaScript, Groovy, Ruby and Ceylon; today (5.2.3) its examples are in Java and Kotlin.<br>
+<a href="https://vertx.io/" target="_blank" rel="noopener noreffer ">https://vertx.io/</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup><br>
+Code: <a href="https://github.com/eclipse-vertx/vert.x" target="_blank" rel="noopener noreffer ">https://github.com/eclipse-vertx/vert.x</a><br>
 Vert.x is a tool-kit for building reactive applications on the JVM.</p>
-<hr>
-<p><em>Source: commit <a href="https://github.com/emecas/My-Notes/commit/b944bf0d4d3097e049e3734d8ac87561de918e50" target="_blank" rel="noopener noreffer "><code>b944bf0</code></a> in My-Notes.</em></p>]]></description></item></channel></rss>
+<h2 id="in-2016">In 2016</h2>
+<p>Archived copy (2016-07-02): <a href="http://web.archive.org/web/20160702062634/http://vertx.io:80/" target="_blank" rel="noopener noreffer ">http://web.archive.org/web/20160702062634/http://vertx.io:80/</a></p>
+<blockquote>
+<p>Vert.x is event driven and non blocking. This means your app can handle a lot of concurrency using a small number of kernel threads. Vert.x lets your app scale with minimal hardware.</p>
+<p>Vert.x is not an application server. There&rsquo;s no monolithic Vert.x instance into which you deploy applications. You just run your apps wherever you want to.</p>
+</blockquote>]]></description></item></channel></rss>
